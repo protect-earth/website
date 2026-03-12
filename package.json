@@ -10,13 +10,13 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@acab/reset.css": "^0.11.0",
     "@notionhq/client": "^2.3.0",
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.17.1",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.2.3",,
     "googleapis": "^144.0.0",
     "gray-matter": "^4.0.3",
-    "@acab/reset.css": "^0.11.0",
     "js-yaml": "^4.1.1",
     "marked": "^17.0.1",
     "sharp": "^0.33.5",
