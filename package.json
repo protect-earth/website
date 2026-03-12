@@ -3,9 +3,9 @@
   "type": "module",
   "version": "0.1.0",
   "scripts": {
-    "sync-sites": "node scripts/sync-sites.js",
+    "fetch-images": "node scripts/fetch-site-images.js",
     "dev": "astro dev",
-    "build": "npm run sync-sites && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -13,8 +13,13 @@
     "@acab/reset.css": "^0.11.0",
     "@tailwindcss/vite": "^4.1.18",
     "astro": "^5.17.1",
+    "@notionhq/client": "^2.3.0",
+    "dotenv": "^17.2.3",
+    "googleapis": "^144.0.0",
+    "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1",
     "marked": "^17.0.1",
+    "sharp": "^0.33.5",
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
