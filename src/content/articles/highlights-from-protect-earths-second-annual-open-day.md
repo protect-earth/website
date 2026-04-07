@@ -1,9 +1,9 @@
 ---
 title: "Highlights from Protect Earth's Second Annual Open Day"
-description: "On June 8th, Protect Earth hosted its second annual Open Day at High Wood, bringing together enthusiastic attendees to celebrate the woodland transformation."
+description: 'On June 8th, Protect Earth hosted its second annual Open Day at High Wood, bringing together enthusiastic attendees to celebrate the woodland transformation.'
 pubDate: 2024-08-06T13:23:44.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/highlights-from-protect-earths-second-annual-open-day.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/highlights-from-protect-earths-second-annual-open-day.jpg'
 ---
 
 ## Celebrating Community and Nature: Protect Earth's Second Annual Open Day at High Wood
@@ -13,8 +13,9 @@ On a sunny 8th of June, Protect Earth hosted its second annual Open Day at High 
 ## A Day to Remember
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468342-GWJK5Y56GB4CM0VNF7L0/PXL_20240608_133412491+%282%29.jpg?format=original)
-   Author and historian Iain Rowe leading his talk.  [/caption] 
+Author and historian Iain Rowe leading his talk. [/caption]
 
 The day blended educational activities, hands-on workshops, and opportunities to discuss and learn. The weather was better than expected, providing the right atmosphere for everyone. Members of Protect Earth, including Kathy, Phil, Steve, Duncan, Ian, and Shane, were on hand to guide activities and share. Shane's son-in-law, a talented chef, treated everyone to a delicious BBQ, adding to the festive mood.
 
@@ -29,8 +30,9 @@ Adding to the historical perspective, author and historian Iain Rowe from Carado
 The Screech Owl Sanctuary and Animal Park drew significant attention with their interactive talk and demonstrations, featuring a tawny owl, barn owl, polecat, and two baby egrets. Everyone loved the close-up encounters.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468346-2ZHY8CFURO4ZB1V0LJH3/PXL_20240608_124550244+%282%29.jpg?format=original)
-   Steve helping one of the kids to build their bird box  [/caption] 
+Steve helping one of the kids to build their bird box [/caption]
 
 Children also enjoyed crafting bird boxes with Duncan and Steve and starting a bug hotel, fostering a hands-on appreciation for wildlife conservation. Other children's craft activities included making posters and bookmarks. Other activities included a tombola and a scavenger hunt.
 
@@ -49,8 +51,9 @@ One significant area of feedback was the need for improved disability access. At
 ## To sum up
 
        [caption id="" align="alignnone" width="2048"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468350-98TZOKODPSBUSDNYIKCO/PHOTO-2024-06-09-22-00-15+%281%29.jpg?format=original)
-   There were activities for all during the day.  [/caption] 
+There were activities for all during the day. [/caption]
 
 The second annual Open Day at High Wood was a resounding success, filled with learning, community bonding, and a shared passion for nature conservation. Protect Earth remains committed to transforming High Wood into a habitat packed with the right balance of native broadleaf and other plants encouraging native biodiversity to thrive while creating a welcoming and accessible haven for people who value High Wood.
 

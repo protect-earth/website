@@ -1,9 +1,9 @@
 ---
-title: "Protecting Your Saplings: Tips for Thriving Young Woodlands"
-description: "Your young woodlands are raring to go—pushing out of their guards, stretching skyward, and ready to boost biodiversity. Now, how do you care for them, from saplings to thriving woodland members?"
+title: 'Protecting Your Saplings: Tips for Thriving Young Woodlands'
+description: 'Your young woodlands are raring to go—pushing out of their guards, stretching skyward, and ready to boost biodiversity. Now, how do you care for them, from saplings to thriving woodland members?'
 pubDate: 2025-02-03T07:30:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/protecting-your-saplings-tips-for-thriving-young-woodlands.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/protecting-your-saplings-tips-for-thriving-young-woodlands.jpg'
 ---
 
 Your young woodlands are raring to go—pushing out of their guards, stretching skyward, and ready to boost biodiversity. Now, how do you care for them, from saplings to thriving woodland members?
@@ -25,14 +25,12 @@ To avoid this fate, get your saplings protected as soon as possible. Guards shou
 Guards keep nibblers out but also shelter fast-growing grasses, which can choke saplings by hogging nutrients and space.
 
 There are three ways to tackle this:
-- 
-**Weeding:** Cut back any competing plants inside the guard a few times a year until the sapling can hold its own.
 
-- 
-**Clearing before planting:** A bare patch reduces competition early on, though nature will try to reclaim it.
+- **Weeding:** Cut back any competing plants inside the guard a few times a year until the sapling can hold its own.
 
-- 
-**Spraying (the controversial one):** Some land managers use herbicides to clear space before planting or around guards. This approach has its pros and cons, so it’s hotly debated.
+- **Clearing before planting:** A bare patch reduces competition early on, though nature will try to reclaim it.
+
+- **Spraying (the controversial one):** Some land managers use herbicides to clear space before planting or around guards. This approach has its pros and cons, so it’s hotly debated.
 
 ## **The hot, hot sun**
 

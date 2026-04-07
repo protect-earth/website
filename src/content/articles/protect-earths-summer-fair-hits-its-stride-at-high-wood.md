@@ -2,8 +2,8 @@
 title: "Protect Earth's Summer Fair Hits Its Stride at High Wood"
 description: "What do Ninja Granny, willow sculptures, and a human fruit machine have in common? No, it's not the start of a fever dream—it's Protect Earth's third annual Summer Fair at High Wood, near Liskeard...."
 pubDate: 2025-07-01T12:51:39.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/protect-earths-summer-fair-hits-its-stride-at-high-wood.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/protect-earths-summer-fair-hits-its-stride-at-high-wood.jpg'
 ---
 
 What do Ninja Granny, willow sculptures, and a human fruit machine have in common? No, it's not the start of a fever dream—it's Protect Earth's third annual Summer Fair at High Wood, near Liskeard. Held on June 22, this free, family-friendly gathering was our largest yet. A full day of woodland wandering, tree talk, and good old-fashioned outdoor fun, the fair brought the community together in support of restoring biodiversity.
@@ -16,13 +16,14 @@ What do Ninja Granny, willow sculptures, and a human fruit machine have in commo
 
 ![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751379661364-XORUJJXQECOEIL5BP4G2/IMG_1665.jpg?format=original)
 
-*June’s Work Party was all about readying High Wood for the Summer Fair. The volunteers worked really hard putting up bunting and signs and trimming back some over growth.*
+_June’s Work Party was all about readying High Wood for the Summer Fair. The volunteers worked really hard putting up bunting and signs and trimming back some over growth._
 
 This year marked our third Summer Fair—and it was by far the most bustling yet—more stalls, more people, more ways to get stuck in. For us, it's not just about showcasing our work in High Wood (though we're very proud of that). It's about opening the gates—literally and figuratively—and inviting the community in to see, question, celebrate, and co-create this little pocket of ecological recovery in Cornwall.
 
        [caption id="" align="alignnone" width="5472"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/2c580263-e23d-40b2-9d5d-57b10cce1e03/P1011045.JPG?format=original)
-   Steve led a touring talk through the woodlands helping people understand how it was identified as a Plantation on an Ancient Woodlands (PAWS) site and what Protect Earth are doing to restore biodiversity for local communities to enjoy.  [/caption] 
+Steve led a touring talk through the woodlands helping people understand how it was identified as a Plantation on an Ancient Woodlands (PAWS) site and what Protect Earth are doing to restore biodiversity for local communities to enjoy. [/caption]
 
 Visitors got to explore what we're doing in the woods: why we dig, plant, weed, and occasionally talk to the trees. We had plenty of activities for all ages, from scavenger hunts and Qigong sessions with the legendary Ninja Granny, to storytelling, nature walks, and of course— the undeniably entertaining Human Fruit Machine.
 

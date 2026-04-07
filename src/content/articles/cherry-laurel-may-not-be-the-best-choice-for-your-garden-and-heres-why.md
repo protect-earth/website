@@ -1,9 +1,9 @@
 ---
-title: "Cherry Laurel may not be the best choice for your garden and here’s why"
-description: "Cherry Laurel is an all year long green shrub that grows easily everywhere. A lot of pros for low maintenance plants. But, it’s not all good with Cherry Laurel. Read on to discover the downsides…"
+title: 'Cherry Laurel may not be the best choice for your garden and here’s why'
+description: 'Cherry Laurel is an all year long green shrub that grows easily everywhere. A lot of pros for low maintenance plants. But, it’s not all good with Cherry Laurel. Read on to discover the downsides…'
 pubDate: 2023-05-30T06:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why.jpg'
 ---
 
 Many consider Cherry Laurel one of the most versatile hedging species. It's very popular. It boasts large, glossy green foliage all year round. It is one of the most popular choices for dense evergreen hedging and makes an effective privacy screen. The plant's density minimises the effects of noise and wind and provides year-round interest for gardens.
@@ -53,11 +53,9 @@ Cherry Laurel that easy to grow, green-year-round, sturdy hedge is not the solut
 Protect Earth do invasive species removal all over the UK. Please contact us if you would like to remove any Cherry Laurel.
 
 ## Sources
-- 
-[https://en.wikipedia.org/wiki/Prunus_laurocerasus](https://en.wikipedia.org/wiki/Prunus_laurocerasus)
 
-- 
-[https://www.aniforte.co.uk/blogs/news/poisonous-plants-dangers-in-garden-and-nature#:~:text=Cherry Laurel (Prunus laurocerasus),humans as well as animals](https://www.aniforte.co.uk/blogs/news/poisonous-plants-dangers-in-garden-and-nature#:~:text=Cherry%20Laurel%20(Prunus%20laurocerasus),humans%20as%20well%20as%20animals).
+- [https://en.wikipedia.org/wiki/Prunus_laurocerasus](https://en.wikipedia.org/wiki/Prunus_laurocerasus)
 
-- 
-[https://www.rhs.org.uk/plants/305599/cerasus-laurocerasus/details](https://www.rhs.org.uk/plants/305599/cerasus-laurocerasus/details)
+- [https://www.aniforte.co.uk/blogs/news/poisonous-plants-dangers-in-garden-and-nature#:~:text=Cherry Laurel (Prunus laurocerasus),humans as well as animals](<https://www.aniforte.co.uk/blogs/news/poisonous-plants-dangers-in-garden-and-nature#:~:text=Cherry%20Laurel%20(Prunus%20laurocerasus),humans%20as%20well%20as%20animals>).
+
+- [https://www.rhs.org.uk/plants/305599/cerasus-laurocerasus/details](https://www.rhs.org.uk/plants/305599/cerasus-laurocerasus/details)

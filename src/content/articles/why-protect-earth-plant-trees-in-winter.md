@@ -1,9 +1,9 @@
 ---
-title: "Why Protect Earth plant trees in winter"
-description: "The autumn and winter are some of the best times to plant trees. Especially for us, where we plant thousands of trees."
+title: 'Why Protect Earth plant trees in winter'
+description: 'The autumn and winter are some of the best times to plant trees. Especially for us, where we plant thousands of trees.'
 pubDate: 2022-10-10T18:07:36.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/why-protect-earth-plant-trees-in-winter.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/why-protect-earth-plant-trees-in-winter.jpg'
 ---
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469926-KXMOMFI5BVSCWX2C4WYW/IMG_4981.jpg?format=original)

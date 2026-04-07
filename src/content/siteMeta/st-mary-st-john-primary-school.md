@@ -8,4 +8,3 @@ images:
   - ../../assets/sites/st-mary-st-john-primary-school/5.jpg
   - ../../assets/sites/st-mary-st-john-primary-school/6.jpg
 ---
-

@@ -11,4 +11,3 @@ images:
   - ../../assets/sites/glebe-farm/3.jpg
   - ../../assets/sites/glebe-farm/4.jpg
 ---
-

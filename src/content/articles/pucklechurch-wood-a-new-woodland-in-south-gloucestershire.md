@@ -1,12 +1,12 @@
 ---
-title: "Pucklechurch Wood - A New Council-Created Woodland in South Gloucestershire"
-description: "Protect Earth helps landowners across the UK by offering expert advice, finding volunteers, planting trees, and checking on them annually to ensure good progress."
+title: 'Pucklechurch Wood - A New Council-Created Woodland in South Gloucestershire'
+description: 'Protect Earth helps landowners across the UK by offering expert advice, finding volunteers, planting trees, and checking on them annually to ensure good progress.'
 pubDate: 2025-12-15T09:00:00.000Z
-author: "kathy@protect.earth"
-thumbnail: "/articles/pucklechurch-wood-a-new-woodland-in-south-gloucestershire.jpg"
+author: 'kathy@protect.earth'
+thumbnail: '/articles/pucklechurch-wood-a-new-woodland-in-south-gloucestershire.jpg'
 ---
 
-Protect Earth love to help landowners across the UK, especially smaller farmers, schools and charities. We can be involved from the very beginning, helping landowners to decide what they want to create on their land, offering expert advice on what could be planted where, and why. We can help them to apply for grants or find alternative funding. Then we find volunteers, plant the trees and then check on them annually, often with more volunteers to make sure the trees are making good progress. 
+Protect Earth love to help landowners across the UK, especially smaller farmers, schools and charities. We can be involved from the very beginning, helping landowners to decide what they want to create on their land, offering expert advice on what could be planted where, and why. We can help them to apply for grants or find alternative funding. Then we find volunteers, plant the trees and then check on them annually, often with more volunteers to make sure the trees are making good progress.
 
 Alternatively, we can join in at any point along the process when the landowners need help.
 
@@ -23,16 +23,18 @@ They also planned to create a new 30-hectare woodland at Pucklechurch, which wil
 Between the end of November 2025 and March 2026, 22,000 native and climate-resilient trees will be planted by volunteers, with a further 22,000 the following November to March 2026-2027. In 10-15 years, the young trees will form a recognisable woodland, with some trees reaching up to 10 metres in height.
 
        [caption id="" align="alignnone" width="1024"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/937c60fb-8189-4b59-b6a5-595e3e023264/Pucklechurch-wood-1024x768.jpg?format=original)
-  Plan from the South Gloucestershire website. [/caption] 
+Plan from the South Gloucestershire website. [/caption]
 
 Tree species have been carefully selected to ensure climate resilience, combining native trees like the English oak, with a small range of non-native species including the sweet chestnut, also known as the European chestnut, which can withstand warmer, drier conditions.
 
-South Gloucestershire Council are also planning to restore several historic ponds on the site and to create new wetland features including natural low areas called scrapes that capture rainfall and help prevent flooding. These are essential to ensure the long-term health of the woodland. Funding for these features comes from the West of England Mayoral Combined Authority (WECA) as part of the&nbsp;[Common Connections](https://beta.southglos.gov.uk/common-connections/)&nbsp;project. 
+South Gloucestershire Council are also planning to restore several historic ponds on the site and to create new wetland features including natural low areas called scrapes that capture rainfall and help prevent flooding. These are essential to ensure the long-term health of the woodland. Funding for these features comes from the West of England Mayoral Combined Authority (WECA) as part of the&nbsp;[Common Connections](https://beta.southglos.gov.uk/common-connections/)&nbsp;project.
 
        [caption id="" align="alignnone" width="5712"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/3cc4fc59-fac7-4fb5-9f2d-8ae7e1c5d5c8/IMG_6158.jpg?format=original)
-  The first saplings ready to be planted, next to one of the historic ponds. [/caption] 
+The first saplings ready to be planted, next to one of the historic ponds. [/caption]
 
 ### The Bigger Plan
 
@@ -47,11 +49,12 @@ Phil, our chairman, contacted South Gloucestershire Council and Pucklechurch Par
 Planting began during National Tree Week at the end of November and we went along to lend a hand. Everyone was very enthusiastic and like any group of volunteers there was a diverse range of tree planting experience. Protect Earth was there to help show people the best way to plant a sapling, and to lend some of our tree planting equipment (we love our&nbsp;[stake drivers](https://www.farmforestry.co.uk/product/stake-drive-all/)) to make the process more efficient and enjoyable. The weather was dry and sunny which kept everyone in a good mood and working hard. There was a real community spirit and everyone had a good day.
 
        [caption id="" align="alignnone" width="5712"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/f9bcaefc-eec1-4b1b-b1d8-af3ac4171497/IMG_6157.jpg?format=original)
-  First day of planting. [/caption] 
+First day of planting. [/caption]
 
 Since then, planting has continued every Tuesday and Thursday. All was going well until Storm Bram hit Pucklechurch on the 9th December. The wind and the rain proved too much, even for the hardiest of volunteers, and everyone was safely home and drying off by lunch time. Seagulls flocked across the field, possibly under the impression that a new inland sea had appeared.
 
 ### Lots of Volunteers are Needed
 
-With everyone hoping that drier weather is coming, planting will continue every Tuesday and Thursday from 10am until 3pm until 18th December, and then every Tuesday and Thursday in January and February, with all equipment provided. If you live near Bristol and would like to become involved in this exciting new project you can find more information on our Events page.  More dates, including a weekend or two, are expected to be added soon, so do keep checking our website or social media.
+With everyone hoping that drier weather is coming, planting will continue every Tuesday and Thursday from 10am until 3pm until 18th December, and then every Tuesday and Thursday in January and February, with all equipment provided. If you live near Bristol and would like to become involved in this exciting new project you can find more information on our Events page. More dates, including a weekend or two, are expected to be added soon, so do keep checking our website or social media.

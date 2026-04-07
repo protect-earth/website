@@ -1,9 +1,9 @@
 ---
-title: "Wales’ Wildlife: Report Identifies 30 Years of Decline"
-description: "One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years."
+title: 'Wales’ Wildlife: Report Identifies 30 Years of Decline'
+description: 'One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years.'
 pubDate: 2025-01-21T09:22:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/wales-wildlife-report-identifies-30-years-of-decline.png"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/wales-wildlife-report-identifies-30-years-of-decline.png'
 ---
 
 One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years.
@@ -13,11 +13,10 @@ The Climate Change, Environment and Infrastructure Committee, set up by the Sene
 ## Why are landscapes disappearing, displacing and reducing wildlife numbers?
 
 It's a complicated one, but in a nutshell, there are two reasons why species decline is happening in Wales:
-- 
-People have altered land use, and nature has become an uninvited guest. Two examples spring to mind. The land is owned and comes at the capital expense that must be recouped and profited against. A flood doesn't allow this and is considered a bad thing in farmer's eyes, whereas floods are nature's way of redistributing nutrients. Similarly, until the 1500s, beavers were abundant in the UK. Having been hunted to extinction and gone from conscience for so long, it's hard for so many to accept that beavers have a place in UK waterways today. We are so used to looking at nature as it is now (modified beyond identity) that we just can't figure out the right balance between society's functioning and sharing with nature.
 
-- 
-Climate change.
+- People have altered land use, and nature has become an uninvited guest. Two examples spring to mind. The land is owned and comes at the capital expense that must be recouped and profited against. A flood doesn't allow this and is considered a bad thing in farmer's eyes, whereas floods are nature's way of redistributing nutrients. Similarly, until the 1500s, beavers were abundant in the UK. Having been hunted to extinction and gone from conscience for so long, it's hard for so many to accept that beavers have a place in UK waterways today. We are so used to looking at nature as it is now (modified beyond identity) that we just can't figure out the right balance between society's functioning and sharing with nature.
+
+- Climate change.
 
 ## What can be done to give nature a chance?
 

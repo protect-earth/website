@@ -1,9 +1,9 @@
 ---
-title: "Balancing Productivity and Ecology: The Journey of Brynwichell Farm"
-description: "Brynwichell Farm in West Wales is a modern working farm creating woodlands, shelterbelts and wild ponds. Repairing land increases yield without artifice."
+title: 'Balancing Productivity and Ecology: The Journey of Brynwichell Farm'
+description: 'Brynwichell Farm in West Wales is a modern working farm creating woodlands, shelterbelts and wild ponds. Repairing land increases yield without artifice.'
 pubDate: 2024-05-20T07:34:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/balancing-productivity-and-ecology-the-journey-of-brynwichell-farm.jpeg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/balancing-productivity-and-ecology-the-journey-of-brynwichell-farm.jpeg'
 ---
 
 Brynwichell Farm, owned and operated by Ollie Evans, is a modern working farm in West Wales. This means they have diversified their farm's activities. They're also hedging their bets, creating patches of woodlands and shelterbelts and later developing wild ponds. Ollie knows that repairing the land is another way of increasing the yield without pumping artifice into the ground or livestock.
@@ -54,8 +54,9 @@ The partnership with Protect Earth proved seamless, with invaluable support from
 Yet, this tree-planting project is just the beginning.
 
        [caption id="" align="alignnone" width="2016"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468626-N54HPH120JUGNXXBUCVY/image3.jpeg?format=original)
-  “Farming is at an interesting crossroads at the moment where increasing farm biodiversity is important whilst still maintaining food production.” Ollie - owner and farmer at Brynwichell [/caption] 
+“Farming is at an interesting crossroads at the moment where increasing farm biodiversity is important whilst still maintaining food production.” Ollie - owner and farmer at Brynwichell [/caption]
 
 Looking ahead, Ollie envisions a tapestry of environmental initiatives taking place on Brynwichell. Plans include expanding hedgerows, enhancing conservation efforts in SSSI (Sites of Special Scientific Interest), and revitalising ponds to support aquatic ecosystems.
 
@@ -66,8 +67,8 @@ In our catch-up with Ollie, we had to bring up how he first encountered Protect 
 As stewards of the land, this collective endeavour embodies a shared commitment to safeguarding biodiversity in the UK. Through Ollie’s openness to collaboration, innovation, and unwavering dedication, Brynwichell is paving the way for a greener, more vibrant future.
 
     “We are hoping that this tree planting project helps to benefit both our livestock… but also helps to provide nature with a safe place to thrive amongst the new areas of woodland.”
-  
-  &mdash; Ollie - owner and farmer at Brynwichell
+
+&mdash; Ollie - owner and farmer at Brynwichell
 
 Don't have the space in your garden for woodlands or hedges? No problem! You can still make a huge difference. Join us in fostering biodiversity and creating lush, green habitats across the UK by buying a tree or hedge today.
 

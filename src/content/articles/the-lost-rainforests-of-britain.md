@@ -1,12 +1,12 @@
 ---
-title: "The Lost Rainforests of Britain"
-description: "Guy Shrubsole - researcher, writer, and environmentalist - has just released *The Lost Rainforests of Britain*, his account of discovering Britain’s rainforests. Take a look at the book with us!"
+title: 'The Lost Rainforests of Britain'
+description: 'Guy Shrubsole - researcher, writer, and environmentalist - has just released *The Lost Rainforests of Britain*, his account of discovering Britain’s rainforests. Take a look at the book with us!'
 pubDate: 2023-05-01T06:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-lost-rainforests-of-britain.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-lost-rainforests-of-britain.jpg'
 ---
 
-In *The Lost Rainforests of Britain*, Guy Shrubsole explores ecosystems long diminished in the British Isles - it may be a discovery for you to learn the UK *has* rainforests!
+In _The Lost Rainforests of Britain_, Guy Shrubsole explores ecosystems long diminished in the British Isles - it may be a discovery for you to learn the UK _has_ rainforests!
 
 Staggeringly, twenty per cent of Great Britain was once populated with temperate rainforests, also known as Atlantic or Celtic rainforests.
 

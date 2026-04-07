@@ -13,4 +13,3 @@ images:
   - ../../assets/sites/eastcourt-farm/5.jpg
   - ../../assets/sites/eastcourt-farm/6.jpg
 ---
-

@@ -1,9 +1,9 @@
 ---
 title: "Carmageddon - how we're paying for bad automotive karma"
-description: "Cars, cars, cars! What’s the consequence of all these tonnes of steel? A complete societal transformation that has had dire consequences with history repeating itself by having more dire consequences "
+description: 'Cars, cars, cars! What’s the consequence of all these tonnes of steel? A complete societal transformation that has had dire consequences with history repeating itself by having more dire consequences '
 pubDate: 2023-07-27T07:28:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/carmageddon-how-were-paying-for-bad-automotive-karma.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/carmageddon-how-were-paying-for-bad-automotive-karma.jpg'
 ---
 
 How many memories do you have with cars? Their presence is ubiquitous in our lives and has been for decades.

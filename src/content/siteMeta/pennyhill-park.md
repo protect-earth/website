@@ -11,4 +11,3 @@ images:
   - ../../assets/sites/pennyhill-park/3.jpg
   - ../../assets/sites/pennyhill-park/4.jpg
 ---
-

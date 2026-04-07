@@ -1,9 +1,9 @@
 ---
-title: "Droughts on the Rise in the UK: What It Means for Our Saplings and the Future of Green Spaces"
-description: "Droughts in the UK are nothing new—on average, we face one every 5 to 10 years. But lately, the frequency and severity of these dry spells are increasing, and that’s a big deal for the 140,000+..."
+title: 'Droughts on the Rise in the UK: What It Means for Our Saplings and the Future of Green Spaces'
+description: 'Droughts in the UK are nothing new—on average, we face one every 5 to 10 years. But lately, the frequency and severity of these dry spells are increasing, and that’s a big deal for the 140,000+...'
 pubDate: 2025-07-14T05:44:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/droughts-on-the-rise-in-the-uk-what-it-means-for-our-saplings-and-the-future-of-green-spaces.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/droughts-on-the-rise-in-the-uk-what-it-means-for-our-saplings-and-the-future-of-green-spaces.jpg'
 ---
 
 Droughts in the UK are nothing new—on average, we face one every 5 to 10 years. But lately, the frequency and severity of these dry spells are increasing, and that’s a big deal for the 140,000+ saplings Protect Earth has planted. These young trees, our green babies, are vulnerable to the challenges droughts bring. Yet, these challenges also present opportunities to rethink how we protect and grow our precious green spaces in a changing climate.

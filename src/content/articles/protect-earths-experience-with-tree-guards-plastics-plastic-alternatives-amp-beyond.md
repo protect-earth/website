@@ -2,8 +2,8 @@
 title: "Protect Earth's experience with tree guards - plastics, plastic alternatives, &amp;amp; beyond"
 description: "Green plastic square tubes stand thigh-high on every tree-planting project. Let's examine these guards, their purpose, materials, and what happens when they're no longer needed."
 pubDate: 2024-08-26T13:24:04.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-experience-with-tree-guards-plastics-plastic-alternatives-amp-beyond.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-experience-with-tree-guards-plastics-plastic-alternatives-amp-beyond.jpg'
 ---
 
 You’ve seen them dotted on nearly every tree-planting project. Green plastic square tubes standing thigh or stomach height. They are mostly always plastic. And after being left out for a few years across every season, they look a bit battered.

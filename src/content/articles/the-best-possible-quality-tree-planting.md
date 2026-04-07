@@ -1,9 +1,9 @@
 ---
-title: "The Best Possible Quality Tree Planting"
-description: "Tree planting versus natural regeneration discussions regularly pop up online. Some say tree planting is bad, when they mean bad tree planting is bad."
+title: 'The Best Possible Quality Tree Planting'
+description: 'Tree planting versus natural regeneration discussions regularly pop up online. Some say tree planting is bad, when they mean bad tree planting is bad.'
 pubDate: 2024-07-08T06:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-best-possible-quality-tree-planting.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-best-possible-quality-tree-planting.jpg'
 ---
 
 Discussions around “tree planting” versus “natural regeneration” regularly pop up online, and it’s amazing to see more people getting interested in this previously rather obscure conversation. Campaigners have done an amazing job of getting natural regeneration supported by government grant systems such as English Woodland Creation Offer, making this possible (and profitable) for more land owners, so we’ll see more of it happening across the country. At the same time some of the conversations are pretty unscientific, with suggestions of “tree planting is bad” when people are really just referring to problems that occur through “bad tree planting”, and natural regeneration is hailed a silver bullet by some activists when the vast majority of experts will explain it is far more complicated than that.
@@ -23,8 +23,9 @@ Natural colonisation is another term which gets mixed in with natural regenerati
 There are no silver bullets here, and none of these approaches to woodland creation are inherently bad, unless done poorly, in the wrong place. You’ve heard “the right tree, in the right place” and sometimes that means not planting somewhere just as much as it means stalling natural colonisation / succession where an existing habitat is already valuable. It’s complicated, but a lot of experts have taken a swing at making it simple to understand.&nbsp;
 
        [caption id="" align="alignnone" width="2128"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468434-NAOBLG7SJ99S7ONOKEAE/gcb15498-fig-0002-m.jpg?format=original)
-  From “Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits” -  https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498  [/caption] 
+From “Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits” - https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498 [/caption]
 
 Ignoring the fact that it mentions using NFTs there’s nothing much to disagree with here, other than the fact that 5 and 6 are “or”. At Protect Earth not only are we using all three approaches on different sites, we generally combine approaches to provide the best possible outcomes.
 
@@ -78,11 +79,12 @@ This service used to be performed by wild grazers wandering around the countrysi
 
 Whenever possible we introduce wildflower meadow area to our sites. For example, there was an area at Goytre Wood we’d intended to plant, but discussions with the community highlighted that is where the kids like to sledge in winter, and that would make a perfect location for a wildflower meadow.&nbsp;
 
-Wildflower meadows sequester a lot more carbon than you might think, and whilst the sequestration rates might not be as much as a woodland, it’s not just about carbon. Semi/natural grasslands and wildflower meadows are horrendously rare, and species that have specialised to rely on them are struggling. Therefore even if the carbon sequestration rates are not quite as high, we need to remember that we are fighting both the climate and biodiversity crises, and it’s important to never do anything that would benefit one at the cost of the other. 
+Wildflower meadows sequester a lot more carbon than you might think, and whilst the sequestration rates might not be as much as a woodland, it’s not just about carbon. Semi/natural grasslands and wildflower meadows are horrendously rare, and species that have specialised to rely on them are struggling. Therefore even if the carbon sequestration rates are not quite as high, we need to remember that we are fighting both the climate and biodiversity crises, and it’s important to never do anything that would benefit one at the cost of the other.
 
        [caption id="" align="alignnone" width="860"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468458-MV08XALCW09GEDMRPKW3/image7.png?format=original)
-  Source: Natural England,  Natural England Research Report (NERR094) Carbon storage and sequestration by habitat: a review of the evidence,  second edition (20 April 2021) pp 210–221:   http://publications.naturalengland.org.uk/file/6726246198411264   [accessed 12 January 2022] Colour-coding indicates the level of scientific certainty around this ecosystem, as assessed by Natural England. The grey bars illustrate the range of values measured across different sites by Natural England’s meta-analysis, while the solid bar gives a best estimate. For most land ecosystems, these figures show soil carbon to the depth of the ecosystem and carbon stored in vegetation. [/caption] 
+Source: Natural England, Natural England Research Report (NERR094) Carbon storage and sequestration by habitat: a review of the evidence, second edition (20 April 2021) pp 210–221: http://publications.naturalengland.org.uk/file/6726246198411264 [accessed 12 January 2022] Colour-coding indicates the level of scientific certainty around this ecosystem, as assessed by Natural England. The grey bars illustrate the range of values measured across different sites by Natural England’s meta-analysis, while the solid bar gives a best estimate. For most land ecosystems, these figures show soil carbon to the depth of the ecosystem and carbon stored in vegetation. [/caption]
 
 ## Create a mosaic of habitats
 
@@ -104,7 +106,7 @@ Many of these pests and diseases are actually brought in on imported timber, ano
 
 Sourcing saplings from quality nurseries around the country is simple, and not only avoids bringing new diseases onto our shores, but has other benefits. All over the UK there are subregions where the genetics within a certain species are slightly different, with minor specialisations helping that species to thrive in the particular conditions of that area. After all, Ceredigion and Yorkshire are not the same, and using the same saplings in both just doesn’t make sense. By getting the right “seed provenance” we can increase survival rates, and reduce how far our saplings are moving around, reducing the chances of moving any diseases around within the country.
 
-*Learn more about *[*how Protect Earth source our saplings*](https://www.protect.earth/blog/where-do-our-saplings-come-from)*.&nbsp;*
+_Learn more about _[_how Protect Earth source our saplings_](https://www.protect.earth/blog/where-do-our-saplings-come-from)_.&nbsp;_
 
 ## Support community nurseries that collect local seed
 
@@ -113,19 +115,16 @@ Community tree nurseries have been around for a while, and more and more are sta
 These seeds are then grown at the community run nurseries, on their land, other charity land, schools, etc., and when they’re ready they’re sold on to groups like ourselves who do not have our own nurseries, but do have access to land that needs planting.&nbsp;
 
 Using community nurseries ticks every box for us.
-- 
-Supporting other charities.
 
-- 
-Putting money into the local economy of wherever we are planting.
+- Supporting other charities.
 
-- 
-Minimising biosecurity threats.
+- Putting money into the local economy of wherever we are planting.
 
-- 
-Using the best possible seed provenance.
+- Minimising biosecurity threats.
 
-*If you are starting a community nursery, or would be interested in running one on any of our land, please *[*get in touch*](https://www.protect.earth/contact).
+- Using the best possible seed provenance.
+
+_If you are starting a community nursery, or would be interested in running one on any of our land, please _[_get in touch_](https://www.protect.earth/contact).
 
 ## Keep Experimenting with Sustainable Guards
 
@@ -141,7 +140,7 @@ The best sustainable guards we’ve tried are [Vigilis Bio shelters](https://vig
 
 Whilst we wait for [NextGen Tree Shelters](https://nexgen-ts.com/) or [Vigilis Bio shelters](https://vigilistreeshelters.com/products/vigilis-bio/), to hit the market, the very best tree guards to use remain to be the only ones that are definitely not going to fall apart, that can be collected up and recycled, and that, for now, as much as we hate it, are fossil plastic guards. Specifically we use Tree Defender Pro for any sites with too many deer, and deer fencing for any sites which can get the funding for them.
 
-*We will recycle every single one of our tree guards, and if you have a woodland creation project with trees that have outgrown their guards but you’re not a spring chicken or don’t have the time to collect them up, we’ll happily collect yours and get them recycled too. Please *[*get in touch*](https://www.protect.earth/contact)* and we can help get the plastic out of your woodland.*
+_We will recycle every single one of our tree guards, and if you have a woodland creation project with trees that have outgrown their guards but you’re not a spring chicken or don’t have the time to collect them up, we’ll happily collect yours and get them recycled too. Please _[_get in touch_](https://www.protect.earth/contact)_ and we can help get the plastic out of your woodland._
 
 ## Summary
 

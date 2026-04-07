@@ -17,4 +17,3 @@ images:
   - ../../assets/sites/south-molton/7.jpg
   - ../../assets/sites/south-molton/8.jpg
 ---
-

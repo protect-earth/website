@@ -1,9 +1,9 @@
 ---
-title: "The South West Gains Another Hedgerow and Becomes a Little Greener"
-description: "This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous..."
+title: 'The South West Gains Another Hedgerow and Becomes a Little Greener'
+description: 'This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous...'
 pubDate: 2025-05-16T21:22:56.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/the-south-west-gains-another-hedgerow-and-becomes-a-little-greener.jpeg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/the-south-west-gains-another-hedgerow-and-becomes-a-little-greener.jpeg'
 ---
 
 This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous project](/articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting) with this landowner was to create natural screening for their horses. Happy with the results and Protect Earth's goals, they wanted to work with us again to create hedgerows. Long, winding, carbon-sequestering, wildlife-loving hedgerows.

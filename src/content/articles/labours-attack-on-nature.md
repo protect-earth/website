@@ -1,9 +1,9 @@
 ---
-title: "Labour’s Attack On Nature"
-description: "At the beginning Labour seemed to fulfill that promise, bringing eNGOs into Downing Street and listening. However, Labour didn’t seem to hear what they were saying, and the excitement of a new governm"
+title: 'Labour’s Attack On Nature'
+description: 'At the beginning Labour seemed to fulfill that promise, bringing eNGOs into Downing Street and listening. However, Labour didn’t seem to hear what they were saying, and the excitement of a new governm'
 pubDate: 2025-12-23T13:23:27.000Z
-author: "grice.elena.k@gmail.com"
-thumbnail: "/articles/labours-attack-on-nature.jpg"
+author: 'grice.elena.k@gmail.com'
+thumbnail: '/articles/labours-attack-on-nature.jpg'
 ---
 
 I was on the phone to a certain veteran nature campaigner a few months before the election. We were talking about being nervous around the lack of public commitment from Labour to protect nature, however he wasn’t too worried. “Blair’s government was the same - didn’t say much during the run-up to the election, then when they got into power, they sat down and listened to us”. I ended the conversation with hope, and held onto that hope as Labour won.&nbsp;

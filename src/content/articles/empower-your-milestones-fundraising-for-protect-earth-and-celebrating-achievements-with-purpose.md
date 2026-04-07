@@ -1,9 +1,9 @@
 ---
-title: "Empower Your Milestones: Fundraising for Protect Earth and Celebrating Achievements with Purpose"
-description: "January is fleeting past as quickly as a pianist tickles the ivories beneath their fingers. Blink, and it may be summer when you open your eyes!"
+title: 'Empower Your Milestones: Fundraising for Protect Earth and Celebrating Achievements with Purpose'
+description: 'January is fleeting past as quickly as a pianist tickles the ivories beneath their fingers. Blink, and it may be summer when you open your eyes!'
 pubDate: 2024-01-16T23:06:05.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/empower-your-milestones-fundraising-for-protect-earth-and-celebrating-achievements-with-purpose.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/empower-your-milestones-fundraising-for-protect-earth-and-celebrating-achievements-with-purpose.jpg'
 ---
 
 January is fleeting past as quickly as a pianist tickles the ivories beneath their fingers. Blink, and it may be summer when you open your eyes!
@@ -26,11 +26,12 @@ One community member fundraised for us by cycling 2,500 miles from Poland to Ire
 
 If there is anything you want to celebrate this year by fundraising for Protect Earth, we’ve done a small amount of heavy lifting to meet you halfway in your journey!
 
-Probably the biggest and most widely recognised fundraising platform in the UK is Just Giving. When considering turning your milestone event into a fundraising opportunity, Just Giving is a great platform that’s easy to set up and link to us. 
+Probably the biggest and most widely recognised fundraising platform in the UK is Just Giving. When considering turning your milestone event into a fundraising opportunity, Just Giving is a great platform that’s easy to set up and link to us.
 
        [caption id="" align="alignnone" width="4920"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468968-UITR5KDBBDFAREOFWWF2/IMG_1184.JPG?format=original)
-  From left to right - Eoghan McHugh who rode 2,500 miles from Poland to Ireland, Cambridge’s Mayor, and Phil Sturgeon, Protect Earth’s Chair [/caption] 
+From left to right - Eoghan McHugh who rode 2,500 miles from Poland to Ireland, Cambridge’s Mayor, and Phil Sturgeon, Protect Earth’s Chair [/caption]
 
 On top of that, donors will more than likely recognise the Just Giving name and logo, giving them peace of mind when they donate through a safe and secure platform. At this point, has just about everyone in the UK donated through Just Giving?
 

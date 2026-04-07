@@ -1,9 +1,9 @@
 ---
-title: "Protect Earth in 2023/24 - planting, restoring, and invasive species removal"
-description: "We unveil our plans for this coming season - what is to be done! We have an exciting year ahead of us."
+title: 'Protect Earth in 2023/24 - planting, restoring, and invasive species removal'
+description: 'We unveil our plans for this coming season - what is to be done! We have an exciting year ahead of us.'
 pubDate: 2023-11-27T23:03:18.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal.jpg'
 ---
 
 It has started! For the first time this new planting season, we put spade to soil to put new roots in the ground! And it felt good!
@@ -27,14 +27,12 @@ Beyond planting woodlands, we've been creating wildlife corridors (hedgerows and
 Some plants and animals have [unnaturally migrated to the UK](https://www.protect.earth/blog/dan-eatherley-invasive-aliens-the-plants-and-animals-from-over-there-that-are-over-here-book-review) and can run amok without competition or predators, causing biodiversity to collapse and threatening species. Starting last year and in the future, Protect Earth is committed to removing invasive species and reducing the harm invasive species have.
 
 Your donations directly support these activities. We are introducing new metrics to complement our tree-planting numbers each year. These numbers include what we have done this season and what we expect to complete.
-- 
-Land under direct management: 163 acres (up 104 acres from 2022/23)
 
-- 
-Acres of wildflower meadow sown: 0 (down two acres from 2022/23)
+- Land under direct management: 163 acres (up 104 acres from 2022/23)
 
-- 
-Ancient Woodland Restoration: 60 acres (up 55 acres from 2022/23)
+- Acres of wildflower meadow sown: 0 (down two acres from 2022/23)
+
+- Ancient Woodland Restoration: 60 acres (up 55 acres from 2022/23)
 
 That ancient woodland restoration is particularly exciting because it covers work done in our Cornish community woodland High Wood and on council land in London.
 

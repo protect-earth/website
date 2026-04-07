@@ -1,72 +1,72 @@
 articles:
-  - title: "Charity enjoys highly successful summer fair at High Wood"
-    source: "Cornish Times"
-    url: "https://www.cornish-times.co.uk/news/charity-enjoys-highly-successful-summer-fair-at-high-wood-805939"
-    image: "https://www.cornish-times.co.uk/tindle-static/image/2025/06/24/10/50/History-walk-and-the-water-mill.jpg?width=752&height=500&crop=752:500"
+  - title: 'Charity enjoys highly successful summer fair at High Wood'
+    source: 'Cornish Times'
+    url: 'https://www.cornish-times.co.uk/news/charity-enjoys-highly-successful-summer-fair-at-high-wood-805939'
+    image: 'https://www.cornish-times.co.uk/tindle-static/image/2025/06/24/10/50/History-walk-and-the-water-mill.jpg?width=752&height=500&crop=752:500'
     imageAlt: ''
-    description: "Protect Earth held our third annual High Wood Summer Fair and the The Cornish Times were on hand to capture all the fun and excitement that everyone experienced."
-    date: "2025-06-25"
+    description: 'Protect Earth held our third annual High Wood Summer Fair and the The Cornish Times were on hand to capture all the fun and excitement that everyone experienced.'
+    date: '2025-06-25'
 
-  - title: "Reforestation and flood defense at Goytre Wood"
-    source: "The Times"
-    url: "https://www.thetimes.com/uk/environment/article/reforestation-flood-defence-farmers-times-earth-8wgzqjdg7"
-    image: "/press-times.jpg"
+  - title: 'Reforestation and flood defense at Goytre Wood'
+    source: 'The Times'
+    url: 'https://www.thetimes.com/uk/environment/article/reforestation-flood-defence-farmers-times-earth-8wgzqjdg7'
+    image: '/press-times.jpg'
     imageAlt: ''
     description: "Phil and Steve talk about how trees can help absorb and slow down rainwater at Goytre Wood - the damage and effect of which too much has been seen in near by Tenbury Wells - one of the UK's most flooded towns."
-    date: "2025-03-06"
+    date: '2025-03-06'
 
-  - title: "E22: Phil Sturgeon - Protect Earth"
-    source: "FERNCAST"
-    url: "https://open.spotify.com/episode/45rhfuS7LCY5e3BDifV9Kg"
-    image: "/press-ferncast.jpg"
+  - title: 'E22: Phil Sturgeon - Protect Earth'
+    source: 'FERNCAST'
+    url: 'https://open.spotify.com/episode/45rhfuS7LCY5e3BDifV9Kg'
+    image: '/press-ferncast.jpg'
     imageAlt: ''
     description: "Phil Sturgeon discusses Protect Earth's mission to restore woodlands and ecosystems across the UK."
-    date: "2023-10-23"
+    date: '2023-10-23'
 
-  - title: "156: Save Blackswarth Road Wood with Phil Sturgeon"
+  - title: '156: Save Blackswarth Road Wood with Phil Sturgeon'
     source: "Tommy's Outdoors"
-    url: "https://tommysoutdoors.com/2023/08/16/156-help-save-blackswarth-road-wood-with-phil-sturgeon"
-    image: "/press-tommys.jpg"
+    url: 'https://tommysoutdoors.com/2023/08/16/156-help-save-blackswarth-road-wood-with-phil-sturgeon'
+    image: '/press-tommys.jpg'
     imageAlt: ''
     description: "Phil joins Tommy's Outdoors to discuss the campaign to save Blackswarth Road Wood from development."
-    date: "2023-08-16"
+    date: '2023-08-16'
 
   - title: "Appeal to save Bristol's secret wood goes national"
-    source: "Bristol Live"
-    url: "https://www.bristolpost.co.uk/news/bristol-news/bristols-secret-wood-thats-been-8663587"
-    image: "/press-bristol-secret.jpg"
+    source: 'Bristol Live'
+    url: 'https://www.bristolpost.co.uk/news/bristol-news/bristols-secret-wood-thats-been-8663587'
+    image: '/press-bristol-secret.jpg'
     imageAlt: ''
     description: "The campaign to protect Bristol's hidden woodland gains national attention as Protect Earth fights to preserve this precious green space."
-    date: "2023-08-08"
+    date: '2023-08-08'
 
   - title: "Inside Bristol's secret woodland that's been out of bounds for 100 years"
-    source: "Bristol Live"
-    url: "https://www.bristolpost.co.uk/news/bristol-news/inside-bristols-secret-woodland-thats-8650559"
-    image: "/press-bristol-inside.jpg"
+    source: 'Bristol Live'
+    url: 'https://www.bristolpost.co.uk/news/bristol-news/inside-bristols-secret-woodland-thats-8650559'
+    image: '/press-bristol-inside.jpg'
     imageAlt: ''
     description: "A rare look inside the woodland that's been off-limits for a century, as Protect Earth works to secure its future."
-    date: "2023-08-04"
+    date: '2023-08-04'
 
-  - title: "Fundraiser launched to protect Blackswarth Road Wood, Bristol"
-    source: "BBC News"
-    url: "https://www.bbc.co.uk/news/uk-england-bristol-66397766"
-    image: "/press-bbc.jpg"
+  - title: 'Fundraiser launched to protect Blackswarth Road Wood, Bristol'
+    source: 'BBC News'
+    url: 'https://www.bbc.co.uk/news/uk-england-bristol-66397766'
+    image: '/press-bbc.jpg'
     imageAlt: ''
     description: "BBC News covers the launch of Protect Earth's fundraising campaign to purchase and preserve Blackswarth Road Wood."
-    date: "2023-08-04"
+    date: '2023-08-04'
 
-  - title: "Charity hopes to buy woodland to save it from development"
-    source: "Bristol 24/7"
-    url: "https://www.bristol247.com/news-and-features/news/charity-hopes-buy-woodland-save-from-development/"
-    image: "/press-bristol247.jpg"
+  - title: 'Charity hopes to buy woodland to save it from development'
+    source: 'Bristol 24/7'
+    url: 'https://www.bristol247.com/news-and-features/news/charity-hopes-buy-woodland-save-from-development/'
+    image: '/press-bristol247.jpg'
     imageAlt: ''
     description: "Bristol 24/7 reports on Protect Earth's efforts to acquire threatened woodland and protect it from developers."
-    date: "2023-08-03"
+    date: '2023-08-03'
 
-  - title: "Behind the scenes at Ecologi 🌍 Meet Phil Sturgeon from Protect Earth"
-    source: "Ecologi"
-    url: "https://www.youtube.com/watch?v=6eOlPjx8TPY"
-    image: "/press-ecologi.jpg"
+  - title: 'Behind the scenes at Ecologi 🌍 Meet Phil Sturgeon from Protect Earth'
+    source: 'Ecologi'
+    url: 'https://www.youtube.com/watch?v=6eOlPjx8TPY'
+    image: '/press-ecologi.jpg'
     imageAlt: ''
     description: "An inside look at Protect Earth's partnership with Ecologi and Phil Sturgeon's vision for rewilding Britain."
-    date: "2021-03-10"
+    date: '2021-03-10'

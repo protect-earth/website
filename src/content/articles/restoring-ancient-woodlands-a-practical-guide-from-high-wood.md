@@ -1,9 +1,9 @@
 ---
-title: "Restoring Ancient Woodlands: A Practical Guide from High Wood"
+title: 'Restoring Ancient Woodlands: A Practical Guide from High Wood'
 description: "Ancient woodlands are living time capsules. Formed over centuries, their value runs deeper than their canopy—it's in the soil, fungi, veteran trees, and the species that evolved to call them home."
 pubDate: 2025-07-08T13:28:34.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood.jpg'
 ---
 
 Ancient woodlands are living time capsules. Formed over centuries, their value runs deeper than their canopy—it's in the soil, fungi, veteran trees, and the species that evolved to call them home.
@@ -29,8 +29,9 @@ All good things start with a plan, and a restoration plan is how you balance amb
 In 2022, we mapped our first 5-year plan for High Wood, having only taken over the woodland. Ultimately, the goal is to revive High Wood as a biodiverse Celtic rainforest. To achieve this, the first five years involve thinning and gradually removing conifers, leaving the best Douglas Firs as a heritage feature and encouraging natural regeneration with species such as Oak, Rowan, and Wild Cherry. We’re also holding off on planting in the short term to keep access open for machinery and to let nature do what it does best.
 
        [caption id="" align="alignnone" width="991"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/70118305-8995-409f-b362-58d81a3f048a/98167983-9484-44ae-8769-247dee333c81.JPG?format=original)
-   Professionals and volunteers together have removed over 900 tonnes of conifer from High Wood since we’ve taken over management   [/caption] 
+Professionals and volunteers together have removed over 900 tonnes of conifer from High Wood since we’ve taken over management [/caption]
 
 ## 3. **Woodland Structure: Layers Matter**
 
@@ -53,8 +54,9 @@ When we start planting, we'll plant the following: Oak, Rowan, Silver Birch, Wil
 The debate between human-led planting and nature-driven natural regeneration is a frequently discussed topic. Doesn't need to be as they are different tools in the same belt and can be used to good effect when called for.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/8c11b730-062d-48b0-8916-9658d3a9303e/IMG_8223.jpg?format=original)
-   Nature finds a way. Signs of regeneration in High Wood  [/caption] 
+Nature finds a way. Signs of regeneration in High Wood [/caption]
 
 ### **Our Approach:**
 

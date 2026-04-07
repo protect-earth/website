@@ -1,9 +1,9 @@
 ---
 title: "Biodiversity - what it is and why it's so important to achieve"
-description: "Trees do great things. But, with 36% of the UK’s wooded areas being non-native conifer trees - the benefits of these trees is very limited. Biodiverse woodlands and areas are homes that bring a range "
+description: 'Trees do great things. But, with 36% of the UK’s wooded areas being non-native conifer trees - the benefits of these trees is very limited. Biodiverse woodlands and areas are homes that bring a range '
 pubDate: 2023-07-17T06:33:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg'
 ---
 
 Biodiversity? What? What can that word possibly mean? Isn't tree planting sucking loads of carbon out of the atmosphere and storing it? Aren't forests of trees being planted? Surely, planting a forest and they will come will work, right?
@@ -31,8 +31,9 @@ The simple answer is metrics. The one place biodiversity doesn't look like it's 
 Tree planting is recorded by each tree planted.
 
        [caption id="" align="alignnone" width="4000"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469417-MR805931YQ6UZSSIV8SR/IMG_20230525_165557.jpg?format=original)
-   This wildflower meadow packs an ecological punch you’d never expect! It’s home to and supermarket for a wide array of insects, birds, and smaller creatures upon which more life is supported.  [/caption] 
+This wildflower meadow packs an ecological punch you’d never expect! It’s home to and supermarket for a wide array of insects, birds, and smaller creatures upon which more life is supported. [/caption]
 
 Some organisations talk about habitat restoration in the hectares, some in the acres, and others go with square metres. But, even square meters - four trees can be planted in one square metre!
 

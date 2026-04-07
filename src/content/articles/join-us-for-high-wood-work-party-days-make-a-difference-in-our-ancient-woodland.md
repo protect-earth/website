@@ -1,9 +1,9 @@
 ---
-title: "Join Us for High Wood Work Party Days: Make a Difference in Our Ancient Woodland!"
-description: "High Wood Work Parties are monthly volunteer sessions restoring 64 acres of ancient woodland near Liskeard, making it accessible and enchanting for all."
+title: 'Join Us for High Wood Work Party Days: Make a Difference in Our Ancient Woodland!'
+description: 'High Wood Work Parties are monthly volunteer sessions restoring 64 acres of ancient woodland near Liskeard, making it accessible and enchanting for all.'
 pubDate: 2024-06-10T06:35:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/join-us-for-high-wood-work-party-days-make-a-difference-in-our-ancient-woodland.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/join-us-for-high-wood-work-party-days-make-a-difference-in-our-ancient-woodland.jpg'
 ---
 
 High Wood, nestled near Liskeard in Cornwall, is the jewel of Protect Earth's conservation efforts thus far. This 64-acre expanse of ancient woodland, once partially converted into a commercial plantation, is being restored to its natural splendour, allowing for more biodiversity and community access. To bring this vision to life and ensure the woods are accessible and enchanting, we've launched the High Wood Work Party days—a series of monthly events where community spirit meets conservation.
@@ -17,8 +17,9 @@ High Wood Work Parties are all-day volunteer sessions dedicated to enhancing the
 The concept of the Work Parties sprang from the positive response we received from community members who participated in previous events over the winter months at High Wood during Protect Earth's regular tree-planting season. With the end of the planting season, community members close to High Wood wanted to stay connected and continue contributing to High Wood's renaissance.
 
        [caption id="" align="alignnone" width="3024"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468552-2SZYR2UFR6O6J9ERELTU/IMG_5245.jpg?format=original)
-   High Wood dappled with sunshine  [/caption] 
+High Wood dappled with sunshine [/caption]
 
 There's always work to be done that brings us closer to our ultimate goal. During the Work Parties, we recently installed dormice boxes and levelled picnic areas for the Second Annual Open Day.
 

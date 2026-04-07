@@ -1,9 +1,9 @@
 ---
-title: "A Forest of Accomplishments: Reflecting on 100,000 Trees Planted"
+title: 'A Forest of Accomplishments: Reflecting on 100,000 Trees Planted'
 description: "As a member of the Protect Earth community, you've contributed to planting 100,000 native, broad-leaf trees in just three short years!"
 pubDate: 2024-05-06T11:15:13.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted-snkdn.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted-snkdn.jpg'
 ---
 
 Have you patted yourself on the back recently for a job well done? Regardless of the answer, we're giving you a reason to congratulate yourself now.

@@ -1,9 +1,9 @@
 ---
 title: "Protect Earth's first Scottish shelterbelt project takes off"
-description: "Marking our first planting north of the border, Protect Earth planted 2,675 native saplings across 1.5 acres of East Ayrshire farmland to create shelterbelts and woodlands."
+description: 'Marking our first planting north of the border, Protect Earth planted 2,675 native saplings across 1.5 acres of East Ayrshire farmland to create shelterbelts and woodlands.'
 pubDate: 2024-11-18T07:26:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-first-scottish-shelterbelt-project-takes-off.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-first-scottish-shelterbelt-project-takes-off.jpg'
 ---
 
 As autumn sweeps across the UK, tree planting season is in full swing. Protect Earth took to Scotland in a recent project, marking the first planting effort north of the border. Partnering with a dedicated East Ayrshire farmer, Protect Earth has begun developing shelterbelts—strips of trees planted to protect fields and livestock— and filling in woodlands across 1.5 acres of farmland.

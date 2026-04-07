@@ -1,9 +1,9 @@
 ---
-title: "The 3/30/300 Rule: Transforming Urban Landscapes for a Greener Future"
-description: "As biodiversity decreases in the UK, looking at where and how it can be recovered is essential. The 3/30/300 model proposes increased urban green space, boosting biodiversity and communal wellbeing."
+title: 'The 3/30/300 Rule: Transforming Urban Landscapes for a Greener Future'
+description: 'As biodiversity decreases in the UK, looking at where and how it can be recovered is essential. The 3/30/300 model proposes increased urban green space, boosting biodiversity and communal wellbeing.'
 pubDate: 2023-11-20T07:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future.jpg'
 ---
 
 The 3/30/300 rule promises urban areas a greener, healthier, and more vibrant future.
@@ -87,14 +87,11 @@ Protect Earth supports the ambitions of great proposals like 3/30/300.
 While working together to better achieve a greener urban UK, Protect Earth is committed to developing biodiversity by planting trees and hedgerows throughout the UK.
 
 ## Sources
-- 
-[https://www.forestresearch.gov.uk/tools-and-resources/fthr/tree-canopy-cover-leaflet](https://www.forestresearch.gov.uk/tools-and-resources/fthr/tree-canopy-cover-leaflet)
 
-- 
-[https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover](https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover)
+- [https://www.forestresearch.gov.uk/tools-and-resources/fthr/tree-canopy-cover-leaflet](https://www.forestresearch.gov.uk/tools-and-resources/fthr/tree-canopy-cover-leaflet)
 
-- 
-[https://www.woodlandtrust.org.uk/protecting-trees-and-woods/campaign-with-us/tree-equality/](https://www.woodlandtrust.org.uk/protecting-trees-and-woods/campaign-with-us/tree-equality/)
+- [https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover](https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover)
 
-- 
-https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density
+- [https://www.woodlandtrust.org.uk/protecting-trees-and-woods/campaign-with-us/tree-equality/](https://www.woodlandtrust.org.uk/protecting-trees-and-woods/campaign-with-us/tree-equality/)
+
+- https://en.wikipedia.org/wiki/List_of_English_districts_by_population_density

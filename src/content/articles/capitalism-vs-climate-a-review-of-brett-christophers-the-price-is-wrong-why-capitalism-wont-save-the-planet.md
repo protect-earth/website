@@ -1,9 +1,9 @@
 ---
-title: "Capitalism vs. Climate: A Review of Brett Christophers' \"The Price is Wrong: Why Capitalism Won't Save the Planet\""
-description: "The Climate Crisis is causing all sorts of problems, with those problems expected to intensify as the heat on planet earth similarly intensifies."
+title: 'Capitalism vs. Climate: A Review of Brett Christophers'' "The Price is Wrong: Why Capitalism Won''t Save the Planet"'
+description: 'The Climate Crisis is causing all sorts of problems, with those problems expected to intensify as the heat on planet earth similarly intensifies.'
 pubDate: 2024-09-04T13:59:46.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/capitalism-vs-climate-a-review-of-brett-christophers-the-price-is-wrong-why-capitalism-wont-save-the-planet.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/capitalism-vs-climate-a-review-of-brett-christophers-the-price-is-wrong-why-capitalism-wont-save-the-planet.jpg'
 ---
 
 The Climate Crisis is causing all sorts of problems with those problems expected to intensify as the heat on planet earth similarly intensifies.

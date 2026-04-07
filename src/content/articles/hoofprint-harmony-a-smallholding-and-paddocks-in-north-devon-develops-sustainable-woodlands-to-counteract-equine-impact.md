@@ -1,9 +1,9 @@
 ---
-title: "Hoofprint harmony: a smallholding and paddocks in North Devon develops sustainable woodlands to counteract equine impact"
-description: "The owner of a paddocks and stables in North Devon wanted to convert their unused land by introducing small bursts of woodlands and hedging encouraging greater biodiversity on their site."
+title: 'Hoofprint harmony: a smallholding and paddocks in North Devon develops sustainable woodlands to counteract equine impact'
+description: 'The owner of a paddocks and stables in North Devon wanted to convert their unused land by introducing small bursts of woodlands and hedging encouraging greater biodiversity on their site.'
 pubDate: 2023-12-29T13:14:49.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/hoofprint-harmony-a-smallholding-and-paddocks-in-north-devon-develops-sustainable-woodlands-to-counteract-equine-impact.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/hoofprint-harmony-a-smallholding-and-paddocks-in-north-devon-develops-sustainable-woodlands-to-counteract-equine-impact.jpg'
 ---
 
 Nestled within the picturesque landscapes of North Devon, where the rolling hills offer a breathtaking view of Exmoor, lies a smallholding and riding stables committed to harmonising equine care with environmental stewardship.
@@ -23,14 +23,16 @@ The designated area encompasses 1.25 acres of woodland divided into several smal
 The task of planting was divided over two days. On day one, the Protect Earth team was reinforced with nine friendly volunteers, and on the second day, five volunteers joined our efforts.
 
        [caption id="" align="alignnone" width="2856"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469036-IESCZDOWCISQZST6WY1U/IMG_0442.jpg?format=original)
-   A bare and empty field soon to be peppered with trees along its outskirts.  [/caption] 
+A bare and empty field soon to be peppered with trees along its outskirts. [/caption]
 
 Collectively, we successfully planted approximately 550 plants on day one. The following day, the remaining 150 plants were planted, and we meticulously cleared the site, ensuring no unwanted trace of our presence was left behind.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469041-BH49Y8GEU87NSQJI18H4/IMG_0091.jpg?format=original)
-   Greenery springing up on space not used on the paddock. Aside from adding green diversity, the trees will provide coverage, shade and protection for horses when they are mature.  [/caption] 
+Greenery springing up on space not used on the paddock. Aside from adding green diversity, the trees will provide coverage, shade and protection for horses when they are mature. [/caption]
 
 The landowners participated by generously providing the team with tea, coffee, and even lunch. This gesture was deeply appreciated, especially considering the challenging rocky soil that made digging more challenging.
 
@@ -43,5 +45,6 @@ In the heart of North Devon's picturesque landscapes, a smallholding and riding 
 We invite community members, nature enthusiasts, and equestrian lovers to join in. Whether through volunteering, financial support, or spreading awareness, everyone can contribute to the success of natural habitat development. Together, let's protect the earth and create a legacy of sustainability for future generations.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469046-RVRUCDF6HX51P0UG8E1H/IMG_0089.jpg?format=original)
-   The work continues through the day! Of course, one of the very last tasks Protect Earth does at the end of every day planting is a litter sweep, taking away all site refuse to be responsibly disposed.   [/caption]
+The work continues through the day! Of course, one of the very last tasks Protect Earth does at the end of every day planting is a litter sweep, taking away all site refuse to be responsibly disposed. [/caption]

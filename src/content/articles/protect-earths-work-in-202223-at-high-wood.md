@@ -1,9 +1,9 @@
 ---
 title: "Protect Earth's work in 2022/23 at High Wood"
-description: "Protect Earth took over the management of High Wood in 2022.   This woodland is a surviving ancient temperate rainforest, and we aim to develop the space so it can continue being a very special type o"
+description: 'Protect Earth took over the management of High Wood in 2022.   This woodland is a surviving ancient temperate rainforest, and we aim to develop the space so it can continue being a very special type o'
 pubDate: 2023-07-31T06:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-work-in-202223-at-high-wood.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-work-in-202223-at-high-wood.jpg'
 ---
 
 2023 has been a year of ongoing development in High Wood, our ancient woodland close to Liskeard, Cornwall.

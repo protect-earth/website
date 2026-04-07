@@ -1,9 +1,9 @@
 ---
-title: "Research Breakthrough: Methane-Absorbing Microbes in Tree Bark"
-description: "Trees have long been recognised for their role in improving the climate by removing carbon dioxide from the atmosphere. Recent research, however, has unveiled an unexpected additional benefit...."
+title: 'Research Breakthrough: Methane-Absorbing Microbes in Tree Bark'
+description: 'Trees have long been recognised for their role in improving the climate by removing carbon dioxide from the atmosphere. Recent research, however, has unveiled an unexpected additional benefit....'
 pubDate: 2024-07-29T09:42:15.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/research-breakthrough-methane-absorbing-microbes-in-tree-bark.jpeg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/research-breakthrough-methane-absorbing-microbes-in-tree-bark.jpeg'
 ---
 
 Trees have long been recognised for their role in improving the climate by removing carbon dioxide from the atmosphere. Recent research, however, has unveiled an unexpected additional benefit. Microbes residing within tree bark have been found to absorb methane, a potent greenhouse gas, from the atmosphere.
@@ -49,20 +49,15 @@ The recent discovery that microbes within tree bark can absorb methane offers a 
 Planting more trees and reducing deforestation across the UK is important in reducing methane and other greenhouse gases. Supporting initiatives such as Protect Earth through donations to the Land Fund or purchasing trees and hedges for planting in upcoming UK projects can contribute significantly to these efforts.
 
 ## Sources
-- 
-[https://www.nature.com/articles/s41586-024-07592-w](https://www.nature.com/articles/s41586-024-07592-w)
 
-- 
-[https://iopscience.iop.org/article/10.1088/1748-9326/ad5191](https://iopscience.iop.org/article/10.1088/1748-9326/ad5191)
+- [https://www.nature.com/articles/s41586-024-07592-w](https://www.nature.com/articles/s41586-024-07592-w)
 
-- 
-[https://www.theguardian.com/environment/article/2024/jul/24/tree-bark-vital-role-removing-methane-atmosphere-climate](https://www.theguardian.com/environment/article/2024/jul/24/tree-bark-vital-role-removing-methane-atmosphere-climate)
+- [https://iopscience.iop.org/article/10.1088/1748-9326/ad5191](https://iopscience.iop.org/article/10.1088/1748-9326/ad5191)
 
-- 
-[https://www.epa.gov/gmi/importance-methane](https://www.epa.gov/gmi/importance-methane)
+- [https://www.theguardian.com/environment/article/2024/jul/24/tree-bark-vital-role-removing-methane-atmosphere-climate](https://www.theguardian.com/environment/article/2024/jul/24/tree-bark-vital-role-removing-methane-atmosphere-climate)
 
-- 
-[https://earthobservatory.nasa.gov/images/150967/why-methane-surged-in-2020](https://earthobservatory.nasa.gov/images/150967/why-methane-surged-in-2020)
+- [https://www.epa.gov/gmi/importance-methane](https://www.epa.gov/gmi/importance-methane)
 
-- 
-[https://www.globalmethanepledge.org/](https://www.globalmethanepledge.org/)
+- [https://earthobservatory.nasa.gov/images/150967/why-methane-surged-in-2020](https://earthobservatory.nasa.gov/images/150967/why-methane-surged-in-2020)
+
+- [https://www.globalmethanepledge.org/](https://www.globalmethanepledge.org/)

@@ -2,8 +2,8 @@
 title: "In the Shadow of Europe's Trees: Looking at the UK's Struggling Forests"
 description: "With a mere 13% tree coverage, the UK is one of Europe's least densely forested countries, compared to the EU average of 38% and global average of 31%."
 pubDate: 2024-04-15T06:59:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests.jpg'
 ---
 
 In the mosaic of Europe's landscapes, the United Kingdom stands out as one of the least densely forested countries. With a mere 13% tree coverage, it pales compared to the lush greenery adorning 38% of the European Union's territory and the global average of 31%. The numbers paint a stark picture: the UK harbours nearly a third less tree coverage than the continental norm.
@@ -65,38 +65,27 @@ In this article, we’ve delved into the complexities of tree coverage in the UK
 The UK government is falling behind on a goal they and the world are seriously concerned about. Charities and organisations, like Protect Earth, seek to fill the void by protecting and developing biodiversity in the UK. Please donate to our [Land Fund](https://www.protect.earth/donate/land), which will enable us to buy land.
 
 ## Sources
-- 
-[https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover](https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover)
 
-- 
-[https://www.theguardian.com/environment/2021/apr/14/trees-uk-native-woodlands-reaching-crisis-point](https://www.theguardian.com/environment/2021/apr/14/trees-uk-native-woodlands-reaching-crisis-point)
+- [https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover](https://www.theguardian.com/environment/2023/mar/02/nearly-half-of-english-neighbourhoods-have-less-than-10-tree-cover)
 
-- 
-[https://www.woodlandtrust.org.uk/state-of-uk-woods-and-trees](https://www.woodlandtrust.org.uk/state-of-uk-woods-and-trees)
+- [https://www.theguardian.com/environment/2021/apr/14/trees-uk-native-woodlands-reaching-crisis-point](https://www.theguardian.com/environment/2021/apr/14/trees-uk-native-woodlands-reaching-crisis-point)
 
-- 
-[https://www.euronews.com/green/2023/11/04/finland-ireland-france-which-european-countries-have-the-most-and-least-forests](https://www.euronews.com/green/2023/11/04/finland-ireland-france-which-european-countries-have-the-most-and-least-forests#:~:text=According%20to%20Eurostat%20data%2C%2039,of%20Hungary%20and%20Slovakia%20combined).
+- [https://www.woodlandtrust.org.uk/state-of-uk-woods-and-trees](https://www.woodlandtrust.org.uk/state-of-uk-woods-and-trees)
 
-- 
-[https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2018/international-forestry-3/forest-cover-international-comparisons/](https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2018/international-forestry-3/forest-cover-international-comparisons/)
+- [https://www.euronews.com/green/2023/11/04/finland-ireland-france-which-european-countries-have-the-most-and-least-forests](https://www.euronews.com/green/2023/11/04/finland-ireland-france-which-european-countries-have-the-most-and-least-forests#:~:text=According%20to%20Eurostat%20data%2C%2039,of%20Hungary%20and%20Slovakia%20combined).
 
-- 
-[https://gabrielhemery.com/european-countries-and-their-forest-cover/](https://gabrielhemery.com/european-countries-and-their-forest-cover/)
+- [https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2018/international-forestry-3/forest-cover-international-comparisons/](https://www.forestresearch.gov.uk/tools-and-resources/statistics/forestry-statistics/forestry-statistics-2018/international-forestry-3/forest-cover-international-comparisons/)
 
-- 
-[https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20210321-1](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20210321-1)
+- [https://gabrielhemery.com/european-countries-and-their-forest-cover/](https://gabrielhemery.com/european-countries-and-their-forest-cover/)
 
-- 
-[https://finance.yahoo.com/news/25-least-forested-countries-europe-184206351.html](https://finance.yahoo.com/news/25-least-forested-countries-europe-184206351.html)
+- [https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20210321-1](https://ec.europa.eu/eurostat/web/products-eurostat-news/-/edn-20210321-1)
 
-- 
-[https://www.independent.com.mt/articles/2013-05-21/leader/trees-safeguarding-the-few-that-remain-1643085824/](https://www.independent.com.mt/articles/2013-05-21/leader/trees-safeguarding-the-few-that-remain-1643085824/)
+- [https://finance.yahoo.com/news/25-least-forested-countries-europe-184206351.html](https://finance.yahoo.com/news/25-least-forested-countries-europe-184206351.html)
 
-- 
-[https://www.woodlands.co.uk/blog/woodland-economics/woodlands-and-forests-in-the-netherlands/](https://www.woodlands.co.uk/blog/woodland-economics/woodlands-and-forests-in-the-netherlands/)
+- [https://www.independent.com.mt/articles/2013-05-21/leader/trees-safeguarding-the-few-that-remain-1643085824/](https://www.independent.com.mt/articles/2013-05-21/leader/trees-safeguarding-the-few-that-remain-1643085824/)
 
-- 
-[https://www.tcd.ie/news_events/articles/2023/ireland-has-lost-almost-all-of-its-native-forests--heres-how-to-bring-them-back](https://www.tcd.ie/news_events/articles/2023/ireland-has-lost-almost-all-of-its-native-forests--heres-how-to-bring-them-back)
+- [https://www.woodlands.co.uk/blog/woodland-economics/woodlands-and-forests-in-the-netherlands/](https://www.woodlands.co.uk/blog/woodland-economics/woodlands-and-forests-in-the-netherlands/)
 
-- 
-[https://eng.mst.dk/industry/forestry](https://eng.mst.dk/industry/forestry#:~:text=Most%20of%20Denmark%20was%20originally,covered%20by%20forest%20around%201800)
+- [https://www.tcd.ie/news_events/articles/2023/ireland-has-lost-almost-all-of-its-native-forests--heres-how-to-bring-them-back](https://www.tcd.ie/news_events/articles/2023/ireland-has-lost-almost-all-of-its-native-forests--heres-how-to-bring-them-back)
+
+- [https://eng.mst.dk/industry/forestry](https://eng.mst.dk/industry/forestry#:~:text=Most%20of%20Denmark%20was%20originally,covered%20by%20forest%20around%201800)

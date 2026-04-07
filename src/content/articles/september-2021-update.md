@@ -1,28 +1,24 @@
 ---
-title: "Wildflower Meadows, Summer Planting, and Gift Aid"
+title: 'Wildflower Meadows, Summer Planting, and Gift Aid'
 description: "While hunting for land to buy, we've been busy planning 100,000 trees for the 2021/22 season through site visits, contracts and grant applications."
 pubDate: 2021-09-14T12:35:53.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/september-2021-update.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/september-2021-update.jpg'
 ---
 
 Most tree planting happens between November and March in the UK, but that doesn’t mean we’ve not been busy the last few months. We’re still hunting for the right piece of land to buy. In the meantime we’ve been hard at work talking to landowners all over the country, with the goal of planting 100,000 trees through the 2021/22 planting season. It’s a whole lot of phone calls, site visits, contracts and grant applications. So far we’ve got about 60,000 trees on the books at some stage, and we’re hoping we’re about to get all of those nailed down, and find the next 40,000 to hit our targets.
 
 Thankfully every single day we’re getting emails and phone calls that get us further with our goals:
-- 
-Farmers who need shelterbelts to reduce soil erosion and crop damage.&nbsp;
 
-- 
-An energy drink company that wants to sponsor shelterbelts.&nbsp;
+- Farmers who need shelterbelts to reduce soil erosion and crop damage.&nbsp;
 
-- 
-A law firm that wants to buy land and plant trees and want help from ecologists and foresters to get it right.&nbsp;
+- An energy drink company that wants to sponsor shelterbelts.&nbsp;
 
-- 
-Another farmer who wants to plant an empty field but is struggling with the grants and paperwork.&nbsp;
+- A law firm that wants to buy land and plant trees and want help from ecologists and foresters to get it right.&nbsp;
 
-- 
-A town near London looking to create a community forest with 200 apple trees.&nbsp;
+- Another farmer who wants to plant an empty field but is struggling with the grants and paperwork.&nbsp;
+
+- A town near London looking to create a community forest with 200 apple trees.&nbsp;
 
 These calls have all been coming in, and it’s on us to glue it all together and match funding with land and manage all the benefits and expectations. It’s not glorious work that makes for nice updates, but we’re on the case.
 
@@ -66,4 +62,4 @@ After six months of back and forth with HMRC, and some difficulties with the ban
 
 Interestingly this can also be claimed retroactively for past donations, so if you have done a one-off donation in the past, we’ll be in touch to ask for your home address, which is all we really need to get it back.
 
-If you have a monthly donation going on Donorbox and are eligible to allow us to claim Gift Aid,&nbsp;***we would be immensely grateful if you can cancel and set up your subscription again with the Gift Aid box checked***. While we have you, if you can use a debit/credit card that would be ideal because some of our supporters have had difficulties paying via PayPal.
+If you have a monthly donation going on Donorbox and are eligible to allow us to claim Gift Aid,&nbsp;**_we would be immensely grateful if you can cancel and set up your subscription again with the Gift Aid box checked_**. While we have you, if you can use a debit/credit card that would be ideal because some of our supporters have had difficulties paying via PayPal.

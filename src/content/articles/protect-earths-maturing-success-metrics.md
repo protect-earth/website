@@ -1,9 +1,9 @@
 ---
-title: "Protect Earth’s Maturing Success Metrics"
-description: "When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting..."
+title: 'Protect Earth’s Maturing Success Metrics'
+description: 'When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting...'
 pubDate: 2024-01-22T07:41:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-maturing-success-metrics.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-maturing-success-metrics.jpg'
 ---
 
 When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting a tree equated to success, we quickly moved to deeper metrics, such as where a tree came from and where they were going. This evolution saw us think of success as planting the right locally sourced tree and the best option for the planting conditions.
@@ -19,7 +19,9 @@ Tree planting is great. Trees grow to be woodland pillars gulping up vast amount
 We are not a for-profit lumber company squeezing maximum tree coverage and growth onto the smallest amount of land to satisfy shareholders. We are an environmental charity, and as we view land through this lens, it makes more sense for us to support the development of wildflower meadows as much as woodland.
 
 The natural world is an interdependent system with many plants supporting many insects and animals and vice versa. If Protect Earth is going to be a part of biodiversity development in the UK, we need to expand our measuring stick to account for biodiversity requirements.
-- 
+
+-
+
 ### Land Under Direct Protect Earth Management&nbsp;
 
 This is a metric of growing importance because of the independence it brings. We partner with landowners who will be managers and stewards of what we create; it's a collaboration. We work together to get the best for all. Sometimes, this means only being able to plant trees, which is okay, and we are not complaining - bring your lands and your ideas. However, to achieve our goal of building more biodiversity, we sometimes face the first task of educating partners on why it's important to do more than plant trees.
@@ -55,14 +57,12 @@ Some ancient woodlands have been mistreated. Take, for instance, High Wood - our
 It should be no surprise that our goal of developing more biodiversity through the UK will affect future projects. But how?
 
 We will focus less on the "number of trees" and work with our data volunteers to improve the metrics we track, covering these three main concepts but generally moving towards a few ideas.
-- 
-Acres of land dedicated to various habitat types will become more prominent on the site and announcements than the number of individual trees planted.
 
-- 
-Helping donations go to specific things, so you can donate to plant more field trees to shade livestock or meters of hedgerow to act as wildlife corridors, all equally important as creating blocks of woodland and shelterbelts on farms. We can easily share those metrics with everyone, too.
+- Acres of land dedicated to various habitat types will become more prominent on the site and announcements than the number of individual trees planted.
 
-- 
-Putting more emphasis on our [land fund](https://www.protect.earth/donate/land) - where we seek donations enabling us to take long-term leases and buy land to green more naturally, so we can increase the land we directly manage.
+- Helping donations go to specific things, so you can donate to plant more field trees to shade livestock or meters of hedgerow to act as wildlife corridors, all equally important as creating blocks of woodland and shelterbelts on farms. We can easily share those metrics with everyone, too.
+
+- Putting more emphasis on our [land fund](https://www.protect.earth/donate/land) - where we seek donations enabling us to take long-term leases and buy land to green more naturally, so we can increase the land we directly manage.
 
 Because of our broader view and what will most benefit the UK's environment, we will encourage partnering landowners to share our broader view and be open to planting more than trees, and directly managing more of our own land makes it easier to do more natural regeneration, too.
 
