@@ -8,13 +8,20 @@
 			display: flex;
 			gap: 2rem;
 			justify-content: space-between;
+
+			@media screen and (min-width: 48rem) and (max-width: 64rem) {
+				flex-direction: column;
+				align-items: center;
+				gap: 1rem;
+			}
+		
 		}
 
 		.Logo {
 			max-inline-size: 12rem;
 
 			@media screen and (min-width: 72rem) {
-				max-inline-size: 24rem;
+				max-inline-size: 16rem;
 			}
 		}
 	}
