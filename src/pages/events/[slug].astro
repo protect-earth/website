@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import TakeAction from '../../components/TakeAction.astro';
+import { getEntry } from 'astro:content';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const events = await getCollection('events');
+
+	return events.map((event) => ({
+		params: { slug: event.id },
+		data: { event },
+	}));
+}
+
+const { slug } = Astro.params;
+
+const event = await getEntry('events', slug);
+
+if (!event) {
+	return Astro.rewrite('/404');
+}
+
+const {
+	data: { description, pubDate, title },
+} = event;
+const { Content } = await render(event);
+---
+
+<Layout {title} {description} breadcrumb={title}>
+	<!-- Hero Section -->
+	<div class="Post">
+		<header class="Post__header">
+			<div class="Post__headerInner">
+				<h1 class="Post__title">{title}</h1>
+
+				<a href="/events">
+					<svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<path
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							d="M15 19l-7-7 7-7"
+						>
+						</path>
+					</svg>
+					Back to Events
+				</a>
+			</div>
+		</header>
+
+		<div class="Post__content prose">
+			<Content />
+		</div>
+	</div>
+
+	<TakeAction />
+</Layout>

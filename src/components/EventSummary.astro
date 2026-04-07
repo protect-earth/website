@@ -1,0 +1,36 @@
+---
+import type { HTMLTag, Polymorphic } from 'astro/types';
+
+type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
+const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = Astro.props;
+---
+
+<article class="Event">
+	<header class="Event__header">
+		<Tag class="Event__title">{title}</Tag>
+
+		<time class="Event__date" datetime={pubDate.toISOString()}>
+			{
+				pubDate.toLocaleDateString('en-GB', {
+					day: 'numeric',
+					month: 'long',
+					year: 'numeric',
+				})
+			}
+		</time>
+	</header>
+
+	<aside class="Event__thumbnail">
+		{thumbnail && <img src={thumbnail} alt="" />}
+	</aside>
+
+	{
+		description && (
+			<div class="Event__description">
+				<p>{description}</p>
+			</div>
+		)
+	}
+
+	<a class="Event__link block-link" href={`/events/${slug}`}>Read more</a>
+</article>
