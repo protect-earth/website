@@ -10,6 +10,13 @@
 		max-inline-size: variables.$max--inline-size;
 	}
 
+	@media screen and (max-width: 48rem) {
+		&s {
+			grid-template-columns: auto;
+			grid-template-rows: repeat(3, 1fr);
+		}
+	}
+
 	text-align: center;
 
 	&__value,
@@ -27,3 +34,4 @@
 		margin-block-start: 0.5rem;
 	}
 }
+
