@@ -68,6 +68,15 @@ Start here if you are new to this repository:
 
 Script workflows are documented in [docs/scripts.md](docs/scripts.md) but they are best avoided unless you're core team.
 
+## Linting
+
+Run Prettier (including the [Prettier Astro plugin](https://github.com/withastro/prettier-plugin-astro)) using:
+
+```bash
+pnpm format:check
+pnpm format:write
+```
+
 ## Thanks 
 
 Huge work from the following legends got us this far, and have nearly freed us from Squarespace.
