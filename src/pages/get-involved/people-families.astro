@@ -19,31 +19,23 @@ import Layout from '../../layouts/Layout.astro';
 	</ContentHero>
 
 	<!-- Introduction Section -->
-	<section class="py-16 bg-white">
-		<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-			<div class="grid md:grid-cols-2 gap-12 items-center">
-				<div>
-					<p class="text-xl text-gray-700 mb-6">
-						Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
-						time, money, or expertise, there's a way for everyone to make a difference.
-					</p>
-					<p class="text-xl text-gray-700">
-						Volunteers are the backbone of our charity, and with many hands, even the biggest tree
-						planting jobs become manageable. We'll provide all the guidance you need to make the
-						most of your volunteering with us, just bring a good attitude! These events are
-						family-friendly and we welcome people of all ages and abilities.
-					</p>
-				</div>
-				<div>
-					<img
-						src="/people-families-intro.jpg"
-						alt="People planting small trees on a hillside with protective covers"
-						class="w-full rounded-lg shadow-lg"
-					/>
-				</div>
-			</div>
-		</div>
-	</section>
+	<ContentBlock
+		imgSrc="/people-families-intro.jpg"
+		imgAlt="People planting small trees on a hillside with protective covers"
+		title="Get Involved"
+		variant="intro"
+	>
+		<p>
+			Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
+			time, money, or expertise, there's a way for everyone to make a difference.
+		</p>
+		<p>
+			Volunteers are the backbone of our charity, and with many hands, even the biggest tree
+			planting jobs become manageable. We'll provide all the guidance you need to make the
+			most of your volunteering with us, just bring a good attitude! These events are
+			family-friendly and we welcome people of all ages and abilities.
+		</p>
+	</ContentBlock>
 
 	<!-- Volunteering - Planting -->
 	<ContentBlock

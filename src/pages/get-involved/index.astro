@@ -1,15 +1,16 @@
 ---
 import GetStarted from '../../components/GetStarted.astro';
 import Layout from '../../layouts/Layout.astro';
+import ContentHero from '../../components/ContentHero.astro';
 ---
 
 <Layout title="Get Involved">
-	<section class="PageSection">
-		<header class="PageSection">
-			<h1 class="PageSection__title">Get Involved</h1>
-			<p>Join us in protecting Earth</p>
-		</header>
+	<!-- Hero Section -->
+	<ContentHero title="Get Involved">
+		<p>Join us in protecting Earth</p>
+	</ContentHero>
 
+	<section class="PageSection">
 		<div class="PageSection__content">
 			<GetStarted noTitle />
 		</div>
