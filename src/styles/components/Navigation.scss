@@ -2,6 +2,7 @@
 
 @layer components {
 	.Navigation {
+		margin-bottom: 1rem;
 		&__items {
 			display: none;
 			gap: 1.5rem;
@@ -101,9 +102,13 @@
 			.Navigation__items {
 				@media screen and (min-width: 48rem) {
 					background-color: white;
+					border: 1px solid #e5e7eb;
+					border-radius: 0.375rem;
+					box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 					display: none;
 					flex-direction: column;
 					gap: 0;
+					overflow: hidden;
 					position: absolute;
 					z-index: 100;
 				}
@@ -112,15 +117,15 @@
 					display: block;
 
 					@media screen and (min-width: 48rem) {
-						padding: 8px 16px;
+						padding: 0.5rem 1rem;
 						text-decoration: none;
+						transition: background-color 120ms ease;
 					}
 
 					&:hover,
 					&[aria-current] {
 						@media screen and (min-width: 48rem) {
 							background-color: variables.$color--primary;
-							// TODO !important
 							color: white !important;
 						}
 					}
