@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import { siteConfig } from '../../config';
 import { toKebabCase } from '../../helpers';
@@ -15,14 +16,23 @@ const allApiSites = await apiResponse.json();
 // Filter out ignored sites
 const apiSites = allApiSites.filter((site: any) => !siteConfig.ignoredSites.includes(site.name));
 
-// Get collection for tags
+// Get collection for tags and local images
 const siteMeta = await getCollection('siteMeta');
-const siteTagsMap = new Map(siteMeta.map((site) => [site.id, site.data.tags || []]));
+const siteMetaMap = new Map(
+	siteMeta.map((site) => [
+		site.id,
+		{
+			tags: site.data.tags || [],
+			thumbnail: site.data.images?.[0] || null,
+		},
+	])
+);
 
 // Map API data with first image and tags
 const sites = apiSites
 	.map((site: any) => {
 		const slug = toKebabCase(site.name);
+		const meta = siteMetaMap.get(slug);
 
 		return {
 			slug,
@@ -33,14 +43,18 @@ const sites = apiSites
 			url: site.url,
 			allocatedUnits: site.allocatedUnits,
 			coordinates: site.coordinates,
-			thumbnail: site.images?.[0] || null,
-			tags: siteTagsMap.get(slug) || [],
+			localThumbnail: meta?.thumbnail || null,
+			remoteThumbnail: site.images?.[0] || null,
+			tags: meta?.tags || [],
 		};
 	})
 	.sort((a: any, b: any) => a.name.localeCompare(b.name));
 
 // Get all unique tags
 const allTags = [...new Set(sites.flatMap((site: any) => site.tags))].sort();
+
+// Strip image metadata from sites, which isn't needed for Mapbox
+const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) => rest);
 ---
 
 <Layout title="Sites">
@@ -93,8 +107,16 @@ const allTags = [...new Set(sites.flatMap((site: any) => site.tags))].sort();
 					sites.map((site: any) => (
 						<article class="Site" data-tags={JSON.stringify(site.tags)}>
 							<aside class="Site__thumbnail">
-								{site.thumbnail ? (
-									<img src={site.thumbnail} alt="" />
+								{site.localThumbnail ? (
+									<Image
+										src={site.localThumbnail}
+										alt=""
+										width={600}
+										height={338}
+										loading="lazy"
+									/>
+								) : site.remoteThumbnail ? (
+									<img src={site.remoteThumbnail} alt="" loading="lazy" />
 								) : (
 									<svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
 										<path
@@ -143,7 +165,7 @@ const allTags = [...new Set(sites.flatMap((site: any) => site.tags))].sort();
 <!-- Mapbox GL JS -->
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
-<script is:inline define:vars={{ sites, mapboxToken }}>
+<script is:inline define:vars={{ sites: mapSites, mapboxToken }}>
 	window.addEventListener('DOMContentLoaded', () => {
 		mapboxgl.accessToken = mapboxToken;
 
