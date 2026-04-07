@@ -1,3 +1,5 @@
+@use '../variables';
+
 @layer components {
 	.Article {
 		display: flex;
@@ -8,7 +10,7 @@
 		text-align: left;
 
 		&__title {
-			font-size: 1.125rem;
+			font-size: variables.$text--md;
 			text-wrap: pretty;
 		}
 
@@ -28,7 +30,7 @@
 		}
 
 		&__link {
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 			margin-block-start: auto;
 
 			&::before {

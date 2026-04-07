@@ -1,3 +1,5 @@
+@use '../variables';
+
 @layer components {
 	.TeamMembers {
 		> * + * {
@@ -21,7 +23,7 @@
 		&__name,
 		&__role {
 			display: inline;
-			font-size: 1.25rem;
+			font-size: variables.$text--lg;
 			font-weight: 700;
 		}
 
@@ -36,7 +38,7 @@
 			margin-block-start: 2rem;
 
 			p {
-				font-size: 1rem;
+				font-size: variables.$text--sm;
 
 				+ p {
 					margin-block-start: 1rem;

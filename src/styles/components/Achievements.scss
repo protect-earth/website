@@ -19,11 +19,11 @@
 	}
 
 	&__value {
-		font-size: 6rem;
+		font-size: variables.$text--display;
 	}
 
 	&__label {
-		font-size: 1.5rem;
+		font-size: variables.$text--xl;
 		margin-block-start: 0.5rem;
 	}
 }
