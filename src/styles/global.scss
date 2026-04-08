@@ -82,20 +82,26 @@
 			text-align: center;
 			transition: background-color 200ms cubic-bezier(0.4, 0, 0.2, 1);
 
-			&:hover {
+			&:hover:not(:disabled) {
 				background-color: #065f46;
+			}
+
+			&:disabled {
+				background-color: #9ca3af;
+				cursor: not-allowed;
+				opacity: 0.7;
 			}
 		}
 
 		footer {
 			margin-block-start: 2rem;
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 			line-height: 1.25rem;
 			text-align: center;
 			color: #4b5563;
 
 			small {
-				font-size: 100%;
+				font-size: variables.$text--sm;
 			}
 		}
 
@@ -109,6 +115,7 @@
 			display: none;
 			padding: 1rem;
 			border-radius: 0.375rem;
+			font-weight: 500;
 
 			&[data-status] {
 				display: block;
@@ -141,7 +148,7 @@
 	legend,
 	label {
 		color: #111827;
-		font-size: 1rem;
+		font-size: variables.$text--sm;
 		font-weight: 600;
 		line-height: 1.5rem;
 		margin-bottom: 0.75rem;
@@ -168,6 +175,7 @@
 	}
 
 	input:where([type='text'], [type='email']),
+	select,
 	textarea {
 		padding: 0.5rem 16px;
 		border-radius: 0.375rem;
@@ -178,6 +186,32 @@
 
 @layer page {
 	.Contact {
+		&__mainLayout {
+			display: grid;
+			grid-template-columns: repeat(1, minmax(0, 1fr));
+			gap: 3rem;
+			margin: 0 auto;
+
+			@media screen and (min-width: 64rem) {
+				grid-template-columns: 1fr 2fr;
+				gap: 4rem;
+			}
+		}
+
+		&__formSection {
+			form {
+				max-width: none;
+				padding-top: 1rem;
+			}
+		}
+
+		&__infoSection {
+			display: flex;
+			flex-direction: column;
+			gap: 3rem;
+			margin: auto;
+		}
+
 		&__layout {
 			display: grid;
 			grid-template-columns: repeat(1, minmax(0, 1fr));
@@ -191,8 +225,8 @@
 
 		&__subTitle {
 			margin-bottom: 1.5rem;
-			font-size: 1.875rem;
-			line-height: 2.25rem;
+			font-size: variables.$text--xl;
+			line-height: 2rem;
 			font-weight: 700;
 		}
 
@@ -209,7 +243,7 @@
 			strong {
 				display: block;
 				margin-bottom: 0.5rem;
-				font-size: 1.25rem;
+				font-size: variables.$text--lg;
 				line-height: 1.75rem;
 				font-weight: 600;
 			}
@@ -232,7 +266,7 @@
 		dl {
 			display: grid;
 			margin-top: 0.875rem;
-			font-size: 1.125rem;
+			font-size: variables.$text--md;
 			line-height: 1.75rem;
 			text-align: left;
 			grid-template-columns: auto 1fr;
@@ -284,7 +318,7 @@
 			strong {
 				display: block;
 				margin-bottom: 0.5rem;
-				font-size: 1.25rem;
+				font-size: variables.$text--lg;
 				font-weight: 700;
 				line-height: 1.75rem;
 			}
@@ -345,7 +379,7 @@
 		border-radius: 0.25rem;
 		color: #ffffff;
 		display: inline-block;
-		font-size: 1.125rem;
+		font-size: variables.$text--md;
 		font-weight: 700;
 		line-height: 1.75rem;
 		padding: 1rem 32px;
@@ -419,17 +453,17 @@
 		}
 
 		h2 {
-			font-size: 1.875rem;
+			font-size: variables.$text--2xl;
 			margin-top: 3rem;
 		}
 
 		h3 {
-			font-size: 1.5rem;
+			font-size: variables.$text--xl;
 			margin-top: 2.5rem;
 		}
 
 		h4 {
-			font-size: 1.25rem;
+			font-size: variables.$text--lg;
 		}
 
 		p {
@@ -438,7 +472,7 @@
 		}
 
 		p:first-of-type {
-			font-size: 1.25rem;
+			font-size: variables.$text--lg;
 		}
 
 		img {
@@ -484,7 +518,7 @@
 			background-color: rgb(243 244 246);
 			padding: 0.125rem 0.25rem;
 			border-radius: 0.25rem;
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 		}
 
 		strong {

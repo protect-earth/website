@@ -1,10 +1,12 @@
+@use '../variables';
+
 @layer components {
 	.SiteFilter {
 		text-align: left;
 
 		&__title {
 			color: #374151;
-			font-size: 1.125rem;
+			font-size: variables.$text--md;
 			font-weight: 600;
 			line-height: 1.75rem;
 		}
@@ -20,7 +22,7 @@
 			padding: 0.5rem 16px;
 			border-radius: 10rem;
 			border: 2px solid#D1D5DB;
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 			line-height: 1.25rem;
 			font-weight: 500;
 			transition-property: color, background-color, border-color;
@@ -43,7 +45,7 @@
 
 		&__results {
 			color: #4b5563;
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 			line-height: 1.25rem;
 			margin-block-start: 1rem;
 		}
@@ -86,7 +88,7 @@
 		&__location,
 		&__units,
 		&__link {
-			font-size: 0.875rem;
+			font-size: variables.$text--xs;
 			line-height: 1.25rem;
 		}
 	}
@@ -148,7 +150,7 @@
 
 		&__title {
 			color: #111827;
-			font-size: 1.5rem;
+			font-size: variables.$text--xl;
 			font-weight: 700;
 			line-height: 2rem;
 			position: relative;
@@ -179,7 +181,7 @@
 			border-radius: 10rem;
 			color: #065f46;
 			display: inline-block;
-			font-size: 0.75rem;
+			font-size: variables.$text--2xs;
 			font-weight: 500;
 			line-height: 1rem;
 			padding: 0.25rem 0.75rem;
@@ -303,7 +305,7 @@
 			}
 
 			&__title {
-				font-size: 1.25rem;
+				font-size: variables.$text--lg;
 				line-height: 1.75rem;
 				font-weight: 600;
 				color: #111827;
@@ -333,7 +335,7 @@
 				border-radius: 10rem;
 				color: var(--SiteUpdateTag--color);
 				display: inline-flex;
-				font-size: 0.875rem;
+				font-size: variables.$text--xs;
 				font-weight: 500;
 				line-height: 1.25rem;
 				padding: 0.25rem 12px;
@@ -425,7 +427,7 @@
 
 			&__title {
 				margin-bottom: 2rem;
-				font-size: 1.875rem;
+				font-size: variables.$text--2xl;
 				line-height: 2.25rem;
 				font-weight: 700;
 				color: #111827;
@@ -466,7 +468,7 @@
 
 				span {
 					color: #1f2937;
-					font-size: 0.875rem;
+					font-size: variables.$text--xs;
 					font-weight: 500;
 					line-height: 1.25rem;
 					text-align: center;
@@ -481,7 +483,7 @@
 
 			&__title {
 				margin-block-end: 2rem;
-				font-size: 1.875rem;
+				font-size: variables.$text--2xl;
 				line-height: 2.25rem;
 				font-weight: 700;
 				text-align: center;

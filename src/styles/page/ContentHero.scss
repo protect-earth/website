@@ -34,7 +34,7 @@
 			}
 
 			p {
-				font-size: 1.5rem;
+				font-size: variables.$text--xl;
 				line-height: 1.625;
 				margin-inline: auto;
 				max-inline-size: 48rem;
@@ -46,7 +46,7 @@
 		}
 
 		&__title {
-			font-size: 3rem;
+			font-size: variables.$text--3xl;
 			font-weight: bold;
 			line-height: 1;
 			margin-block-end: 1.5rem;

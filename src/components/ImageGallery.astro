@@ -83,7 +83,9 @@ if (!images || images.length === 0) {
 	</div>
 </div>
 
-<style>
+<style lang="scss">
+	@use '../styles/variables';
+
 	/* TODO Remove */
 	.h-8 {
 		height: 2rem;
@@ -208,7 +210,7 @@ if (!images || images.length === 0) {
 	.lightbox-counter {
 		margin-top: 1rem;
 		color: white;
-		font-size: 1.125rem;
+		font-size: variables.$text--md;
 		font-weight: 600;
 		text-align: center;
 		padding: 0.5rem 1rem;

@@ -10,6 +10,13 @@
 		max-inline-size: variables.$max--inline-size;
 	}
 
+	@media screen and (max-width: 48rem) {
+		&s {
+			grid-template-columns: auto;
+			grid-template-rows: repeat(3, 1fr);
+		}
+	}
+
 	text-align: center;
 
 	&__value,
@@ -19,11 +26,12 @@
 	}
 
 	&__value {
-		font-size: 6rem;
+		font-size: variables.$text--display;
 	}
 
 	&__label {
-		font-size: 1.5rem;
+		font-size: variables.$text--xl;
 		margin-block-start: 0.5rem;
 	}
 }
+

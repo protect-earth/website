@@ -1,3 +1,5 @@
+@use '../variables';
+
 @layer page {
 	.SectionIndex {
 		.container {
@@ -15,14 +17,14 @@
 
 			p {
 				max-width: 48rem;
-				font-size: 1.25rem;
+				font-size: variables.$text--lg;
 				line-height: 1.75rem;
 			}
 		}
 
 		&__title {
 			margin-bottom: 1.5rem;
-			font-size: 3rem;
+			font-size: variables.$text--3xl;
 			line-height: 1;
 			font-weight: 700;
 		}
@@ -63,7 +65,7 @@
 
 				strong {
 					margin-bottom: 1rem;
-					font-size: 1.5rem;
+					font-size: variables.$text--xl;
 					line-height: 2rem;
 					font-weight: 700;
 					color: #065f46;

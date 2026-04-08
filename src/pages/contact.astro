@@ -5,7 +5,11 @@ import ContentHero from '../components/ContentHero.astro';
 ---
 
 <Layout title="Contact" className="Contact">
-	<ContentHero title="Get in touch" variant="tertiary">
+	<ContentHero
+		title="Contact Us"
+		imgSrc="/hero-people-families.jpg"
+		imgAlt="Group of people outdoors planting trees on a hillside"
+	>
 		<p>
 			We'd love to hear from you. Whether you're interested in volunteering, have land to offer, or
 			want to support our work, please get in touch.
@@ -13,52 +17,113 @@ import ContentHero from '../components/ContentHero.astro';
 	</ContentHero>
 
 	<div class="PageSection">
-		<div class="container inline-centered readable-width" data-readable-width="larger">
-			<div class="Contact__layout">
-				<div>
-					<h2 class="Contact__subTitle">Contact Information</h2>
+		<div class="container readable-width" data-readable-width="larger">
+			<div class="Contact__mainLayout">
+				<div class="Contact__infoSection">
+					<div>
+						<div class="Contact__list">
+							<address>
+								<div>
+									<strong>Email</strong>
 
-					<div class="Contact__list">
-						<address>
+									<a href={`mailto:${siteConfig.contact.email}`}>{siteConfig.contact.email}</a>
+								</div>
+
+								<div>
+									<strong>Phone</strong>
+
+									<a href={siteConfig.contact.phone.link}>{siteConfig.contact.phone.label}</a>
+								</div>
+							</address>
+
 							<div>
-								<strong>Email</strong>
-
-								<a href={`mailto:${siteConfig.contact.email}`}>{siteConfig.contact.email}</a>
+								<strong>Charity Number</strong>
+								<span>{siteConfig.charityNumber}</span>
 							</div>
+						</div>
+					</div>
 
+					<div>
+						<h2 class="Contact__subTitle">Follow Us</h2>
+						<div class="Contact__list">
 							<div>
-								<strong>Phone</strong>
-
-								<a href={siteConfig.contact.phone.link}>{siteConfig.contact.phone.label}</a>
+								<a href={siteConfig.social.threads} target="_blank" rel="noopener noreferrer">
+									Threads →
+								</a>
 							</div>
-						</address>
-
-						<div>
-							<strong>Charity Number</strong>
-							<span>{siteConfig.charityNumber}</span>
+							<div>
+								<a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer">
+									Instagram →
+								</a>
+							</div>
+							<div>
+								<a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer">
+									Facebook →
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>
 
-				<div>
-					<h2 class="Contact__subTitle">Follow Us</h2>
-					<div class="Contact__list">
-						<div>
-							<a href={siteConfig.social.threads} target="_blank" rel="noopener noreferrer">
-								Threads →
-							</a>
+				<div class="Contact__formSection">
+					<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+						<input type="hidden" name="form-name" value="contact" />
+
+						<!-- Hidden honeypot field for spam protection -->
+						<p style="display: none;">
+							<label>
+								Don't fill this out if you're human: <input name="bot-field" />
+							</label>
+						</p>
+
+						<div class="form-message" data-message-container></div>
+
+						<div class="inline-group">
+							<div>
+								<label for="name">
+									Name <span class="field-required">*</span>
+								</label>
+								<input type="text" id="name" name="name" required />
+							</div>
+
+							<div>
+								<label for="email">
+									Email <span class="field-required">*</span>
+								</label>
+								<input type="email" id="email" name="email" required />
+							</div>
 						</div>
+
 						<div>
-							<a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer">
-								Instagram →
-							</a>
+							<label for="topic">
+								What would you like to discuss with us? <span class="field-required">*</span>
+							</label>
+							<select id="topic" name="topic" required>
+								<option value="">Please select...</option>
+								<option value="planting">Planting</option>
+								<option value="financing">Financing</option>
+								<option value="land">Land</option>
+								<option value="other">Other</option>
+							</select>
 						</div>
+
 						<div>
-							<a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer">
-								Facebook →
-							</a>
+							<label for="message">
+								Message <span class="field-required">*</span>
+							</label>
+							<textarea id="message" name="message" rows="6" required></textarea>
 						</div>
-					</div>
+
+						<button type="submit">Send Message</button>
+
+						<footer>
+							<small>
+								We'll get back to you as soon as possible. All fields marked with <span
+									class="field-required">*</span
+								> are required.
+							</small>
+						</footer>
+					</form>
 				</div>
 			</div>
 		</div>
@@ -69,18 +134,77 @@ import ContentHero from '../components/ContentHero.astro';
 		<div class="PageSection__content">
 			<nav class="PanelLinks">
 				<a href="/get-involved/people-families" class="PanelLinks__link">
-					<strong class="text-xl font-bold mb-2">Volunteer</strong>
+					<strong class="font-bold mb-2">Volunteer</strong>
 					<span>Join us at tree planting events and woodland maintenance days</span>
 				</a>
 				<a href="/act-now/general-donation" class="PanelLinks__link">
-					<strong class="text-xl font-bold mb-2">Donate</strong>
+					<strong class="font-bold mb-2">Donate</strong>
 					<span> Support our work creating and restoring woodlands across the UK </span>
 				</a>
 				<a href="/get-involved/landowners" class="PanelLinks__link">
-					<strong class="text-xl font-bold mb-2">Landowners</strong>
+					<strong class="font-bold mb-2">Landowners</strong>
 					<span>Have land you'd like to see transformed into woodland?</span>
 				</a>
 			</nav>
 		</div>
 	</section>
 </Layout>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const form = document.querySelector('form[name="contact"]') as HTMLFormElement | null;
+		const messageContainer = document.querySelector(
+			'[data-message-container]',
+		) as HTMLElement | null;
+		const submitButton = form?.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+
+		if (!form || !messageContainer || !submitButton) return;
+
+		form.addEventListener('submit', async (e) => {
+			e.preventDefault();
+
+			// Disable submit button and show loading state
+			submitButton.disabled = true;
+			const originalText = submitButton.textContent;
+			submitButton.textContent = 'Sending...';
+
+			// Hide any previous messages
+			messageContainer.removeAttribute('data-status');
+			messageContainer.textContent = '';
+
+			try {
+				const formData = new FormData(form);
+
+				const response = await fetch('/', {
+					method: 'POST',
+					headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+					body: new URLSearchParams(formData as any).toString(),
+				});
+
+				if (response.ok) {
+					// Show success message with animation
+					messageContainer.textContent =
+						"Thank you! Your message has been sent successfully. We'll get back to you soon.";
+					messageContainer.setAttribute('data-status', 'success');
+
+					// Reset form
+					form.reset();
+
+					// Scroll to message
+					messageContainer.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+				} else {
+					throw new Error('Form submission failed');
+				}
+			} catch (error) {
+				// Show error message
+				messageContainer.textContent =
+					'Sorry, something went wrong. Please try again or email us directly at help@protect.earth.';
+				messageContainer.setAttribute('data-status', 'error');
+			} finally {
+				// Re-enable submit button
+				submitButton.disabled = false;
+				submitButton.textContent = originalText;
+			}
+		});
+	});
+</script>
