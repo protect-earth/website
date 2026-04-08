@@ -31,7 +31,6 @@ const { page } = Astro.props as { page: Page };
 			<div class="events-list">
 				{page.data.map(({ slug, data: article }) => <EventSummary {...{ ...article, slug }} />)}
 			</div>
-
 			<!-- Pagination Controls -->
 			{page.lastPage > 1 && <Pagination {...page} />}
 		</div>
@@ -39,3 +38,12 @@ const { page } = Astro.props as { page: Page };
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.events-list {
+		display: flex;
+		flex-flow: column;
+		gap: 4rem;
+		align-items: flex-start;
+	}
+</style>

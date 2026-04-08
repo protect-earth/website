@@ -1,36 +1,140 @@
 ---
+import { isSameDay } from '../helpers';
 import type { HTMLTag, Polymorphic } from 'astro/types';
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
-const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = Astro.props;
+const {
+	description,
+	startDate,
+	endDate,
+	slug,
+	address,
+	map,
+	ics,
+	googleCal,
+	thumbnail,
+	title,
+	titleAs: Tag = 'h2',
+} = Astro.props;
 ---
 
-<article class="Event">
-	<header class="Event__header">
-		<Tag class="Event__title">{title}</Tag>
+<article class="card">
+	<div class="stack">
+		<Tag>{title}</Tag>
 
-		<time class="Event__date" datetime={pubDate.toISOString()}>
+		{description && <p>{description}</p>}
+
+		<ul class="meta">
 			{
-				pubDate.toLocaleDateString('en-GB', {
-					day: 'numeric',
-					month: 'long',
-					year: 'numeric',
-				})
+				isSameDay(startDate, endDate) ? (
+					<li>
+						<time datetime={startDate.toISOString()}>
+							{startDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+					</li>
+				) : (
+					<li>
+						<time datetime={startDate.toISOString()}>
+							{startDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+						&mdash;
+						<time datetime={endDate.toISOString()}>
+							{endDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+					</li>
+				)
 			}
-		</time>
-	</header>
 
-	<aside class="Event__thumbnail">
-		{thumbnail && <img src={thumbnail} alt="" />}
-	</aside>
+			<li>
+				{
+					startDate && (
+						<time>
+							{startDate.toLocaleTimeString('en-GB', {
+								hour: '2-digit',
+								minute: '2-digit',
+							})}
+						</time>
+					)
+				}
 
-	{
-		description && (
-			<div class="Event__description">
-				<p>{description}</p>
-			</div>
-		)
+				{startDate && endDate && <>&mdash;</>}
+
+				{
+					endDate && (
+						<time>
+							{endDate.toLocaleTimeString('en-GB', {
+								hour: '2-digit',
+								minute: '2-digit',
+							})}
+						</time>
+					)
+				}
+			</li>
+
+			<li>
+				{address}
+			</li>
+		</ul>
+
+		<a class="button block-link" href={`/events/${slug}`}>View event</a>
+	</div>
+
+	<figure class="thumbnail">
+		{thumbnail && <img src={thumbnail} alt={title} />}
+	</figure>
+</article>
+
+<style>
+	@layer overrides {
+		h2,
+		p {
+			text-align: left;
+		}
 	}
 
-	<a class="Event__link block-link" href={`/events/${slug}`}>Read more</a>
-</article>
+	.card {
+		display: flex;
+		flex-flow: row-reverse;
+		justify-content: flex-start;
+		gap: 2rem;
+
+		@media screen and (max-width: 48rem) {
+			flex-flow: column-reverse;
+		}
+	}
+
+	.stack {
+		display: flex;
+		flex-flow: column;
+		align-items: flex-start;
+	}
+
+	.stack > * + * {
+		margin-block-start: 1rem;
+	}
+
+	.meta {
+		text-align: left;
+	}
+
+	.thumbnail {
+		aspect-ratio: 1/1;
+		overflow: hidden;
+		max-inline-size: 24rem;
+		@media screen and (max-width: 48rem) {
+			max-inline-size: 100%;
+		}
+	}
+</style>
