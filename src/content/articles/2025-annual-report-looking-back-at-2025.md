@@ -1,8 +1,8 @@
 ---
-title: "2025 Annual Report - Looking Back At 2025"
-description: "In the midst of the fifth planting season, Protect Earth is looking back at the 2024/25 season, to take a look at all our sites. With 60 sites across the UK, Protect Earth has been pushing forward its"
+title: '2025 Annual Report - Looking Back At 2025'
+description: 'In the midst of the fifth planting season, Protect Earth is looking back at the 2024/25 season, to take a look at all our sites. With 60 sites across the UK, Protect Earth has been pushing forward its'
 pubDate: 2026-01-07T15:47:58.000Z
-author: "grice.elena.k@gmail.com"
+author: 'grice.elena.k@gmail.com'
 ---
 
 **Introduction**
@@ -118,14 +118,12 @@ Site: As a recreation ground, it could be significantly less polluted / compacte
 **Best Performing Sites Conclusions**
 
 There is a wide variation in the types of sites that have done particularly well, but there are a few common themes that show up across some or all of the sites.
-- 
-The landowner is engaged in the work, and puts a lot of care and effort into the land
 
-- 
-A lack of damage by deer, squirrels, sheep or other animals. This could be linked to point one, and/or luck
+- The landowner is engaged in the work, and puts a lot of care and effort into the land
 
-- 
-Three of the sites are in Southwest England and Wales, areas that promote good vegetative growth with a mild, damp Atlantic climate
+- A lack of damage by deer, squirrels, sheep or other animals. This could be linked to point one, and/or luck
+
+- Three of the sites are in Southwest England and Wales, areas that promote good vegetative growth with a mild, damp Atlantic climate
 
 Three out of the five top sites were planted in 23/24, so there is still a chance that the survival rates could drop. However, if the sites continued to be cared for in the way they are at the moment, the high survival rates should continue. However, for Howard Court and Hitchin, as they had earlier planting season, they may have been restocked previous to the 24/25 season - that data is currently unavailable.
 
@@ -194,17 +192,14 @@ Site: Farm surrounded by big fields, some hedgerows. Exposed to significant wind
 **Worst Performing Sites Conclusions**
 
 There are some strong indicators across the sites that clearly show the issues faced.
-- 
-Bracken and himalayan balsam choking out the saplings
 
-- 
-Failure to keep livestock out
+- Bracken and himalayan balsam choking out the saplings
 
-- 
-Sites that are exposed to a lot of wind really struggle to get the trees away
+- Failure to keep livestock out
 
-- 
-There is also a theme of adverse weather events that could impact success, particularly on the sites in Oxford and East Ayrshire
+- Sites that are exposed to a lot of wind really struggle to get the trees away
+
+- There is also a theme of adverse weather events that could impact success, particularly on the sites in Oxford and East Ayrshire
 
 Another issue lying behind some of these problems is that the landowners are not as engaged or well-informed, or resourced enough to provide the necessary care under difficult conditions to ensure success of the planting.
 

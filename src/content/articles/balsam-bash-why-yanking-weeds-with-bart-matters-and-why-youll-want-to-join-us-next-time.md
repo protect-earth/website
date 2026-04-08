@@ -1,12 +1,12 @@
 ---
-title: "Balsam Bash: Why Yanking Weeds with BART Matters (and Why You’ll Want to Join Us Next Time)"
-description: "Join Bristol Avon River Trust for a day-long effort restoring riverbanks by removing invasive Himalayan balsam from the River Frome."
+title: 'Balsam Bash: Why Yanking Weeds with BART Matters (and Why You’ll Want to Join Us Next Time)'
+description: 'Join Bristol Avon River Trust for a day-long effort restoring riverbanks by removing invasive Himalayan balsam from the River Frome.'
 pubDate: 2025-06-07T19:36:07.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/balsam-bash-why-yanking-weeds-with-bart-matters-and-why-youll-want-to-join-us-next-time.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/balsam-bash-why-yanking-weeds-with-bart-matters-and-why-youll-want-to-join-us-next-time.jpg'
 ---
 
-On Sunday, 6th July, a merry band of weed-wranglers will descend upon the River Frome, sleeves rolled, boots muddy, and eyes on one plant in particular: the invasive *Himalayan balsam*. Organised by the good people at [Bristol Avon River Trust](https://bristolavonriverstrust.org/) (BART), this day-long effort is all about restoring the riverbanks by removing this notorious invader—one armful at a time.
+On Sunday, 6th July, a merry band of weed-wranglers will descend upon the River Frome, sleeves rolled, boots muddy, and eyes on one plant in particular: the invasive _Himalayan balsam_. Organised by the good people at [Bristol Avon River Trust](https://bristolavonriverstrust.org/) (BART), this day-long effort is all about restoring the riverbanks by removing this notorious invader—one armful at a time.
 
 So why all the fuss about Himalayan balsam? Well, it might look innocent enough with its pink flowers and tall stalks, but it spreads like gossip in a small village. Worse, as an invasive species with no natural competitors, it outcompetes native plants and weakens riverbanks, contributing to erosion. Then, in the winter, it leaves the soil bare and ready to wash away. Not ideal.
 

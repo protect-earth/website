@@ -1,9 +1,9 @@
 ---
-title: "South Molton Planting"
-notionId: "2f1e7dc6-657c-8097-aa9c-e6c90f4fea44"
-type: "Tree Planting"
-date: "2023-12-10T00:00:00.000Z"
-siteNotionId: "332d699e-85cb-4d5f-816b-7d08d4180544"
+title: 'South Molton Planting'
+notionId: '2f1e7dc6-657c-8097-aa9c-e6c90f4fea44'
+type: 'Tree Planting'
+date: '2023-12-10T00:00:00.000Z'
+siteNotionId: '332d699e-85cb-4d5f-816b-7d08d4180544'
 treesPlanted: 700
 ---
 
@@ -15,9 +15,5 @@ Collaborating with Protect Earth, their ambitious plan spans the next two years,
 
 This undertaking reflects a dedication to sustainable land management and signifies a harmonious coexistence between equestrian pursuits and the flourishing natural world.
 
-
-
 tCO2 after 50 years: 238
 Species planted: Hornbeam, Hazel, Common Oak, Goat Willow, Rowan, Alder, Downy Birch, Small-leaved Lime, Hawthorn, Aspen, Wild Cherry, Guilder Rose, Crab Apple, Blackthorn
-
-

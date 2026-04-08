@@ -1,9 +1,9 @@
 ---
-title: "What is Woodland Management and Why It Matters"
-description: "Woodlands nurture plants, wildlife, communities and the planet. Woodland management is the proactive care essential for preserving UK woodland habitats."
+title: 'What is Woodland Management and Why It Matters'
+description: 'Woodlands nurture plants, wildlife, communities and the planet. Woodland management is the proactive care essential for preserving UK woodland habitats.'
 pubDate: 2024-10-29T07:54:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/what-is-woodland-management-and-why-it-matters.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/what-is-woodland-management-and-why-it-matters.jpg'
 ---
 
 Woodlands are invaluable landscapes in the UK, nurturing plants, diverse wildlife, human communities, and the planet. Through woodland management, organisations like Protect Earth help sustain these natural spaces so they thrive, combatting the effects of climate change.

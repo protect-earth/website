@@ -1,20 +1,20 @@
 ---
-title: "Which species of trees have we planted?"
-description: "All projects have at least 8 species, some have 16. Overall Protect Earth has planted 46 different species, making up 38,580 saplings between 2020-2022."
+title: 'Which species of trees have we planted?'
+description: 'All projects have at least 8 species, some have 16. Overall Protect Earth has planted 46 different species, making up 38,580 saplings between 2020-2022.'
 pubDate: 2022-10-28T11:00:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/which-species-of-trees-have-we-planted.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/which-species-of-trees-have-we-planted.jpg'
 ---
 
 As a young charity we have been growing fast, planting 4,000 trees in our first planting season, then 35,000 trees in the second season. Planting season runs [October to March](https://www.protect.earth/blog/why-protect-earth-plant-trees-in-winter), and we were looking forward to some calm time to focus on writing about what had been done. Nope! We had to protect against wildfire at [High Wood](https://www.protect.earth/projects/high-wood) by clearing forestry waste that people were setting fires in… then there were [thousands of saplings to water](https://www.protect.earth/blog/climate-crisis-heatwaves-vs-tree-planting), and now we’re out planting again. Ahhh!
 
-Let’s take a quick break to look at what has been planted already, as a common question we get is “What species do you plant? Is it a fast growing type, or something slower but better for long term sequestration?” 
+Let’s take a quick break to look at what has been planted already, as a common question we get is “What species do you plant? Is it a fast growing type, or something slower but better for long term sequestration?”
 
 Which one species? Oh no no! All projects have at least 8 species, and some projects have as many as 16 species. Overall Protect Earth has planted 46 different species, making up the 38,580 saplings total we’ve planted between 2020-2022.
 
 ## Top 10 Species
 
-Our ecologists have several reasons for picking different species depending on the soil, water, exposure, history, climate projections, and you can read about that over in [*Right Tree in the Right Place... Right Now*](https://www.protect.earth/blog/right-tree-right-place-right-now), but some species are a staple that will show up at most sites.
+Our ecologists have several reasons for picking different species depending on the soil, water, exposure, history, climate projections, and you can read about that over in [_Right Tree in the Right Place... Right Now_](https://www.protect.earth/blog/right-tree-right-place-right-now), but some species are a staple that will show up at most sites.
 
 **1.) Hawthorn**
 
@@ -60,7 +60,7 @@ Planted: 1,755 (6%)
 
 Hornbeam is majestic, can live to 300 years, and holds onto its dead leaves in winter providing a habitat for all sorts of wildlife. Hornbeam is being recommended as a replacement for Ash trees lost to dieback, and it is another tough tree that is far more drought tolerant than many other native British trees.
 
-**7.) Downy Birch**	 
+**7.) Downy Birch**
 
 Planted: 1,536 (5.2%)
 
@@ -91,59 +91,42 @@ Crab apples are shorter trees, growing between 4 and 12 meters tall. Their dense
 Although most sites will have those common species, there are lots of other species spread across our sites, even if its just a handful for diversity.
 
 Here’s everything we have tracked in our database.
-- 
-Aspen: 1,018 (3.5%)
 
-- 
-Wild Cherry: 995 (3.4%
+- Aspen: 1,018 (3.5%)
 
-- 
-Scots Pine: 951 (3.2%)
+- Wild Cherry: 995 (3.4%
 
-- 
-Black Poplar: 895 (3%)
+- Scots Pine: 951 (3.2%)
 
-- 
-Alder Buckthorn: 779 (2.6%)
+- Black Poplar: 895 (3%)
 
-- 
-Bird Cherry: 721 (2.4%)
+- Alder Buckthorn: 779 (2.6%)
 
-- 
-Guelder Rose: 686 (2.3%)
+- Bird Cherry: 721 (2.4%)
 
-- 
-Blackthorn: 640 (2.2%)
+- Guelder Rose: 686 (2.3%)
 
-- 
-Sessile Oak: 579 (2.0%)
+- Blackthorn: 640 (2.2%)
 
-- 
-Holly: 488 (1.7%)
+- Sessile Oak: 579 (2.0%)
 
-- 
-Dogwood: 425 (1.4%)
+- Holly: 488 (1.7%)
 
-- 
-Small-leaved Lime: 324 (1%)
+- Dogwood: 425 (1.4%)
 
-- 
-Goat Willow: 301 (1%)
+- Small-leaved Lime: 324 (1%)
 
-- 
-Swedish Whitebeam: 300 (1%)
+- Goat Willow: 301 (1%)
 
-- 
-Privet: 296 (1.0%)
+- Swedish Whitebeam: 300 (1%)
 
-- 
-Dog Rose: 214 (0.7%)
+- Privet: 296 (1.0%)
 
-- 
-Spindle: 200 (0.6%)
+- Dog Rose: 214 (0.7%)
 
-- 
-Grey Alder: 153 (0.5%)
+- Spindle: 200 (0.6%)
+
+- Grey Alder: 153 (0.5%)
 
 Then there’s handfuls of Sweet chestnut, Grey Willow, Whitebeam, Elder, Beech, Spindleberry, Wayfaring Tree, Box, Wild Service Tree, Osier Willow, Cherry Plum, Crack Willow, Wych Elm, and one single Horse Chestnut.
 

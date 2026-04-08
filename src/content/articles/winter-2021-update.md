@@ -1,19 +1,18 @@
 ---
-title: "Winter 2021 Update"
-description: "Here’s what we’ve been up to lately."
+title: 'Winter 2021 Update'
+description: 'Here’s what we’ve been up to lately.'
 pubDate: 2021-12-19T18:18:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/winter-2021-update.png"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/winter-2021-update.png'
 ---
 
-Welcome to our festive update - it’s almost time for Christmas and we have some exciting announcements! 
+Welcome to our festive update - it’s almost time for Christmas and we have some exciting announcements!
 
 ### Upcoming Events
 
-**Tree planting in Bubbenhall, Coventry
-***Sat****&nbsp;****11 December 2021 10:00 - Sun 12 December 2021 15:30***
+**Tree planting in Bubbenhall, Coventry \***Sat\***\*&nbsp;\*\***11 December 2021 10:00 - Sun 12 December 2021 15:30\*\*\*
 
-**Come and join us in the beautiful countryside of Warwickshire, near a small village called Bubbenhall. We need your help to plant 1,000 trees, and lay some hedgerow to give wildlife a corridor all around the farm. It doesn't matter if you've never planted a tree before - most of our volunteers never have.
+\*\*Come and join us in the beautiful countryside of Warwickshire, near a small village called Bubbenhall. We need your help to plant 1,000 trees, and lay some hedgerow to give wildlife a corridor all around the farm. It doesn't matter if you've never planted a tree before - most of our volunteers never have.
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470066-677MTRWIZTJC4WY4RNOM/526e4acc-31f3-8da9-6914-798a5f3faa76.png?format=original)
 
@@ -34,9 +33,9 @@ Using entirely cardboard guards, this site has been developed after consultation
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470070-M8XUARO2GNVABTIVBHBD/4255a4bb-0240-e06f-aa95-34798c94934a.png?format=original)
 
-**Pantpurlais - Phase 2
+\*\*Pantpurlais - Phase 2
 
-**We recently added 630 new trees to Pantpurlais, bringing the total of trees on the farm to 1317.
+\*\*We recently added 630 new trees to Pantpurlais, bringing the total of trees on the farm to 1317.
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470075-6YG541TJE9S0HGP1MD2O/2994f0e9-3fd7-4b3e-b8fd-87dc10f51e85.jpg?format=original)
 
@@ -55,7 +54,7 @@ For the launch of our Christmas gifting service, coming in a few days. All will 
 Yours sincerely,
 The Protect Earth Team
 
-#### **Thank you for reading. If you enjoyed this blog and would like to hear more about our work, please subscribe to our mailing list. By doing so, you’ll receive our latest updates direct to your inbox!** 
+#### **Thank you for reading. If you enjoyed this blog and would like to hear more about our work, please subscribe to our mailing list. By doing so, you’ll receive our latest updates direct to your inbox!**
 
               Email Address
 

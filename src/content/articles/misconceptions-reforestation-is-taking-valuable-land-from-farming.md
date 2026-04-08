@@ -1,14 +1,14 @@
 ---
-title: "Misconceptions: Reforestation is taking valuable land from farming"
-description: "The media is perpetuating a story of greed and resultant loss of vital food growing resources in the UK. The latest is from our Chair who tackles this misconception. Read on!"
+title: 'Misconceptions: Reforestation is taking valuable land from farming'
+description: 'The media is perpetuating a story of greed and resultant loss of vital food growing resources in the UK. The latest is from our Chair who tackles this misconception. Read on!'
 pubDate: 2023-09-11T06:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/misconceptions-reforestation-is-taking-valuable-land-from-farming.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/misconceptions-reforestation-is-taking-valuable-land-from-farming.jpg'
 ---
 
 ### Reality: Groups like Protect Earth work with farmers to increase biodiversity on their land, which is proven to increase crop yield and reduce the costs of caring for farm animals. When we buy land, we look at taking on land that is not productive. We have no obligation to make money every quarter, meaning it makes more sense for everyone to work together, us planting less productive places and letting nature take its course over several decades.
 
-***This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth, and is part of a series of posts discussing the grey areas in tree planting and forestry.***
+**_This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth, and is part of a series of posts discussing the grey areas in tree planting and forestry._**
 
 There is a common narrative in the media that London based hedge-funds are buying up entire Welsh farms (including the buildings) and stuffing the fields full of whatever will get the most carbon credits for them to sell, with no consideration towards whether they're planting what's most suitable for the soil. The narrative continues saying these hedge-funds-cum-mafiosos care nought for local communities that could be affected and make no attempt towards creating local jobs.
 

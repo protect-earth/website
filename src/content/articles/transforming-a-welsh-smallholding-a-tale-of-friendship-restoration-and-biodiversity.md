@@ -1,9 +1,9 @@
 ---
-title: "Transforming a Welsh Smallholding: A Tale of Friendship, Restoration, and Biodiversity"
-description: "Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be..."
+title: 'Transforming a Welsh Smallholding: A Tale of Friendship, Restoration, and Biodiversity'
+description: 'Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be...'
 pubDate: 2024-05-27T06:59:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg'
 ---
 
 Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be one family.
@@ -12,7 +12,6 @@ As a family, all four wanted a place together where they could enjoy themselves 
 
 Having bought some land, they've pulled out the vision board to start exploring what their new smallholding can look like for them and their children and what part they can play in their new community - ecologically and as neighbours.
 
-
 ## About Team DEFT and their Welsh smallholding
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468594-5AVM2BOQ3WIQB65VJBC0/IMG_2470.jpg?format=original)
@@ -20,8 +19,9 @@ Having bought some land, they've pulled out the vision board to start exploring 
 ### Gift a Legacy: Trees and Hedges for Timeless Friendships
 
        [caption id="" align="alignnone" width="5292"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468599-RK4Q5ZJYNALSCKQES4V3/soyth+lodge+trees-97.jpg?format=original)
-  Give a gift that grows with time, and celebrate your friendships with a gift that lasts: trees and hedges. [/caption] 
+Give a gift that grows with time, and celebrate your friendships with a gift that lasts: trees and hedges. [/caption]
 
 When Team DEFT (Dean, Emma, Frank, and Tracey) decided to buy a smallholding, the list of criteria was stark: the land had to be big enough for two families to live on. The question of how big and where the land was was very much to be determined.
 
@@ -55,10 +55,9 @@ Beneath the sheltering boughs of established elders, new saplings shall not take
 
 Alder, Downy Birch, and Aspen have found their home in dampened soils.
 
-Frank couldn't contain his excitement over the history and stories of the small holding they are now stewards of. He guided Protect Earth through the house, pointing out its "country charms" with a keen architect's eye. 
+Frank couldn't contain his excitement over the history and stories of the small holding they are now stewards of. He guided Protect Earth through the house, pointing out its "country charms" with a keen architect's eye.
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468603-RHURTB4E2C6EL7QN8ABI/IMG_2479.jpg?format=original)
-
 
 The rest of Team DEFT shared stories of the memories they'd already made at their small holding. It's a happy place that will make many more great memories.
 
@@ -95,7 +94,6 @@ Team DEFT has made its way into the local town of Aberaeron to share a few pints
 One of their neighbours is always keen on putting bee hives where land is available, and Team DEFT is happy to give them space in their smallholding - a biodiversity win-win.
 
 Across the road from Trefaes Uchaf is another intrepid soul moving from the world of business into the world of agriculture. Team DEFT hopes to work together, establishing a wider circle of native plants and sharing food production.
-
 
 Locals and neighbours are easily charmed by Team DEFT and supportive of their plans to rejuvenate Trefaes Uchaf with its obvious nods to the land's heritage.
 

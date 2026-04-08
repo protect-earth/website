@@ -1,9 +1,9 @@
 ---
-title: "Concepts of Mental, Physical, Social, and Equity Health from Greenspaces"
+title: 'Concepts of Mental, Physical, Social, and Equity Health from Greenspaces'
 description: "Examining the research on green space's impact on health - mental, physical, social, and social equity. Not everyone understands the benefits of being outdoors."
 pubDate: 2024-07-25T14:41:46.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/concepts-of-mental-physical-social-and-equity-health-from-greenspaces.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/concepts-of-mental-physical-social-and-equity-health-from-greenspaces.jpg'
 ---
 
 We're all told of the benefits that green spaces bring.
@@ -89,20 +89,15 @@ If you can't join a planting day but recognise the benefits of green spaces and 
 You can buy trees or hedgerows. Every tree and hedgerow you buy will be planted at our projects across the UK, building the green spaces people need for their mental and physical health.
 
 ## Sources
-- 
-[https://www.ons.gov.uk/economy/environmentalaccounts/articles/amillionfewerpeoplearegaininghealthbenefitsfromnaturesince2020/2023-11-27](https://www.ons.gov.uk/economy/environmentalaccounts/articles/amillionfewerpeoplearegaininghealthbenefitsfromnaturesince2020/2023-11-27)
 
-- 
-[https://www.greenspacescotland.org.uk/health](https://www.greenspacescotland.org.uk/health)
+- [https://www.ons.gov.uk/economy/environmentalaccounts/articles/amillionfewerpeoplearegaininghealthbenefitsfromnaturesince2020/2023-11-27](https://www.ons.gov.uk/economy/environmentalaccounts/articles/amillionfewerpeoplearegaininghealthbenefitsfromnaturesince2020/2023-11-27)
 
-- 
-[https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/](https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/)
+- [https://www.greenspacescotland.org.uk/health](https://www.greenspacescotland.org.uk/health)
 
-- 
-[https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
+- [https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/](https://www.mind.org.uk/information-support/tips-for-everyday-living/nature-and-mental-health/how-nature-benefits-mental-health/)
 
-- 
-[https://assets.publishing.service.gov.uk/media/5f202e0de90e071a5a924316/Improving_access_to_greenspace_2020_review.pdf](https://assets.publishing.service.gov.uk/media/5f202e0de90e071a5a924316/Improving_access_to_greenspace_2020_review.pdf)
+- [https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 
-- 
-[https://oem.bmj.com/content/80/2/111](https://oem.bmj.com/content/80/2/111)
+- [https://assets.publishing.service.gov.uk/media/5f202e0de90e071a5a924316/Improving_access_to_greenspace_2020_review.pdf](https://assets.publishing.service.gov.uk/media/5f202e0de90e071a5a924316/Improving_access_to_greenspace_2020_review.pdf)
+
+- [https://oem.bmj.com/content/80/2/111](https://oem.bmj.com/content/80/2/111)

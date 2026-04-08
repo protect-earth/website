@@ -11,4 +11,3 @@ images:
   - ../../assets/sites/shillingford/3.jpg
   - ../../assets/sites/shillingford/4.jpg
 ---
-

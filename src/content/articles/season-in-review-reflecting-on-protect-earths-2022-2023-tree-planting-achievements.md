@@ -1,9 +1,9 @@
 ---
 title: "A Season in Review: Reflecting on Protect Earth's Tree Planting Achievements in 2022/23"
-description: "Protect Earth’s goal is to do more for the planet. We’ve put boots to ground to do so and now we’re coming clean with how much habitat we’ve restored and where. Dive in and enjoy!"
+description: 'Protect Earth’s goal is to do more for the planet. We’ve put boots to ground to do so and now we’re coming clean with how much habitat we’ve restored and where. Dive in and enjoy!'
 pubDate: 2023-09-19T06:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg'
 ---
 
 As we look forward to a new planting season starting soon, it's time to reflect on the 2022/2023 planting season and share what was achieved.
@@ -17,8 +17,9 @@ So, let's embark on this green recap and celebrate the strides we've made and th
 ## How many plants Protect Earth planted in the 2022/ 23 season
 
        [caption id="" align="alignnone" width="2316"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469289-RBTYDLILOR5XKBBXOBGE/IMG_8955.jpg?format=original)
-   Protect Earth’s Chair, Phil Sturgeon, pleased with growth!  [/caption] 
+Protect Earth’s Chair, Phil Sturgeon, pleased with growth! [/caption]
 
 In the 2022/23 season, Protect Earth reached a remarkable milestone, planting 25,671 trees and shrubs!
 

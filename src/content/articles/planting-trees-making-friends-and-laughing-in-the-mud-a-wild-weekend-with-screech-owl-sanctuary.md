@@ -1,12 +1,12 @@
 ---
-title: "Planting Trees, Making Friends, and Laughing in the Mud: A Wild Weekend with Screech Owl Sanctuary"
-description: "Screech Owl Sanctuary secured woodland creation funding and invited Protect Earth for a bit of tree planting. Our response was somewhere between gleeful and muddy."
+title: 'Planting Trees, Making Friends, and Laughing in the Mud: A Wild Weekend with Screech Owl Sanctuary'
+description: 'Screech Owl Sanctuary secured woodland creation funding and invited Protect Earth for a bit of tree planting. Our response was somewhere between gleeful and muddy.'
 pubDate: 2025-05-16T23:05:20.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/planting-trees-making-friends-and-laughing-in-the-mud-a-wild-weekend-with-screech-owl-sanctuary.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/planting-trees-making-friends-and-laughing-in-the-mud-a-wild-weekend-with-screech-owl-sanctuary.jpg'
 ---
 
-If you've been hanging around Protect Earth for a while, you'll know the name [Screech Owl Sanctuary](https://screechowlsanctuary.co.uk/) pops up more often than a hedgehog in a compost heap. Nestled near Cornwall, they've long been our feathered favourite—loyal collaborators, owl whisperers, and all-round good eggs. So when they rang us up and said, "We've secured woodland creation funding—fancy a bit of tree planting?" our response was somewhere between a gleeful *yes* and a muddy sprint to our wellies.
+If you've been hanging around Protect Earth for a while, you'll know the name [Screech Owl Sanctuary](https://screechowlsanctuary.co.uk/) pops up more often than a hedgehog in a compost heap. Nestled near Cornwall, they've long been our feathered favourite—loyal collaborators, owl whisperers, and all-round good eggs. So when they rang us up and said, "We've secured woodland creation funding—fancy a bit of tree planting?" our response was somewhere between a gleeful _yes_ and a muddy sprint to our wellies.
 
 ## **A Sanctuary of Saplings**
 

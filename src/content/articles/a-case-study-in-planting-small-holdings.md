@@ -1,9 +1,9 @@
 ---
-title: "A case study in planting small holdings"
-description: "This is a case study about Peter - a smallholder in rural west Wales - and how Protect Earth was able to help Peter bring his goal of increasing biodiversity on his seven acres to life."
+title: 'A case study in planting small holdings'
+description: 'This is a case study about Peter - a smallholder in rural west Wales - and how Protect Earth was able to help Peter bring his goal of increasing biodiversity on his seven acres to life.'
 pubDate: 2023-09-04T06:28:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/a-case-study-in-planting-small-holdings.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/a-case-study-in-planting-small-holdings.jpg'
 ---
 
 My friend, Pete, told me one evening he'd like to turn his seven acres into a more natural habitat but wasn't sure how to go about it. "Don't worry", I told him, "Leave it with me, and I'll connect you with Protect Earth".
@@ -19,38 +19,31 @@ Pete lives in rural west Wales. It's beautiful - loads of space, beautiful rugge
 The process of surveying Pete's land and ensuring it was suitable for planting and what species to plant was relatively straightforward.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469328-EY6GB3KEFB8BMZSML63S/IMG_4152.jpg?format=original)
-   Bracken and steep valley hills define this part of Wales! It’s not the type of land, you want to leave something at the top of the hill and have to traipse back up! But, in years to come, the view will be decidedly transformed!  [/caption] 
+Bracken and steep valley hills define this part of Wales! It’s not the type of land, you want to leave something at the top of the hill and have to traipse back up! But, in years to come, the view will be decidedly transformed! [/caption]
 
 Steve looked at a few maps to understand the topography and water sources. He looked at Google Maps and Earth to better understand the site. And he researched the type of soil around Pete's land. Using all that information, he put together a list of species [best suited](https://www.protect.earth/blog/right-tree-right-place-right-now) to the land and how densely they should be planted.
 
 Steve's suggestions, after his survey was to plant:
-- 
-Alder
 
-- 
-Aspen
+- Alder
 
-- 
-Blackthorn
+- Aspen
 
-- 
-Crab apple
+- Blackthorn
 
-- 
-Downy Birch
+- Crab apple
 
-- 
-Hazel
+- Downy Birch
 
-- 
-Sessile Oak
+- Hazel
 
-- 
-Rowan
+- Sessile Oak
 
-- 
-Small-leaved Lime
+- Rowan
+
+- Small-leaved Lime
 
 ## How will I get the trees - who pays for them?
 
@@ -77,16 +70,13 @@ The short answer is to enjoy it! Protect Earth - in the form of me - went back t
 If you have a piece of land - large or small - that you'd like to develop its biodiversity but don't know where to start, we do!
 
 Protect Earth can help with any of these:
-- 
-Planning the right species to go into your space,
 
-- 
-Finding funding,
+- Planning the right species to go into your space,
 
-- 
-The paperwork for funding, and
+- Finding funding,
 
-- 
-Planting
+- The paperwork for funding, and
+
+- Planting
 
 Contact us - we'd be very happy to help you bring your ideas to life and see them flourish!

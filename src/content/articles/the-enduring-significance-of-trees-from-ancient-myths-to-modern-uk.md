@@ -1,9 +1,9 @@
 ---
-title: "The Enduring Significance of Trees: From Ancient Myths to Modern UK"
-description: "Trees have held cultural and religious importance for millennia. This piece looks at the historical cultural influences on trees in the UK and perceptions towards them in modern society."
+title: 'The Enduring Significance of Trees: From Ancient Myths to Modern UK'
+description: 'Trees have held cultural and religious importance for millennia. This piece looks at the historical cultural influences on trees in the UK and perceptions towards them in modern society.'
 pubDate: 2023-11-06T07:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-enduring-significance-of-trees-from-ancient-myths-to-modern-uk.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-enduring-significance-of-trees-from-ancient-myths-to-modern-uk.jpg'
 ---
 
 A few weeks back, the world was shaken by the sudden fall and possible death of a venerable tree, which garnered international headlines.
@@ -199,35 +199,25 @@ What about you? Do you have any special memories involving trees? Do certain tre
 Of course, we at Protect Earth hold trees dear - cultural icons like the Sycamore Gap tree and the trees we plant seasonally. If you, too, value trees great and small, please consider [donating](https://www.protect.earth/donate) to our biodiversity fund, enabling us to continue planting trees that may one day become landscape icons like the Sycamore Gap tree was.
 
 ## Sources
-- 
-[https://usurj.journals.usask.ca/article/view/279](https://usurj.journals.usask.ca/article/view/279)
 
-- 
-[https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/](https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/)
+- [https://usurj.journals.usask.ca/article/view/279](https://usurj.journals.usask.ca/article/view/279)
 
-- 
-[https://www.fao.org/3/y9882e/y9882e07.pdf](https://www.fao.org/3/y9882e/y9882e07.pdf)
+- [https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/](https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/)
 
-- 
-[https://www.betterplaceforests.com/blog/our-forests/symbolism-of-trees-spiritual-meanings-across-history/](https://www.betterplaceforests.com/blog/our-forests/symbolism-of-trees-spiritual-meanings-across-history/)
+- [https://www.fao.org/3/y9882e/y9882e07.pdf](https://www.fao.org/3/y9882e/y9882e07.pdf)
 
-- 
-[https://www.cpre.org.uk/discover/facts-about-trees/](https://www.cpre.org.uk/discover/facts-about-trees/)
+- [https://www.betterplaceforests.com/blog/our-forests/symbolism-of-trees-spiritual-meanings-across-history/](https://www.betterplaceforests.com/blog/our-forests/symbolism-of-trees-spiritual-meanings-across-history/)
 
-- 
-[https://en.wikipedia.org/wiki/Tree_of_life](https://en.wikipedia.org/wiki/Tree_of_life)
+- [https://www.cpre.org.uk/discover/facts-about-trees/](https://www.cpre.org.uk/discover/facts-about-trees/)
 
-- 
-[https://www.vindolanda.com/blog/the-history-of-the-lucus](https://www.vindolanda.com/blog/the-history-of-the-lucus)
+- [https://en.wikipedia.org/wiki/Tree_of_life](https://en.wikipedia.org/wiki/Tree_of_life)
 
-- 
-[https://www.foragingcoursecompany.co.uk/post/articles-what-did-the-romans-do-for-us](https://www.foragingcoursecompany.co.uk/post/articles-what-did-the-romans-do-for-us)
+- [https://www.vindolanda.com/blog/the-history-of-the-lucus](https://www.vindolanda.com/blog/the-history-of-the-lucus)
 
-- 
-[https://www.deeproot.com/blog/blog-entries/history-of-street-trees-in-britain-ireland-part-1/](https://www.deeproot.com/blog/blog-entries/history-of-street-trees-in-britain-ireland-part-1/)
+- [https://www.foragingcoursecompany.co.uk/post/articles-what-did-the-romans-do-for-us](https://www.foragingcoursecompany.co.uk/post/articles-what-did-the-romans-do-for-us)
 
-- 
-[https://treesforlife.org.uk/into-the-forest/trees-plants-animals/trees/ash/ash-mythology-and-folklore](https://treesforlife.org.uk/into-the-forest/trees-plants-animals/trees/ash/ash-mythology-and-folklore/#:~:text=Yggdrasil%2C%20the%20World%20Tree%20in,reached%20down%20into%20the%20Underworld).
+- [https://www.deeproot.com/blog/blog-entries/history-of-street-trees-in-britain-ireland-part-1/](https://www.deeproot.com/blog/blog-entries/history-of-street-trees-in-britain-ireland-part-1/)
 
-- 
-[https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/](https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/)
+- [https://treesforlife.org.uk/into-the-forest/trees-plants-animals/trees/ash/ash-mythology-and-folklore](https://treesforlife.org.uk/into-the-forest/trees-plants-animals/trees/ash/ash-mythology-and-folklore/#:~:text=Yggdrasil%2C%20the%20World%20Tree%20in,reached%20down%20into%20the%20Underworld).
+
+- [https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/](https://www.woodlandtrust.org.uk/blog/2021/04/tree-folklore/)

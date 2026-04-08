@@ -9,4 +9,3 @@ images:
   - ../../assets/sites/stainswick-farm/3.jpg
   - ../../assets/sites/stainswick-farm/4.jpg
 ---
-

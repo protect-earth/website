@@ -1,9 +1,9 @@
 ---
-title: "Protect Earth Partners with Exclusive Collection to Create Greener Hotel Grounds"
-description: "Protect Earth partnered with boutique hotel group Exclusive Collection to plant 3,985 saplings across three properties, creating greener, healthier landscapes."
+title: 'Protect Earth Partners with Exclusive Collection to Create Greener Hotel Grounds'
+description: 'Protect Earth partnered with boutique hotel group Exclusive Collection to plant 3,985 saplings across three properties, creating greener, healthier landscapes.'
 pubDate: 2024-02-12T08:05:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg'
 ---
 
 Protect Earth has partnered with [Exclusive Collection](https://www.exclusive.co.uk/), a boutique hotel group, to enhance guests' experience by creating a greener stay. [Seeing trees](https://www.protect.earth/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future-fm7r2) can boost mental health, and the cleaner air offers tremendous benefits, including increased well-being.
@@ -15,14 +15,12 @@ This partnership involved a multi-site planting project across three Exclusive C
 ## Readying to plant on-site
 
 Protect Earth was invited to plant on these three hotel sites:
-- 
-**Lainston House:** 825 saplings
 
-- 
-**Pennyhill Park:** 1,650 saplings
+- **Lainston House:** 825 saplings
 
-- 
-**South Lodge:** 1,510 saplings
+- **Pennyhill Park:** 1,650 saplings
+
+- **South Lodge:** 1,510 saplings
 
 Protect Earth is committed to [planting what will thrive](http://protect.earth/articles/right-tree-right-place-right-now-m5lmh) in new sites and accelerate biodiversity development. By introducing native species of trees, wildflowers, and hedges, we support local ecosystems and provide essential habitats for native insects and animals.
 

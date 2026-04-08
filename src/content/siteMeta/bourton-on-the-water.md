@@ -12,4 +12,3 @@ images:
   - ../../assets/sites/bourton-on-the-water/4.jpg
   - ../../assets/sites/bourton-on-the-water/5.jpg
 ---
-

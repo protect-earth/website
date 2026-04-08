@@ -1,9 +1,9 @@
 ---
-title: "Protect Earth’s Landmark Project - Creating a Woodland Where None Existed"
-description: "Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales, to create a new woodland."
+title: 'Protect Earth’s Landmark Project - Creating a Woodland Where None Existed'
+description: 'Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales, to create a new woodland.'
 pubDate: 2024-12-16T22:47:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg'
 ---
 
 Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales.

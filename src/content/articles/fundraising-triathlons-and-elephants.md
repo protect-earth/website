@@ -1,9 +1,9 @@
 ---
-title: "Fundraising: Triathlons and Elephants!"
-description: "Riding from Slovakia to Croatia to complete the Zadar Half Ironman. Completed in 6hr9min, raising funds for tree planting."
+title: 'Fundraising: Triathlons and Elephants!'
+description: 'Riding from Slovakia to Croatia to complete the Zadar Half Ironman. Completed in 6hr9min, raising funds for tree planting.'
 pubDate: 2020-10-15T13:21:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/fundraising-triathlons-and-elephants.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/fundraising-triathlons-and-elephants.jpg'
 ---
 
 I've spent the last few weeks riding from the north of Slovakia to the middle of Croatia, dodging COVID-19 red zones, sleeping in my tent saving money for trees, all to get to a half-triathlon called the [Zadar Half Ironman](https://zadarhalf.com/).

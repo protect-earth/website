@@ -1,9 +1,9 @@
 ---
-title: "Cwmarirog Planting"
-notionId: "2f1e7dc6-657c-804a-9e77-e037422e5449"
-type: "Tree Planting"
-date: "2024-08-03T00:00:00.000Z"
-siteNotionId: "537e5680-6689-45bc-94d6-d7dad82c0072"
+title: 'Cwmarirog Planting'
+notionId: '2f1e7dc6-657c-804a-9e77-e037422e5449'
+type: 'Tree Planting'
+date: '2024-08-03T00:00:00.000Z'
+siteNotionId: '537e5680-6689-45bc-94d6-d7dad82c0072'
 treesPlanted: 550
 ---
 
@@ -37,10 +37,6 @@ Blackthorn, Hazel, Holly, and Dog Rose all sourced from tree seeds of local
 
 provenance.
 
-
-
 tCO2 after 50 years: 187
 Species planted: Sessile Oak, Rowan, Bird Cherry, Crab Apple,
 Blackthorn, Hazel, Holly, and Dog Rose
-
-

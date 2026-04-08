@@ -1,9 +1,9 @@
 ---
-title: "A Small Woodland Boasts Impressive 95% Survival Rate After Two Years"
-description: "In Yorkshire and the Humber, a transformative project took root in 2021 as Protect Earth joined forces with a dedicated landholder for sustainable growth."
+title: 'A Small Woodland Boasts Impressive 95% Survival Rate After Two Years'
+description: 'In Yorkshire and the Humber, a transformative project took root in 2021 as Protect Earth joined forces with a dedicated landholder for sustainable growth.'
 pubDate: 2024-02-23T17:03:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/a-small-woodland-boasts-impressive-95-survival-rate-after-two-years.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/a-small-woodland-boasts-impressive-95-survival-rate-after-two-years.jpg'
 ---
 
 In the heart of Yorkshire and the Humber, a transformative project took root in 2021, as Protect Earth joined forces with a dedicated landholder to bring to life a vision of sustainable growth.
@@ -20,7 +20,7 @@ Land Under Direct Protect Earth Management: No
 
 Acres of Wildflower Meadows Sown: 0
 
-Kilometres of Hedgerows Planted: 
+Kilometres of Hedgerows Planted:
 
 Acres of Ancient Woodland Restoration: 0
 

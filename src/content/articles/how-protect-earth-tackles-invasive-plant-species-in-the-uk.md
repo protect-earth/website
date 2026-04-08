@@ -1,9 +1,9 @@
 ---
-title: "How Protect Earth Tackles Invasive Plant Species in the UK"
-description: "Invasive plant species are negatively affecting biodiversity in the UK. Protect Earth has the resources, tools, and skills required to control and remove invasive species helping biodiversity in the..."
+title: 'How Protect Earth Tackles Invasive Plant Species in the UK'
+description: 'Invasive plant species are negatively affecting biodiversity in the UK. Protect Earth has the resources, tools, and skills required to control and remove invasive species helping biodiversity in the...'
 pubDate: 2025-03-11T23:39:48.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/how-protect-earth-tackles-invasive-plant-species-in-the-uk.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/how-protect-earth-tackles-invasive-plant-species-in-the-uk.jpg'
 ---
 
 Invasive plant species are negatively affecting biodiversity in the UK. Protect Earth has the resources, tools, and skills required to control and remove invasive species helping biodiversity in the UK to restabilise and proliferate.

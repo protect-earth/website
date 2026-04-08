@@ -13,4 +13,3 @@ images:
   - ../../assets/sites/rhydwen/5.jpg
   - ../../assets/sites/rhydwen/6.jpg
 ---
-

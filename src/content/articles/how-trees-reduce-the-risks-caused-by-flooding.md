@@ -1,9 +1,9 @@
 ---
-title: "How trees reduce the risks caused by flooding"
-description: "Flooding in the UK is increasing! Trees serve as a natural flood defence and, if enough are planted, can even prevent flooding. Read on for more!"
+title: 'How trees reduce the risks caused by flooding'
+description: 'Flooding in the UK is increasing! Trees serve as a natural flood defence and, if enough are planted, can even prevent flooding. Read on for more!'
 pubDate: 2023-10-30T08:01:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/how-trees-reduce-the-risks-caused-by-flooding.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/how-trees-reduce-the-risks-caused-by-flooding.jpg'
 ---
 
 On a random evening to write this piece, I looked at the BBC’s [Flood Warnings](https://www.bbc.co.uk/weather/warnings/floods) page. The evening I looked (November 10, 2023), there were 110 flood warnings in England, Scotland and Wales.
@@ -11,20 +11,16 @@ On a random evening to write this piece, I looked at the BBC’s [Flood Warnings
 As rain falls, it collects together and follows the pull of gravity. From the hills, rainwater runs into the valleys it has carved, and from the valleys it joins rivers. As rivers swell with excess rainwater, the banks burst, and the water flow continues picking up pace. Both of these (overflowing banks and faster-moving water) cause damage to homes and towns.
 
 There are several ways that trees can alter the “run-off” of water from our uplands, breaking up the impact of flooding:
-- 
-Intercepting rainfall
 
-- 
-Storing more water in the soil
+- Intercepting rainfall
 
-- 
-Slowing the flow
+- Storing more water in the soil
 
-- 
-Reducing silt in waterways
+- Slowing the flow
 
-- 
-Retaining water on floodplains
+- Reducing silt in waterways
+
+- Retaining water on floodplains
 
 Let’s look a little closer at what each of these do.
 
@@ -53,14 +49,12 @@ Silt comprises soil and small stones that are washed into waterways.
 Silting in rivers causes shallower waters and blockages. With shallower water and blockages, excess water looks for another way to flow, resulting in burst banks.
 
 [Tree roots hold soil firm](https://www.protect.earth/blog/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it) and in place. The more soil held in place:
-- 
-The healthier the ground is
 
-- 
-The less silt runoff there is
+- The healthier the ground is
 
-- 
-The better downstream water flow is
+- The less silt runoff there is
+
+- The better downstream water flow is
 
 Planting trees in upland areas and along river banks is a tremendously effective way to contain silting and keep potentially healthy soil in place, benefitting agriculture and natural habitats. This natural approach of planting trees to prevent silting is far more beautiful and longer-lasting than the alternative, which is dredging waterways and trying to find a place to put displaced river muck.
 

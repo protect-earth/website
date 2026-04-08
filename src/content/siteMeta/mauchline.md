@@ -10,4 +10,3 @@ images:
   - ../../assets/sites/mauchline/2.jpg
   - ../../assets/sites/mauchline/3.jpg
 ---
-

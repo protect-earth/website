@@ -1,9 +1,9 @@
 ---
-title: "The importance of national parks to the UK"
-description: "Now celebrating their seventieth year in the UK, national parks offer substantial benefits. The approach of setting aside land to just be is a fantastic model, and what national parks have achieved fo"
+title: 'The importance of national parks to the UK'
+description: 'Now celebrating their seventieth year in the UK, national parks offer substantial benefits. The approach of setting aside land to just be is a fantastic model, and what national parks have achieved fo'
 pubDate: 2023-10-16T06:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-importance-of-national-parks-to-the-uk.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-importance-of-national-parks-to-the-uk.jpg'
 ---
 
 Across the four areas of the United Kingdom, there are 15 national parks - two in Scotland, three in Wales, and nine in England. All but five, so ten, national parks were created during the 1950s!
@@ -23,14 +23,12 @@ Let's dive into the national park scene as seen in the UK.
 Today, the UK is home to fifteen national parks.
 
 There are 10 National Parks in England, three in Wales and two in Scotland. The parks are:
-- 
-England – Broads, Dartmoor, Exmoor, Lake District, New Forest, Northumberland, North York Moors, Peak District, South Downs and Yorkshire Dales.
 
-- 
-Wales – Bannau Brycheiniog (Brecon Beacons), Pembrokeshire Coast, and Eryri (Snowdonia).
+- England – Broads, Dartmoor, Exmoor, Lake District, New Forest, Northumberland, North York Moors, Peak District, South Downs and Yorkshire Dales.
 
-- 
-Scotland – Cairngorms and Loch Lomond & The Trossachs.
+- Wales – Bannau Brycheiniog (Brecon Beacons), Pembrokeshire Coast, and Eryri (Snowdonia).
+
+- Scotland – Cairngorms and Loch Lomond & The Trossachs.
 
 Together, the parks total 8,908 square miles! An estimated 110 million people flock to our national parks to indulge and derive pleasure from being outside.
 
@@ -51,17 +49,14 @@ Invasive species pose a significant threat, as they can rapidly alter the delica
 Similarly, human activities, including tourism, pollution, and encroachment pressure, can degrade natural habitats and adversely affect wildlife populations.
 
 While tourism keeps parks alive - it tells the government that people value the spaces and boosts employment, tourism to these spots also has downsides:
-- 
-[Erosion](https://www.protect.earth/blog/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it) - holding large events (charity walks, etc.) or having large recreational vehicles like quads can cause soil compaction or erosion&nbsp;
 
-- 
-Damage and disturbance to wildlife - allowing dogs off leads, for instance
+- [Erosion](https://www.protect.earth/blog/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it) - holding large events (charity walks, etc.) or having large recreational vehicles like quads can cause soil compaction or erosion&nbsp;
 
-- 
-Litter
+- Damage and disturbance to wildlife - allowing dogs off leads, for instance
 
-- 
-Damage to farmland - many national parks include working farms with rights to access. Crops are often victims of trampling.
+- Litter
+
+- Damage to farmland - many national parks include working farms with rights to access. Crops are often victims of trampling.
 
 Biodiversity is best achieved with balanced numbers. Land overgrazing by sheep and deer are also challenges to maintaining biodiversity. The solution for population control - particularly regarding deer - is very controversial, exacerbating the challenges.
 
@@ -78,14 +73,12 @@ National parks also contribute to our mental and physical well-being by offering
 ## How can individuals and communities support the development and conservation of green spaces?
 
 Individuals and communities can actively participate in creating and sustaining green space in the UK in several ways:
-- 
-[Volunteering](https://www.protect.earth/volunteering) is a direct and effective method. Whether for-profit or charities (like Protect Earth), the managers of greenspaces can never have enough hands planting new greenery, maintaining trails, monitoring wildlife, educating visitors, and many other tasks.
 
-- 
-[Donating](https://www.protect.earth/donate), whether monetary or in the form of necessary equipment and supplies, always makes a difference. Project Earth has two donation pots. One is to purchase more land, enabling us to develop more green spaces across the UK. The second pot is our biodiversity fund, which helps us plan, design, and maintain beautiful natural spaces, inviting friendly plants, insects, and animals (i.e. native and naturalised) into these spaces.
+- [Volunteering](https://www.protect.earth/volunteering) is a direct and effective method. Whether for-profit or charities (like Protect Earth), the managers of greenspaces can never have enough hands planting new greenery, maintaining trails, monitoring wildlife, educating visitors, and many other tasks.
 
-- 
-Simply visiting these spaces while respecting their rules can contribute to their preservation.
+- [Donating](https://www.protect.earth/donate), whether monetary or in the form of necessary equipment and supplies, always makes a difference. Project Earth has two donation pots. One is to purchase more land, enabling us to develop more green spaces across the UK. The second pot is our biodiversity fund, which helps us plan, design, and maintain beautiful natural spaces, inviting friendly plants, insects, and animals (i.e. native and naturalised) into these spaces.
+
+- Simply visiting these spaces while respecting their rules can contribute to their preservation.
 
 Remembering the principle of "leave no trace" is important, ensuring we keep these incredible spaces as pristine as possible for future generations and non-human inhabitants.
 

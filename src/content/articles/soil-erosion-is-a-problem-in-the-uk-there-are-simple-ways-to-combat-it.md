@@ -1,13 +1,13 @@
 ---
 title: "Soil erosion is a problem in the UK. There are 'simple' ways to combat it"
-description: "Soil degradation and erosion is impacting the UK. Food supply, built areas, and the natural environment are all being impacted. The impact costs billions to prevent in loss. But, there are solutions a"
+description: 'Soil degradation and erosion is impacting the UK. Food supply, built areas, and the natural environment are all being impacted. The impact costs billions to prevent in loss. But, there are solutions a'
 pubDate: 2023-09-25T07:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg'
 ---
 
 ![Soil erosion in an arable field](/articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg)
-*Creator: Gary Naylor, Copyright: garynaylorphotography.com*
+_Creator: Gary Naylor, Copyright: garynaylorphotography.com_
 
 Soil erosion, a seemingly innocuous phenomenon, has been quietly carving its mark on the UK landscape, with repercussions that extend beyond the visible.
 
@@ -78,17 +78,14 @@ When heavier rains fall, an overly dry and compacted soil just can't cope. The r
 ## How much soil is eroded in the UK?
 
 The escalating issue of soil degradation in the UK demands immediate attention due to its wide-ranging environmental and agricultural impact:
-- 
-Every year England and Wales loses 2.9 million tonnes of topsoil to erosion.
 
-- 
-England and Wales face soil erosion threats across more than 2 million hectares of land.
+- Every year England and Wales loses 2.9 million tonnes of topsoil to erosion.
 
-- 
-Close to 4 million hectares of soil in England and Wales are at risk of compaction, compromising soil fertility, disrupting our water resources, and exacerbating the risk of flooding.
+- England and Wales face soil erosion threats across more than 2 million hectares of land.
 
-- 
-The biodiversity within our soils and the myriad of biological processes and functions it sustains are believed to be in jeopardy.
+- Close to 4 million hectares of soil in England and Wales are at risk of compaction, compromising soil fertility, disrupting our water resources, and exacerbating the risk of flooding.
+
+- The biodiversity within our soils and the myriad of biological processes and functions it sustains are believed to be in jeopardy.
 
 ## What are the environmental consequences of soil erosion in the UK?
 
@@ -105,11 +102,10 @@ Furthermore, excess nitrogen, another byproduct of soil erosion, overstimulates 
 The economic implications of soil degradation are undeniable, with an annual toll of £1.2 billion estimated in 2010 due to the decline in soil fertility and quality. Erosion alone annually accounts for an economic loss of approximately £177 million in England and Wales.
 
 The cost of soil erosion extends beyond the reduction in agricultural productivity, causing:
-- 
-Deterioration of water quality, necessitating additional water treatment facilities
 
-- 
-Flooding and destruction of the built environment
+- Deterioration of water quality, necessitating additional water treatment facilities
+
+- Flooding and destruction of the built environment
 
 Soil runoff polluting water bodies escalates the financial demand for water treatment processes.
 

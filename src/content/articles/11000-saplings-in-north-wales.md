@@ -1,9 +1,9 @@
 ---
-title: "11,000 Saplings in North Wales"
-description: "Protect Earth completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects to restore habitats and boost biodiversity."
+title: '11,000 Saplings in North Wales'
+description: 'Protect Earth completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects to restore habitats and boost biodiversity.'
 pubDate: 2025-02-24T08:54:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/11000-saplings-in-north-wales.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/11000-saplings-in-north-wales.jpg'
 ---
 
 Protect Earth has completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects. Combined with our 12,000-tree planting at Goytre, we've stepped up our efforts to restore habitats and boost biodiversity across the UK this season.

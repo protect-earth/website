@@ -1,9 +1,9 @@
 ---
-title: "Blending Natural Regeneration and Tree Planting: A Woodland Success Story"
-description: "Many are divided on natural habitat restoration methods: natural regeneration versus the interventionist approach of planning species and creating woodlands."
+title: 'Blending Natural Regeneration and Tree Planting: A Woodland Success Story'
+description: 'Many are divided on natural habitat restoration methods: natural regeneration versus the interventionist approach of planning species and creating woodlands.'
 pubDate: 2025-03-03T08:04:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg'
 ---
 
 Many in the environmental community and outside of it are divided on natural habitat restoration methods. On one hand, there are proponents for natural regeneration - leaving a space to itself and allowing nature to find a way. The converse is the interventionist approach of planning what species should be planted, their densities, and creating an artificial woodlands.
@@ -13,8 +13,9 @@ We’ve covered this old as time debate elsewhere. But this piece talks about a 
 ## What is Natural Regeneration?
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/2bb9775d-62ba-4a3b-abd3-efa774f39756/IMG_8223.jpg?format=original)
-  A wee oak grows at the base of an old oak showing signs of natural regeneration at our High Wood woodlands. [/caption] 
+A wee oak grows at the base of an old oak showing signs of natural regeneration at our High Wood woodlands. [/caption]
 
 Natural regeneration in its most simplest form is to leave land unmanaged in the knowledge that nature will find its way creating a natural habitat.
 
@@ -39,8 +40,9 @@ Nestled within an area rich in biodiversity, West Field Wood has all the ingredi
 ## Why Allow Natural Regen In Some Areas and Plant Other Areas of West Field Wood?
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/01a59edf-fdbb-437e-b650-8f287094d528/IMG_0924.jpeg?format=original)
-  In the foreground are the saplings planted by everyone at West Field Wood and in the background is the established woodland actively contributing to woodland growth one seed dropped at a time. A perfect representation of the two methods of natural regeneration and tree planting working together. [/caption] 
+In the foreground are the saplings planted by everyone at West Field Wood and in the background is the established woodland actively contributing to woodland growth one seed dropped at a time. A perfect representation of the two methods of natural regeneration and tree planting working together. [/caption]
 
 West Field Wood is only partly wooded. On two of its boundary lines, there’s extant woodland with traces of ancient woodland. Nature will seed that area with great seeds that will grow as fast as anything Protect Earth can plant. So, rather than waste resources planting saplings that would have occurred there anyway, we’d rather tag nature into action and let it be the manager there.
 

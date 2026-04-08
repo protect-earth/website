@@ -1,9 +1,9 @@
 ---
-title: "Protecting River Roding from Japanese Knotweed"
-description: "Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various..."
+title: 'Protecting River Roding from Japanese Knotweed'
+description: 'Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various...'
 pubDate: 2025-12-11T17:46:21.000Z
-author: "phil@protect.earth"
-thumbnail: "/articles/protecting-river-roding-from-japanese-knotweed.jpg"
+author: 'phil@protect.earth'
+thumbnail: '/articles/protecting-river-roding-from-japanese-knotweed.jpg'
 ---
 
 Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various imports from centuries past that have become uncontrollable, especially when left unchecked. One that many homeowners will be familiar with is Japanese Knotweed.
@@ -48,7 +48,7 @@ None of us at Protect Earth take using glyphosate lightly. With careful usage of
 
 ### Ground Preparation
 
-The most important thing to do is to prepare all the ground before you go. Carefully cutting access paths in spring, so that when you come back in late summer / early autumn it's not a nightmare to get in there.&nbsp;Then you can bag up the cut pieces, stick them in heavy duty bin bags, and let it all "cook" in the sun. 
+The most important thing to do is to prepare all the ground before you go. Carefully cutting access paths in spring, so that when you come back in late summer / early autumn it's not a nightmare to get in there.&nbsp;Then you can bag up the cut pieces, stick them in heavy duty bin bags, and let it all "cook" in the sun.
 
 With this being a tidal marsh, those bags would have been picked up, dragged up and down river, torn to pieces, and the plastic and knotweed both spread all over the area.
 
@@ -82,7 +82,7 @@ To save us a trip to London just to see how its coming along, Paul sent us some 
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/702708f9-9adc-4182-bb2e-3890cc078c3d/one+month+later.jpg?format=original)
 
-This photo not only shows the knotweed is dying, but I think more importantly it shows that the surrounding growth is still doing just fine. Targeted spraying is not easy, but keeping an eye on wind speed, good boom control, and a huge amount of care and attention for the surrounding ecosystem gets you a good lot of the way there. 
+This photo not only shows the knotweed is dying, but I think more importantly it shows that the surrounding growth is still doing just fine. Targeted spraying is not easy, but keeping an eye on wind speed, good boom control, and a huge amount of care and attention for the surrounding ecosystem gets you a good lot of the way there.
 
 ### Next steps
 

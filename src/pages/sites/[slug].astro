@@ -48,7 +48,9 @@ const allSiteUpdates = await getCollection('siteUpdates');
 const siteNotionIds = site.data.notionIds || [];
 const siteUpdates = await Promise.all(
 	allSiteUpdates
-		.filter((update) => update.data.siteNotionId && siteNotionIds.includes(update.data.siteNotionId))
+		.filter(
+			(update) => update.data.siteNotionId && siteNotionIds.includes(update.data.siteNotionId),
+		)
 		.map((siteUpdate) => ({
 			...siteUpdate,
 			data: {
@@ -202,32 +204,43 @@ const fundingPartnerInfos = fundingPartners
 
 							<dl class="SiteUpdate__meta">
 								{data.type && (
-									<dt class="visually-hidden">Type</dt>
-									<dd class="SiteUpdate__tag" data-type="type">{data.type}</dd>
+									<>
+										<dt class="visually-hidden">Type</dt>
+										<dd class="SiteUpdate__tag" data-type="type">
+											{data.type}
+										</dd>
+									</>
 								)}
 								{data.treesPlanted && (
-									<dt class="visually-hidden">Trees planted</dt>
-									<dd class="SiteUpdate__tag" data-type="planted">
-										<span aria-hidden>🌳</span> {data.treesPlanted.toLocaleString()}&nbsp;<span aria-hidden>trees planted</span>
-									</dd>
+									<>
+										<dt class="visually-hidden">Trees planted</dt>
+										<dd class="SiteUpdate__tag" data-type="planted">
+											<span aria-hidden>🌳</span> {data.treesPlanted.toLocaleString()}&nbsp;
+											<span aria-hidden>trees planted</span>
+										</dd>
+									</>
 								)}
 								{data.treesRestocked && (
-									<dt class="visually-hidden">Trees restocked</dt>
-									<dd class="SiteUpdate__tag" data-type="restocked">
-										<span aria-hidden>🌱</span> {data.treesRestocked.toLocaleString()}&nbsp;<span aria-hidden>trees restocked</span>
-									</dd>
+									<>
+										<dt class="visually-hidden">Trees restocked</dt>
+										<dd class="SiteUpdate__tag" data-type="restocked">
+											<span aria-hidden>🌱</span> {data.treesRestocked.toLocaleString()}&nbsp;
+											<span aria-hidden>trees restocked</span>
+										</dd>
+									</>
 								)}
 								{data.survivalRate != null && (
-									<dt class="visually-hidden">Survival rate</dt>
-									<dd class="SiteUpdate__tag" data-type="survival-rate">
-										<span aria-hidden>📊</span> {(data.survivalRate * 100).toFixed(0)}%&nbsp;<span aria-hidden>survival rate</span>
-									</dd>
+									<>
+										<dt class="visually-hidden">Survival rate</dt>
+										<dd class="SiteUpdate__tag" data-type="survival-rate">
+											<span aria-hidden>📊</span> {(data.survivalRate * 100).toFixed(0)}%&nbsp;
+											<span aria-hidden>survival rate</span>
+										</dd>
+									</>
 								)}
 							</dl>
 
-							{bodyHtml && (
-								<div class="SiteUpdate__body prose" set:html={bodyHtml} />
-							)}
+							{bodyHtml && <div class="SiteUpdate__body prose" set:html={bodyHtml} />}
 
 							{data.photos && data.photos.length > 0 && (
 								<div class="SiteUpdate__photos">

@@ -1,9 +1,9 @@
 ---
-title: "Cynnig Goetre Wood"
+title: 'Cynnig Goetre Wood'
 description: "Mae Goetre Wood yn goetir 70 erw y mae Protect Earth wedi'i gaffael ym Mhowys, Cymru. Mae hyn yn hynod gyffrous i ni allu gosod cynllun sy'n dod â newid gwirioneddol, buddiol i'r coetir hwn. Yn y darn"
 pubDate: 2023-05-08T07:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/i3bjafhaiq5h22ml00rqzrs4akce80.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/i3bjafhaiq5h22ml00rqzrs4akce80.jpg'
 ---
 
 Mae Gwarchod y Ddaear y tu hwnt i falchder a chyffro am ein coetir [cymunedol newydd](https://www.protect.earth/blog/coed-goetre) ym Mhowys. Fe'i lleolir mewn ardal fforest law dymherus ar ochr Gymreig y ffin rhwng Cymru a Lloegr, yn edrych dros Fryniau Sir Amwythig.

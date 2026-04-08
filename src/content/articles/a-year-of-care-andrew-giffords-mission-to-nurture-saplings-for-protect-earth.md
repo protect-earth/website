@@ -1,9 +1,9 @@
 ---
 title: "A Year of Care: Andrew Gifford's Mission to Nurture Saplings for Protect Earth"
-description: "Help and support from the Protect Earth community comes in many forms at different times. Andrew Gifford lent support in an urgent time of need!"
+description: 'Help and support from the Protect Earth community comes in many forms at different times. Andrew Gifford lent support in an urgent time of need!'
 pubDate: 2024-03-04T07:38:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/a-year-of-care-andrew-giffords-mission-to-nurture-saplings-for-protect-earth.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/a-year-of-care-andrew-giffords-mission-to-nurture-saplings-for-protect-earth.jpg'
 ---
 
 Help and support from the Protect Earth community comes in many forms at different times. Andrew Gifford lent support in what came to be an urgent time of need!
@@ -19,14 +19,16 @@ Growing saplings from seed is more complex than it may sound. Before starting, A
 Over a year, Andrew meticulously cared for over 200 saplings, tenderly coaxing them from seeds into the sturdy beginnings of what will one day be towering trees.
 
        [caption id="" align="alignnone" width="1333"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468786-HY0YSUSDAUIUOY6JR7AY/unnamed+%281%29.jpg?format=original)
-    Tightly packed though they are, the saplings uprooted from the bag ok. We’re confident few saplings broke when being separated and are confident they’ll settle into their new homes very well.   [/caption] 
+Tightly packed though they are, the saplings uprooted from the bag ok. We’re confident few saplings broke when being separated and are confident they’ll settle into their new homes very well. [/caption]
 
 ## Finding their forever home
 
        [caption id="" align="alignnone" width="1333"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468792-7TVLXJBSNHBGXVTTP3GA/unnamed+%284%29.jpg?format=original)
-    Planted with stakes in and guards to go on, these trees will populate a new woodlands made up of mixed native broadleaf species.   [/caption] 
+Planted with stakes in and guards to go on, these trees will populate a new woodlands made up of mixed native broadleaf species. [/caption]
 
 As (lucky) fate would have it, Andrew's trees came of age at just the right time. Protect Earth had a small project we were planting in [Goytre Wood](https://www.protect.earth/blog/goytre-wood), and our order from the nursery fell through. Again, Andrew had planted his seeds, and enough of them at just the right time that our nursery order was falling through; Andrew was able to save the day, allowing us to complete our project.
 

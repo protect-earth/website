@@ -1,9 +1,9 @@
 ---
-title: "Growing Together: Protect Earth’s Mission to Restore UK Habitats in 2024/25"
+title: 'Growing Together: Protect Earth’s Mission to Restore UK Habitats in 2024/25'
 description: "With the new planting season just around the corner, there's much to be hopeful about as we roll out plans to restore habitats, strengthen biodiversity, and engage local communities. Let's look at..."
 pubDate: 2024-09-17T20:39:35.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg'
 ---
 
 With the new planting season just around the corner, there's much to be hopeful about as we roll out plans to restore habitats, strengthen biodiversity, and engage local communities. Let's look at what lies ahead for 2024/25.
@@ -23,8 +23,9 @@ The momentum behind this growth is exciting, but it's not just about numbers. Th
 ## The Potential to Double Our Impact This Year
 
        [caption id="" align="alignnone" width="1998"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468182-7IS3JNB7BUZO2554GFZ0/image.png?format=original)
-  When you purchase from our new shop, you'll be sent a certificate letting you know what species was planted and where it was planted. Protect Earth only plants the right species in the right space to encourage natural habitats to thrive. [/caption] 
+When you purchase from our new shop, you'll be sent a certificate letting you know what species was planted and where it was planted. Protect Earth only plants the right species in the right space to encourage natural habitats to thrive. [/caption]
 
 44,540 new saplings planted in 2024/25 is the floor. There is demand for much, much more this upcoming season, and we have gaps in the calendar to fit them in. There's one thing we're missing, and that's money. It's why we've launched a [store](https://shop.protect.earth/) selling trees and hedges as a single purchase or subscription. The demand Protect Earth is receiving to reforest the UK is greater than the money available from our funding partners. To that end, if you [buy trees or hedges](https://www.protect.earth/blog/planting-the-future-support-uk-reforestation-through-protect-earths-new-online-shop) - or better yet, a monthly subscription - that money will directly fuel natural habitat redevelopment all across the UK starting today. The tree planting season has already begun and will continue for 5-6 months. In that time, we WILL plant 44,540 trees, but with your help, there's scope, time, and demand to plant more than 100,000 saplings this year - doubling in one year what we've [achieved in the last three years](https://www.protect.earth/blog/a-forest-of-accomplishments-reflecting-on-100000-trees-planted)!
 

@@ -15,4 +15,3 @@ images:
   - ../../assets/sites/hitchin/6.jpg
   - ../../assets/sites/hitchin/7.jpg
 ---
-

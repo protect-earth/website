@@ -1,9 +1,9 @@
 ---
-title: "Neglected Plastic Tree Guards Are Turning Forests Into Polluted Landscapes"
+title: 'Neglected Plastic Tree Guards Are Turning Forests Into Polluted Landscapes'
 description: "Plastic tree guards protect young trees for 5-10 years. Unfortunately, they aren't always collected after, leading to landscape degradation and soil contamination."
 pubDate: 2024-09-11T16:14:05.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/neglected-plastic-tree-guards-are-turning-forests-into-polluted-landscapes.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/neglected-plastic-tree-guards-are-turning-forests-into-polluted-landscapes.jpg'
 ---
 
 Plastic tree guards are an unavoidable sight on many planting projects around the UK. We wish it weren't so, but it is. Sometimes, those plastics persist on sites beyond the point that they are needed.

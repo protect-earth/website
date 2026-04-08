@@ -1,9 +1,9 @@
 ---
-title: "Restoring West Field Wood: A Shared Vision for Biodiversity"
-description: "When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration,..."
+title: 'Restoring West Field Wood: A Shared Vision for Biodiversity'
+description: 'When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration,...'
 pubDate: 2025-02-16T17:09:26.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg'
 ---
 
 When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration, and time. As a Community Interest Company founded in 2022 by three friends concerned about the biodiversity crisis, their story closely mirrors that of Protect Earth. Naturally, our paths crossed. With aligned goals and a shared commitment to ecological restoration, Protect Earth has been proud to support Wood Could Should in bringing West Field Wood to life.
@@ -17,8 +17,9 @@ Wood Could Should took a thoughtful approach, spending a year researching the be
 ## 5,000 Saplings and Counting: A Collaborative Effort
 
        [caption id="" align="alignnone" width="4080"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/00af41a7-c9ce-49d7-8e4d-3507ea8a3353/PXL_20250202_123514244.jpg?format=original)
-  Every session is started making sure everyone knows they’re welcome, what the day’s plan is, and who they can go to with questions. [/caption] 
+Every session is started making sure everyone knows they’re welcome, what the day’s plan is, and who they can go to with questions. [/caption]
 
 In 2024, Protect Earth supported Wood Could Should in planting their first 2,000 saplings. But the work was far from finished. In early 2025, volunteers gathered again to plant another 2,850 trees, pushing the total beyond 5,000 when accounting for the self-sown oaks Wood Could Should protected in 2023.
 
@@ -27,8 +28,9 @@ Despite the winter setting, the atmosphere was anything but cold. On the first d
 ## The Power of Community and Shared Experience
 
        [caption id="" align="alignnone" width="4080"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/d2912599-1251-4d10-ade8-64c117b151e4/PXL_20250131_114924096.MP.jpg?format=original)
-  Woodlands are great. So are cakes. [/caption] 
+Woodlands are great. So are cakes. [/caption]
 
 Managing such a large group required coordination, and Protect Earth helped structure the efforts by dividing volunteers into teams, ensuring everyone had a meaningful role in the project.
 

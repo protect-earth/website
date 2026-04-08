@@ -1,9 +1,9 @@
 ---
-title: "Removing Invasive Bamboo to Improve Biodiversity"
-description: "Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown..."
+title: 'Removing Invasive Bamboo to Improve Biodiversity'
+description: 'Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown...'
 pubDate: 2022-08-03T20:24:37.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/removing-invasive-bamboo.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/removing-invasive-bamboo.jpg'
 ---
 
 Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown potential is 10X larger than that of trees](https://onetreeplanted.org/blogs/stories/bamboo). People also love the look of bamboo, leading to its explosion across the United Kingdom, being available in every local garden center and B&Q around.
@@ -35,11 +35,10 @@ Normally once the stems are removed we would then attack the roots and rhizomes,
 Once we’d cleared this huge amount of bamboo in Belmont we realized that further down the hill was Himalayan Balsam. That’s a whole other problem, and another project for another day, but suffice to say the invasive species list we’re planning on battling is going to be getting longer. We have some patches of Japanese Knotweed we’re looking into zapping with electric tools, there’s Rhododendrons and Cherry Laurel popping up all over High Wood, and plenty of other threats to biodiversity that come sneaking in, looking like nature, but pushing our struggling ecosystems into further decline.
 
 In the meantime if you would like to take a swing at removing bamboo yourself, there are plenty of guides and videos around online.
-- 
-[WikiHow: Get Rid of Bamboo](https://www.wikihow.com/Get-Rid-of-Bamboo)
 
-- 
-[YouTube: How to Remove Bamboo Roots From Your Garden](https://www.youtube.com/watch?v=SzJp2Zq75pU)
+- [WikiHow: Get Rid of Bamboo](https://www.wikihow.com/Get-Rid-of-Bamboo)
+
+- [YouTube: How to Remove Bamboo Roots From Your Garden](https://www.youtube.com/watch?v=SzJp2Zq75pU)
 
 If the work is far too much for you to handle yourself, [please get in touch](https://bhup8epg.paperform.co/). We are gathering tools, experience, and qualifications so cannot make specific promises, but as we are able to take on more and more of this work we want to know how to reach out to. Projects of any size will be considered.
 

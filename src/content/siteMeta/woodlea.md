@@ -14,4 +14,3 @@ images:
   - ../../assets/sites/woodlea/6.jpg
   - ../../assets/sites/woodlea/7.jpg
 ---
-

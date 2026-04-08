@@ -1,9 +1,9 @@
 ---
-title: "Coed Goetre: ein cymuned goedwig newydd yng Nghymru!"
-description: "Wedi caffael 70 erw o dir ym Mhowys, Cymru, yn cynnwys 20 erw o goedwig a 50 erw o borfa fynydd mewn ardal coedwig law dymherus."
+title: 'Coed Goetre: ein cymuned goedwig newydd yng Nghymru!'
+description: 'Wedi caffael 70 erw o dir ym Mhowys, Cymru, yn cynnwys 20 erw o goedwig a 50 erw o borfa fynydd mewn ardal coedwig law dymherus.'
 pubDate: 2023-02-24T12:31:05.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/goytre-wood.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/goytre-wood.jpg'
 ---
 
 Mae’n bleser gennym gyhoeddu ein bod ni wedi caffael ar 70 erw o dir ym Mhowys, Cymru! Mae’r tir wedi’n cyrraedd trwy haelioni ein rhoddwyr a’n cefnogwyr, a chaiff ei ddefnyddio er mwyn cyfrannu at amcanion ein helusen, sef amddiffyn a hybu ein hamgylchedd naturiol.
@@ -36,7 +36,7 @@ Tîm Protect Earth
 
 ## Subscribe to our Newsletter
 
-Thank you for reading. If you enjoyed this blog and would like to hear more about our work, please subscribe to our mailing list. By doing so, you’ll receive our latest updates direct to your inbox! 
+Thank you for reading. If you enjoyed this blog and would like to hear more about our work, please subscribe to our mailing list. By doing so, you’ll receive our latest updates direct to your inbox!
 
               Email Address
 

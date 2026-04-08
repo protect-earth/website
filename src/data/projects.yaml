@@ -1,71 +1,71 @@
-- name: "Hutton Rudby"
-  slug: "huttonrudby"
+- name: 'Hutton Rudby'
+  slug: 'huttonrudby'
   lat: 54.4837
   lng: -1.3489
-  description: "Tree planting project in North Yorkshire"
+  description: 'Tree planting project in North Yorkshire'
 
-- name: "Bethania"
-  slug: "bethania"
+- name: 'Bethania'
+  slug: 'bethania'
   lat: 51.6891
   lng: -4.0936
-  description: "Woodland restoration in West Wales"
+  description: 'Woodland restoration in West Wales'
 
-- name: "Bubbenhall"
-  slug: "bubbenhall"
+- name: 'Bubbenhall'
+  slug: 'bubbenhall'
   lat: 52.3456
   lng: -1.4789
-  description: "Community woodland in Warwickshire"
+  description: 'Community woodland in Warwickshire'
 
-- name: "Highchurch Farm"
-  slug: "highchurch-farm"
+- name: 'Highchurch Farm'
+  slug: 'highchurch-farm'
   lat: 51.7234
   lng: -1.8912
-  description: "Agroforestry and tree planting"
+  description: 'Agroforestry and tree planting'
 
-- name: "Hawling"
-  slug: "hawling"
+- name: 'Hawling'
+  slug: 'hawling'
   lat: 51.8956
   lng: -1.8734
-  description: "Rewilding project in the Cotswolds"
+  description: 'Rewilding project in the Cotswolds'
 
-- name: "Hazeland"
-  slug: "hazeland"
+- name: 'Hazeland'
+  slug: 'hazeland'
   lat: 51.8234
   lng: -2.1456
-  description: "Ancient woodland restoration"
+  description: 'Ancient woodland restoration'
 
-- name: "Howard Court"
-  slug: "howard-court"
+- name: 'Howard Court'
+  slug: 'howard-court'
   lat: 52.1234
   lng: -2.6789
-  description: "Biodiversity enhancement project"
+  description: 'Biodiversity enhancement project'
 
-- name: "Pantpurlais"
-  slug: "pantpurlais"
+- name: 'Pantpurlais'
+  slug: 'pantpurlais'
   lat: 51.8945
   lng: -3.8234
-  description: "Tree planting in South Wales"
+  description: 'Tree planting in South Wales'
 
-- name: "Lower Hampen Farm"
-  slug: "lower-hampen-farm"
+- name: 'Lower Hampen Farm'
+  slug: 'lower-hampen-farm'
   lat: 51.8567
   lng: -1.9234
-  description: "Farm woodland creation"
+  description: 'Farm woodland creation'
 
-- name: "Donkeywell Farm"
-  slug: "donkeywell-farm-nz436"
+- name: 'Donkeywell Farm'
+  slug: 'donkeywell-farm-nz436'
   lat: 54.9123
   lng: -1.6789
-  description: "Regenerative farming with trees"
+  description: 'Regenerative farming with trees'
 
-- name: "Dyrham"
-  slug: "dyrham"
+- name: 'Dyrham'
+  slug: 'dyrham'
   lat: 51.4823
   lng: -2.3956
-  description: "Historic park woodland restoration"
+  description: 'Historic park woodland restoration'
 
-- name: "Carradel Farm"
-  slug: "carradel-farm"
+- name: 'Carradel Farm'
+  slug: 'carradel-farm'
   lat: 51.7456
   lng: -2.8934
-  description: "Hedgerow and tree planting"
+  description: 'Hedgerow and tree planting'

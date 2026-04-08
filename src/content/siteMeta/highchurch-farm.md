@@ -12,4 +12,3 @@ images:
   - ../../assets/sites/highchurch-farm/4.jpg
   - ../../assets/sites/highchurch-farm/5.jpg
 ---
-

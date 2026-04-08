@@ -1,9 +1,9 @@
 ---
-title: "The disappearance of biodiversity in the UK"
-description: "The UK’s natural space has been battered and abused for centuries. Despite attempts to improve the situation, it’s continuing to decline with additional issues creeping in that will further worsen the"
+title: 'The disappearance of biodiversity in the UK'
+description: 'The UK’s natural space has been battered and abused for centuries. Despite attempts to improve the situation, it’s continuing to decline with additional issues creeping in that will further worsen the'
 pubDate: 2024-01-12T00:24:37.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-disappearance-of-biodiversity-in-the-uk.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-disappearance-of-biodiversity-in-the-uk.jpg'
 ---
 
 The UK's biodiversity is in the toilet. It has experienced destruction for centuries, meaning today, it's at the lowest levels compared with countries worldwide.
@@ -53,20 +53,15 @@ The case presented is not pleasant. As a result of human activity over centuries
 However, with awareness and action, change can always be made. Protect Earth has been thinking on these lessons on biodiversity importance and its distribution in the UK to consider what we can do. You may have noticed more activities on [wildflower meadow development](https://www.protect.earth/blog/pantpurlais-wildflower-meadow-update) and [hedgerow development](https://www.protect.earth/blog/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard) as we look at restoring more diverse habitats to create spaces fostering greater biodiversity. Please join us by making a donation to our [biodiversity fund](https://www.protect.earth/donate/biodiversity).
 
 ## Sources
-- 
-[https://www.worldwildlife.org/pages/what-is-biodiversity](https://www.worldwildlife.org/pages/what-is-biodiversity)
 
-- 
-[https://nbn.org.uk/news/state-of-nature-2023/](https://nbn.org.uk/news/state-of-nature-2023/)
+- [https://www.worldwildlife.org/pages/what-is-biodiversity](https://www.worldwildlife.org/pages/what-is-biodiversity)
 
-- 
-[https://stateofnature.org.uk/](https://stateofnature.org.uk/)
+- [https://nbn.org.uk/news/state-of-nature-2023/](https://nbn.org.uk/news/state-of-nature-2023/)
 
-- 
-[https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf](https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf)
+- [https://stateofnature.org.uk/](https://stateofnature.org.uk/)
 
-- 
-[https://royalsociety.org/topics-policy/projects/biodiversity/biodiversity-in-the-uk/](https://royalsociety.org/topics-policy/projects/biodiversity/biodiversity-in-the-uk/)
+- [https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf](https://stateofnature.org.uk/wp-content/uploads/2023/09/TP25999-State-of-Nature-main-report_2023_FULL-DOC-v12.pdf)
 
-- 
-[https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/biodiversity-intactness-index-data](https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/biodiversity-intactness-index-data)
+- [https://royalsociety.org/topics-policy/projects/biodiversity/biodiversity-in-the-uk/](https://royalsociety.org/topics-policy/projects/biodiversity/biodiversity-in-the-uk/)
+
+- [https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/biodiversity-intactness-index-data](https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/biodiversity-intactness-index-data)

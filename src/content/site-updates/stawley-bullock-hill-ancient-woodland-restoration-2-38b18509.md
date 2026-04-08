@@ -1,37 +1,20 @@
 ---
-title: "Stawley (Bullock Hill) Ancient Woodland Restoration 2"
-notionId: "2d1e7dc6-657c-806f-b169-d82a38b18509"
-type: "Woodland Restoration"
-date: "2025-12-10T00:00:00.000Z"
-siteNotionId: "2e6ae2ca-3f72-4e4b-a496-0bc17b8f895b"
+title: 'Stawley (Bullock Hill) Ancient Woodland Restoration 2'
+notionId: '2d1e7dc6-657c-806f-b169-d82a38b18509'
+type: 'Woodland Restoration'
+date: '2025-12-10T00:00:00.000Z'
+siteNotionId: '2e6ae2ca-3f72-4e4b-a496-0bc17b8f895b'
 photos:
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/1.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/2.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/3.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/4.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/5.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/6.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/7.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/8.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/9.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/10.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/11.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/12.jpg"
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/1.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/2.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/3.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/4.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/5.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/6.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/7.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/8.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/9.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/10.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/11.jpg'
+  - '../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/12.jpg'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
