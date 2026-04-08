@@ -2,8 +2,8 @@
 title: High Wood Summer Fair
 description: Come to the Summer Fair with a difference!
 pubDate: 2026-04-01T10:00:00.000Z
-startDate: 2026-04-04T10:00:00.000Z
-endDate: 2026-10-31T16:00:00.000Z
+startDate: 2026-06-14T11:00:00.000Z
+endDate: 2026-06-14T16:00:00.000Z
 address: High Wood, Looe Mills Liskeard, England, PL14 4LA United Kingdom
 map: https://maps.google.com/?q=Looe%20Mills%20Liskeard,%20England,%20PL14%204LA%20United%20Kingdom
 ics: https://www.protect.earth/events/high-wood-summer-fair-14th-june-2026?format=ical
@@ -15,6 +15,17 @@ thumbnail: /events/highwood-cover.jpg
 
 ## Come to the Summer Fair with a difference!
 
+<div class="Event__imagegroup">
+	<img src="/events/highwood-1.jpg" alt="Highwood Image 1">
+	<img src="/events/highwood-2.jpg" alt="Highwood Image 2">
+	<img src="/events/highwood-3.jpg" alt="Highwood Image 3">
+	<img src="/events/highwood-4.jpg" alt="Highwood Image 4">
+	<img src="/events/highwood-5.jpg" alt="Highwood Image 5">
+	<img src="/events/highwood-6.jpg" alt="Highwood Image 6">
+	<img src="/events/highwood-7.jpg" alt="Highwood Image 7">
+	<img src="/events/highwood-8.jpg" alt="Highwood Image 8">
+</div>
+
 We are holding our fourth annual Summer Fair in the middle of High Wood, Liskeard. High Wood has been mainly a tree plantation since the 1960s and Protect Earth are restoring this ancient woodland to it’s former glory. It is also part of a UNESCO World Heritage site thanks to the Liskeard and Caradon Railway.
 
 This is a family day out with free traditional games, scavenger hunts, and craft for younger children. See the owls and polecat from the Screech Owl Sanctuary and Animal Park and find out who lives in the local river.
@@ -23,15 +34,15 @@ Lots of activities for those interested in nature, the environment, history and 
 
 ## Timetable
 
-11:00 - 13:30 - Willow weaving with Jasmine Fassenfelt. Make a star, fish or bird feeder at this drop-in session. Prices vary according to item made. [Education & Workshops - Jasmine Fassenfelt](https://fassenfelt.art/education-workshops/)
+**11:00 - 13:30** - Willow weaving with Jasmine Fassenfelt. Make a star, fish or bird feeder at this drop-in session. Prices vary according to item made. [Education & Workshops - Jasmine Fassenfelt](https://fassenfelt.art/education-workshops/)
 
-11:30 - 12:30 - Iain Rowe, a Cornish Heritage expert will lead a free guided walk. Please wear suitable shoes.
+**11:30 - 12:30** - Iain Rowe, a Cornish Heritage expert will lead a free guided walk. Please wear suitable shoes.
 
-13:00 - 13:30 - A free Qigong session with Ninja Granny, a local Tai Chi and Qigong teacher [Ninja Granny Tai chi Qigong Somatics Cornwall](https://www.ninjagranny.org/)
+**13:00 - 13:30** - A free Qigong session with Ninja Granny, a local Tai Chi and Qigong teacher [Ninja Granny Tai chi Qigong Somatics Cornwall](https://www.ninjagranny.org/)
 
-13:30 - 15:00 - Gabrielle, a local forager and artist, leads a Foraging and Nature  walk and workshop. Adults £6, Children free. Book here [Foraging workshops | Nature Art Play - Online Booking](https://nature-art-play.square.site/) or pay cash on the day.
+**13:30 - 15:00** - Gabrielle, a local forager and artist, leads a Foraging and Nature  walk and workshop. Adults £6, Children free. Book here [Foraging workshops | Nature Art Play - Online Booking](https://nature-art-play.square.site/) or pay cash on the day.
 
-14:00 to 16:00 - Willow weaving with Jasmine Fassenfelt. Make a beautiful lantern in the afternoon at this drop-in session. 
+**14:00 to 16:00** - Willow weaving with Jasmine Fassenfelt. Make a beautiful lantern in the afternoon at this drop-in session. 
 
 ## Other attractions
 
