@@ -23,7 +23,7 @@ if (!event) {
 }
 
 const {
-	data: { description, title, startDate, endDate, address, map, ics, googleCal },
+	data: { description, title, startDate, endDate, address, map, ics, googleCal, eventBrite },
 } = event;
 const { Content } = await render(event);
 ---
@@ -109,6 +109,10 @@ const { Content } = await render(event);
 
 		<div class="Event__content prose">
 			<Content />
+
+		{eventBrite && (
+			<a href={eventBrite} class="block-link">Let us know you are coming</a>
+		)}
 		</div>
 
 		<TakeAction />

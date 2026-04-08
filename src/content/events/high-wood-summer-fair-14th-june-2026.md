@@ -9,6 +9,7 @@ map: https://maps.google.com/?q=Looe%20Mills%20Liskeard,%20England,%20PL14%204LA
 ics: https://www.protect.earth/events/high-wood-summer-fair-14th-june-2026?format=ical
 googleCal: https://www.google.com/calendar/event?action=TEMPLATE&text=High%20Wood%20Summer%20Fair&dates=20260614T100000Z/20260614T150000Z&location=Looe%20Mills%2C%20Liskeard%2C%20England%2C%20PL14%204LA%2C%20United%20Kingdom
 thumbnail: /events/highwood-cover.jpg
+eventBrite: https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-tickets-1986120946215?aff=oddtdtcreator&_gl=1*1fjubib*_up*MQ..*_ga*NTk2MjQ1ODU4LjE3NzQ2OTg2NTM.*_ga_TQVES5V6SH*czE3NzQ2OTg2NTEkbzEkZzAkdDE3NzQ2OTg2NTEkajYwJGwwJGgw
 ---
 
 # High Wood Summer Fair
