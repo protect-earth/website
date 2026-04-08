@@ -1,8 +1,11 @@
 ---
 import '../styles/global.scss';
+import '../styles/global.css';
+
 import Navigation from '../components/Navigation.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import PageHeader from '../components/PageHeader.astro';
+import Footer from '../components/Footer.astro';
 import { siteConfig } from '../config';
 
 const { charityNumber, contact, social } = siteConfig;
@@ -48,67 +51,6 @@ const {
 			<slot />
 		</main>
 
-		<footer class="Footer">
-			<img class="Footer__logo" src="/logo-footer.png" alt="Protect Earth." />
-
-			<div class="Footer__groups">
-				<div class="Footer__group">
-					<h4 class="Footer__title">Get in touch</h4>
-
-					<address class="Footer__contact">
-						<ul class="Footer__links">
-							<li><a href={`mailto:${contact.email}`}>{contact.email}</a></li>
-							<li><a class="Footer__links" href={contact.phone.link}>{contact.phone.label}</a></li>
-						</ul>
-
-						<ul class="Footer__links" data-inline>
-							<li>
-								<a href={social.threads} target="_blank" rel="noopener noreferrer">Threads</a>
-							</li>
-							<li>
-								<a href={social.instagram} target="_blank" rel="noopener noreferrer">Instagram</a>
-							</li>
-							<li>
-								<a href={social.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>
-							</li>
-						</ul>
-					</address>
-				</div>
-
-				<nav class="Footer__group">
-					<h4 class="Footer__title">Useful Links</h4>
-
-					<ul class="Footer__links">
-						<li><a href="/get-involved">Volunteer</a></li>
-						<li><a href="/about/in-the-press">Press</a></li>
-						<li><a href="/events">Events</a></li>
-						<li><a href="/sites">Sites</a></li>
-						<li><a href="/join-our-mailing-list">Join our Mailing List</a></li>
-					</ul>
-				</nav>
-
-				<div class="Footer__group">
-					<h4 class="Footer__title">Supplemental</h4>
-
-					<div>
-						<nav class="Footer__links">
-							<strong>Read our:</strong>
-							<ul data-inline>
-								<li><a href="/privacy-policy">Privacy Policy</a></li>
-								<li>
-									<a href="/docs/protect-earth-constitution.pdf">Constitution</a>
-								</li>
-							</ul>
-						</nav>
-					</div>
-
-					<div class="Footer__baseline">
-						<small>Protect Earth is a registered charity: {charityNumber} in England & Wales.</small
-						>
-						<small>&copy; {copyrightYear} Protect Earth. All rights reserved.</small>
-					</div>
-				</div>
-			</div>
-		</footer>
+		<Footer />
 	</body>
 </html>
