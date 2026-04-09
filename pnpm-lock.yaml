@@ -11,6 +11,9 @@ importers:
       '@acab/reset.css':
         specifier: ^0.11.0
         version: 0.11.0
+      '@fontsource-variable/lexend':
+        specifier: ^5.2.11
+        version: 5.2.11
       '@notionhq/client':
         specifier: ^2.3.0
         version: 2.3.0
@@ -265,6 +268,9 @@ packages:
     engines: {node: '>=18'}
     cpu: [x64]
     os: [win32]
+
+  '@fontsource-variable/lexend@5.2.11':
+    resolution: {integrity: sha512-0hgEQ4O7Nh8fxL/WWmspJf0BErbocRkZwtLRGey/V4mUUqxfF7QUwqhcdzwpjom3NYCniY4uzQ5wYD7r9/92tQ==}
 
   '@img/colour@1.0.0':
     resolution: {integrity: sha512-A5P/LfWGFSl6nsckYtjw9da+19jB8hkJ6ACTGcDfEJ0aE+l2n2El7dsVM7UVHZQ9s2lmYMWlrS21YLy2IR1LUw==}
@@ -2395,6 +2401,8 @@ snapshots:
 
   '@esbuild/win32-x64@0.27.4':
     optional: true
+
+  '@fontsource-variable/lexend@5.2.11': {}
 
   '@img/colour@1.0.0':
     optional: true
