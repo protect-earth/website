@@ -9,7 +9,7 @@
 		margin-block-end: var(--space-xs);
 	}
 
-	ul > * + * {
+	ul>*+* {
 		margin-block-start: var(--space-3xs);
 	}
 
@@ -18,24 +18,36 @@
 		text-decoration: none;
 	}
 
+	.has-icon {
+		display: inline-flex;
+		gap: var(--space-3xs);
+
+		svg {
+			width: 18px;
+		}
+	}
+
 	a:hover {
 		text-decoration: underline;
 	}
 }
 
 .footer-grid {
-	display: grid;
 	max-inline-size: var(--max-width);
+	margin-inline: auto;
+	margin-block-end: var(--space-xl);
+	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: var(--space-xl);
-	margin-block-end: var(--space-xl);
 }
 
 .copyrights {
+	max-inline-size: var(--max-width);
+	margin-inline: auto;
 	display: flex;
 	flex-flow: column;
-	gap: var(--space-xs);
-	filter: opacity(0.5);
+	gap: var(--space-3xs);
+	color: var(--gray);
 	font-size: var(--font-xs);
 
 	small {
