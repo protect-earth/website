@@ -1,12 +1,12 @@
 ---
-title: "High Wood, Liskeard – Woodland Restoration – Update Winter 2023"
-description: "Habitat restoration on Protect Earth’s High Wood continues. Steve the Ecologist updates us on this year’s activities."
+title: 'High Wood, Liskeard – Woodland Restoration – Update Winter 2023'
+description: 'Habitat restoration on Protect Earth’s High Wood continues. Steve the Ecologist updates us on this year’s activities.'
 pubDate: 2023-12-13T14:05:18.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg'
 ---
 
-*Over 2023, Steve the Ecologist has been progressing *[*High Wood*](https://www.protect.earth/blog/ozj1qcs0rlk9cvo84icen2vtrchwyi)*’s restoration. With this year’s activities completed, he gives us a summary of what was undertaken, why, and how the woodlands is already responding to the changes.*
+_Over 2023, Steve the Ecologist has been progressing _[_High Wood_](https://www.protect.earth/blog/ozj1qcs0rlk9cvo84icen2vtrchwyi)_’s restoration. With this year’s activities completed, he gives us a summary of what was undertaken, why, and how the woodlands is already responding to the changes._
 
 The long-term aim at High Wood is the eventual removal of almost all alien conifer and the establishment of a diversely structured, predominantly broadleaf woodland rich in [biodiversity](https://www.protect.earth/blog/biodiversity-what-it-is-and-why-its-so-important-to-achieve). The long restoration work to this end began in February 2023. Two phases of forestry thinning operations were conducted by the Brendan Stagg Consultancy. The first phase lasted from the 13th of February until the 31st of March; the second phase from the 9th of October until the 18th of November.&nbsp;
 
@@ -17,8 +17,9 @@ Work began at the eastern end of the woodland, as the priority was seen as clear
 The semi-mature Oaks, although 100 years old, are thin, stunted trees that have become contorted into unusual shapes as the surrounding conifer has deprived them of light, water, and nutrients. Removing the nearest conifers was seen as a necessary and crucial process in order to improve the health and extend the lifespan of the Oaks. The risk was that removing too much conifer too quickly would expose the Oaks to the elements and leave them vulnerable to wind damage. The forestry operators were fully briefed on this balance, and they began their work with this in mind and as carefully as could be hoped for when using 20-ton forest harvesters to fell and process 25-metre-tall trees. Many of the more inaccessible trees on steep slope areas were felled by hand with a chainsaw.
 
        [caption id="" align="alignnone" width="2016"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469075-8ZV4EHVAMQMI83Y0VGPZ/IMG_1438.jpg?format=original)
-   The process to restore High Wood to a native woodland will take years with efforts focused on removal of non-native trees (a legacy of the wood’s previous chapter as a forestry plantation), soil regeneration, and biodiversity development.  [/caption] 
+The process to restore High Wood to a native woodland will take years with efforts focused on removal of non-native trees (a legacy of the wood’s previous chapter as a forestry plantation), soil regeneration, and biodiversity development. [/caption]
 
 During the first phase, the closest conifers were cleared from around the Oaks and, heading westward, two-thirds of the woodland’s conifer thinned. The timber was processed (brash removed) and stacked at the edge of the main track, ready for removal from the site.
 
@@ -37,8 +38,9 @@ Other work undertaken by volunteers with hand tools included the removal of smal
 Overall, the second phase was considered to have gone very well. The woodland trails and tracks were, again, unavoidably, in an extremely muddy state at the end of the operations.
 
        [caption id="" align="alignnone" width="4032"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469083-USAL450MMJNVIB4ICFAC/IMG_0202.jpg?format=original)
-   Volunteers clearing by hand young conifers.  [/caption] 
+Volunteers clearing by hand young conifers. [/caption]
 
 And, unfortunately, another product of the extremely wet and windy autumn – six mature Oaks were blown over. The site is not considered vulnerable or prone to wind damage, although the soils are thin. But four named storms in four months, including one in August when the trees were in full leaf, resulted in this loss. Oaks currently make up 9% of High Wood – so around 2.4 hectares of Oak remain along with another 0.4 hectares of other mixed broadleaf species – so the core of the restoration remains very much in place.
 
@@ -57,14 +59,11 @@ Some ongoing but more minor management will continue – like the further cleari
 Because further forestry operations in five years’ time have the potential to damage many years of natural regeneration, it is likely that future forest work will be carried out more gradually with chainsaws alone to allow for more precision.&nbsp;
 
 Other notable news for 2023 was the awarding of National Lottery funding for High Wood. Because of this, we have installed (or will shortly be installing):
-- 
-Welcome and information boards.
 
-- 
-A horse rider-accessible entrance gate.
+- Welcome and information boards.
 
-- 
-Wooden benches.
+- A horse rider-accessible entrance gate.
 
-- 
-Numerous bird boxes of various designs and dormouse boxes.
+- Wooden benches.
+
+- Numerous bird boxes of various designs and dormouse boxes.

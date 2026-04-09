@@ -10,4 +10,3 @@ images:
   - ../../assets/sites/lower-hampen-farm/4.jpg
   - ../../assets/sites/lower-hampen-farm/5.jpg
 ---
-

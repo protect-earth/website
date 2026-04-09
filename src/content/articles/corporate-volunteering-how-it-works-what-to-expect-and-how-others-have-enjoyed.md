@@ -1,9 +1,9 @@
 ---
-title: "Corporate volunteering - how it works, what to expect, and how others have enjoyed"
-description: "Sharing what we do with everyone is very rewarding. We love having volunteers come out with us for a day and help out. Here is an account of the fun that companies can have when they come plant with P"
+title: 'Corporate volunteering - how it works, what to expect, and how others have enjoyed'
+description: 'Sharing what we do with everyone is very rewarding. We love having volunteers come out with us for a day and help out. Here is an account of the fun that companies can have when they come plant with P'
 pubDate: 2023-10-02T06:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/corporate-volunteering-how-it-works-what-to-expect-and-how-others-have-enjoyed.jpeg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/corporate-volunteering-how-it-works-what-to-expect-and-how-others-have-enjoyed.jpeg'
 ---
 
 There are all kinds of companies and teams. Some companies sign their employees up for team-building hands-on skills days, and others want to go paintballing to add colour to team bonds.
@@ -29,8 +29,9 @@ Volunteers just need to bring themselves, clothes/ layers to stay warm and dry, 
 Generally, Protect Earth's team will have already planned for the day and laid out what's to be planted in the best places they should be. After the demonstration, it's time for everyone to put an elbow to the grindstone and get stuck
 
        [caption id="" align="alignnone" width="5760"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469263-KANVHFJLUAISGAH1ELTD/volunteers+-+we+will+teach+you.jpg?format=original)
-   Steve the Ecologist teaching a new generation! Planting is fairly simple, but it does help having a little initial explanation, which Steve is happy to help with  [/caption] 
+Steve the Ecologist teaching a new generation! Planting is fairly simple, but it does help having a little initial explanation, which Steve is happy to help with [/caption]
 
 in! Although it's not a competition, we can't always say what happens on the day! Some volunteers who came out with us showed us how to do the job, "We were to[o] quick, so they couldn't catch up with preparing for us!"
 

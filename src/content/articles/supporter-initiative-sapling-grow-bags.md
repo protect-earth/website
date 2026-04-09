@@ -1,9 +1,9 @@
 ---
-title: "Supporter initiative - sapling grow bags"
-description: "A supporter initiative creating sapling grow bags to help young trees establish and thrive."
+title: 'Supporter initiative - sapling grow bags'
+description: 'A supporter initiative creating sapling grow bags to help young trees establish and thrive.'
 pubDate: 2023-03-27T07:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/supporter-initiative-sapling-grow-bags.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/supporter-initiative-sapling-grow-bags.jpg'
 ---
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469565-TQWWVBC50UU0NPM6X4QU/IMG_1267.jpg?format=original)
@@ -31,63 +31,46 @@ Andrew has been good enough to record how he has approached growing saplings. He
 Most British native tree seeds/acorns need a period of stratification to germinate. This process is usually triggered by weeks or months of frosty conditions, whereby the shell of the seed/acorn is softened and then broken by natural processes, enabling the fleshy internal seed/acorn root to emerge and support growth. Each species has a slightly different strategy, and this can be ‘hacked’ by removing the seed manually and soaking the fleshy seed, but it’s easier to sow the seeds in time for them to go through the winter and emerge in spring.
 
 **Kit list:**
-- 
-A convenient shady or part shade location for multiple grow bags, where the saplings won’t be regularly heat stressed nor short of water
 
-- 
-British native tree seeds/acorns, sourced locally to where they may be planted
+- A convenient shady or part shade location for multiple grow bags, where the saplings won’t be regularly heat stressed nor short of water
 
-- 
-10L peat-free compost bags (growing density of 20-25 saplings per 10L bag); at the time of writing, these can be bought online for around £3.50 ea
+- British native tree seeds/acorns, sourced locally to where they may be planted
 
-- 
-Extra peat-free compost to top up the 10L bags
+- 10L peat-free compost bags (growing density of 20-25 saplings per 10L bag); at the time of writing, these can be bought online for around £3.50 ea
 
-- 
-Marker pen, or plant labels and pencil
+- Extra peat-free compost to top up the 10L bags
 
-- 
-Scissors
+- Marker pen, or plant labels and pencil
+
+- Scissors
 
 **Method**
-- 
-Source the seeds/acorns having first established their provenance (region of origin) on this [map](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/797909/Regions_of_provenance_and_seed_zone_map.pdf), noting the region code associated with each batch of seeds/acorns, and taking care to use either seeds from UK trees only or that have a verifiable(?)/‘plant passport’ approved seller
 
-- 
-Write the species and provenance code on the compost bag (this may bleach out in the sunshine, a plant label may be better)
+- Source the seeds/acorns having first established their provenance (region of origin) on this [map](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/797909/Regions_of_provenance_and_seed_zone_map.pdf), noting the region code associated with each batch of seeds/acorns, and taking care to use either seeds from UK trees only or that have a verifiable(?)/‘plant passport’ approved seller
 
-- 
-Shake the compost bag - to break up compaction
+- Write the species and provenance code on the compost bag (this may bleach out in the sunshine, a plant label may be better)
 
-- 
-Puncture thoroughly with scissors - to allow water drainage
+- Shake the compost bag - to break up compaction
 
-- 
-Cut one end off the compost bag - wash the offcut and recycle it with carrier bags
+- Puncture thoroughly with scissors - to allow water drainage
 
-- 
-Ideally, add some more compost - so the bag is 60% full
+- Cut one end off the compost bag - wash the offcut and recycle it with carrier bags
 
-- 
-Add seeds/acorns, one species per bag - Andrew is trying 25 per bag, which is likely the upper limit
+- Ideally, add some more compost - so the bag is 60% full
 
-- 
-Cover with 10cm of mulch/compost - so acorns/seeds don’t dry out
+- Add seeds/acorns, one species per bag - Andrew is trying 25 per bag, which is likely the upper limit
 
-- 
-Roll the top end of the bag down to 10cm above the line of compost
+- Cover with 10cm of mulch/compost - so acorns/seeds don’t dry out
 
-- 
-If there’s a dry spell ahead, water lightly
+- Roll the top end of the bag down to 10cm above the line of compost
 
-- 
-Position for overwintering - and don’t let it fully dry out
+- If there’s a dry spell ahead, water lightly
 
-- 
-Green shoots should appear in Apr-May, from when you can treat them as any young plant
+- Position for overwintering - and don’t let it fully dry out
 
-- 
-The saplings will benefit from feeding during the growing seasons, e.g. monthly after the first three-six months, liquid seaweed or similar is fine
+- Green shoots should appear in Apr-May, from when you can treat them as any young plant
+
+- The saplings will benefit from feeding during the growing seasons, e.g. monthly after the first three-six months, liquid seaweed or similar is fine
 
 ![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469595-NAKZAVEIR4QKFIORNX6Y/unnamed+%282%29.jpg?format=original)
 

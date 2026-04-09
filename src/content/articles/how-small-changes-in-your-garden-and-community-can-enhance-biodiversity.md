@@ -1,9 +1,9 @@
 ---
-title: "How Small Changes in Your Garden and Community Can Enhance Biodiversity"
-description: "Many ways to support biodiversity in the UK, even at home. Planting more things and thinking about what insects and animals to attract will increase biodiversity."
+title: 'How Small Changes in Your Garden and Community Can Enhance Biodiversity'
+description: 'Many ways to support biodiversity in the UK, even at home. Planting more things and thinking about what insects and animals to attract will increase biodiversity.'
 pubDate: 2024-11-05T21:47:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/how-small-changes-in-your-garden-and-community-can-enhance-biodiversity.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/how-small-changes-in-your-garden-and-community-can-enhance-biodiversity.jpg'
 ---
 
 There are many ways to support biodiversity in the UK - even making a few changes at home. Biodiversity is the range of plants, insects, and animals that are present. Planting a few more things and thinking a little more about what insects and animals you want to attract will increase biodiversity. Whether you have a garden or live in a flat with no outdoor space, some variation of all these ideas and steps can be done in your home to attract more wildlife to your surroundings.
@@ -41,8 +41,9 @@ A common misconception is that a tidy garden is a healthy garden. In reality, a 
 Long grass offers shelter to beetles and caterpillars, which become food for hedgehogs and birds. Piles of leaves and twigs attract small mammals and a variety of birds that forage for insects in the undergrowth. By letting parts of your garden grow wild (even a small section), you're creating a haven for countless species and enhancing biodiversity in a simple, low-maintenance way.
 
        [caption id="" align="alignnone" width="1940"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/8a999029-8b31-41a9-a0ca-56f9e54f07c9/PXL_20240608_124539360%2B%281%29.jpg?format=original)
-  At our most recent Open Day at High Wood, Steve the Ecologist led local children in building bird boxes which were installed in trees, creating new&nbsp; homes. [/caption] 
+At our most recent Open Day at High Wood, Steve the Ecologist led local children in building bird boxes which were installed in trees, creating new&nbsp; homes. [/caption]
 
 ## Reducing Chemicals for a More Natural Balance
 

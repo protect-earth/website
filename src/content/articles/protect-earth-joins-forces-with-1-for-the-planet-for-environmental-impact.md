@@ -1,9 +1,9 @@
 ---
-title: "Protect Earth Joins Forces with 1% for the Planet for Environmental Impact"
-description: "1% for the Planet sees companies tithe one percent of annual sales to environmental activities. Protect Earth is now an approved environmental partner."
+title: 'Protect Earth Joins Forces with 1% for the Planet for Environmental Impact'
+description: '1% for the Planet sees companies tithe one percent of annual sales to environmental activities. Protect Earth is now an approved environmental partner.'
 pubDate: 2024-02-05T08:16:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earth-joins-forces-with-1-for-the-planet-for-environmental-impact.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earth-joins-forces-with-1-for-the-planet-for-environmental-impact.jpg'
 ---
 
 Goal, goals, goals. We typically look at businesses and think they aim to make more money and avoid paying taxes as much as possible, selfishly and destructively keeping everything for themselves. Of course, there are bad apples who do. But then there’s the other one per cent. 1% for the Planet that is. It’s an organisation that sees companies tithe one per cent of their annual sales to environmental activities, meaning charities like Protect Earth can tap into additional support to develop more biodiversity in the UK.

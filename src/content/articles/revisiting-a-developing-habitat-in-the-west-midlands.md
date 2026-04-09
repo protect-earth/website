@@ -1,9 +1,9 @@
 ---
-title: "Revisiting a developing habitat in the West Midlands"
+title: 'Revisiting a developing habitat in the West Midlands'
 description: "Now that Protect Earth has been planting for a few years, we're revisiting some of our very first projects that are 2-3 years old to review progress."
 pubDate: 2023-12-04T15:41:30.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/revisiting-a-developing-habitat-in-the-west-midlands.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/revisiting-a-developing-habitat-in-the-west-midlands.jpg'
 ---
 
 Now that Protect Earth has been planting at sites for a few years, we are starting to get back to our roots (if you'll pardon the pun), revisiting some of our very first projects that are 2-3 years old to review progress.
@@ -21,8 +21,9 @@ In the diversified environment in which plants and animals live, replacing only 
 What was planted is equivalent to approximately three acres, enough growth to boost the farm's biodiversity, directly [increasing the farm's turnover](https://www.protect.earth/blog/increase-farm-productivity-and-profitability-with-agroforestry-amp-rewilding).
 
        [caption id="" align="alignnone" width="3024"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469101-H5WB4HLQ4YBZJT71R4YF/IMG_9967.jpg?format=original)
-  Bubbenhall habitat development at a glance  Where: Warwickshire, West Midlands, UK  When started: 2021  What planted: 1-acre wildflower meadow, roughly 2 acres of woodland and hedging (2,500 saplings in 2021 and restocking of 400 plants in 2023)  How many days planting: 3 days for the initial 2,500 plants and one day for restocking [/caption] 
+Bubbenhall habitat development at a glance Where: Warwickshire, West Midlands, UK When started: 2021 What planted: 1-acre wildflower meadow, roughly 2 acres of woodland and hedging (2,500 saplings in 2021 and restocking of 400 plants in 2023) How many days planting: 3 days for the initial 2,500 plants and one day for restocking [/caption]
 
 ## Returning to Bubbenhall in 2023
 

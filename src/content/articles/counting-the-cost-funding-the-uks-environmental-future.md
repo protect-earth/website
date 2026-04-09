@@ -1,9 +1,9 @@
 ---
-title: "Counting the Cost: Funding the UK’s Environmental Future"
+title: 'Counting the Cost: Funding the UK’s Environmental Future'
 description: "Putting Labour's budget to the test: Are environmental promises adding up? Exploring whether financial plans support nature-friendly farming and habitat restoration."
 pubDate: 2024-12-31T13:53:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/counting-the-cost-funding-the-uks-environmental-future.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/counting-the-cost-funding-the-uks-environmental-future.jpg'
 ---
 
 Putting the Budget to the Test: Are Environmental Promises Adding Up?
@@ -15,23 +15,18 @@ The saying “put your money where your mouth is” resonates regarding governme
 Nature isn’t just a nice-to-have—it’s essential. From food security to economic resilience, environmental health underpins it all. According to the UN Environment Programme, nature loss could shrink UK GDP by 12%, eclipsing the impacts of the 2008 financial crisis or the pandemic.
 
 The updated Environmental Act (2021) pledged to:
-- 
-Halt species decline by 2030 and increase populations by 10% by 2042.
 
-- 
-Restore rivers, reduce pollution, and manage water use.
+- Halt species decline by 2030 and increase populations by 10% by 2042.
 
-- 
-Expand tree and woodland cover to 17.5% by 2050.
+- Restore rivers, reduce pollution, and manage water use.
 
-- 
-Halve per-person landfill waste by 2042.
+- Expand tree and woodland cover to 17.5% by 2050.
 
-- 
-Cut exposure to harmful air pollution.
+- Halve per-person landfill waste by 2042.
 
-- 
-Restore 70% of Marine Protected Areas by 2042.
+- Cut exposure to harmful air pollution.
+
+- Restore 70% of Marine Protected Areas by 2042.
 
 These goals are ambitious, but they risk becoming wishful thinking without adequate funding and accountability.
 
@@ -56,14 +51,12 @@ Meeting environmental targets means playing catch-up: planting more trees annual
 ## The Bigger Picture: Is This Enough?
 
 Industry experts are voicing concerns:
-- 
-Skills Gap: With shifts in farming and land management, insufficient training risks undermining progress.
 
-- 
-Target Reductions: Instead of tackling failures, targets are quietly downgraded, eroding trust.
+- Skills Gap: With shifts in farming and land management, insufficient training risks undermining progress.
 
-- 
-Woodland Creation Delays: Woodlands are vital habitats. Without urgent action, species decline cannot be reversed.
+- Target Reductions: Instead of tackling failures, targets are quietly downgraded, eroding trust.
+
+- Woodland Creation Delays: Woodlands are vital habitats. Without urgent action, species decline cannot be reversed.
 
 The urgency is stark: storms and diseases have decimated existing woodlands. Without immediate and sustained efforts, future generations of wildlife will have nowhere to call home.
 

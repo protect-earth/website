@@ -1,9 +1,9 @@
 ---
 title: "Protect Earth's 2024/25 UK Tree Planting Achievements"
-description: "The 2024/25 season wrapped up with 37,417 saplings planted across 55.85 acres - a 14% increase on last season despite government funding delays."
+description: 'The 2024/25 season wrapped up with 37,417 saplings planted across 55.85 acres - a 14% increase on last season despite government funding delays.'
 pubDate: 2025-03-31T07:00:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/protect-earths-202425-uk-tree-planting-achievements.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/protect-earths-202425-uk-tree-planting-achievements.jpg'
 ---
 
 The 2024/25 planting season has wrapped up, and we're proud to reflect on Protect Earth's accomplishments. From October to March, our team, volunteers, and landowners worked together to expand green spaces and restore biodiversity across the UK.

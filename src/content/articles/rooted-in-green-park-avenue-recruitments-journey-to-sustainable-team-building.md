@@ -2,8 +2,8 @@
 title: "Rooted in Green: Park Avenue Recruitment's Journey to Sustainable Team Building"
 description: "Greenery and green space impact our mental and physical health. We examine Park Avenue Recruitment's team outing and the benefits of green spaces."
 pubDate: 2024-04-28T21:49:07.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg'
 ---
 
 Greenery and green space are very important to our health.
@@ -29,8 +29,9 @@ The environment isn't the only investment Park Avenue Recruitment makes. They al
 ## The Heart of Park Avenue Recruitment: A Commitment to Environmental Responsibility
 
        [caption id="" align="alignnone" width="1200"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468675-Q1FE6EWS95E1H2UQ9E9M/Tree+Planting+3.jpg?format=original)
-   Everyone that took part was actually surprised by how much they enjoyed the tree plant and it has become one of our favourite Wellness Wednesdays.  [/caption] 
+Everyone that took part was actually surprised by how much they enjoyed the tree plant and it has become one of our favourite Wellness Wednesdays. [/caption]
 
 For Park Avenue Recruitment, this outing wasn't just an ordinary team-building exercise but part of their Wellness Wednesday initiative. The team didn't plan any outcomes to achieve during their time with us. They only hoped everyone who participated enjoyed themselves while giving back to the environment. With plans to document the experience on [LinkedIn](https://www.linkedin.com/company/parkavenuerec/) and [TikTok](https://www.tiktok.com/@parkavenuerec), the team aimed to raise awareness about environmental conservation and showcase their commitment to becoming climate-positive.&nbsp;
 

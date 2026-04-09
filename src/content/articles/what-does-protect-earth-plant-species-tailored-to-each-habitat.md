@@ -1,9 +1,9 @@
 ---
-title: "What Does Protect Earth Plant? Species Tailored to Each Habitat"
-description: "Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way."
+title: 'What Does Protect Earth Plant? Species Tailored to Each Habitat'
+description: 'Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way.'
 pubDate: 2025-01-08T01:22:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg'
 ---
 
 Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way.
@@ -37,59 +37,42 @@ These are just two quick examples of what the natural world can do. There are ma
 Reiterating what we said earlier, one of Protect Earth's mantras is, "right species for the right space", meaning we're not going to plant Douglas fir trees on any sites anywhere in the UK.
 
 We do plant species such as:
-- 
-Alder
 
-- 
-Ash
+- Alder
 
-- 
-Birch
+- Ash
 
-- 
-Blackthorn
+- Birch
 
-- 
-Buckthorn
+- Blackthorn
 
-- 
-Wild Cherry
+- Buckthorn
 
-- 
-Elder
+- Wild Cherry
 
-- 
-Hawthorne
+- Elder
 
-- 
-Holly
+- Hawthorne
 
-- 
-Hornbeam
+- Holly
 
-- 
-Lime
+- Hornbeam
 
-- 
-Maple
+- Lime
 
-- 
-Oak
+- Maple
 
-- 
-Poplar
+- Oak
 
-- 
-Rowan
+- Poplar
 
-- 
-Wild Service Tree
+- Rowan
 
-- 
-Willow
+- Wild Service Tree
 
-- 
-Yew
+- Willow
+
+- Yew
 
 In addition to planting the right species for the project, it's also very important to us to source those species from as close to the project site as possible. Nurseries across the UK try to maintain tight control over the seeds they collect. Like us, they want the plants they grow to come from seeds within the nurseries' region. This close multi-generational proximity gives the saplings a better chance of survival as they will be acclimatised to the region's unique characteristics, requiring minor adjustment.
 

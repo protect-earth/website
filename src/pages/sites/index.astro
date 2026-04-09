@@ -25,7 +25,7 @@ const siteMetaMap = new Map(
 			tags: site.data.tags || [],
 			thumbnail: site.data.images?.[0] || null,
 		},
-	])
+	]),
 );
 
 // Map API data with first image and tags
@@ -108,13 +108,7 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 						<article class="Site" data-tags={JSON.stringify(site.tags)}>
 							<aside class="Site__thumbnail">
 								{site.localThumbnail ? (
-									<Image
-										src={site.localThumbnail}
-										alt=""
-										width={600}
-										height={338}
-										loading="lazy"
-									/>
+									<Image src={site.localThumbnail} alt="" width={600} height={338} loading="lazy" />
 								) : site.remoteThumbnail ? (
 									<img src={site.remoteThumbnail} alt="" loading="lazy" />
 								) : (

@@ -9,10 +9,7 @@ const { currentPage, lastPage, url } = Astro.props;
 <nav class="Pagination" aria-label="Pagination">
 	{
 		url.prev && (
-			<a
-				class="Pagination__link Pagination__link--previous"
-				href={url.prev}
-			>
+			<a class="Pagination__link Pagination__link--previous" href={url.prev}>
 				<svg class="Pagination__icon icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path
 						stroke-linecap="round"

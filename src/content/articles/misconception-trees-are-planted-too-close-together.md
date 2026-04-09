@@ -1,14 +1,14 @@
 ---
-title: "Misconception: Trees are planted \"too close together\""
-description: "How closely together should trees be planted? What’s the optimal balance between guaranteeing a healthy forest and a healthy return (if planting for profit)? While there are some general guides, as us"
+title: 'Misconception: Trees are planted "too close together"'
+description: 'How closely together should trees be planted? What’s the optimal balance between guaranteeing a healthy forest and a healthy return (if planting for profit)? While there are some general guides, as us'
 pubDate: 2023-04-24T06:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/misconception-trees-are-planted-too-close-together.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/misconception-trees-are-planted-too-close-together.jpg'
 ---
 
 ## **Reality: Overstocking helps a woodland establish even when there are losses.**
 
-*This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth. It’s a series of posts discussing the grey areas in tree planting and forestry. *
+_This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth. It’s a series of posts discussing the grey areas in tree planting and forestry. _
 
 Swirling within and around the community through the media are&nbsp;[misconceptions about the reforesting industry](https://www.protect.earth/blog/misconceptions-about-tree-planting).
 
@@ -32,7 +32,7 @@ We take this into account when we consult and plan a new project. If the project
 
 The average stocking density is around 1,600 trees/ha. Of that, 80% are expected to survive. When 20% of those saplings fail, they can be replaced in the first few years, and eventually, the trees will be big enough to look after themselves.
 
-Pesticides&nbsp;*could*&nbsp;be sprayed everywhere with expensive fencing all over the countryside. Still, the less invasive approach is to recreate what nature does: trees produce far more seeds than are expected to survive. From thousands of acorns, only a few will find the right conditions to germinate, and they may well be in competition with each other, and other saplings nearby.
+Pesticides&nbsp;_could_&nbsp;be sprayed everywhere with expensive fencing all over the countryside. Still, the less invasive approach is to recreate what nature does: trees produce far more seeds than are expected to survive. From thousands of acorns, only a few will find the right conditions to germinate, and they may well be in competition with each other, and other saplings nearby.
 
 Now, let's address the misconception that trees planted too densely together is a bad thing.
 

@@ -1,9 +1,9 @@
 ---
-title: "We’ve Started Planting!"
-description: "The day we got to start planting felt like it would never come, but our first batch of trees arrived on Sands Farm! We picked up 100 Oak saplings on Friday, which were part of a few thousand that..."
+title: 'We’ve Started Planting!'
+description: 'The day we got to start planting felt like it would never come, but our first batch of trees arrived on Sands Farm! We picked up 100 Oak saplings on Friday, which were part of a few thousand that...'
 pubDate: 2020-12-01T16:45:55.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/we-started-planting.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/we-started-planting.jpg'
 ---
 
 The day we got to start planting felt like it would never come, but our first batch of trees arrived on Sands Farm! We picked up 100 Oak saplings on Friday, which were part of a few thousand that Bristol Tree Forum rescued from a wood chipper. COVID-19 has been a rough time for everyone, and with so many reforestation projects cancelled or put on indefinite hold, it was amazing to rescue some of these saplings and find them a good home.

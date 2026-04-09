@@ -2,8 +2,8 @@
 title: "More Trees, More Biodiversity: Recapping Protect Earth's 2023/24 Season"
 description: "The 2023/24 planting season has ended. Let's recap our intentions and what was planted, reflecting on another year of creating native broadleaf woodlands."
 pubDate: 2024-06-24T15:06:43.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg'
 ---
 
 Close to the beginning of the 2023/24 planting season, we shared with you what we expected to achieve over the season. [Remember](https://www.protect.earth/blog/protect-earth-in-202324-planting-restoring-and-invasive-species-removal)?
@@ -23,8 +23,9 @@ Not only does this show growth in the right direction, but our time was going to
 Another point of early season excitement was that close to 76% of what was projected to be done was on land owned or long-term leased by Protect Earth. Here we could produce detailed woodland creation plans to restore long lost woodlands and maximise biodiversity.
 
        [caption id="" align="alignnone" width="6048"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468496-UPIBG4OF21NH2OAHMV0V/soyth+lodge+trees-98.jpg?format=original)
-   Protect Earth’s community made massive contributions to the UK’s ecology in 2023/ 24  [/caption] 
+Protect Earth’s community made massive contributions to the UK’s ecology in 2023/ 24 [/caption]
 
 ## **What Protect Earth achieved during the 2023/24 season**
 
@@ -39,8 +40,9 @@ Our 2023/24 planting footprint witnessed most of our planting activities in Engl
 During the past season, Protect Earth[ revised our metrics](https://www.protect.earth/blog/protect-earths-maturing-success-metrics), broadening what we're measuring. Again, only planting trees isn't the only thing we can do, so we have broadened our horizons to achieve a higher rate of biodiversity on our projects and with everyone we work with.
 
        [caption id="" align="alignnone" width="961"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468500-C0JLEIYX3QCJLU0K7UBR/Screenshot+2024-06-24+161539.png?format=original)
-   A break down of what Protect Earth have accomplished during the 2023/24 planting season.  [/caption] 
+A break down of what Protect Earth have accomplished during the 2023/24 planting season. [/caption]
 
 ### **Land Under Direct Protect Earth Management**
 
@@ -82,4 +84,4 @@ Looking back on the season, with all the complications and changes in plans, we 
 
 Help us make a lasting impact on our environment. Purchase a tree or hedgerow today, and we'll plant it in projects across the UK this season. Every tree makes a difference. **Buy now and grow a greener future!**
 
-## Join Us in           Greening the UK!
+## Join Us in Greening the UK!

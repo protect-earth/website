@@ -1,16 +1,17 @@
 ---
-title: "Goytre Wood update: A Welsh woodland in progress"
+title: 'Goytre Wood update: A Welsh woodland in progress'
 description: "Creating a woodland on once overgrazed slopes near Knighton in Mid-Wales. The first woodland we're creating on land we own, biodiversity is already on the uptick."
 pubDate: 2025-10-12T11:31:24.000Z
-author: "KatieWickens"
-thumbnail: "/articles/goytre-wood-2025-survival.jpg"
+author: 'KatieWickens'
+thumbnail: '/articles/goytre-wood-2025-survival.jpg'
 ---
 
 Over the past few years, Protect Earth has been working on creating a woodland in Powys, Wales. Overlooking the Radnorshire hills sits the once overgrazed slopes of [Goytre Hill](/projects/goytrewood), near Knighton in Mid-Wales. You'll know the area if you've ever trotted along the eastern end of the Trans Cambrian Way. For us this is an important site for not only flood mitigation and the carbon and biodiversity benefits that come with restoring woodland that historically covered most of this valley, but also as it's the first woodland we're creating on land we actually own.
 
        [caption id="" align="alignnone" width="3000"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/14ebf849-cf0d-4a25-aea6-9a4ad497588f/view.jpeg?format=original)
-   Fast-growing Rowan trees have already popped out the top of their photodegradeable deer guards in their first year, despite being knee height when they were planted in January 2025.  [/caption] 
+Fast-growing Rowan trees have already popped out the top of their photodegradeable deer guards in their first year, despite being knee height when they were planted in January 2025. [/caption]
 
 The team has been hard at work with volunteers and contractors planting and surveying this 70 acre site skirting the River Teme. While things aren't going as well as we might have hoped, planting at Goytre Hill has been a huge achievement for us and we're confident that things are still on track. Biodiversity is already on the uptick, and we're not done yet.
 
@@ -29,8 +30,9 @@ We even spotted a few rogue Oak saplings toughing it on the windy hillside witho
 Along the north-west strip – which backs up against an established (but sadly miniscule) sliver of ancient woodland – we hopped a fence into a dense swathe of bracken to check some saplings nestled in the undergrowth, sleeves tucked tightly into our gloves. Thanks to the wall of woodland and lush ferns providing shade and wind protection, combined with our sturdy tree guards holding space and light for the saplings, we noted some smashing growth.&nbsp;
 
        [caption id="" align="alignnone" width="3000"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/188e2cbe-bb2f-4a2c-993c-ddc71fa2a58f/blog+-+north+strip.jpeg?format=original)
-   Our team of surveyors are out looking for green leaves on the young saplings amongst the bracken on the north side of the hill.  [/caption] 
+Our team of surveyors are out looking for green leaves on the young saplings amongst the bracken on the north side of the hill. [/caption]
 
 It just goes to show how important the tree guards are, as without them these saplings would likely have been smothered in bracken and shaded out entirely. The guards kept a ray of light above them, and led to the best survival rates for any parcel on the site.
 
@@ -49,8 +51,9 @@ The likelihood is that many of the saplings that appeared dead have “dead-head
 The addition of hemp mulch mats on the steep south slope should improve things, too. These help limit the competition from grass and shade the immediate area from direct sun to give the saplings more chance to soak up water before it drains away, or evaporates in the heat.
 
        [caption id="" align="alignnone" width="2500"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/b0716577-ae9c-40e1-aba6-12986fc597f0/south.jpeg?format=original)
-   The struggling south slope in the background, with a large area of natural regeneration in the foreground showing gorse and bracken with an occasional tree popping out.  [/caption] 
+The struggling south slope in the background, with a large area of natural regeneration in the foreground showing gorse and bracken with an occasional tree popping out. [/caption]
 
 We'll also be dipping all new saplings in a mycorrhizal fungi root dip to give them a chance to root deeper into the soil, which is something that has helped drastically improve the success of replanted saplings across our other drought-hit sites, drastically boosting survival through the next summer.
 

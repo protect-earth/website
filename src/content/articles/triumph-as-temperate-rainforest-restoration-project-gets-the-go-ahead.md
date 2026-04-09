@@ -1,9 +1,9 @@
 ---
-title: "Triumph as temperate rainforest restoration project gets the go ahead"
-description: "Protect Earth have managed to gain permission to plant native-only trees at our woods outside of Liskeard, Cornwall. This is BIG as we previously would have been required to plant non-native species t"
+title: 'Triumph as temperate rainforest restoration project gets the go ahead'
+description: 'Protect Earth have managed to gain permission to plant native-only trees at our woods outside of Liskeard, Cornwall. This is BIG as we previously would have been required to plant non-native species t'
 pubDate: 2023-04-12T14:58:20.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg'
 ---
 
 Protect Earth has landed a veto on decades-long commercial clear-felling at High Wood, Liskeard.
@@ -47,8 +47,9 @@ Today, 1% of the UK's land area is home to these rainforests. These forests are 
 As our [Ecologist, Steve Wiltshire, explains](https://www.cornish-times.co.uk/news/protecting-the-earth-by-planting-trees-in-liskeard-582515), "The British Isles is increasingly devoid of wildlife; we should have loads of different species. We're losing species that should be here at a dramatic rate."
 
        [caption id="" align="alignnone" width="5760"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469535-284W7GZCJP773ORY2MQU/PE250223-PrintRes-9225.jpg?format=original)
-  Steve the Ecologist checking and documenting what volunteers have planted  [/caption] 
+Steve the Ecologist checking and documenting what volunteers have planted [/caption]
 
 This is why it's such a massive win for all of us to have overcome this Restocking Agreement and get permission to start developing High Wood into a temperate woodland!
 
@@ -57,8 +58,9 @@ This is why it's such a massive win for all of us to have overcome this Restocki
 Now along the base of the valley sit 1,000 saplings of native Beech, Oak, Alder, Aspen, Cornish Elm, Wild Service, Goat Willow, Silver Birch, and Rowan. All these beautiful broadleaf species will generate heaps of biodiversity and give homes to wildlife.
 
        [caption id="" align="alignnone" width="5722"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469541-6BXIU79HL79DOI1HC4ZU/PE250223-PrintRes-9217.jpg?format=original)
-  Volunteers having fun together planting hedgerows [/caption] 
+Volunteers having fun together planting hedgerows [/caption]
 
 To push that biodiversity further, we've rescued one compartment of native self-seeded saplings from the young, non-native conifers that would have eventually smothered them. Most of the saplings from the previous stock are now done away with. While plenty of fully-grown sentinels still haunt the north-facing slope, our triumph in switching up the Restocking Agreement means they won't stifle the biodiversity for much longer.
 
@@ -71,11 +73,9 @@ We're encouraging new growth by spreading nutrients from the newly mulched oppre
 It'll take some time for High Wood to be fully restored, but gaining permission to restock with broadleaf species has been a major step forward for this project, one that we're proud of having accomplished. This is a landmark win for this once clear-fell-bound woodland and for the restoration of a very, very unique type of woodland - temperate rainforests!
 
 ## Sources
-- 
-[https://www.theguardian.com/environment/2022/oct/21/guy-shrubsole-man-championing-britains-rainforests](https://www.theguardian.com/environment/2022/oct/21/guy-shrubsole-man-championing-britains-rainforests)
 
-- 
-[https://news.climate.columbia.edu/2021/06/09/protecting-temperate-old-growth-rainforest-is-key-for-a-sustainable-future/#:~:text=Temperate%20rainforests%20not%20only%20serve,maintenance%2Dfree%20carbon%20capture%20service](https://news.climate.columbia.edu/2021/06/09/protecting-temperate-old-growth-rainforest-is-key-for-a-sustainable-future/#:~:text=Temperate%20rainforests%20not%20only%20serve,maintenance%2Dfree%20carbon%20capture%20service).
+- [https://www.theguardian.com/environment/2022/oct/21/guy-shrubsole-man-championing-britains-rainforests](https://www.theguardian.com/environment/2022/oct/21/guy-shrubsole-man-championing-britains-rainforests)
 
-- 
-[https://www.nationalworld.com/news/environment/british-rainforests-temperate-rainforest-uk-3899744](https://www.nationalworld.com/news/environment/british-rainforests-temperate-rainforest-uk-3899744)
+- [https://news.climate.columbia.edu/2021/06/09/protecting-temperate-old-growth-rainforest-is-key-for-a-sustainable-future/#:~:text=Temperate%20rainforests%20not%20only%20serve,maintenance%2Dfree%20carbon%20capture%20service](https://news.climate.columbia.edu/2021/06/09/protecting-temperate-old-growth-rainforest-is-key-for-a-sustainable-future/#:~:text=Temperate%20rainforests%20not%20only%20serve,maintenance%2Dfree%20carbon%20capture%20service).
+
+- [https://www.nationalworld.com/news/environment/british-rainforests-temperate-rainforest-uk-3899744](https://www.nationalworld.com/news/environment/british-rainforests-temperate-rainforest-uk-3899744)

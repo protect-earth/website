@@ -1,9 +1,9 @@
 ---
 title: "The UK government's downsized forest goals"
-description: "The climate crisis is upon us. We’re told daily of this fact everywhere we look. And one solution we see to fight climate change is to plant trees. Yet, the UK government has reduced its tree planting"
+description: 'The climate crisis is upon us. We’re told daily of this fact everywhere we look. And one solution we see to fight climate change is to plant trees. Yet, the UK government has reduced its tree planting'
 pubDate: 2023-04-17T06:26:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-uk-governments-downsized-forest-goals.png"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-uk-governments-downsized-forest-goals.png'
 ---
 
 At the start of 2023, the government in the UK did the opposite of what most people do when starting a new year - the government gave up. Where most people pledge to be better - they're going to work harder, exercise more, be friendlier, eat better, save money, and generally be the best they can be, the UK government kicked off 2023 with a general shrug of their shoulders and an, 'oh well, that's too hard.'
@@ -36,7 +36,7 @@ There's a lot of official literature from the government published in its effort
 
 Instead, we must look at the goals and the deficit and work together to plug the holes.
 
-While the argument goes from farmers that land values will drop if the land is planted with trees, there's a lot of evidence pointing the other way. Agricultural activities can be enhanced by having more diversity of plants on farmland. As well as bringing more natural (read *cheaper*) fertility to soil and more insects and animals doing their productivity thing, plants also reduce operational costs. They provide shelter for animals and buildings. Providing shelter for animals against the elements can reduce stress on animals and the internal work required to maintain a comfortable body temperature. Less stress and greater comfort lead to animals eating less and living to optimal ages.
+While the argument goes from farmers that land values will drop if the land is planted with trees, there's a lot of evidence pointing the other way. Agricultural activities can be enhanced by having more diversity of plants on farmland. As well as bringing more natural (read _cheaper_) fertility to soil and more insects and animals doing their productivity thing, plants also reduce operational costs. They provide shelter for animals and buildings. Providing shelter for animals against the elements can reduce stress on animals and the internal work required to maintain a comfortable body temperature. Less stress and greater comfort lead to animals eating less and living to optimal ages.
 
 Having plants around buildings also helps costs by breaking up weather. Trees provide shade and resulting coolness in the hot, hot months. Trees also protect against cold winds in the cold, cold months.
 
@@ -45,11 +45,10 @@ In other areas, trees do a lot to hold everything together. Literally. Trees can
 So, circling back to the question of what can be done - the answer is simple. And that is to plant trees!
 
 ## Sources
-- 
-[https://www.bbc.co.uk/news/science-environment-61908988](https://www.bbc.co.uk/news/science-environment-61908988)
 
-- 
-[https://www.opendemocracy.net/en/defra-trees-lobbying-national-farmers-union-land-value-trees/](https://www.opendemocracy.net/en/defra-trees-lobbying-national-farmers-union-land-value-trees/)
+- [https://www.bbc.co.uk/news/science-environment-61908988](https://www.bbc.co.uk/news/science-environment-61908988)
+
+- [https://www.opendemocracy.net/en/defra-trees-lobbying-national-farmers-union-land-value-trees/](https://www.opendemocracy.net/en/defra-trees-lobbying-national-farmers-union-land-value-trees/)
 
 Protect Earth are working to restore woodlands throughout the UK. We need help!
 

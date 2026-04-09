@@ -1,64 +1,66 @@
 <!doctype html>
 <html lang="{{ site:short_locale }}">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ title ?? site:name }} | {{ site_settings:site_name }}</title>
-        <meta name="description" content="{{ site_settings:tagline }}">
-        {{ vite src="resources/js/site.js|resources/css/site.css" }}
-    </head>
-    <body class="bg-white text-gray-900">
-        <header class="bg-green-800 text-white">
-            <nav class="container mx-auto px-4 py-6">
-                <div class="flex items-center justify-between">
-                    <a href="/" class="text-2xl font-bold">
-                        {{ site_settings:site_name }}
-                    </a>
-                    <ul class="flex space-x-6">
-                        {{ nav:main }}
-                            <li><a href="{{ url }}" class="hover:text-green-200">{{ title }}</a></li>
-                        {{ /nav:main }}
-                    </ul>
-                </div>
-            </nav>
-        </header>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>{{ title ?? site:name }} | {{ site_settings:site_name }}</title>
+		<meta name="description" content="{{ site_settings:tagline }}" />
+		{{ vite src="resources/js/site.js|resources/css/site.css" }}
+	</head>
+	<body class="bg-white text-gray-900">
+		<header class="bg-green-800 text-white">
+			<nav class="container mx-auto px-4 py-6">
+				<div class="flex items-center justify-between">
+					<a href="/" class="text-2xl font-bold"> {{ site_settings:site_name }} </a>
+					<ul class="flex space-x-6">
+						{{ nav:main }}
+						<li><a href="{{ url }}" class="hover:text-green-200">{{ title }}</a></li>
+						{{ /nav:main }}
+					</ul>
+				</div>
+			</nav>
+		</header>
 
-        <main>
-            {{ template_content }}
-        </main>
+		<main>{{ template_content }}</main>
 
-        <footer class="bg-gray-900 text-white mt-16">
-            <div class="container mx-auto px-4 py-12">
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                    <div>
-                        <h3 class="text-xl font-bold mb-4">{{ site_settings:site_name }}</h3>
-                        <p class="text-gray-400">{{ site_settings:tagline }}</p>
-                        <p class="text-gray-400 mt-2">Charity: {{ site_settings:charity_number }}</p>
-                    </div>
-                    <div>
-                        <h4 class="font-bold mb-4">Get in touch</h4>
-                        <p class="text-gray-400"><a href="mailto:{{ site_settings:contact_email }}">{{ site_settings:contact_email }}</a></p>
-                        <p class="text-gray-400"><a href="tel:{{ site_settings:contact_phone }}">{{ site_settings:contact_phone }}</a></p>
-                        <div class="flex space-x-4 mt-4">
-                            {{ site_settings:social_media }}
-                                <a href="{{ value }}" class="text-gray-400 hover:text-white">{{ key | title }}</a>
-                            {{ /site_settings:social_media }}
-                        </div>
-                    </div>
-                    <div>
-                        <h4 class="font-bold mb-4">Useful Links</h4>
-                        <ul class="space-y-2">
-                            {{ site_settings:footer_links }}
-                                <li><a href="{{ url }}" class="text-gray-400 hover:text-white">{{ title }}</a></li>
-                            {{ /site_settings:footer_links }}
-                        </ul>
-                    </div>
-                </div>
-                <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                    <p>&copy; {{ now format="Y" }} {{ site_settings:site_name }}. All rights reserved.</p>
-                </div>
-            </div>
-        </footer>
-    </body>
+		<footer class="bg-gray-900 text-white mt-16">
+			<div class="container mx-auto px-4 py-12">
+				<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+					<div>
+						<h3 class="text-xl font-bold mb-4">{{ site_settings:site_name }}</h3>
+						<p class="text-gray-400">{{ site_settings:tagline }}</p>
+						<p class="text-gray-400 mt-2">Charity: {{ site_settings:charity_number }}</p>
+					</div>
+					<div>
+						<h4 class="font-bold mb-4">Get in touch</h4>
+						<p class="text-gray-400">
+							<a href="mailto:{{ site_settings:contact_email }}"
+								>{{ site_settings:contact_email }}</a
+							>
+						</p>
+						<p class="text-gray-400">
+							<a href="tel:{{ site_settings:contact_phone }}">{{ site_settings:contact_phone }}</a>
+						</p>
+						<div class="flex space-x-4 mt-4">
+							{{ site_settings:social_media }}
+							<a href="{{ value }}" class="text-gray-400 hover:text-white">{{ key | title }}</a>
+							{{ /site_settings:social_media }}
+						</div>
+					</div>
+					<div>
+						<h4 class="font-bold mb-4">Useful Links</h4>
+						<ul class="space-y-2">
+							{{ site_settings:footer_links }}
+							<li><a href="{{ url }}" class="text-gray-400 hover:text-white">{{ title }}</a></li>
+							{{ /site_settings:footer_links }}
+						</ul>
+					</div>
+				</div>
+				<div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+					<p>&copy; {{ now format="Y" }} {{ site_settings:site_name }}. All rights reserved.</p>
+				</div>
+			</div>
+		</footer>
+	</body>
 </html>

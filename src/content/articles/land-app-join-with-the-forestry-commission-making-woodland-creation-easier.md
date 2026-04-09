@@ -1,9 +1,9 @@
 ---
-title: "Land App join with the Forestry Commission making woodland creation easier"
-description: "Environmental mapping company Land App has partnered with the Forestry Commission to make woodland creation easier."
+title: 'Land App join with the Forestry Commission making woodland creation easier'
+description: 'Environmental mapping company Land App has partnered with the Forestry Commission to make woodland creation easier.'
 pubDate: 2023-12-01T01:54:50.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/land-app-join-with-the-forestry-commission-making-woodland-creation-easier.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/land-app-join-with-the-forestry-commission-making-woodland-creation-easier.jpg'
 ---
 
 Environmental mapping company Land App has partnered with the Forestry Commission.

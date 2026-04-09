@@ -1,9 +1,9 @@
 ---
-title: "Ploughing Away Diversity: The Impact of Modern Agriculture on Ecosystems"
+title: 'Ploughing Away Diversity: The Impact of Modern Agriculture on Ecosystems'
 description: "Wildflower meadows have disappeared. Tragically, we have lost 97% of the UK's wildflower meadows since the 1930s, displacing natural inhabitants."
 pubDate: 2024-03-24T19:15:15.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/ploughing-away-diversity-the-impact-of-modern-agriculture-on-ecosystems.jpeg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/ploughing-away-diversity-the-impact-of-modern-agriculture-on-ecosystems.jpeg'
 ---
 
 Wildflower meadows and similar habitats have disappeared. Because homes have disappeared, the natural inhabitants have been displaced, and that’s caused a massive decline in population numbers. The problem is, these natural residents of wildflower meadows are not tremendously helpful to us - they are even more important than that!
@@ -17,11 +17,10 @@ The seeds of this large-scale habitat loss in the UK were sown following WWII. P
 That realisation is very stark. So government advocated farms develop greater efficiency. Much like productivity is talked about today, increasing land efficiency means producing more food from the same amount of land. How? Mechanisation and chemicals.
 
 Mechanised farming equipment has been affecting natural habitats in two ways:
-- 
-Increased efficiency meant farm sizes increased, leading to habitat destruction.
 
-- 
-A lack of nimbleness driving big machines has necessitated further habitat destruction, allowing big machines to move over land and through fields.
+- Increased efficiency meant farm sizes increased, leading to habitat destruction.
+
+- A lack of nimbleness driving big machines has necessitated further habitat destruction, allowing big machines to move over land and through fields.
 
 Today, the average farm in England is 87 hectares. Fifty-two per cent of UK farms are arable (meaning they grow crops), and 35% is permanent pasture land for animals.
 
@@ -58,26 +57,19 @@ Every farm has unused land. Rather than looking at these unused, forgotten strip
 If you’d like to invest in agro-forestry, whether developing hedgerows, wildflower meadows, silviculture, or whatever, and have questions on the benefits, where to start, or how to get your project funded, please contact Protect Earth.
 
 ## Sources
-- 
-[https://www.kew.org/read-and-watch/meadows-matter](https://www.kew.org/read-and-watch/meadows-matter)
 
-- 
-[https://growwild.kew.org/blog/uk-native-plants-and-fungi](https://growwild.kew.org/blog/uk-native-plants-and-fungi)
+- [https://www.kew.org/read-and-watch/meadows-matter](https://www.kew.org/read-and-watch/meadows-matter)
 
-- 
-[https://www.forestresearch.gov.uk/tools-and-resources/fthr/urban-regeneration-and-greenspace-partnership/greenspace-in-practice/benefits-of-greenspace/wildflower-meadow-habitats/](https://www.forestresearch.gov.uk/tools-and-resources/fthr/urban-regeneration-and-greenspace-partnership/greenspace-in-practice/benefits-of-greenspace/wildflower-meadow-habitats/)
+- [https://growwild.kew.org/blog/uk-native-plants-and-fungi](https://growwild.kew.org/blog/uk-native-plants-and-fungi)
 
-- 
-[https://www.rhs.org.uk/wildlife/pollinators-decline-in-numbers](https://www.rhs.org.uk/wildlife/pollinators-decline-in-numbers)
+- [https://www.forestresearch.gov.uk/tools-and-resources/fthr/urban-regeneration-and-greenspace-partnership/greenspace-in-practice/benefits-of-greenspace/wildflower-meadow-habitats/](https://www.forestresearch.gov.uk/tools-and-resources/fthr/urban-regeneration-and-greenspace-partnership/greenspace-in-practice/benefits-of-greenspace/wildflower-meadow-habitats/)
 
-- 
-[https://www.wildlifetrusts.org/savingbees](https://www.wildlifetrusts.org/savingbees)
+- [https://www.rhs.org.uk/wildlife/pollinators-decline-in-numbers](https://www.rhs.org.uk/wildlife/pollinators-decline-in-numbers)
 
-- 
-[https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-north-west-region](https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-north-west-region)
+- [https://www.wildlifetrusts.org/savingbees](https://www.wildlifetrusts.org/savingbees)
 
-- 
-[https://www.twinkl.co.uk/teaching-wiki/history-of-farming-in-great-britain](https://www.twinkl.co.uk/teaching-wiki/history-of-farming-in-great-britain)
+- [https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-north-west-region](https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-north-west-region)
 
-- 
-[https://www.nature.com/articles/s41467-019-08974-9](https://www.nature.com/articles/s41467-019-08974-9)
+- [https://www.twinkl.co.uk/teaching-wiki/history-of-farming-in-great-britain](https://www.twinkl.co.uk/teaching-wiki/history-of-farming-in-great-britain)
+
+- [https://www.nature.com/articles/s41467-019-08974-9](https://www.nature.com/articles/s41467-019-08974-9)

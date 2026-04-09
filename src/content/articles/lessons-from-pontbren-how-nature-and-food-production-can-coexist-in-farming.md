@@ -1,9 +1,9 @@
 ---
-title: "Lessons from Pontbren: How Nature and Food Production Can Coexist in Farming"
-description: "Examining Pontbren, a mould-breaking case study showing benefits of sustainable farming. Can biodiversity and food production coexist on Welsh farms?"
+title: 'Lessons from Pontbren: How Nature and Food Production Can Coexist in Farming'
+description: 'Examining Pontbren, a mould-breaking case study showing benefits of sustainable farming. Can biodiversity and food production coexist on Welsh farms?'
 pubDate: 2024-03-08T14:01:51.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg'
 ---
 
 Land use is always a complicated topic. This long-running debate between biodiversity/climate advocates and food production has been flaring up to historic proportions in Wales after the government's move towards its new Sustainable Farming Scheme. This new scheme replaces subsidies that were given purely based on the size of farmable land available with a scheme that rewards sustainable farming.&nbsp;
@@ -59,23 +59,17 @@ Introducing wilder amounts of greenery doesn’t necessarily result in a loss of
 If you have questions on how you can tap into ideas naturally improving soil fertility and productivity on your farm - either developing hedgerows or wildflower patches on unused land or radically redrawing your farm and introducing silvopastoral/ silvoarable - we will help you.
 
 ## Sources
-- 
-[https://www.gov.wales/keeping-farmers-farming](https://www.gov.wales/keeping-farmers-farming)
 
-- 
-[https://www.woodlandtrust.org.uk/media/4808/pontbren-project-sustainable-uplands-management.pdf](https://www.woodlandtrust.org.uk/media/4808/pontbren-project-sustainable-uplands-management.pdf)
+- [https://www.gov.wales/keeping-farmers-farming](https://www.gov.wales/keeping-farmers-farming)
 
-- 
-[https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/area-statements/sector-specific-information/area-statements-and-farmers-foresters-and-land-managers/](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/area-statements/sector-specific-information/area-statements-and-farmers-foresters-and-land-managers/)
+- [https://www.woodlandtrust.org.uk/media/4808/pontbren-project-sustainable-uplands-management.pdf](https://www.woodlandtrust.org.uk/media/4808/pontbren-project-sustainable-uplands-management.pdf)
 
-- 
-[https://research.senedd.wales/media/iuch3jz1/22-47-farming-sector-in-wales.pdf](https://research.senedd.wales/media/iuch3jz1/22-47-farming-sector-in-wales.pdf)
+- [https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/area-statements/sector-specific-information/area-statements-and-farmers-foresters-and-land-managers/](https://naturalresources.wales/about-us/what-we-do/strategies-and-plans/area-statements/sector-specific-information/area-statements-and-farmers-foresters-and-land-managers/)
 
-- 
-[https://www.daera-ni.gov.uk/news/northern-ireland-agricultural-incomes-2022](https://www.daera-ni.gov.uk/news/northern-ireland-agricultural-incomes-2022)
+- [https://research.senedd.wales/media/iuch3jz1/22-47-farming-sector-in-wales.pdf](https://research.senedd.wales/media/iuch3jz1/22-47-farming-sector-in-wales.pdf)
 
-- 
-[https://www.gov.uk/government/statistics/total-income-from-farming-in-the-uk/total-income-from-farming-in-the-uk-in-2022](https://www.gov.uk/government/statistics/total-income-from-farming-in-the-uk/total-income-from-farming-in-the-uk-in-2022)
+- [https://www.daera-ni.gov.uk/news/northern-ireland-agricultural-incomes-2022](https://www.daera-ni.gov.uk/news/northern-ireland-agricultural-incomes-2022)
 
-- 
-[https://youtu.be/Xho_p8m4dcM?si=sVe3Zv0MMxa1OPaQ](https://youtu.be/Xho_p8m4dcM?si=sVe3Zv0MMxa1OPaQ)
+- [https://www.gov.uk/government/statistics/total-income-from-farming-in-the-uk/total-income-from-farming-in-the-uk-in-2022](https://www.gov.uk/government/statistics/total-income-from-farming-in-the-uk/total-income-from-farming-in-the-uk-in-2022)
+
+- [https://youtu.be/Xho_p8m4dcM?si=sVe3Zv0MMxa1OPaQ](https://youtu.be/Xho_p8m4dcM?si=sVe3Zv0MMxa1OPaQ)

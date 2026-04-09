@@ -1,14 +1,14 @@
 ---
-title: "Ancient woodlands - places of huge ecological diversity"
-description: "Ancient woodlands are irreplaceable ecosystems that have existed for centuries, supporting unique biodiversity and ecological complexity."
+title: 'Ancient woodlands - places of huge ecological diversity'
+description: 'Ancient woodlands are irreplaceable ecosystems that have existed for centuries, supporting unique biodiversity and ecological complexity.'
 pubDate: 2023-02-20T09:44:23.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/ancient-woodlands-places-of-huge-ecological-diversity.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/ancient-woodlands-places-of-huge-ecological-diversity.jpg'
 ---
 
 [caption id="" align="alignnone" width="1500"]
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469697-QLPQGO0NTTY7W6K1TVLR/highwood.jpg?format=original)
-   This is High Wood, an ”ancient replanted woodland”. This means the woodland has been here since at least the year 1600 but the trees have all been replaced with non-native conifers. Protect Earth are    restoring this woodland    to its former glory.  [/caption] 
+This is High Wood, an ”ancient replanted woodland”. This means the woodland has been here since at least the year 1600 but the trees have all been replaced with non-native conifers. Protect Earth are restoring this woodland to its former glory. [/caption]
 
 Trees are pretty cool. We at Protect Earth think so and are willing to bet that as you’re reading this, you think so, too.
 
@@ -35,14 +35,12 @@ Trees that make up ancient woodlands (or have been ostracised by the march of ti
 The question of what an ancient tree becomes a little bit of a “how long is a piece of string” question. What’s ancient depends on the tree’s species. Some trees can live for 1,000 years and more. Some can’t.
 
 However, a tree is considered ancient if it is:
-- 
-In the third or final stage of its life (this stage can go on for decades or centuries).
 
-- 
-Old relative to others of the same species.
+- In the third or final stage of its life (this stage can go on for decades or centuries).
 
-- 
-Interesting biologically, aesthetically, or culturally because of its great age.
+- Old relative to others of the same species.
+
+- Interesting biologically, aesthetically, or culturally because of its great age.
 
 The next classification for a tree is a veteran tree. Trees qualify as veterans when they have developed some features found on ancient trees. Veteran trees are usually only in their second stage of life.
 
@@ -135,17 +133,13 @@ They have a diversity of life and a richness not seen in other woodlands. They a
 The UK only has 2.5% of ancient woodland coverage. It’s vital to preserve these very important areas and look to create the conditions needed to enable other woodlands to mature into ecosystems as diverse as these.
 
 ### Sources
-- 
-[https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/ancient-woodland/](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/ancient-woodland/)
 
-- 
-[https://en.wikipedia.org/wiki/Ancient_woodland](https://en.wikipedia.org/wiki/Ancient_woodland)
+- [https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/ancient-woodland/](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/ancient-woodland/)
 
-- 
-[https://ati.woodlandtrust.org.uk/](https://ati.woodlandtrust.org.uk/)
+- [https://en.wikipedia.org/wiki/Ancient_woodland](https://en.wikipedia.org/wiki/Ancient_woodland)
 
-- 
-[https://www.forestresearch.gov.uk/tools-and-resources/fthr/historic-environment-resources/ancient-woodland/](https://www.forestresearch.gov.uk/tools-and-resources/fthr/historic-environment-resources/ancient-woodland/)
+- [https://ati.woodlandtrust.org.uk/](https://ati.woodlandtrust.org.uk/)
 
-- 
-[https://www.ancienttreeforum.org.uk/ancient-trees/ancient-tree-ecology-wildlife/fungi/](https://www.ancienttreeforum.org.uk/ancient-trees/ancient-tree-ecology-wildlife/fungi/)
+- [https://www.forestresearch.gov.uk/tools-and-resources/fthr/historic-environment-resources/ancient-woodland/](https://www.forestresearch.gov.uk/tools-and-resources/fthr/historic-environment-resources/ancient-woodland/)
+
+- [https://www.ancienttreeforum.org.uk/ancient-trees/ancient-tree-ecology-wildlife/fungi/](https://www.ancienttreeforum.org.uk/ancient-trees/ancient-tree-ecology-wildlife/fungi/)

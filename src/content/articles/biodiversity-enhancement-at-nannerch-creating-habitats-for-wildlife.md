@@ -1,12 +1,12 @@
 ---
-title: "Biodiversity Enhancement at Nannerch: Creating Habitats for Wildlife"
-description: "Protect Earth is enhancing biodiversity at Nannerch in North Wales, creating homes for wildlife while ensuring the local community can enjoy the green space."
+title: 'Biodiversity Enhancement at Nannerch: Creating Habitats for Wildlife'
+description: 'Protect Earth is enhancing biodiversity at Nannerch in North Wales, creating homes for wildlife while ensuring the local community can enjoy the green space.'
 pubDate: 2024-10-14T07:13:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/biodiversity-enhancement-at-nannerch-creating-habitats-for-wildlife.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/biodiversity-enhancement-at-nannerch-creating-habitats-for-wildlife.jpg'
 ---
 
-Protect Earth is enhancing biodiversity at our site, Nannerch (*pronounced nannac*), in North Wales, by creating homes for wildlife while ensuring the local community can enjoy the green space for recreation and well-being. This project blends biodiversity enhancement with community use, providing a shared space that benefits nature and people.
+Protect Earth is enhancing biodiversity at our site, Nannerch (_pronounced nannac_), in North Wales, by creating homes for wildlife while ensuring the local community can enjoy the green space for recreation and well-being. This project blends biodiversity enhancement with community use, providing a shared space that benefits nature and people.
 
 ## About Nannerch
 

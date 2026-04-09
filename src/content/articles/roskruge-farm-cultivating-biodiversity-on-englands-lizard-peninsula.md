@@ -1,9 +1,9 @@
 ---
 title: "Roskruge Farm: Cultivating Biodiversity on England's Lizard Peninsula"
-description: "Roskruge Farm is a 44-acre farm on the Lizard Peninsula surrounded by intensive agricultural activities, intoxicating chemicals, and harmful environmental practices."
+description: 'Roskruge Farm is a 44-acre farm on the Lizard Peninsula surrounded by intensive agricultural activities, intoxicating chemicals, and harmful environmental practices.'
 pubDate: 2024-05-13T07:55:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/roskruge-farm-cultivating-biodiversity-on-englands-lizard-peninsula.jpeg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/roskruge-farm-cultivating-biodiversity-on-englands-lizard-peninsula.jpeg'
 ---
 
 Roskruge Farm is a 44-acre farm on the Lizard Peninsula surrounded by intensive agricultural activities, intoxicating chemicals, and harmful environmental practices.
@@ -59,7 +59,7 @@ Beyond the woodlands and meadows, the landowners envision a space teeming with l
 
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468645-U4YX8EMTXVUVHY1DMVTZ/IMG_0664.jpeg?format=original)
 
- These efforts benefit wildlife and offer joy and fulfilment to those involved, knowing they're contributing to something greater than themselves.
+These efforts benefit wildlife and offer joy and fulfilment to those involved, knowing they're contributing to something greater than themselves.
 
 ## To sum up
 

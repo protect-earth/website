@@ -1,9 +1,9 @@
 ---
 title: "Revitalising High Wood's mountain biking trails"
-description: "High Wood is an ancient woodland that is accessible to the public. So everyone can enjoy it, we’re working on making it a place for walkers, horse riders, and cyclists to come. Recently, we have resto"
+description: 'High Wood is an ancient woodland that is accessible to the public. So everyone can enjoy it, we’re working on making it a place for walkers, horse riders, and cyclists to come. Recently, we have resto'
 pubDate: 2023-09-11T21:04:32.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/revitalising-high-woods-mountain-biking-trails.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/revitalising-high-woods-mountain-biking-trails.jpg'
 ---
 
 Protect Earth feel that one of the best ways of growing forests and biodiversity is to create woodlands and green spaces that people want to be in. When people are in these spaces, they learn about the woods, and it becomes part of their routine - whether they go walking with their dogs or horses or go with friends on mountain bikes.

@@ -1,9 +1,9 @@
 ---
-title: "Misconceptions about tree planting"
-description: "Tree planting is a very effective and essential tool within all the activities we should be doing to responsibly manage and protect the earth. And, with so many cooks in the kitchen and food critics w"
+title: 'Misconceptions about tree planting'
+description: 'Tree planting is a very effective and essential tool within all the activities we should be doing to responsibly manage and protect the earth. And, with so many cooks in the kitchen and food critics w'
 pubDate: 2023-03-21T09:00:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/misconceptions-about-tree-planting.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/misconceptions-about-tree-planting.jpg'
 ---
 
 As somebody relatively new to woodland creation and restoration, I have been learning quickly thanks to being surrounded by experts in various fields.

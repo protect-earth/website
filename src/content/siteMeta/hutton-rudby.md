@@ -12,4 +12,3 @@ images:
   - ../../assets/sites/hutton-rudby/4.jpg
   - ../../assets/sites/hutton-rudby/5.jpg
 ---
-

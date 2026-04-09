@@ -1,9 +1,9 @@
 ---
-title: "Ash Dieback — What it is, and the consequences for UK Woodlands"
-description: "Eighty million Ash trees expected to die in the UK due to Ash Dieback fungus. Exploring what this disease is, where it came from, and the future for UK Ash."
+title: 'Ash Dieback — What it is, and the consequences for UK Woodlands'
+description: 'Eighty million Ash trees expected to die in the UK due to Ash Dieback fungus. Exploring what this disease is, where it came from, and the future for UK Ash.'
 pubDate: 2022-12-26T12:00:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/ash-dieback-what-it-is-and-consequences-to-the-uks-woodlands.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/ash-dieback-what-it-is-and-consequences-to-the-uks-woodlands.jpg'
 ---
 
 #### Eighty million Ash trees are expected to die in the UK due to the Ash Dieback fungus, representing a significant shock to the UK's natural environment. This article explores what this disease is, where it came from, and what the future looks like for UK Ash and the ecosystems they support.
@@ -21,23 +21,18 @@ Young Ash trees have less resistance to fight back against the fungus. Infection
 The first recordings of Ash Dieback in the UK were in 2012. Infected Ash trees were imported to a tree nursery from Europe.
 
 Symptoms of infected trees are:
-- 
-Leaves develop dark patches in the summer.
 
-- 
-They then wilt and discolour to black. Leaves might shed early.
+- Leaves develop dark patches in the summer.
 
-- 
-Dieback of the shoots and leaves is visible in the summer.
+- They then wilt and discolour to black. Leaves might shed early.
 
-- 
-Lesions develop where branches meet the trunk. These are often diamond-shaped and dark brown.
+- Dieback of the shoots and leaves is visible in the summer.
 
-- 
-Inner bark looks brownish-grey under the lesions.
+- Lesions develop where branches meet the trunk. These are often diamond-shaped and dark brown.
 
-- 
-New growth from previously dormant buds further down the trunk. This is known as epicormic growth and is a common response to stress in trees.
+- Inner bark looks brownish-grey under the lesions.
+
+- New growth from previously dormant buds further down the trunk. This is known as epicormic growth and is a common response to stress in trees.
 
 ## **How big of a problem is Ash Dieback?**
 
@@ -47,7 +42,7 @@ The potential damage gets even more mind-boggling when zooming out to the rest o
 
 **Environmental damage due to Ash Dieback**
 
-The lack of natural defence in Ash trees in the UK means that a lot of trees will become infected. Estimates range from 80-95% of all Ash trees in the UK will die, which is around 80 million trees. 
+The lack of natural defence in Ash trees in the UK means that a lot of trees will become infected. Estimates range from 80-95% of all Ash trees in the UK will die, which is around 80 million trees.
 
 Trees are communities supporting insects, smaller plants, and animals. What happens to the community without a community centre (i.e. the Ash tree)? Ash is the sole foodplant for at least 27 species of invertebrate. Ash has many associated species, such as orchids. Suffice to say, the loss of Ash will be devastating to the UK's ecological fabric.
 
@@ -61,7 +56,7 @@ Ash also has commercial value. It's nicknamed "golden oak" and is often used as 
 
 ## **What's the solution to Ash Dieback?**
 
-Sadly, Ash Dieback has no known efficient prevention or curative treatment. And so, the best that can be done is palliative care for our  Ash population and their associated ecosystems.
+Sadly, Ash Dieback has no known efficient prevention or curative treatment. And so, the best that can be done is palliative care for our Ash population and their associated ecosystems.
 
 **Stemming the importation of infected trees**
 

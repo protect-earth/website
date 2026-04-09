@@ -1,9 +1,9 @@
 ---
 title: "Protect Earth's approach to planting small holdings"
-description: "We work with land small holders to support them turning their small holding into a woodlands. Protect Earth can consult to ensure the right mix of trees, identify sources of funding, and help out to p"
+description: 'We work with land small holders to support them turning their small holding into a woodlands. Protect Earth can consult to ensure the right mix of trees, identify sources of funding, and help out to p'
 pubDate: 2023-04-04T10:30:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protect-earths-approach-to-planting-small-holdings.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protect-earths-approach-to-planting-small-holdings.jpg'
 ---
 
 Protect Earth has a very simple mission - it isn’t complex. Our mission is to plant a lot of trees.
@@ -29,18 +29,17 @@ Have you won the smallholder lottery? Are you a smallholder? Want to plant more 
 First, we'd like to chat with you to understand the land's history and your future goals.
 
 After that, our areas of support breakdown across three significant areas:
-- 
-We'll consult with you and check out your land to make sure what's being planted has the best chance of being impactful,
 
-- 
-We'll support you in identifying the right grants, and if the standard grants don’t work out we have other sources of funding for your project,
+- We'll consult with you and check out your land to make sure what's being planted has the best chance of being impactful,
 
-- 
-We'll be there alongside you getting our hands dirty and helping plant your new green space.
+- We'll support you in identifying the right grants, and if the standard grants don’t work out we have other sources of funding for your project,
 
-       [caption id="" align="alignnone" width="4160"]
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469552-VF2ZX249T66JW75XY6ME/Mulch+Mats+and+Cardboard+tubes.jpg?format=original)
-  The beginnings of a new woodland at one of our smallholders projects! [/caption] 
+- We'll be there alongside you getting our hands dirty and helping plant your new green space.
+
+         [caption id="" align="alignnone" width="4160"]
+
+  ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469552-VF2ZX249T66JW75XY6ME/Mulch+Mats+and+Cardboard+tubes.jpg?format=original)
+  The beginnings of a new woodland at one of our smallholders projects! [/caption]
 
 ### Consultation
 
@@ -67,8 +66,9 @@ We’d be happy to come to share the burden and make the day go a little faster 
 In our experience, the more, the merrier.
 
        [caption id="" align="alignnone" width="435"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469557-LEZ4U2PVNK1RUHR3KQSI/tree-planting-volunteering.png?format=original)
-  Volunteers coming together on a beautiful winter day! [/caption] 
+Volunteers coming together on a beautiful winter day! [/caption]
 
 ## Benefits of planting trees
 

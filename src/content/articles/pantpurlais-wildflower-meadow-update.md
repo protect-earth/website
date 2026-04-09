@@ -1,9 +1,9 @@
 ---
-title: "Pantpurlais wildflower meadow update"
-description: "Wildflower meadows are beautiful - many a poem has been written about and in these places. Beautiful as they are, they are hives of life! Any number of vital species of insects can claim home in these"
+title: 'Pantpurlais wildflower meadow update'
+description: 'Wildflower meadows are beautiful - many a poem has been written about and in these places. Beautiful as they are, they are hives of life! Any number of vital species of insects can claim home in these'
 pubDate: 2023-08-07T06:34:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/pantpurlais-wildflower-meadow-update.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/pantpurlais-wildflower-meadow-update.jpg'
 ---
 
 Last year, we told you about a [wildflower meadow](https://www.protect.earth/blog/wildflower-planting-in-llandrindod-wells) we were supporting a landowner to plant in Llandrindod Wells, Mid-Wales.
@@ -23,8 +23,9 @@ We planted 717 trees with many familiar species, including Silver Birch, Downy B
 In spring 2022, we sowed a full acre with wildflower meadow seed.
 
        [caption id="" align="alignnone" width="600"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469379-FTSRAACO94CWATFDNOVW/IMG_20230525_165637.jpg?format=original)
-   A pleasant meander around Pantpurlais’ budding wildflower meadow. Imagine it in a few years!  [/caption] 
+A pleasant meander around Pantpurlais’ budding wildflower meadow. Imagine it in a few years! [/caption]
 
 ## Where's it at now?
 

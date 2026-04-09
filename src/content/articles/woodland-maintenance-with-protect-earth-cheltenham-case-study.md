@@ -1,9 +1,9 @@
 ---
-title: "Woodland Maintenance with Protect Earth: Cheltenham Case Study"
-description: "Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our..."
+title: 'Woodland Maintenance with Protect Earth: Cheltenham Case Study'
+description: 'Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our...'
 pubDate: 2025-04-07T07:00:00.000Z
-author: "Eoghan McHugh"
-thumbnail: "/articles/woodland-maintenance-with-protect-earth-cheltenham-case-study.jpg"
+author: 'Eoghan McHugh'
+thumbnail: '/articles/woodland-maintenance-with-protect-earth-cheltenham-case-study.jpg'
 ---
 
 Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our commitment to long-term woodland care and our dedication to ensuring every tree has the best chance to thrive.
@@ -17,14 +17,12 @@ In 2022, we partnered with a local farmer to transform unused farmland into natu
 Woodland maintenance is a critical part of our mission at Protect Earth. After planting, the journey isn't over. Regular care, including tending to and restocking young trees, ensures these green spaces' long-term success. This commitment benefits biodiversity, strengthens ecosystems, and supports the surrounding environment.
 
 Here's why woodland maintenance matters:
-- 
-**Fulfilling Commitments:** When we secure funding, we commit to planting and maintaining trees to meet our ecological goals. Restocking ensures we meet these promises.
 
-- 
-**Leading by Example:** We believe in demonstrating best practices as a biodiversity-focused charity. Maintaining our woodlands reinforces our dedication to lasting environmental impact.
+- **Fulfilling Commitments:** When we secure funding, we commit to planting and maintaining trees to meet our ecological goals. Restocking ensures we meet these promises.
 
-- 
-**Mitigating Losses:** Despite careful planning and using[ native species from local nurseries](https://www.protect.earth/articles/where-do-our-saplings-come-from-apltp), sapling loss is inevitable. Timely restocking keeps woodland regeneration on track.
+- **Leading by Example:** We believe in demonstrating best practices as a biodiversity-focused charity. Maintaining our woodlands reinforces our dedication to lasting environmental impact.
+
+- **Mitigating Losses:** Despite careful planning and using[ native species from local nurseries](https://www.protect.earth/articles/where-do-our-saplings-come-from-apltp), sapling loss is inevitable. Timely restocking keeps woodland regeneration on track.
 
 ## **Returning for Restoration**
 

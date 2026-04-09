@@ -1,9 +1,9 @@
 ---
-title: "Climate Crisis: Heatwaves vs Tree Planting"
-description: "The heatwave last summer took its toll on reforestation projects all over the UK, with loses exceeding usual for a young woodland."
+title: 'Climate Crisis: Heatwaves vs Tree Planting'
+description: 'The heatwave last summer took its toll on reforestation projects all over the UK, with loses exceeding usual for a young woodland.'
 pubDate: 2022-10-17T10:49:48.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/climate-crisis-heatwaves-vs-tree-planting.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/climate-crisis-heatwaves-vs-tree-planting.jpg'
 ---
 
 The heatwave to hit the U.K. and all of Europe through-out July and a good chunk of August was horrendous, and proved a real challenge for our team as we scrambled to water sites across the country. Thankfully survival rates are within expected bounds at most projects, with one a handful of smaller sites suffering enough losses that saplings will need replacing.
@@ -18,7 +18,7 @@ As we expect to lose some trees, we aim for 80% survival rate by the time we nee
 
 When you buy a tree or shrub for the garden, the general advice is to water it for the first few years until its roots can establish, and water it more the hotter it gets.
 
-It was a huge surprise to me when I was advised by a bunch of environmental services experts to *generally not water saplings*. This went against everything I had expected to be doing when we started charity, but the logic checks out.
+It was a huge surprise to me when I was advised by a bunch of environmental services experts to _generally not water saplings_. This went against everything I had expected to be doing when we started charity, but the logic checks out.
 
 These saplings are tiny, much smaller than the 5-8 year old trees you buy from a garden center. Those are root-bound in pots and are already much larger than their roots can support, which is why they need propping up so heavily. Drought is going to effect them far more, because their roots are tiny in comparison.
 
@@ -43,8 +43,9 @@ The effect on our future woodlands has been incredibly mixed, and different terr
 All the sites where we've used [hemp mulch matts](https://www.green-tech.co.uk/tree-planting-products/weed-mats-mulch-and-tree-spats/ecomatt-bio-weed-mats) or thick woodchip are showing far better survival rates. The government grants for woodland creation (English Woodland Creation Offer) are not always available for our tree planting, and when they are available they do not cover mulch matts anyway. We find the cost of buying matts, or the extra work of finding woodchip mulch, to be really worthwhile in keeping saplings alive.
 
        [caption id="" align="alignnone" width="2400"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469902-HL6K6B1ATUF7FP6DWYU4/IMG_9149.jpg?format=original)
-   At one site the clay soil dried so much its cracked open deep channels around the roots, and the mulch matts are at least providing shade. This sapling isn’t dead yet, but even after pouring 15 liters of water into the hole there was no sign of it filling up, so the chances are not great.  [/caption] 
+At one site the clay soil dried so much its cracked open deep channels around the roots, and the mulch matts are at least providing shade. This sapling isn’t dead yet, but even after pouring 15 liters of water into the hole there was no sign of it filling up, so the chances are not great. [/caption]
 
 Proximity to water is unsurprisingly helpful. We have a few fields which are hills sloping down to a stream, and those at the top are doing far worse than those at the bottom. Watering future sites may focus on just the upper saplings and leave those closer to the stream to it.
 

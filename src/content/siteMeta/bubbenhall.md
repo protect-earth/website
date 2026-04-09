@@ -13,4 +13,3 @@ images:
   - ../../assets/sites/bubbenhall/5.jpg
   - ../../assets/sites/bubbenhall/6.jpg
 ---
-

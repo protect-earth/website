@@ -1,9 +1,9 @@
 ---
-title: "Observations in High Wood: Insights from an Ecologist"
-description: "Steve, a keen birder, along with local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful."
+title: 'Observations in High Wood: Insights from an Ecologist'
+description: 'Steve, a keen birder, along with local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful.'
 pubDate: 2024-08-19T13:54:31.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/observations-in-high-wood-insights-from-an-ecologist.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/observations-in-high-wood-insights-from-an-ecologist.jpg'
 ---
 
 Over the past few years [Steve](https://www.protect.earth/blog/introducing-steve-wiltshire), a keen birder, along with the help of other local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful.
@@ -13,11 +13,10 @@ Steve's visits to High Wood are work-related, focusing on the habitat creation t
 ## Wildlife Observations
 
 Since 2022, he has been informally tracking bird and butterfly species in High Wood. His records show some interesting trends:
-- 
-In 2022, he recorded 46 bird species in High Wood. This number increased to 53 in 2023 but dropped slightly to 52 in 2024.
 
-- 
-Steve recorded 13 species of butterflies in 2022, rising to 21 in both 2023 and 2024.
+- In 2022, he recorded 46 bird species in High Wood. This number increased to 53 in 2023 but dropped slightly to 52 in 2024.
+
+- Steve recorded 13 species of butterflies in 2022, rising to 21 in both 2023 and 2024.
 
 His observations are particularly significant because they include several bird species on the UK’s[ Red List for Birds](https://www.birdspot.co.uk/the-red-list). Among the species recorded are the Swift, Skylark, House Martin, Mistle Thrush, Fieldfare, Spotted Flycatcher, and Greenfinch. He has also observed several of these species breeding or holding territory in High Wood. For instance, in 2024 there were an impressive five pairs of Spotted Flycatchers, a species he’d not recorded here previously. Two Firecrests were also heard singing this spring, with a fledged juveniles also recorded later in the year. Other notable bird records include Hobby, Goshawk, and Redstart.&nbsp;
 

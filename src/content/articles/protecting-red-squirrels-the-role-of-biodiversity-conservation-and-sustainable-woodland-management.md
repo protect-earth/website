@@ -1,9 +1,9 @@
 ---
-title: "Protecting Red Squirrels: The Role of Biodiversity Conservation and Sustainable Woodland Management"
-description: "Red Squirrel Awareness Week highlights the urgent need for biodiversity conservation as habitat loss and grey squirrel competition drive red squirrel populations into decline. Effective woodland..."
+title: 'Protecting Red Squirrels: The Role of Biodiversity Conservation and Sustainable Woodland Management'
+description: 'Red Squirrel Awareness Week highlights the urgent need for biodiversity conservation as habitat loss and grey squirrel competition drive red squirrel populations into decline. Effective woodland...'
 pubDate: 2024-10-20T06:48:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/protecting-red-squirrels-the-role-of-biodiversity-conservation-and-sustainable-woodland-management.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/protecting-red-squirrels-the-role-of-biodiversity-conservation-and-sustainable-woodland-management.jpg'
 ---
 
 Red Squirrel Awareness Week highlights the urgent need for biodiversity conservation as habitat loss and grey squirrel competition drive red squirrel populations into decline. Effective woodland management and ecosystem restoration are crucial to their survival, offering hope for a much-loved species in the UK.
@@ -41,17 +41,14 @@ Protecting red squirrels requires a multi-faceted approach, including habitat re
 The red squirrel's decline is a reminder of the far-reaching effects of habitat loss and unchecked competition from invasive species. Restoring natural woodlands, promoting ecosystem restoration, and managing grey squirrel populations are vital to preserving biodiversity.
 
 ## Sources
-- 
-[https://www.forestresearch.gov.uk/publications/controlling-grey-squirrels-in-forests-and-woodlands-in-the-uk/](https://www.forestresearch.gov.uk/publications/controlling-grey-squirrels-in-forests-and-woodlands-in-the-uk/)
 
-- 
-[https://www.rspca.org.uk/adviceandwelfare/wildlife/squirrels](https://www.rspca.org.uk/adviceandwelfare/wildlife/squirrels)
+- [https://www.forestresearch.gov.uk/publications/controlling-grey-squirrels-in-forests-and-woodlands-in-the-uk/](https://www.forestresearch.gov.uk/publications/controlling-grey-squirrels-in-forests-and-woodlands-in-the-uk/)
 
-- 
-[https://www.charteredforesters.org/new-action-plan-to-save-englands-red-squirrels](https://www.charteredforesters.org/new-action-plan-to-save-englands-red-squirrels)
+- [https://www.rspca.org.uk/adviceandwelfare/wildlife/squirrels](https://www.rspca.org.uk/adviceandwelfare/wildlife/squirrels)
 
-- 
-[https://www.nhm.ac.uk/content/nhmwww/en/home/discover/uk-squirrel-behaviour-what-when-and-why.html](https://www.nhm.ac.uk/content/nhmwww/en/home/discover/uk-squirrel-behaviour-what-when-and-why.html)
+- [https://www.charteredforesters.org/new-action-plan-to-save-englands-red-squirrels](https://www.charteredforesters.org/new-action-plan-to-save-englands-red-squirrels)
+
+- [https://www.nhm.ac.uk/content/nhmwww/en/home/discover/uk-squirrel-behaviour-what-when-and-why.html](https://www.nhm.ac.uk/content/nhmwww/en/home/discover/uk-squirrel-behaviour-what-when-and-why.html)
 
 ## Help Restore Habitats and Protect the Red Squirrel with Your Donation
 

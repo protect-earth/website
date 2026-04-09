@@ -1,9 +1,9 @@
 ---
 title: "Exploring the United Kingdom's Oldest and Most Majestic Ancient Trees"
-description: "Trees have been hanging around on this old island we call the United Kingdom since the last Ice Age about 10,000 years ago."
+description: 'Trees have been hanging around on this old island we call the United Kingdom since the last Ice Age about 10,000 years ago.'
 pubDate: 2023-11-13T07:29:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/exploring-the-united-kingdoms-oldest-and-most-majestic-ancient-trees.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/exploring-the-united-kingdoms-oldest-and-most-majestic-ancient-trees.jpg'
 ---
 
 Trees have been hanging around on this old island we call the United Kingdom since the last Ice Age about 10,000 years ago.

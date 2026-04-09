@@ -1,9 +1,9 @@
 ---
-title: "The Hidden Cost of AI: Energy, Emissions, and Climate Impact"
-description: "AI has been everywhere since ChatGPT dropped in late 2022. Behind all that whirring and chugging is some high energy consumption."
+title: 'The Hidden Cost of AI: Energy, Emissions, and Climate Impact'
+description: 'AI has been everywhere since ChatGPT dropped in late 2022. Behind all that whirring and chugging is some high energy consumption.'
 pubDate: 2024-11-11T15:11:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-hidden-cost-of-ai-energy-emissions-and-climate-impact.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-hidden-cost-of-ai-energy-emissions-and-climate-impact.jpg'
 ---
 
 Artificial Intelligence has been everywhere since ChatGPT first dropped in late 2022. Want an imaginative image? Want a technical drawing to show your architect how you want a kitchen refurbished or a new conservatory to look? Want to write a bedtime story based on your child’s day? AI will do it all without breaking a sweat. Or, so we thought. We input a command into the field, and the interface whistles, whirrs, and pops, and then we get something close or far from what we had in mind, depending on the strength of the prompt. Behind all that whirring and chugging is some high energy consumption.
@@ -40,7 +40,7 @@ The environmental cost of AI is significant and increasingly urgent to understan
 
 AI, however, is even more energy-intensive. Depending on the complexity of a query—whether it's text, an image, or a video—it can consume 5 to 10 times more energy than a standard search. The annual CO2 output could range from 2,000 to 4,000 billion kg.
 
-There are those who are doing their best to piece together information to calculate AI's environmental impact. The most cited is Alex de Vries, a PhD candidate at Vrije Universiteit Amsterdam with the Institute for Environmental Studies. Alex de Vries published his analysis in [Digiconomist Joule](https://www.cell.com/joule/abstract/S2542-4351(23)00365-3). He has calculated that AI's current energy demand is similar to that needed to mine cryptocurrencies. You may remember a big argument against this technology because of its intense energy demand. He has further speculated that the annual demand for electricity by artificial intelligence worldwide could increase from 85.4 to 134 terawatt hours by 2027.
+There are those who are doing their best to piece together information to calculate AI's environmental impact. The most cited is Alex de Vries, a PhD candidate at Vrije Universiteit Amsterdam with the Institute for Environmental Studies. Alex de Vries published his analysis in [Digiconomist Joule](<https://www.cell.com/joule/abstract/S2542-4351(23)00365-3>). He has calculated that AI's current energy demand is similar to that needed to mine cryptocurrencies. You may remember a big argument against this technology because of its intense energy demand. He has further speculated that the annual demand for electricity by artificial intelligence worldwide could increase from 85.4 to 134 terawatt hours by 2027.
 
 The [International Energy Agency](https://www.theverge.com/2024/1/24/24049047/data-center-ai-crypto-bitcoin-mining-electricity-report-iea) echoes these concerns, projecting that energy use in data centres—driven by AI and cryptocurrency—could rise from 460 terawatt-hours in 2022 to between 620 and 1,050 terawatt-hours by 2026. To put this in perspective, such consumption could meet Germany's energy needs for an entire year.
 
@@ -73,32 +73,23 @@ In the face of this significant, impactful change, we need to be acting now to m
 Help us help you and donate to our Land Fund so we can buy land to restore it naturally.
 
 ## Sources
-- 
-[https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 
-- 
-[https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/](https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/)
+- [https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption](https://www.theverge.com/24066646/ai-electricity-energy-watts-generative-consumption)
 
-- 
-[https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-of-data-centers/](https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-of-data-centers/)
+- [https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/](https://news.climate.columbia.edu/2023/06/09/ais-growing-carbon-footprint/)
 
-- 
-[https://climatetrade.com/the-worlds-most-polluting-industries/](https://climatetrade.com/the-worlds-most-polluting-industries/)
+- [https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-of-data-centers/](https://8billiontrees.com/carbon-offsets-credits/carbon-ecological-footprint-calculators/carbon-footprint-of-data-centers/)
 
-- 
-[https://world-nuclear.org/information-library/energy-and-the-environment/carbon-dioxide-emissions-from-electricity](https://world-nuclear.org/information-library/energy-and-the-environment/carbon-dioxide-emissions-from-electricity)
+- [https://climatetrade.com/the-worlds-most-polluting-industries/](https://climatetrade.com/the-worlds-most-polluting-industries/)
 
-- 
-[https://ourworldindata.org/greenhouse-gas-emissions-food](https://ourworldindata.org/greenhouse-gas-emissions-food)
+- [https://world-nuclear.org/information-library/energy-and-the-environment/carbon-dioxide-emissions-from-electricity](https://world-nuclear.org/information-library/energy-and-the-environment/carbon-dioxide-emissions-from-electricity)
 
-- 
-[https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics](https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics)
+- [https://ourworldindata.org/greenhouse-gas-emissions-food](https://ourworldindata.org/greenhouse-gas-emissions-food)
 
-- 
-[https://www.statista.com/statistics/1305696/apparel-industry-co2e-emissions/](https://www.statista.com/statistics/1305696/apparel-industry-co2e-emissions/)
+- [https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics](https://www.europarl.europa.eu/topics/en/article/20201208STO93327/the-impact-of-textile-production-and-waste-on-the-environment-infographics)
 
-- 
-[https://seo.ai/blog/how-many-people-use-google](https://seo.ai/blog/how-many-people-use-google)
+- [https://www.statista.com/statistics/1305696/apparel-industry-co2e-emissions/](https://www.statista.com/statistics/1305696/apparel-industry-co2e-emissions/)
 
-- 
-[https://www.statista.com/statistics/1285502/annual-global-greenhouse-gas-emissions](https://www.statista.com/statistics/1285502/annual-global-greenhouse-gas-emissions)
+- [https://seo.ai/blog/how-many-people-use-google](https://seo.ai/blog/how-many-people-use-google)
+
+- [https://www.statista.com/statistics/1285502/annual-global-greenhouse-gas-emissions](https://www.statista.com/statistics/1285502/annual-global-greenhouse-gas-emissions)

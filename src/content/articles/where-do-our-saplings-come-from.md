@@ -1,9 +1,9 @@
 ---
-title: "Where do our saplings come from?"
-description: "We plant saplings because they’re small but mighty. They’ve gone through the tough process of germination, and unlike trees you’ll find at garden centres they’re not huge and expensive. If we had to..."
+title: 'Where do our saplings come from?'
+description: 'We plant saplings because they’re small but mighty. They’ve gone through the tough process of germination, and unlike trees you’ll find at garden centres they’re not huge and expensive. If we had to...'
 pubDate: 2023-02-03T21:58:11.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/where-do-our-saplings-come-from.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/where-do-our-saplings-come-from.jpg'
 ---
 
 We plant saplings because they’re small but mighty. They’ve gone through the tough process of germination, and unlike trees you’ll find at garden centres they’re not huge and expensive. If we had to buy them all for £50 each and use a digger to get them in then we wouldn’t get much done.
@@ -18,7 +18,7 @@ Thankfully sapling suppliers exist all over the country, known as tree nurseries
 
 ![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469743-3JF5N7GYHA27DPGAA3EC/FnKDfs0XEAEoyCw.jpeg?format=original)
 
-*Source: *[*https://twitter.com/maelorforest/status/1617499803205701632*](https://twitter.com/maelorforest/status/1617499803205701632)
+_Source: _[_https://twitter.com/maelorforest/status/1617499803205701632_](https://twitter.com/maelorforest/status/1617499803205701632)
 
 At first we would just try to buy decent priced saplings from close to the place they are being planted, to avoid road miles and the emissions that come with it.
 

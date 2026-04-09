@@ -1,4 +1,4 @@
 ---
-fundingPartners: ["ecologi"]
-tags: ["shelterbelt"]
+fundingPartners: ['ecologi']
+tags: ['shelterbelt']
 ---

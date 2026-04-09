@@ -1,14 +1,14 @@
 ---
-title: "Misconception: Planting in straight lines is lazy or bad"
-description: "Planting in straight lines is neither lazy or bad. Instead, sometimes it’s a requirement in order to successfully be awarded grants or other funding. Ultimately, given enough time, woodlands will beha"
+title: 'Misconception: Planting in straight lines is lazy or bad'
+description: 'Planting in straight lines is neither lazy or bad. Instead, sometimes it’s a requirement in order to successfully be awarded grants or other funding. Ultimately, given enough time, woodlands will beha'
 pubDate: 2023-08-21T06:31:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/misconception-planting-in-straight-lines-is-lazy-or-bad.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/misconception-planting-in-straight-lines-is-lazy-or-bad.jpg'
 ---
 
 ### Reality: Sometimes it’s demanded by the government, but birds don’t care.
 
-*This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth, and is part of a series of posts discussing the grey areas in tree planting and forestry.*
+_This post is written by Phil Sturgeon, co-founder and Chair of Protect Earth, and is part of a series of posts discussing the grey areas in tree planting and forestry._
 
 We've all seen the rows of trees planted in straight lines, and it's easy to think that’s going to be a commercial timber plantation or an ineffective woodland, but there are a variety of reasons people plant trees in rows and grids.
 

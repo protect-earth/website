@@ -11,4 +11,3 @@ images:
   - ../../assets/sites/hemyock/3.jpg
   - ../../assets/sites/hemyock/4.jpg
 ---
-

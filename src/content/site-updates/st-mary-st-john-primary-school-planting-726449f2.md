@@ -1,9 +1,9 @@
 ---
-title: "St Mary & St John Primary School Planting"
-notionId: "2f1e7dc6-657c-8072-b4cb-ced9726449f2"
-type: "Tree Planting"
-date: "2024-11-20T00:00:00.000Z"
-siteNotionId: "e5103731-0c73-464d-9808-44406eaada7a"
+title: 'St Mary & St John Primary School Planting'
+notionId: '2f1e7dc6-657c-8072-b4cb-ced9726449f2'
+type: 'Tree Planting'
+date: '2024-11-20T00:00:00.000Z'
+siteNotionId: 'e5103731-0c73-464d-9808-44406eaada7a'
 treesPlanted: 1000
 ---
 
@@ -12,9 +12,5 @@ Protect Earth was proud to assist with planning and planting, helping the studen
 Engaging students in hands-on projects like tree planting strengthens climate change education by connecting learning with action. These experiences empower future generations to drive environmental progress and community resilience.
 In the face of challenges like Storm Bert, such initiatives remind us of the importance of empowering communities to drive change. These students are cultivating resilience for a brighter, greener future by planting trees and planting ideas.
 
-
-
 tCO2 after 50 years: 357
 Species planted: Oak, Cherry, Hornbeam, Small-leaved Lime, Rowan, Hazel, Osier
-
-

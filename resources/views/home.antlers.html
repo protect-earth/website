@@ -1,87 +1,92 @@
 {{ hero_title ?= title }}
 
 <section class="bg-green-700 text-white py-20">
-    <div class="container mx-auto px-4 text-center">
-        <h1 class="text-5xl font-bold mb-6">{{ hero_title }}</h1>
-        {{ if hero_description }}
-            <div class="text-xl max-w-4xl mx-auto space-y-4">
-                {{ hero_description | nl2br }}
-            </div>
-        {{ /if }}
-    </div>
+	<div class="container mx-auto px-4 text-center">
+		<h1 class="text-5xl font-bold mb-6">{{ hero_title }}</h1>
+		{{ if hero_description }}
+		<div class="text-xl max-w-4xl mx-auto space-y-4">{{ hero_description | nl2br }}</div>
+		{{ /if }}
+	</div>
 </section>
 
 {{ if get_started_items }}
 <section class="py-16">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold mb-8 text-center">{{ get_started_title }}</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {{ get_started_items }}
-                <a href="{{ url }}" class="bg-green-100 hover:bg-green-200 p-8 rounded-lg text-center text-xl font-semibold text-green-800 transition">
-                    {{ title }}
-                </a>
-            {{ /get_started_items }}
-        </div>
-    </div>
+	<div class="container mx-auto px-4">
+		<h2 class="text-3xl font-bold mb-8 text-center">{{ get_started_title }}</h2>
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+			{{ get_started_items }}
+			<a
+				href="{{ url }}"
+				class="bg-green-100 hover:bg-green-200 p-8 rounded-lg text-center text-xl font-semibold text-green-800 transition"
+			>
+				{{ title }}
+			</a>
+			{{ /get_started_items }}
+		</div>
+	</div>
 </section>
-{{ /if }}
-
-{{ if achievements_title }}
+{{ /if }} {{ if achievements_title }}
 <section class="bg-gray-100 py-16">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold mb-12 text-center">{{ achievements_title }}</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="text-center">
-                <div class="text-6xl font-bold text-green-700 mb-2">{{ trees_planted | format_number }}</div>
-                <div class="text-xl text-gray-600">trees planted</div>
-            </div>
-            <div class="text-center">
-                <div class="text-6xl font-bold text-green-700 mb-2">{{ acres_restored | format_number }}</div>
-                <div class="text-xl text-gray-600">acres restored</div>
-            </div>
-            <div class="text-center">
-                <div class="text-6xl font-bold text-green-700 mb-2">{{ acres_under_management | format_number }}</div>
-                <div class="text-xl text-gray-600">acres under direct management</div>
-            </div>
-        </div>
-    </div>
+	<div class="container mx-auto px-4">
+		<h2 class="text-3xl font-bold mb-12 text-center">{{ achievements_title }}</h2>
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+			<div class="text-center">
+				<div class="text-6xl font-bold text-green-700 mb-2">
+					{{ trees_planted | format_number }}
+				</div>
+				<div class="text-xl text-gray-600">trees planted</div>
+			</div>
+			<div class="text-center">
+				<div class="text-6xl font-bold text-green-700 mb-2">
+					{{ acres_restored | format_number }}
+				</div>
+				<div class="text-xl text-gray-600">acres restored</div>
+			</div>
+			<div class="text-center">
+				<div class="text-6xl font-bold text-green-700 mb-2">
+					{{ acres_under_management | format_number }}
+				</div>
+				<div class="text-xl text-gray-600">acres under direct management</div>
+			</div>
+		</div>
+	</div>
 </section>
-{{ /if }}
-
-{{ if action_sections }}
+{{ /if }} {{ if action_sections }}
 <section class="py-16">
-    <div class="container mx-auto px-4">
-        <h2 class="text-3xl font-bold mb-12 text-center">HELP PROTECT EARTH - TAKE ACTION NOW ↓</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {{ action_sections }}
-                <div class="bg-white border border-gray-200 rounded-lg p-8">
-                    {{ if image }}
-                        <img src="{{ image }}" alt="{{ title }}" class="w-full h-48 object-cover rounded-lg mb-6">
-                    {{ /if }}
-                    <h3 class="text-2xl font-bold mb-4">{{ title }}</h3>
-                    <p class="text-gray-600 mb-6">{{ description }}</p>
-                    {{ if button_text && button_url }}
-                        <a href="{{ button_url }}" class="inline-block bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-3 rounded transition">
-                            {{ button_text }}
-                        </a>
-                    {{ /if }}
-                </div>
-            {{ /action_sections }}
-        </div>
-    </div>
+	<div class="container mx-auto px-4">
+		<h2 class="text-3xl font-bold mb-12 text-center">HELP PROTECT EARTH - TAKE ACTION NOW ↓</h2>
+		<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+			{{ action_sections }}
+			<div class="bg-white border border-gray-200 rounded-lg p-8">
+				{{ if image }}
+				<img src="{{ image }}" alt="{{ title }}" class="w-full h-48 object-cover rounded-lg mb-6" />
+				{{ /if }}
+				<h3 class="text-2xl font-bold mb-4">{{ title }}</h3>
+				<p class="text-gray-600 mb-6">{{ description }}</p>
+				{{ if button_text && button_url }}
+				<a
+					href="{{ button_url }}"
+					class="inline-block bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-3 rounded transition"
+				>
+					{{ button_text }}
+				</a>
+				{{ /if }}
+			</div>
+			{{ /action_sections }}
+		</div>
+	</div>
 </section>
-{{ /if }}
-
-{{ if contact_email || contact_phone }}
+{{ /if }} {{ if contact_email || contact_phone }}
 <section class="bg-green-800 text-white py-12">
-    <div class="container mx-auto px-4 text-center">
-        <h3 class="text-2xl font-bold mb-4">Get in touch</h3>
-        {{ if contact_email }}
-            <p class="mb-2"><a href="mailto:{{ contact_email }}" class="hover:text-green-200">{{ contact_email }}</a></p>
-        {{ /if }}
-        {{ if contact_phone }}
-            <p><a href="tel:{{ contact_phone }}" class="hover:text-green-200">{{ contact_phone }}</a></p>
-        {{ /if }}
-    </div>
+	<div class="container mx-auto px-4 text-center">
+		<h3 class="text-2xl font-bold mb-4">Get in touch</h3>
+		{{ if contact_email }}
+		<p class="mb-2">
+			<a href="mailto:{{ contact_email }}" class="hover:text-green-200">{{ contact_email }}</a>
+		</p>
+		{{ /if }} {{ if contact_phone }}
+		<p><a href="tel:{{ contact_phone }}" class="hover:text-green-200">{{ contact_phone }}</a></p>
+		{{ /if }}
+	</div>
 </section>
 {{ /if }}

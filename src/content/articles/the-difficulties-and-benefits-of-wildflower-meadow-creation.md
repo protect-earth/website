@@ -1,20 +1,21 @@
 ---
-title: "The difficulties and benefits of wildflower meadow creation"
-description: "Wildflower meadows develop into incredibly diverse ecosystems that are incredibly fulfilling to manage. But, they are also time consuming to develop. Learn more and how you can develop a wildflower me"
+title: 'The difficulties and benefits of wildflower meadow creation'
+description: 'Wildflower meadows develop into incredibly diverse ecosystems that are incredibly fulfilling to manage. But, they are also time consuming to develop. Learn more and how you can develop a wildflower me'
 pubDate: 2023-07-10T06:34:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/the-difficulties-and-benefits-of-wildflower-meadow-creation.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/the-difficulties-and-benefits-of-wildflower-meadow-creation.jpg'
 ---
 
-*Steve Wiltshire, Protect Earth's Ecologist, contributed this piece.*
+_Steve Wiltshire, Protect Earth's Ecologist, contributed this piece._
 
 Wildflower meadows are particularly tricky ecosystems to develop. Counterintuitively, they require nutrient-deprived soil, which requires experience and time to reach the right conditions. They are a lot of work to maintain. But the benefits outweigh the difficulties - they are very intricate places that become home to so many insects and animals and are incredibly beautiful and satisfying when all the insects and animals move in.
 
 ## Wildflower Meadows
 
        [caption id="" align="alignnone" width="3024"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469426-4TLWOBOCLV3KQYAYDODR/Ragged+Robin.JPG?format=original)
-   This natural neighbourhood is home to a diverse range of citizens - from butterflies, caterpillars, ladybirds, bumblebees to birds and small mammals  [/caption] 
+This natural neighbourhood is home to a diverse range of citizens - from butterflies, caterpillars, ladybirds, bumblebees to birds and small mammals [/caption]
 
 A wildflower meadow in the full bloom of high summer, alive with bees, grasshoppers and brightly coloured butterflies, is one of the British landscapes' most intoxicating wildlife habitats. Sadly, they are now also one of the scarcest; the vast majority having been ploughed or fertilised into oblivion, another victim of modern farming practices. Most wildflower meadows that remain are found on nature reserves where they are carefully managed or, literally, hanging on to very steep, uncultivable hillsides.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,8 +36,9 @@ Establishing a true wildflower meadow will take work and time because lowering s
 ## Protect Earth developed a wildflower meadow
 
        [caption id="" align="alignnone" width="3024"]
+
 ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469432-F01W6HSO6HV8XG3XGIEQ/meadow+3.JPG?format=original)
-   A wildflower meadow project in Warwickshire that Protect Earth supported.  [/caption] 
+A wildflower meadow project in Warwickshire that Protect Earth supported. [/caption]
 
 Last spring, Protect Earth set about establishing a wildflower meadow on an area of rough pasture in Warwickshire.
 

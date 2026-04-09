@@ -2,8 +2,8 @@
 title: "Hedgerows Unveiled: Nature's Multifaceted Allies in the UK Landscape"
 description: "Hedgerows are the UK's most widespread semi-natural habitat, critical to numerous plants and animals, yet declining and misunderstood."
 pubDate: 2024-06-17T06:15:00.000Z
-author: "Phil Sturgeon"
-thumbnail: "/articles/hedgerows-unveiled-natures-multifaceted-allies-in-the-uk-landscape.jpg"
+author: 'Phil Sturgeon'
+thumbnail: '/articles/hedgerows-unveiled-natures-multifaceted-allies-in-the-uk-landscape.jpg'
 ---
 
 Hedgerows are the most widespread semi-natural habitat in the UK and are critical to the existence of numerous plants and animals. Yet hedgerows are in decline, and their value is misunderstood.&nbsp;
@@ -20,23 +20,19 @@ There are two main types of hedges: managed and those called "relict," meaning t
 
 A hedgerow is an all-inclusive bundle that includes banks, trees, walls, fences, and gates. It's like a whole little ecosystem in one line—just one of the reasons they offer so much.
 
-Hedges have been used for centuries as a means of marking property boundaries. There are hedges in the UK that date back centuries - no mean feat of dedication, given they require at least annual maintenance. Many a hedge sprang up during George III's reign after he passed the [Enclosure Act 1773](https://en.wikipedia.org/wiki/Inclosure_Act_1773), which is still in effect today. But, close to half of the UK's hedges were planted *before* the creation of this act - many are hundreds, some even thousands, of years old. Specific hedges are [legally safeguarded](https://www.legislation.gov.uk/uksi/1997/1160/contents/made) in England and Wales if they meet designated criteria.
+Hedges have been used for centuries as a means of marking property boundaries. There are hedges in the UK that date back centuries - no mean feat of dedication, given they require at least annual maintenance. Many a hedge sprang up during George III's reign after he passed the [Enclosure Act 1773](https://en.wikipedia.org/wiki/Inclosure_Act_1773), which is still in effect today. But, close to half of the UK's hedges were planted _before_ the creation of this act - many are hundreds, some even thousands, of years old. Specific hedges are [legally safeguarded](https://www.legislation.gov.uk/uksi/1997/1160/contents/made) in England and Wales if they meet designated criteria.
 
 ### **UK Hedgerow Statistics**
-- 
-There are 500,000 miles of hedgerows in the UK.
 
-- 
-About 2.5% of England's land is covered by hedgerows and field trees.
+- There are 500,000 miles of hedgerows in the UK.
 
-- 
-Around 40% of UK hedges are ancient, generally planted before the Enclosure Act 1773.
+- About 2.5% of England's land is covered by hedgerows and field trees.
 
-- 
-66% of England has had hedgerows for over a thousand years.
+- Around 40% of UK hedges are ancient, generally planted before the Enclosure Act 1773.
 
-- 
-The UK lost 50% of its hedgerows in the last 75 years mainly because of increasingly intensive farming.
+- 66% of England has had hedgerows for over a thousand years.
+
+- The UK lost 50% of its hedgerows in the last 75 years mainly because of increasingly intensive farming.
 
 ## The Role of Hedgerows
 
@@ -121,11 +117,9 @@ Hedgerows and shelterbelts substantially benefit animals, the environment, and t
 If you would like to explore the benefits of hedges to your land or project, we are most happy to help in any way we can. So please, get in touch now!
 
 ## Sources
-- 
-[https://hedgelink.org.uk/cms/cms_content/files/45_what_hedges_do_for_us%2C_v2%2C_20_mar_2012%2C_rob_wolton%2C_hedgelink.pdf](https://hedgelink.org.uk/cms/cms_content/files/45_what_hedges_do_for_us%2C_v2%2C_20_mar_2012%2C_rob_wolton%2C_hedgelink.pdf)
 
-- 
-[https://treecouncil.org.uk/science-and-research/hedgerows/](https://treecouncil.org.uk/science-and-research/hedgerows/)
+- [https://hedgelink.org.uk/cms/cms_content/files/45_what_hedges_do_for_us%2C_v2%2C_20_mar_2012%2C_rob_wolton%2C_hedgelink.pdf](https://hedgelink.org.uk/cms/cms_content/files/45_what_hedges_do_for_us%2C_v2%2C_20_mar_2012%2C_rob_wolton%2C_hedgelink.pdf)
 
-- 
-[https://hedgerowsurvey.ptes.org/the-benefits-of-healthy-hedgerows](https://hedgerowsurvey.ptes.org/the-benefits-of-healthy-hedgerows)
+- [https://treecouncil.org.uk/science-and-research/hedgerows/](https://treecouncil.org.uk/science-and-research/hedgerows/)
+
+- [https://hedgerowsurvey.ptes.org/the-benefits-of-healthy-hedgerows](https://hedgerowsurvey.ptes.org/the-benefits-of-healthy-hedgerows)

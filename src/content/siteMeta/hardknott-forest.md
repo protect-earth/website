@@ -12,4 +12,3 @@ images:
   - ../../assets/sites/hardknott-forest/6.jpg
   - ../../assets/sites/hardknott-forest/7.jpg
 ---
-
