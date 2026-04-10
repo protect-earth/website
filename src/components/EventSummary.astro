@@ -1,0 +1,140 @@
+---
+import { isSameDay } from '../helpers';
+import type { HTMLTag, Polymorphic } from 'astro/types';
+
+type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
+const {
+	description,
+	startDate,
+	endDate,
+	slug,
+	address,
+	map,
+	ics,
+	googleCal,
+	thumbnail,
+	title,
+	titleAs: Tag = 'h2',
+} = Astro.props;
+---
+
+<article class="card">
+	<div class="stack">
+		<Tag>{title}</Tag>
+
+		{description && <p>{description}</p>}
+
+		<ul class="meta">
+			{
+				isSameDay(startDate, endDate) ? (
+					<li>
+						<time datetime={startDate.toISOString()}>
+							{startDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+					</li>
+				) : (
+					<li>
+						<time datetime={startDate.toISOString()}>
+							{startDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+						&mdash;
+						<time datetime={endDate.toISOString()}>
+							{endDate.toLocaleString('en-GB', {
+								day: 'numeric',
+								month: 'long',
+								year: 'numeric',
+							})}
+						</time>
+					</li>
+				)
+			}
+
+			<li>
+				{
+					startDate && (
+						<time>
+							{startDate.toLocaleTimeString('en-GB', {
+								hour: '2-digit',
+								minute: '2-digit',
+							})}
+						</time>
+					)
+				}
+
+				{startDate && endDate && <>&mdash;</>}
+
+				{
+					endDate && (
+						<time>
+							{endDate.toLocaleTimeString('en-GB', {
+								hour: '2-digit',
+								minute: '2-digit',
+							})}
+						</time>
+					)
+				}
+			</li>
+
+			<li>
+				{address}
+			</li>
+		</ul>
+
+		<a class="button block-link" href={`/events/${slug}`}>View event</a>
+	</div>
+
+	<figure class="thumbnail">
+		{thumbnail && <img src={thumbnail} alt={title} />}
+	</figure>
+</article>
+
+<style>
+	@layer overrides {
+		h2,
+		p {
+			text-align: left;
+		}
+	}
+
+	.card {
+		display: flex;
+		flex-flow: row-reverse;
+		justify-content: flex-start;
+		gap: 2rem;
+
+		@media screen and (max-width: 48rem) {
+			flex-flow: column-reverse;
+		}
+	}
+
+	.stack {
+		display: flex;
+		flex-flow: column;
+		align-items: flex-start;
+	}
+
+	.stack > * + * {
+		margin-block-start: 1rem;
+	}
+
+	.meta {
+		text-align: left;
+	}
+
+	.thumbnail {
+		aspect-ratio: 1/1;
+		overflow: hidden;
+		max-inline-size: 24rem;
+		@media screen and (max-width: 48rem) {
+			max-inline-size: 100%;
+		}
+	}
+</style>

@@ -9,6 +9,7 @@
 @import url('./page/PageHeader.scss');
 @import url('./page/PageSection.scss');
 @import url('./page/Post.scss');
+@import url('./page/Event.scss');
 @import url('./page/Footer.scss');
 
 @import url('./page/SectionIndex.scss');
@@ -51,7 +52,7 @@
 		background-color: #f9fafb;
 		text-align: left;
 
-		> * + * {
+		>*+* {
 			margin-block-start: 1.5rem;
 		}
 
@@ -138,7 +139,7 @@
 	fieldset {
 		border: none;
 
-		.stacked-options > * + * {
+		.stacked-options>*+* {
 			display: block;
 			margin-block-start: 0.5rem;
 		}
@@ -166,7 +167,7 @@
 				outline-color: #059669;
 			}
 
-			+ span {
+			+span {
 				margin-left: 0.5rem;
 				color: #374151;
 			}
@@ -246,6 +247,7 @@
 				line-height: 1.75rem;
 				font-weight: 600;
 			}
+
 			span {
 				color: #4b5563;
 			}
@@ -356,7 +358,7 @@
 
 	.block-link {
 		background-color: variables.$color--primary;
-		color: white;
+		color: white !important;
 		display: block;
 		padding: 1rem 2rem;
 		text-align: center;
@@ -442,6 +444,7 @@
 }
 
 @layer overrides {
+
 	/* Article prose styling */
 	.prose {
 		:where(h1, h2, h3, h4, h5, h6) {

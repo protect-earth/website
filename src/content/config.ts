@@ -42,6 +42,23 @@ const articlesCollection = defineCollection({
 	}),
 });
 
+const eventsCollection = defineCollection({
+	type: 'content',
+	schema: z.object({
+		title: z.string(),
+		description: z.string().optional(),
+		pubDate: z.coerce.date(),
+		startDate: z.date(),
+		endDate: z.date(),
+		address: z.string(),
+		map: z.string(),
+		ics: z.string(),
+		googleCal: z.string(),
+		thumbnail: z.string().optional(),
+		eventBrite: z.string().optional(),
+	}),
+});
+
 const siteUpdatesCollection = defineCollection({
 	type: 'content',
 	schema: z.object({

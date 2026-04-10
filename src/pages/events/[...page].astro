@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths, Page } from 'astro';
+import Layout from '../../layouts/Layout.astro';
+import EventSummary from '../../components/EventSummary.astro';
+import Pagination from '../../components/Pagination.astro';
+import TakeAction from '../../components/TakeAction.astro';
+import ContentHero from '../../components/ContentHero.astro';
+
+export const getStaticPaths = (async ({ paginate }) => {
+	const events = (await getCollection('events'))
+		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+		.map((post) => ({ slug: post.id, data: post.data }));
+
+	return paginate(events, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props as { page: Page };
+---
+
+<Layout title="Events" breadcrumb={page.currentPage > 1 ? `Page ${page.currentPage}` : ''}>
+	<ContentHero title="Events">
+		<p>
+			Join us at one of our upcoming events. From tree planting to meadow maintenance, there's
+			something for everyone.
+		</p>
+	</ContentHero>
+	<!-- Articles List -->
+	<section class="PageSection">
+		<div class="PageSection__content">
+			<div class="events-list">
+				{page.data.map(({ slug, data: article }) => <EventSummary {...{ ...article, slug }} />)}
+			</div>
+			<!-- Pagination Controls -->
+			{page.lastPage > 1 && <Pagination {...page} />}
+		</div>
+	</section>
+
+	<TakeAction />
+</Layout>
+
+<style>
+	.events-list {
+		display: flex;
+		flex-flow: column;
+		gap: 4rem;
+		align-items: flex-start;
+	}
+</style>

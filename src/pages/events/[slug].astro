@@ -1,0 +1,120 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import TakeAction from '../../components/TakeAction.astro';
+import { getEntry } from 'astro:content';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const events = await getCollection('events');
+
+	return events.map((event) => ({
+		params: { slug: event.id },
+		data: { event },
+	}));
+}
+
+const { slug } = Astro.params;
+
+const event = await getEntry('events', slug);
+
+if (!event) {
+	return Astro.rewrite('/404');
+}
+
+const {
+	data: { description, title, startDate, endDate, address, map, ics, googleCal, eventBrite },
+} = event;
+const { Content } = await render(event);
+---
+
+<Layout {title} {description} breadcrumb={title}>
+	<!-- Hero Section -->
+	<div class="Event">
+		<header class="Event__header">
+			<div class="Event__headerInner">
+				<h1 class="Event__title">{title}</h1>
+
+				<div class="Event__meta">
+					<dl>
+						{
+							startDate && (
+								<dt>Starts</dt>
+								<dd>
+									<time datetime={startDate.toISOString()}>
+										{startDate.toLocaleString('en-GB', {
+											day: 'numeric',
+											month: 'long',
+											year: 'numeric',
+										})}
+									</time>
+								</dd>
+							)
+						}
+						{
+							endDate && (
+								<dt>Ends</dt>
+								<dd>
+									<time datetime={endDate.toISOString()}>
+										{endDate.toLocaleDateString('en-GB', {
+											day: 'numeric',
+											month: 'long',
+											year: 'numeric',
+										})}
+									</time>
+								</dd>
+							)
+						}
+
+						<dt>Time</dt>
+						<dd>
+							{startDate && (
+								<time>
+								{startDate.toLocaleTimeString('en-GB', {
+									hour: '2-digit',
+									minute: '2-digit',
+								})}
+								</time>
+							)}
+
+							{startDate && endDate && <>&mdash;</>}
+
+							{endDate && (<time>
+								{endDate.toLocaleTimeString('en-GB', {
+									hour: '2-digit',
+									minute: '2-digit',
+								})}
+							</time>)}
+						</dd>
+
+						{address && (<dt>Address</dt><dd>{address} {map && (<a href={map}>(Map)</a>)}</dd>)}
+
+						{ics && googleCal && (<dt>Add to</dt><dd>
+
+							{ics && (
+							<a href={ics} class="cal-link">iCal</a>
+							)}
+
+							or
+
+							{googleCal && (
+							<a href={googleCal} class="cal-link">Google Calendar</a>
+							)}
+
+						</dd>)}
+					</dl>
+				</div>
+			</div>
+		</header>
+
+		<div class="Event__content prose">
+			<Content />
+
+		{eventBrite && (
+			<a href={eventBrite} class="block-link">Let us know you are coming</a>
+		)}
+		</div>
+
+		<TakeAction />
+	</div>
+</Layout>
