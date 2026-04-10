@@ -21,3 +21,6 @@ pnpm-debug.log*
 .DS_Store
 
 .temp-images
+
+# Editors
+.nova
