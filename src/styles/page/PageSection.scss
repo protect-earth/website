@@ -3,7 +3,7 @@
 @layer page {
 	.PageSection {
 		--PageSection--color: black;
-		--PageSection--color-background: white;
+		--PageSection--color-background: hsl(17, 15%, 95%);
 
 		background-color: var(--PageSection--color-background);
 		color: var(--PageSection--color);
@@ -51,7 +51,7 @@
 					position: relative;
 					z-index: 10;
 
-					> * + * {
+					>*+* {
 						margin-block-start: 1rem;
 					}
 				}
