@@ -18,6 +18,10 @@
 		text-decoration: none;
 	}
 
+	a:hover {
+		text-decoration: 2px underline;
+	}
+
 	.has-icon {
 		display: inline-flex;
 		gap: var(--space-3xs);
@@ -25,10 +29,6 @@
 		svg {
 			width: 18px;
 		}
-	}
-
-	a:hover {
-		text-decoration: underline;
 	}
 }
 
