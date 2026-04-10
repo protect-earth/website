@@ -2,7 +2,6 @@
 import Layout from '../layouts/Layout.astro';
 import { siteConfig } from '../config';
 import { getCollection } from 'astro:content';
-import GetStarted from '../components/GetStarted.astro';
 import TakeAction from '../components/TakeAction.astro';
 import ArticleSummary from '../components/ArticleSummary.astro';
 
@@ -13,9 +12,13 @@ const latestPosts = (await getCollection('articles'))
 ---
 
 <Layout title="Home">
-	<section class="PageSection" data-layout="stacked">
-		<div class="PageSection__content">
-			<h1 class="PageSection__title">The Earth is in trouble. We're doing something about it.</h1>
+	<section class="video-container">
+		<video id="hero-video" preload="auto" autoplay loop muted playsinline>
+			<source src="/hero-video.mp4" type="video/mp4" />
+		</video>
+		<div class="video-mask"></div>
+		<div class="video-content">
+			<h1>The Earth is in trouble. We're doing something about it.</h1>
 			<p>
 				Protect Earth creates and restores woodlands, meadows, and hedgerows in the UK — helping to
 				combat the escalating climate and biodiversity crises.
@@ -29,60 +32,93 @@ const latestPosts = (await getCollection('articles'))
 				achieve outcomes that benefit everyone.
 			</p>
 		</div>
+	</section>
 
-		<div class="PageSection__background">
-			<video
-				class="PageSection__media"
-				id="hero-video"
-				preload="auto"
-				autoplay
-				loop
-				muted
-				playsinline
-			>
-				<source src="/hero-video.mp4" type="video/mp4" />
-			</video>
+	<section class="get-involved wrap">
+		<div class="squircle">
+			<header>
+				<h2>Get Involved</h2>
+				<p>
+					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
+					time, money, or expertise, there's a way for everyone to make a difference.
+				</p>
+			</header>
+
+			<nav>
+				<a href="/get-involved/people-families">
+					<img src="/get-started--people.jpg" alt="People and Families" />
+					<h3>People &amp; Families</h3>
+				</a>
+
+				<a href="/get-involved/businesses">
+					<img src="/get-started--businesses.jpg" alt="Business" />
+					<h3>Business</h3>
+				</a>
+
+				<a href="/get-involved/landowners">
+					<img src="/get-started--landowners.jpg" alt="Landowners" />
+					<h3>Landowners</h3>
+				</a>
+			</nav>
+
+			<!-- <nav>
+				<a
+					href="/get-involved/people-families"
+					class="squircle"
+					style="background-image: url(/get-started--people.jpg)"
+				>
+					<img src="/get-involved/people-families" alt="People and Families" />
+					<h3>People &amp; Families</h3>
+				</a>
+				<a
+					href="/get-involved/businesses"
+					class="squircle"
+					style="background-image: url(/get-started--businesses.jpg)"
+				>
+					<h3>Businesses</h3>
+				</a>
+				<a
+					href="/get-involved/landowners"
+					class="squircle"
+					style="background-image: url(/get-started--landowners.jpg)"
+				>
+					<h3>Landowners</h3>
+				</a>
+			</nav> -->
 		</div>
 	</section>
 
-	<div class="PageSection">
-		<div class="PageSection__content">
-			<GetStarted />
-		</div>
-	</div>
-
-	<section class="PageSection">
-		<h2 class="PageSection__title">Our Achievements</h2>
-
-		<ul class="Achievements">
-			<li class="Achievement">
-				<strong class="Achievement__value">
+	<section class="achievements">
+		<h2>Our Achievements</h2>
+		<div class="stats wrap">
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.treesPlanted.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">trees planted</span>
-			</li>
-			<li class="Achievement">
-				<strong class="Achievement__value">
+				</h3>
+				<span>Trees planted</span>
+			</div>
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.acresRestored.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">acres restored</span>
-			</li>
-			<li class="Achievement">
-				<strong class="Achievement__value">
+				</h3>
+				<span>Acres restored</span>
+			</div>
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.acresUnderManagement.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">acres under direct management</span>
-			</li>
-		</ul>
+				</h3>
+				<span>Acres under direct management</span>
+			</div>
+		</div>
 	</section>
 
-	<section class="PageSection" data-variant="primary">
-		<header class="PageSection__header" data-layout="inline">
-			<h2 class="PageSection__title">Latest Articles</h2>
-			<a href="/articles">View all articles</a>
+	<section class="latest-articles">
+		<header>
+			<h2>Latest Articles</h2>
+			<a href="/articles" class="button">View all articles</a>
 		</header>
 
-		<div class="PageSection__content article-list">
+		<div class="articles-list">
 			{
 				latestPosts.map(({ slug, data: article }) => (
 					<ArticleSummary {...{ ...article, slug, titleAs: 'h3' }} />
@@ -91,43 +127,224 @@ const latestPosts = (await getCollection('articles'))
 		</div>
 	</section>
 
-	<section class="PageSection">
-		<h2 class="PageSection__title">Our Funders & Partners</h2>
+	<section class="partners">
+		<h2>Our Funders & Partners</h2>
+		<div class="partner-logos wrap">
+			<a href="https://avonneedstrees.org.uk" target="_blank" class="squircle">
+				<img src="/partner-avon-needs-trees.png" alt="Avon Needs Trees" />
+			</a>
+			<a href="https://ecologi.com" target="_blank" class="squircle">
+				<img src="/partner-ecologi.png" alt="Ecologi" />
+			</a>
 
-		<div class="PageSection__content">
-			<ul class="LogoList">
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-avon-needs-trees.png" alt="Avon Needs Trees" />
-				</li>
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-ecologi.png" alt="Ecologi" />
-				</li>
-				<li class="LogoList__item">
-					<img
-						class="LogoList__logo"
-						src="/partner-fwag.png"
-						alt="Farming and Wildlife Advisory Group"
-					/>
-				</li>
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-woodland-trust.png" alt="Woodland Trust" />
-				</li>
-			</ul>
+			<a href="https://www.fwag.org.uk/" target="_blank" class="squircle">
+				<img src="/partner-fwag.png" alt="Farming and Wildlife Advisory Group" />
+			</a>
+
+			<a href="https://www.woodlandtrust.org.uk" target="_blank" class="squircle">
+				<img src="/partner-woodland-trust.png" alt="Woodland Trust" />
+			</a>
 		</div>
 	</section>
 
 	<TakeAction />
-
-	<script>
-		document.addEventListener('DOMContentLoaded', () => {
-			const video = document.getElementById('hero-video') as HTMLVideoElement | null;
-			if (video) {
-				video.play().catch((err) => console.error('Video play error:', err));
-				video.addEventListener('error', (e) => {
-					console.error('Video error:', e);
-					console.error('Video error details:', video.error);
-				});
-			}
-		});
-	</script>
 </Layout>
+
+<style>
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	section:not(.video-container, .get-involved) {
+		padding-block: var(--space-xl);
+	}
+
+	.video-container {
+		clip-path: var(--wavy-line-top-bottom);
+		position: relative;
+		height: 100vh;
+		width: 100vw;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.video-container video {
+		position: absolute;
+		width: auto;
+		height: auto;
+		min-width: 100%;
+		min-height: 100%;
+		max-inline-size: unset !important;
+		block-size: unset !important;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		z-index: -1;
+	}
+
+	.video-mask {
+		position: absolute;
+		width: 100vw;
+		min-height: 100%;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background: var(--green-dark);
+		filter: opacity(0.75);
+		z-index: -1;
+	}
+
+	.video-content {
+		color: var(--offwhite);
+		gap: var(--space-m);
+		padding-inline: var(--space-2xl);
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: var(--space-m);
+		@media screen and (max-width: 844px) {
+			padding-inline: var(--space-l);
+			display: flex;
+			flex-flow: column;
+			gap: var(--space-s);
+		}
+
+		h1 {
+			font-size: var(--font-5xl);
+			margin-block-end: var(--space-m);
+			grid-column: 1 / span 3;
+			@media screen and (max-width: 540px) {
+				font-size: var(--font-2xl);
+				margin-block-end: var(--space-s);
+			}
+		}
+
+		p {
+			font-size: var(--font-s);
+		}
+	}
+
+	.get-involved {
+		padding-block-start: var(--space-xl);
+	}
+
+	.get-involved > div {
+		display: flex;
+		background-color: var(--purple-dark);
+		color: var(--offwhite);
+		padding: var(--space-xl);
+		gap: var(--space-m);
+	}
+
+	.get-involved h2 {
+		text-align: left;
+	}
+
+	.get-involved p {
+		max-inline-size: var(--measure);
+		font-size: var(--font-m);
+	}
+
+	.get-involved header {
+		flex: 1.5;
+	}
+
+	.get-involved nav {
+		flex: 2;
+		display: flex;
+		flex-flow: column;
+		align-items: flex-start;
+		gap: var(--space-m);
+	}
+
+	.get-involved img {
+		max-inline-size: 14rem;
+		aspect-ratio: 3/2;
+		border-radius: var(--radius-m);
+	}
+
+	.get-involved a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: var(--space-m);
+		color: var(--offwhite);
+		font-size: var(--font-m);
+		text-decoration: none;
+		transition: transform var(--trans-time) ease-in-out;
+	}
+
+	.get-involved a:hover {
+		transform: translateX(var(--space-3xs));
+
+		img {
+			filter: saturate(1.5);
+		}
+
+		h3 {
+			text-decoration: 2px wavy underline;
+		}
+	}
+
+	.stats {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+		gap: var(--space-m);
+	}
+
+	.stat {
+		padding: var(--space-m);
+		background: var(--pink-dark);
+		color: var(--offwhite);
+	}
+
+	.stat h3 {
+		font-size: var(--font-3xl);
+		margin-block-end: var(--space-2xs);
+	}
+
+	.stat span {
+		font-size: var(--font-xs);
+	}
+
+	.latest-articles {
+		clip-path: var(--wavy-line-top-bottom);
+		background-color: var(--orange-dark);
+		color: var(--offwhite);
+
+		header {
+			text-align: center;
+		}
+
+		header a {
+			color: var(--offwhite);
+		}
+	}
+
+	.partner-logos {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+		gap: var(--space-m);
+
+		a {
+			padding: var(--space-xs);
+			background: var(--white);
+		}
+	}
+</style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const video = document.getElementById('hero-video') as HTMLVideoElement | null;
+		if (video) {
+			video.play().catch((err) => console.error('Video play error:', err));
+			video.addEventListener('error', (e) => {
+				console.error('Video error:', e);
+				console.error('Video error details:', video.error);
+			});
+		}
+	});
+</script>
