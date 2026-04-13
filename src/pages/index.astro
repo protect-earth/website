@@ -4,6 +4,8 @@ import { siteConfig } from '../config';
 import { getCollection } from 'astro:content';
 import TakeAction from '../components/TakeAction.astro';
 import ArticleSummary from '../components/ArticleSummary.astro';
+import { Image } from 'astro:assets';
+import ArrowRight from '../assets/icons/arrow-right.svg';
 
 const latestPosts = (await getCollection('articles'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -34,63 +36,95 @@ const latestPosts = (await getCollection('articles'))
 		</div>
 	</section>
 
-	<section class="get-involved wrap">
-		<div class="squircle">
-			<header>
-				<h2>Get Involved</h2>
+	<section class="get-started wrap">
+		<h2>How to get started</h2>
+
+		<article>
+			<div>
+				<h3>People &amp; Families</h3>
 				<p>
 					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
 					time, money, or expertise, there's a way for everyone to make a difference.
 				</p>
-			</header>
-
-			<nav>
+				<a href="/get-involved/people-families" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
 				<a href="/get-involved/people-families">
-					<img src="/get-started--people.jpg" alt="People and Families" />
-					<h3>People &amp; Families</h3>
+					<Image
+						src="/get-started/get-started--people.jpg"
+						alt="People and Families"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
 				</a>
+			</figure>
+		</article>
 
+		<article>
+			<div>
+				<h3>Business</h3>
+				<p>
+					Ready to branch out? We offer businesses the chance to create lasting environmental impact
+					while building stronger teams and greener communities. Whether planting trees with your
+					colleagues, revitalising unused land or donating to our cause, we make it easy to level up
+					your sustainability strategy.
+				</p>
+				<a href="/get-involved/businesses" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
 				<a href="/get-involved/businesses">
-					<img src="/get-started--businesses.jpg" alt="Business" />
-					<h3>Business</h3>
+					<Image
+						src="/get-started/get-started--businesses.jpg"
+						alt="Business"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
 				</a>
+			</figure>
+		</article>
 
+		<article>
+			<div>
+				<h3>Landowners</h3>
+				<p>
+					Take your land from idle to ideal with help from Protect Earth. We'll work with you to
+					enhance the ecosystem health of your land.
+				</p>
+				<p>
+					We work with landowners, land managers and farmers to increase tree cover, improve
+					biodiversity, and restore ecosystems – without breaking the bank or burying you in
+					paperwork.
+				</p>
+				<a href="/get-involved/landowners" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
 				<a href="/get-involved/landowners">
-					<img src="/get-started--landowners.jpg" alt="Landowners" />
-					<h3>Landowners</h3>
+					<Image
+						src="/get-started/get-started--landowners.jpg"
+						alt="Landowners"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
 				</a>
-			</nav>
-
-			<!-- <nav>
-				<a
-					href="/get-involved/people-families"
-					class="squircle"
-					style="background-image: url(/get-started--people.jpg)"
-				>
-					<img src="/get-involved/people-families" alt="People and Families" />
-					<h3>People &amp; Families</h3>
-				</a>
-				<a
-					href="/get-involved/businesses"
-					class="squircle"
-					style="background-image: url(/get-started--businesses.jpg)"
-				>
-					<h3>Businesses</h3>
-				</a>
-				<a
-					href="/get-involved/landowners"
-					class="squircle"
-					style="background-image: url(/get-started--landowners.jpg)"
-				>
-					<h3>Landowners</h3>
-				</a>
-			</nav> -->
-		</div>
+			</figure>
+		</article>
 	</section>
 
-	<section class="achievements">
+	<section class="achievements wrap">
 		<h2>Our Achievements</h2>
-		<div class="stats wrap">
+		<div class="grid">
 			<div class="stat squircle">
 				<h3>
 					{siteConfig.achievements.treesPlanted.toLocaleString()}
@@ -113,36 +147,57 @@ const latestPosts = (await getCollection('articles'))
 	</section>
 
 	<section class="latest-articles">
-		<header>
+		<header class="wrap">
 			<h2>Latest Articles</h2>
-			<a href="/articles" class="button">View all articles</a>
 		</header>
 
-		<div class="articles-list">
+		<div class="articles-list wrap grid">
 			{
 				latestPosts.map(({ slug, data: article }) => (
 					<ArticleSummary {...{ ...article, slug, titleAs: 'h3' }} />
 				))
 			}
 		</div>
+
+		<footer class="wrap">
+			<a href="/articles" class="button-ghost">View all articles</a>
+		</footer>
 	</section>
 
-	<section class="partners">
+	<section class="partners wrap">
 		<h2>Our Funders & Partners</h2>
-		<div class="partner-logos wrap">
+		<div class="partner-logos grid">
 			<a href="https://avonneedstrees.org.uk" target="_blank" class="squircle">
-				<img src="/partner-avon-needs-trees.png" alt="Avon Needs Trees" />
+				<Image
+					src="/partner-avon-needs-trees.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Avon Needs Trees"
+				/>
 			</a>
 			<a href="https://ecologi.com" target="_blank" class="squircle">
-				<img src="/partner-ecologi.png" alt="Ecologi" />
+				<Image src="/partner-ecologi.png" width={1200} height={675} alt="Ecologi" />
 			</a>
 
 			<a href="https://www.fwag.org.uk/" target="_blank" class="squircle">
-				<img src="/partner-fwag.png" alt="Farming and Wildlife Advisory Group" />
+				<Image
+					src="/partner-fwag.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Farming and Wildlife Advisory Group"
+				/>
 			</a>
 
 			<a href="https://www.woodlandtrust.org.uk" target="_blank" class="squircle">
-				<img src="/partner-woodland-trust.png" alt="Woodland Trust" />
+				<Image
+					src="/partner-woodland-trust.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Woodland Trust"
+				/>
 			</a>
 		</div>
 	</section>
@@ -157,7 +212,7 @@ const latestPosts = (await getCollection('articles'))
 		margin-block-end: var(--space-xl);
 	}
 
-	section:not(.video-container, .get-involved) {
+	section:not(.video-container, .get-started) {
 		padding-block: var(--space-xl);
 	}
 
@@ -227,77 +282,69 @@ const latestPosts = (await getCollection('articles'))
 		}
 	}
 
-	.get-involved {
+	.get-started {
 		padding-block-start: var(--space-xl);
 	}
 
-	.get-involved > div {
-		display: flex;
-		background-color: var(--purple-dark);
-		color: var(--offwhite);
-		padding: var(--space-xl);
-		gap: var(--space-m);
-	}
-
-	.get-involved h2 {
-		text-align: left;
-	}
-
-	.get-involved p {
-		max-inline-size: var(--measure);
-		font-size: var(--font-m);
-	}
-
-	.get-involved header {
-		flex: 1.5;
-	}
-
-	.get-involved nav {
-		flex: 2;
+	.get-started > div {
 		display: flex;
 		flex-flow: column;
 		align-items: flex-start;
-		gap: var(--space-m);
+		gap: var(--space-xl);
 	}
 
-	.get-involved img {
-		max-inline-size: 14rem;
-		aspect-ratio: 3/2;
-		border-radius: var(--radius-m);
+	.get-started h3 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
 	}
 
-	.get-involved a {
+	.get-started p {
+		max-inline-size: var(--measure);
+		font-size: var(--font-s);
+		margin-block-end: var(--space-s);
+		color: var(--grey);
+	}
+
+	.get-started article div {
+		flex-basis: 50%;
+	}
+
+	.get-started figure {
+		flex-basis: 50%;
+		transition: all var(--trans-time) ease-in-out;
+	}
+
+	.get-started figure:hover {
+		transform: scale(102%);
+		filter: saturate(1.4) hue-rotate(2deg);
+	}
+
+	.get-started article {
 		display: flex;
-		align-items: center;
-		justify-content: center;
-		gap: var(--space-m);
-		color: var(--offwhite);
-		font-size: var(--font-m);
-		text-decoration: none;
-		transition: transform var(--trans-time) ease-in-out;
-	}
-
-	.get-involved a:hover {
-		transform: translateX(var(--space-3xs));
-
-		img {
-			filter: saturate(1.5);
-		}
-
-		h3 {
-			text-decoration: 2px wavy underline;
+		gap: var(--space-xl);
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
 		}
 	}
 
-	.stats {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-		gap: var(--space-m);
+	.get-started article:not(:first-of-type) {
+		margin-block-start: var(--space-2xl);
+	}
+
+	.get-started article:nth-child(even) {
+		flex-flow: row-reverse;
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
+		}
+	}
+
+	.get-started .button {
+		color: var(--black);
 	}
 
 	.stat {
 		padding: var(--space-m);
-		background: var(--pink-dark);
+		background: var(--purple-dark);
 		color: var(--offwhite);
 	}
 
@@ -312,22 +359,21 @@ const latestPosts = (await getCollection('articles'))
 
 	.latest-articles {
 		clip-path: var(--wavy-line-top-bottom);
-		background-color: var(--orange-dark);
-		color: var(--offwhite);
+		background-color: var(--grey-light);
+		color: var(--black);
 
-		header {
-			text-align: center;
+		.articles-list {
+			grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 		}
 
-		header a {
-			color: var(--offwhite);
+		footer {
+			margin-block-start: var(--space-xl);
+			text-align: center;
 		}
 	}
 
 	.partner-logos {
-		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
-		gap: var(--space-m);
 
 		a {
 			padding: var(--space-xs);
