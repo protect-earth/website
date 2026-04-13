@@ -1,16 +1,12 @@
 .footer {
 	background-color: var(--footer-background);
 	color: var(--footer-text);
-	padding: var(--space-xl);
+	padding-block: var(--space-xl);
 	font-size: var(--font-s);
 
 	h4 {
 		font-size: var(--font-m);
 		margin-block-end: var(--space-xs);
-	}
-
-	ul>*+* {
-		margin-block-start: var(--space-3xs);
 	}
 
 	a {
@@ -33,17 +29,15 @@
 }
 
 .footer-grid {
-	max-inline-size: var(--max-width);
-	margin-inline: auto;
+	grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
 	margin-block-end: var(--space-xl);
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	gap: var(--space-xl);
+
+	@media screen and (max-width: 540px) {
+		margin-block-end: var(--space-m);
+	}
 }
 
 .copyrights {
-	max-inline-size: var(--max-width);
-	margin-inline: auto;
 	display: flex;
 	flex-flow: column;
 	gap: var(--space-3xs);

@@ -1,4 +1,5 @@
 @import url('./root.css');
+@import url('./utils.css');
 @import url('./footer.css');
 
 ::selection {
@@ -6,40 +7,7 @@
 	color: var(--offwhite);
 }
 
-/* Layout Utils */
-
-.wrap {
-	max-inline-size: var(--max-width);
-	margin-inline: auto;
-	padding-inline: var(--space-xl);
-
-	@media screen and (max-width: 844px) {
-		padding-inline: var(--space-m);
-	}
-}
-
-.stack {
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
-}
-
-.stack>* {
-	margin-block: 0;
-}
-
-.stack>*+* {
-	margin-block-start: var(--space-s, 1.25rem);
-}
-
-.grid {
-	display: grid;
-	gap: var(--space-m);
-	grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-}
-
 /* Typography Defaults */
-
 h1,
 h2,
 h3,

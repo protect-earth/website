@@ -6,11 +6,11 @@ const { charityNumber, contact, social } = siteConfig;
 const copyrightYear = new Date().getFullYear();
 ---
 
-<footer class="footer">
-	<div class="footer-grid">
+<footer class="footer wrap">
+	<div class="grid footer-grid">
 		<nav>
 			<h4>Get in touch</h4>
-			<ul>
+			<ul class="stack-3xs">
 				<li><a href={`mailto:${contact.email}`}>{contact.email}</a></li>
 				<li><a href={contact.phone.link}>{contact.phone.label}</a></li>
 				<li>
@@ -27,7 +27,7 @@ const copyrightYear = new Date().getFullYear();
 
 		<nav>
 			<h4>Useful Links</h4>
-			<ul>
+			<ul class="stack-3xs">
 				<li><a href="/get-involved">Volunteer</a></li>
 				<li><a href="/about/in-the-press">Press</a></li>
 				<li><a href="/events">Events</a></li>
@@ -38,7 +38,7 @@ const copyrightYear = new Date().getFullYear();
 
 		<nav>
 			<h4>Supplemental</h4>
-			<ul>
+			<ul class="stack-3xs">
 				<li><a href="/privacy-policy">Privacy Policy</a></li>
 				<li>
 					<a href="/docs/protect-earth-constitution.pdf" class="has-icon">
