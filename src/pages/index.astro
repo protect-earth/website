@@ -263,7 +263,7 @@ const latestPosts = (await getCollection('articles'))
 		grid-template-columns: repeat(3, 1fr);
 		gap: var(--space-m);
 		@media screen and (max-width: 844px) {
-			padding-inline: var(--space-l);
+			padding-inline: var(--space-m);
 			display: flex;
 			flex-flow: column;
 			gap: var(--space-s);
@@ -274,13 +274,16 @@ const latestPosts = (await getCollection('articles'))
 			margin-block-end: var(--space-m);
 			grid-column: 1 / span 3;
 			@media screen and (max-width: 540px) {
-				font-size: var(--font-2xl);
+				font-size: var(--font-xl);
 				margin-block-end: var(--space-s);
 			}
 		}
 
 		p {
 			font-size: var(--font-s);
+			@media screen and (max-width: 380px) {
+				font-size: var(--font-xs);
+			}
 		}
 	}
 
