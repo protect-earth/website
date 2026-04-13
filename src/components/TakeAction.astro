@@ -1,9 +1,9 @@
 <section class="take-action">
-	<header>
+	<header class="wrap">
 		<h2>Help Protect Earth - Take Action Now</h2>
 	</header>
 
-	<div>
+	<div class="wrap grid">
 		<section class="squircle">
 			<h3>Volunteer</h3>
 			<p>
@@ -13,7 +13,7 @@
 				into climate action!
 			</p>
 			<div class="call-to-action">
-				<a class="button" href="/events">Upcoming Events</a>
+				<a class="button-ghost" href="/events">Upcoming Events</a>
 			</div>
 		</section>
 
@@ -25,8 +25,8 @@
 				continue to restore ecosystems and improve biodiversity across the country.
 			</p>
 			<div class="call-to-action">
-				<a class="button" href="/act-now/sponsor-trees">Sponsor Trees</a>
-				<a class="button" href="/act-now/general-donation">Donate</a>
+				<a class="button-ghost" href="/act-now/sponsor-trees">Sponsor Trees</a>
+				<a class="button-ghost" href="/act-now/general-donation">Donate</a>
 			</div>
 		</section>
 
@@ -38,7 +38,7 @@
 				healthier ecosystems, and a greener future for generations to come.
 			</p>
 			<div class="call-to-action">
-				<a class="button" href="/act-now/land-fund">Land Fund</a>
+				<a class="button-ghost" href="/act-now/land-fund">Land Fund</a>
 			</div>
 		</section>
 	</div>
@@ -48,22 +48,11 @@
 	.take-action {
 		background-color: var(--take-action-background);
 		color: var(--offwhite);
-		padding: var(--space-xl);
-		padding-block-end: var(--space-3xl);
+		padding-block: var(--space-xl);
 		clip-path: var(--wavy-line-top-bottom);
 
 		header {
-			max-inline-size: var(--max-width);
-			margin: 0 auto;
 			padding-block-end: var(--space-xl);
-		}
-
-		> div {
-			max-inline-size: var(--max-width);
-			margin: 0 auto;
-			display: grid;
-			grid-template-columns: repeat(auto-fill, minmax(22rem, 1fr));
-			gap: var(--space-m);
 		}
 
 		> div section {
