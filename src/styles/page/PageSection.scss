@@ -2,8 +2,8 @@
 
 @layer page {
 	.PageSection {
-		--PageSection--color: black;
-		--PageSection--color-background: hsl(17, 15%, 95%);
+		--PageSection--color: var(--body-text);
+		--PageSection--color-background: var(--body-background);
 
 		background-color: var(--PageSection--color-background);
 		color: var(--PageSection--color);
