@@ -29,7 +29,7 @@
 }
 
 .stack>*+* {
-	margin-block-start: var(--space-m, 1.875rem);
+	margin-block-start: var(--space-s, 1.25rem);
 }
 
 .grid {
