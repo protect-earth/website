@@ -2,13 +2,61 @@
 const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 ---
 
-<header class="ContentHero" data-variant={variant || undefined}>
-	<div class="ContentHero__content">
-		<h1 class="ContentHero__title">{title}</h1>
-
+<header class="content-hero" data-variant={variant || undefined}>
+	<h1>{title}</h1>
+	<div class="wrap">
 		<slot />
 	</div>
-	<div class="ContentHero__canvas">
-		{imgSrc && <img class="ContentHero__image" src={imgSrc} alt={imgAlt} loading="eager" />}
+
+	<div class="background-canvas">
+		{imgSrc && <img src={imgSrc} alt={imgAlt} loading="eager" alt={title} />}
 	</div>
 </header>
+
+<style>
+	.content-hero {
+		background: var(--content-hero);
+		color: var(--body-text-light);
+		clip-path: var(--wavy-line-top-bottom);
+		position: relative;
+		padding-block: var(--space-3xl);
+		overflow: hidden;
+	}
+
+	h1 {
+		font-size: var(--font-4xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.wrap {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: var(--font-s);
+
+		p {
+			display: inline-flex;
+			gap: var(--space-2xs);
+		}
+	}
+
+	.background-canvas {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: -1;
+
+		img {
+			block-size: 100%;
+			inline-size: 100%;
+			object-fit: cover;
+			filter: opacity(0.5) grayscale(1);
+		}
+	}
+
+	h1 {
+		text-align: center;
+	}
+</style>
