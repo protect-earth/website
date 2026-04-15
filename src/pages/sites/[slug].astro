@@ -245,7 +245,7 @@ const fundingPartnerInfos = fundingPartners
 								{bodyHtml && <div class="stack prose" set:html={bodyHtml} />}
 
 								{data.photos && data.photos.length > 0 && (
-									<div class="image-gallery grid">
+									<div class="grid image-gallery">
 										{data.photos.map((photo: any) => (
 											<a href={photo.src} target="_blank" rel="noopener noreferrer" class="block">
 												<Image
@@ -338,8 +338,21 @@ const fundingPartnerInfos = fundingPartners
 		margin-block-end: var(--space-s);
 	}
 
+	.image-gallery {
+		grid-template-columns: var(--grid-fit-12rem);
+	}
+
+	.image-gallery a {
+		max-inline-size: 100%;
+		block-size: 100%;
+	}
+
 	.image-gallery img {
 		border-radius: var(--radius-s);
+		inset: 0;
+		object-fit: cover;
+		max-inline-size: 100%;
+		block-size: 100%;
 	}
 </style>
 
