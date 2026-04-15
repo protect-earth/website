@@ -1,6 +1,7 @@
 @import url('./root.css');
 @import url('./utils.css');
 @import url('./footer.css');
+@import url('./pages.css');
 
 ::selection {
 	background: var(--orange);
@@ -15,6 +16,12 @@ h4,
 h5,
 h6 {
 	font-weight: 900;
+}
+
+h2:has(svg) {
+	display: inline-flex;
+	gap: var(--space-2xs);
+	align-items: center;
 }
 
 .button {
@@ -62,6 +69,8 @@ h6 {
 	gap: var(--space-3xs);
 }
 
+/* Shapes */
+
 .squircle {
 	--r: 12.4%;
 	/* between 0% [square] and 50% [squircle] (you can use pixel as well) */
@@ -81,4 +90,33 @@ h6 {
 			curve to 0 50% with 0 calc(100% - var(--_r)),
 			curve to var(--_p) var(--_v) with 0 var(--_r),
 			curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p)));
+}
+
+/* Breadcrumbs */
+
+.breadcrumbs ol {
+	--current: var(--grey-mid);
+	display: flex;
+	gap: var(--space-2xs);
+	font-size: var(--font-xs);
+	padding-block: var(--space-xs);
+}
+
+.breadcrumbs li {
+	display: inline-flex;
+	align-items: center;
+	gap: var(--space-2xs);
+}
+
+.breadcrumbs a {
+	color: var(--body-text);
+	text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+	color: var(--link);
+}
+
+.breadcrumbs a[aria-current='page'] {
+	color: var(--current);
 }

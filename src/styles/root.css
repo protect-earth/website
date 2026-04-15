@@ -3,7 +3,7 @@
 		'Lexend Variable', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
 		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
-	--measure: 60ch;
+	--measure: 69ch;
 
 	/* @link https://utopia.fyi/type/calculator?c=360,18,1.2,1240,20,1.25,8,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 	--font-2xs: clamp(0.7813rem, 0.7736rem + 0.0341vw, 0.8rem);
@@ -51,6 +51,7 @@
 	--offwhite: hsl(17, 17%, 94%);
 	--black: hsl(17, 5%, 7%);
 	--grey: hsl(17, 5%, 27%);
+	--grey-mid: hsl(17, 5%, 47%);
 	--grey-light: hsl(17, 11%, 86%);
 
 	--red: hsl(346, 90%, 30%);
@@ -68,6 +69,7 @@
 	--black-alpha-30: hsla(0, 0%, 0%, 0.3);
 	--black-alpha-50: hsla(0, 0%, 0%, 0.5);
 	--black-alpha-70: hsla(0, 0%, 0%, 0.7);
+	--black-alpha-90: hsla(0, 0%, 0%, 0.9);
 
 	/* Shades */
 	--red-dark: hsl(346, 90%, 22%);
@@ -100,25 +102,45 @@
 	/* Transitions */
 
 	--trans-time: 100ms;
+	--transition: var(--trans-time) ease-in-out;
+
+	/* Filters */
+	--hover-effect-filter: saturate(1.4) hue-rotate(2deg);
 
 	/* Site Colors */
 	--body-background: var(--offwhite);
 	--footer-background: var(--offwhite);
 	--body-text: var(--black);
+	--body-text-light: var(--offwhite);
 
 	--footer-text: var(--black);
 	--footer-links: var(--green);
 
-	--border-color: var(--light-grey);
+	--border-color: var(--grey-light);
 
 	/* Component Colours */
 	--take-action-background: var(--red-dark);
+	--content-hero: var(--black);
+
+	--tag: var(--grey-light);
+	--tag-text: var(--black);
+
+	/* Links */
+
+	--link: var(--green);
+	--link-hover: var(--green-light);
 
 	/* Buttons */
 	--button-background: var(--orange-mid);
 	--button-text: var(--offwhite);
 	--button-hover: var(--orange-dark);
 	--button-border: currentcolor;
+
+	--button-filter-background: var(--white);
+	--button-filter-text: var(--black);
+	--button-filter-text-active: var(--offwhite);
+	--button-filter-active: var(--green-mid);
+	--button-filter-border: var(--grey-light);
 
 	/* Widths */
 	--max-width: 1440px;

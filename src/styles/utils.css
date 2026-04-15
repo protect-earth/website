@@ -33,7 +33,10 @@
 }
 
 .grid {
+	--grid-fit: repeat(auto-fit, minmax(20rem, 1fr));
+	--grid-fill: repeat(auto-fill, minmax(20rem, 1fr));
+	--grid-fill-12rem: repeat(auto-fill, minmax(12rem, 1fr));
 	display: grid;
 	gap: var(--space-m);
-	grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+	grid-template-columns: var(--grid-fit);
 }
