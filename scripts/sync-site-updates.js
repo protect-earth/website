@@ -528,6 +528,26 @@ function convertBlockToMarkdown(block) {
 	}
 }
 
+function normalizePageContent(content) {
+	if (!content) {
+		return '';
+	}
+
+	return content
+		// Normalize line endings from Notion/API payloads first.
+		.replace(/\r\n?/g, '\n')
+		// Normalize non-breaking spaces that often appear from pasted Notion content.
+		.replace(/\u00a0/g, ' ')
+		// Remove trailing spaces/tabs on each line.
+		.replace(/[\t ]+$/gm, '')
+		// Collapse whitespace-only lines into plain blank lines.
+		.replace(/^[\t ]+$/gm, '')
+		// Prevent large runs of blank lines in the middle of content.
+		.replace(/\n{3,}/g, '\n\n')
+		// Remove leading/trailing whitespace/newlines for the full body.
+		.replace(/^[\t \n]+|[\t \n]+$/g, '');
+}
+
 async function listAllBlocks(blockId) {
 	let allBlocks = [];
 	let hasMore = true;
@@ -580,7 +600,8 @@ function getExistingLocalPhotos(filePath) {
 async function getPageContent(pageId) {
 	try {
 		const blocks = await listAllBlocks(pageId);
-		return blocks.map((block) => convertBlockToMarkdown(block)).join('');
+		const rawContent = blocks.map((block) => convertBlockToMarkdown(block)).join('');
+		return normalizePageContent(rawContent);
 	} catch (error) {
 		console.warn(`Warning: Could not fetch content for page ${pageId}: ${error.message}`);
 		return '';

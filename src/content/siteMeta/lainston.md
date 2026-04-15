@@ -11,3 +11,4 @@ images:
   - ../../assets/sites/lainston/3.jpg
   - ../../assets/sites/lainston/4.jpg
 ---
+

@@ -12,3 +12,4 @@ images:
   - ../../assets/sites/bethania/3.jpg
   - ../../assets/sites/bethania/4.jpg
 ---
+
