@@ -1,0 +1,63 @@
+---
+import { siteConfig } from '../config';
+import FilePdf from '../assets/icons/file-pdf.svg';
+
+const { charityNumber, contact, social } = siteConfig;
+const copyrightYear = new Date().getFullYear();
+---
+
+<footer class="footer wrap">
+	<div class="grid footer-grid">
+		<nav>
+			<h4>Get in touch</h4>
+			<ul class="stack-3xs">
+				<li><a href={`mailto:${contact.email}`}>{contact.email}</a></li>
+				<li><a href={contact.phone.link}>{contact.phone.label}</a></li>
+				<li>
+					<a href={social.threads} target="_blank" rel="noopener noreferrer">Threads</a>
+				</li>
+				<li>
+					<a href={social.instagram} target="_blank" rel="noopener noreferrer">Instagram</a>
+				</li>
+				<li>
+					<a href={social.facebook} target="_blank" rel="noopener noreferrer">Facebook</a>
+				</li>
+			</ul>
+		</nav>
+
+		<nav>
+			<h4>Useful Links</h4>
+			<ul class="stack-3xs">
+				<li><a href="/get-involved">Volunteer</a></li>
+				<li><a href="/about/in-the-press">Press</a></li>
+				<li><a href="/events">Events</a></li>
+				<li><a href="/sites">Sites</a></li>
+				<li><a href="/join-our-mailing-list">Join our Mailing List</a></li>
+			</ul>
+		</nav>
+
+		<nav>
+			<h4>Supplemental</h4>
+			<ul class="stack-3xs">
+				<li><a href="/privacy-policy">Privacy Policy</a></li>
+				<li>
+					<a href="/docs/protect-earth-constitution.pdf" class="has-icon">
+						Constitution
+						<FilePdf height={18} width={18} />
+					</a>
+				</li>
+			</ul>
+		</nav>
+
+		<div>
+			<a href="/">
+				<img class="logo" src="/logo-footer.png" alt="Protect Earth" />
+			</a>
+		</div>
+	</div>
+
+	<div class="copyrights">
+		<small>Protect Earth is a registered charity: {charityNumber} in England & Wales.</small>
+		<small>&copy;{copyrightYear} Protect Earth. All rights reserved.</small>
+	</div>
+</footer>

@@ -1,22 +1,22 @@
 ---
-title: 'Low Fell Images 2025'
-notionId: '254e7dc6-657c-80a5-b043-c4d01e17373d'
-type: 'Beat-up Survey'
-date: '2025-07-16T00:00:00.000Z'
-siteNotionId: '791633ca-a930-4a2b-9a71-56eaef0ac564'
+title: "Low Fell Images 2025"
+notionId: "254e7dc6-657c-80a5-b043-c4d01e17373d"
+type: "Survival Survey"
+date: "2025-07-16T00:00:00.000Z"
+siteNotionId: "791633ca-a930-4a2b-9a71-56eaef0ac564"
 photos:
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/1.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/2.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/3.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/4.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/5.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/6.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/7.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/8.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/9.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/10.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/11.jpg'
-  - '../../assets/site-updates/low-fell-images-2025-1e17373d/12.jpg'
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/1.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/2.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/3.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/4.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/5.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/6.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/7.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/8.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/9.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/10.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/11.jpg"
+  - "../../assets/site-updates/low-fell-images-2025-1e17373d/12.jpg"
 ---
 
 The Restoring Hardknott Forest team checked them after the earlier drought, and most of the trees were fine. There was some drought shock, but a lot of them have been re-growing from from the roots in previous years and there’s reason to believe these few that were struggling will do the same. Most of them were fine, but with the bracken so high in summer checks will need to be done in early Spring.

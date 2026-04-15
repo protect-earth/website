@@ -1,0 +1,301 @@
+:root {
+	--font-system:
+		'Lexend Variable', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+		Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+	--measure: 60ch;
+
+	/* @link https://utopia.fyi/type/calculator?c=360,18,1.2,1240,20,1.25,8,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+	--font-2xs: clamp(0.7813rem, 0.7736rem + 0.0341vw, 0.8rem);
+	--font-x2: clamp(0.9375rem, 0.9119rem + 0.1136vw, 1rem);
+	--font-s: clamp(1.125rem, 1.0739rem + 0.2273vw, 1.25rem);
+	--font-m: clamp(1.35rem, 1.2631rem + 0.3864vw, 1.5625rem);
+	--font-l: clamp(1.62rem, 1.4837rem + 0.6057vw, 1.9531rem);
+	--font-xl: clamp(1.944rem, 1.7405rem + 0.9044vw, 2.4414rem);
+	--font-2xl: clamp(2.3328rem, 2.0387rem + 1.3072vw, 3.0518rem);
+	--font-3xl: clamp(2.7994rem, 2.384rem + 1.8461vw, 3.8147rem);
+	--font-4xl: clamp(3.3592rem, 2.7828rem + 2.5621vw, 4.7684rem);
+	--font-5xl: clamp(4.0311rem, 3.2418rem + 3.508vw, 5.9605rem);
+	--font-6xl: clamp(4.8373rem, 3.7682rem + 4.7514vw, 7.4506rem);
+
+	/* @link https://utopia.fyi/space/calculator?c=360,18,1.2,1240,20,1.25,8,2,&s=0.75|0.5|0.25,1.5|2|3|4|6|8|10,s-l&g=s,l,xl,12 */
+	--space-3xs: clamp(0.3125rem, 0.3125rem + 0vw, 0.3125rem);
+	--space-2xs: clamp(0.5625rem, 0.5369rem + 0.1136vw, 0.625rem);
+	--space-xs: clamp(0.875rem, 0.8494rem + 0.1136vw, 0.9375rem);
+	--space-s: clamp(1.125rem, 1.0739rem + 0.2273vw, 1.25rem);
+	--space-m: clamp(1.6875rem, 1.6108rem + 0.3409vw, 1.875rem);
+	--space-l: clamp(2.25rem, 2.1477rem + 0.4545vw, 2.5rem);
+	--space-xl: clamp(3.375rem, 3.2216rem + 0.6818vw, 3.75rem);
+	--space-2xl: clamp(4.5rem, 4.2955rem + 0.9091vw, 5rem);
+	--space-3xl: clamp(6.75rem, 6.4432rem + 1.3636vw, 7.5rem);
+	--space-4xl: clamp(9rem, 8.5909rem + 1.8182vw, 10rem);
+	--space-5xl: clamp(11.25rem, 10.7386rem + 2.2727vw, 12.5rem);
+
+	/* One-up pairs */
+	--space-3xs-2xs: clamp(0.3125rem, 0.1847rem + 0.5682vw, 0.625rem);
+	--space-2xs-xs: clamp(0.5625rem, 0.4091rem + 0.6818vw, 0.9375rem);
+	--space-xs-s: clamp(0.875rem, 0.7216rem + 0.6818vw, 1.25rem);
+	--space-s-m: clamp(1.125rem, 0.8182rem + 1.3636vw, 1.875rem);
+	--space-m-l: clamp(1.6875rem, 1.3551rem + 1.4773vw, 2.5rem);
+	--space-l-xl: clamp(2.25rem, 1.6364rem + 2.7273vw, 3.75rem);
+	--space-xl-2xl: clamp(3.375rem, 2.7102rem + 2.9545vw, 5rem);
+	--space-2xl-3xl: clamp(4.5rem, 3.2727rem + 5.4545vw, 7.5rem);
+	--space-3xl-4xl: clamp(6.75rem, 5.4205rem + 5.9091vw, 10rem);
+	--space-4xl-5xl: clamp(9rem, 7.5682rem + 6.3636vw, 12.5rem);
+
+	/* Custom pairs */
+	--space-s-l: clamp(1.125rem, 0.5625rem + 2.5vw, 2.5rem);
+
+	/* Base Colors */
+	--white: #fff;
+	--offwhite: hsl(17, 17%, 94%);
+	--black: hsl(17, 5%, 7%);
+	--grey: hsl(17, 5%, 27%);
+	--grey-light: hsl(17, 11%, 86%);
+
+	--red: hsl(346, 90%, 30%);
+	--orange: hsl(17, 90%, 50%);
+	--pink: hsl(294, 90%, 30%);
+	--purple: hsl(264, 90%, 30%);
+	--green: hsl(106, 90%, 30%);
+
+	/* Alpha */
+
+	--white-alpha-30: hsla(0, 0%, 100%, 0.3);
+	--white-alpha-50: hsla(0, 0%, 100%, 0.5);
+	--white-alpha-70: hsla(0, 0%, 100%, 0.7);
+
+	--black-alpha-30: hsla(0, 0%, 0%, 0.3);
+	--black-alpha-50: hsla(0, 0%, 0%, 0.5);
+	--black-alpha-70: hsla(0, 0%, 0%, 0.7);
+
+	/* Shades */
+	--red-dark: hsl(346, 90%, 22%);
+	--red-light: hsl(346, 90%, 34%);
+
+	--green-dark: hsl(106, 90%, 18%);
+	--green-mid: hsl(106, 90%, 27%);
+	--green-light: hsl(106, 90%, 37%);
+
+	--orange-dark: hsl(16, 87%, 29%);
+	--orange-mid: hsl(16, 87%, 39%);
+	--orange-light: hsl(16, 87%, 49%);
+
+	--purple-dark: hsl(264, 90%, 18%);
+
+	--pink-dark: hsl(294, 60%, 30%);
+	--pink-light: hsl(294, 76%, 69%);
+
+	/* Shadows */
+	--shadow-small:
+		0 0 var(--space-3xs) hsla(0, 0%, 0%, 0.03), 0 1px var(--space-2xs) hsla(0, 0%, 0%, 0.05),
+		0 3px var(--space-xs) hsla(0, 0%, 0%, 0.1);
+	--shadow-lite:
+		0 0 var(--space-2xs) hsla(0, 0%, 0%, 0.01), 0 5px var(--space-xl) hsla(0, 0%, 0%, 0.03),
+		0 9px var(--space-2xl) hsla(0, 0%, 0%, 0.05);
+	--shadow:
+		0 0 var(--space-2xs) hsla(0, 0%, 0%, 0.03), 0 5px var(--space-xl) hsla(0, 0%, 0%, 0.05),
+		0 15px var(--space-2xl) hsla(0, 0%, 0%, 0.1);
+
+	/* Transitions */
+
+	--trans-time: 100ms;
+
+	/* Site Colors */
+	--body-background: var(--offwhite);
+	--footer-background: var(--offwhite);
+	--body-text: var(--black);
+
+	--footer-text: var(--black);
+	--footer-links: var(--green);
+
+	--border-color: var(--light-grey);
+
+	/* Component Colours */
+	--take-action-background: var(--red-dark);
+
+	/* Buttons */
+	--button-background: var(--orange-mid);
+	--button-text: var(--offwhite);
+	--button-hover: var(--orange-dark);
+	--button-border: currentcolor;
+
+	/* Widths */
+	--max-width: 1440px;
+
+	/* Radii */
+	--radius-xs: 3px;
+	--radius-s: 5px;
+	--radius-m: 7px;
+	--radius-l: 13px;
+
+	/* Shapes, use with clip-path: */
+	--wavy-line-top: shape(from 0 100%,
+			vline to 10.5px,
+			curve to 4.17% 15px with 2.78% 20px,
+			curve to 6.94% 5px with 5.56% 10px,
+			curve to 9.72% 4.5px with 8.33% 0px,
+			curve to 12.5% 11.5px with 11.11% 9px,
+			curve to 15.28% 7.5px with 13.89% 14px,
+			curve to 18.06% 1.5px with 16.67% 1px,
+			curve to 20.83% 6.5px with 19.44% 2px,
+			curve to 23.61% 7px with 22.22% 11px,
+			curve to 26.39% 3px with 25% 3px,
+			curve to 29.17% 9.5px with 27.78% 3px,
+			curve to 31.94% 15.5px with 30.56% 16px,
+			curve to 34.72% 11px with 33.33% 15px,
+			curve to 37.5% 7.5px with 36.11% 7px,
+			curve to 40.28% 4.5px with 38.89% 8px,
+			curve to 43.06% 7px with 41.67% 1px,
+			curve to 45.83% 9px with 44.44% 13px,
+			curve to 48.61% 12px with 47.22% 5px,
+			curve to 51.39% 19px with 50% 19px,
+			curve to 54.17% 15px with 52.78% 19px,
+			curve to 56.94% 13px with 55.56% 11px,
+			curve to 59.72% 13px with 58.33% 15px,
+			curve to 62.5% 14.5px with 61.11% 11px,
+			curve to 65.28% 11px with 63.89% 18px,
+			curve to 68.06% 9px with 66.67% 4px,
+			curve to 70.83% 13px with 69.44% 14px,
+			curve to 73.61% 16px with 72.22% 12px,
+			curve to 76.39% 11px with 75% 20px,
+			curve to 79.17% 9.5px with 77.78% 2px,
+			curve to 81.94% 11.5px with 80.56% 17px,
+			curve to 84.72% 6px with 83.33% 6px,
+			curve to 87.5% 11.5px with 86.11% 6px,
+			curve to 90.28% 17.5px with 88.89% 17px,
+			curve to 93.06% 13.5px with 91.67% 18px,
+			curve to 95.83% 4.5px with 94.44% 9px,
+			curve to 100% 10.5px with 97.22% 0px,
+			vline to 100%,
+			hline to 0);
+
+	--wavy-line-bottom: shape(from 0 0,
+			vline to calc(100% - 10.5px),
+			curve to 4.17% calc(100% - 15px) with 2.78% calc(100% - 20px),
+			curve to 6.94% calc(100% - 5px) with 5.56% calc(100% - 10px),
+			curve to 9.72% calc(100% - 4.5px) with 8.33% calc(100% - 0px),
+			curve to 12.5% calc(100% - 11.5px) with 11.11% calc(100% - 9px),
+			curve to 15.28% calc(100% - 7.5px) with 13.89% calc(100% - 14px),
+			curve to 18.06% calc(100% - 1.5px) with 16.67% calc(100% - 1px),
+			curve to 20.83% calc(100% - 6.5px) with 19.44% calc(100% - 2px),
+			curve to 23.61% calc(100% - 7px) with 22.22% calc(100% - 11px),
+			curve to 26.39% calc(100% - 3px) with 25% calc(100% - 3px),
+			curve to 29.17% calc(100% - 9.5px) with 27.78% calc(100% - 3px),
+			curve to 31.94% calc(100% - 15.5px) with 30.56% calc(100% - 16px),
+			curve to 34.72% calc(100% - 11px) with 33.33% calc(100% - 15px),
+			curve to 37.5% calc(100% - 7.5px) with 36.11% calc(100% - 7px),
+			curve to 40.28% calc(100% - 4.5px) with 38.89% calc(100% - 8px),
+			curve to 43.06% calc(100% - 7px) with 41.67% calc(100% - 1px),
+			curve to 45.83% calc(100% - 9px) with 44.44% calc(100% - 13px),
+			curve to 48.61% calc(100% - 12px) with 47.22% calc(100% - 5px),
+			curve to 51.39% calc(100% - 19px) with 50% calc(100% - 19px),
+			curve to 54.17% calc(100% - 15px) with 52.78% calc(100% - 19px),
+			curve to 56.94% calc(100% - 13px) with 55.56% calc(100% - 11px),
+			curve to 59.72% calc(100% - 13px) with 58.33% calc(100% - 15px),
+			curve to 62.5% calc(100% - 14.5px) with 61.11% calc(100% - 11px),
+			curve to 65.28% calc(100% - 11px) with 63.89% calc(100% - 18px),
+			curve to 68.06% calc(100% - 9px) with 66.67% calc(100% - 4px),
+			curve to 70.83% calc(100% - 13px) with 69.44% calc(100% - 14px),
+			curve to 73.61% calc(100% - 16px) with 72.22% calc(100% - 12px),
+			curve to 76.39% calc(100% - 11px) with 75% calc(100% - 20px),
+			curve to 79.17% calc(100% - 9.5px) with 77.78% calc(100% - 2px),
+			curve to 81.94% calc(100% - 11.5px) with 80.56% calc(100% - 17px),
+			curve to 84.72% calc(100% - 6px) with 83.33% calc(100% - 6px),
+			curve to 87.5% calc(100% - 11.5px) with 86.11% calc(100% - 6px),
+			curve to 90.28% calc(100% - 17.5px) with 88.89% calc(100% - 17px),
+			curve to 93.06% calc(100% - 13.5px) with 91.67% calc(100% - 18px),
+			curve to 95.83% calc(100% - 4.5px) with 94.44% calc(100% - 9px),
+			curve to 100% calc(100% - 10.5px) with 97.22% calc(100% - 0px),
+			vline to 0,
+			hline to 0);
+
+	--wavy-line-top-bottom: shape(from 0 10.5px,
+			curve to 4.17% 15px with 2.78% 20px,
+			curve to 6.94% 5px with 5.56% 10px,
+			curve to 9.72% 4.5px with 8.33% 0px,
+			curve to 12.5% 11.5px with 11.11% 9px,
+			curve to 15.28% 7.5px with 13.89% 14px,
+			curve to 18.06% 1.5px with 16.67% 1px,
+			curve to 20.83% 6.5px with 19.44% 2px,
+			curve to 23.61% 7px with 22.22% 11px,
+			curve to 26.39% 3px with 25% 3px,
+			curve to 29.17% 9.5px with 27.78% 3px,
+			curve to 31.94% 15.5px with 30.56% 16px,
+			curve to 34.72% 11px with 33.33% 15px,
+			curve to 37.5% 7.5px with 36.11% 7px,
+			curve to 40.28% 4.5px with 38.89% 8px,
+			curve to 43.06% 7px with 41.67% 1px,
+			curve to 45.83% 9px with 44.44% 13px,
+			curve to 48.61% 12px with 47.22% 5px,
+			curve to 51.39% 19px with 50% 19px,
+			curve to 54.17% 15px with 52.78% 19px,
+			curve to 56.94% 13px with 55.56% 11px,
+			curve to 59.72% 13px with 58.33% 15px,
+			curve to 62.5% 14.5px with 61.11% 11px,
+			curve to 65.28% 11px with 63.89% 18px,
+			curve to 68.06% 9px with 66.67% 4px,
+			curve to 70.83% 13px with 69.44% 14px,
+			curve to 73.61% 16px with 72.22% 12px,
+			curve to 76.39% 11px with 75% 20px,
+			curve to 79.17% 9.5px with 77.78% 2px,
+			curve to 81.94% 11.5px with 80.56% 17px,
+			curve to 84.72% 6px with 83.33% 6px,
+			curve to 87.5% 11.5px with 86.11% 6px,
+			curve to 90.28% 17.5px with 88.89% 17px,
+			curve to 93.06% 13.5px with 91.67% 18px,
+			curve to 95.83% 4.5px with 94.44% 9px,
+			curve to 100% 10.5px with 97.22% 0px,
+			vline to calc(100% - 10.5px),
+			curve to 95.83% calc(100% - 10.5px) with 97.22% calc(100% - 11px),
+			curve to 93.06% calc(100% - 15px) with 94.44% calc(100% - 10px),
+			curve to 90.28% calc(100% - 18.5px) with 91.67% calc(100% - 20px),
+			curve to 87.5% calc(100% - 11px) with 88.89% calc(100% - 17px),
+			curve to 84.72% calc(100% - 9px) with 86.11% calc(100% - 5px),
+			curve to 81.94% calc(100% - 11px) with 83.33% calc(100% - 13px),
+			curve to 79.17% calc(100% - 14px) with 80.56% calc(100% - 9px),
+			curve to 76.39% calc(100% - 11px) with 77.78% calc(100% - 19px),
+			curve to 73.61% calc(100% - 3.5px) with 75% calc(100% - 3px),
+			curve to 70.83% calc(100% - 8px) with 72.22% calc(100% - 4px),
+			curve to 68.06% calc(100% - 15px) with 69.44% calc(100% - 12px),
+			curve to 65.28% calc(100% - 17.5px) with 66.67% calc(100% - 18px),
+			curve to 62.5% calc(100% - 15px) with 63.89% calc(100% - 17px),
+			curve to 59.72% calc(100% - 11.5px) with 61.11% calc(100% - 13px),
+			curve to 56.94% calc(100% - 6px) with 58.33% calc(100% - 10px),
+			curve to 54.17% calc(100% - 9px) with 55.56% calc(100% - 2px),
+			curve to 51.39% calc(100% - 14.5px) with 52.78% calc(100% - 16px),
+			curve to 48.61% calc(100% - 7.5px) with 50% calc(100% - 13px),
+			curve to 45.83% calc(100% - 1px) with 47.22% calc(100% - 2px),
+			curve to 43.06% calc(100% - 9.5px) with 44.44% calc(100% - 0px),
+			curve to 40.28% calc(100% - 18px) with 41.67% calc(100% - 19px),
+			curve to 37.5% calc(100% - 13.5px) with 38.89% calc(100% - 17px),
+			curve to 34.72% calc(100% - 10.5px) with 36.11% calc(100% - 10px),
+			curve to 31.94% calc(100% - 12px) with 33.33% calc(100% - 11px),
+			curve to 29.17% calc(100% - 13.5px) with 30.56% calc(100% - 13px),
+			curve to 26.39% calc(100% - 11.5px) with 27.78% calc(100% - 14px),
+			curve to 23.61% calc(100% - 14px) with 25% calc(100% - 9px),
+			curve to 20.83% calc(100% - 18px) with 22.22% calc(100% - 19px),
+			curve to 18.06% calc(100% - 9px) with 19.44% calc(100% - 17px),
+			curve to 15.28% calc(100% - 10px) with 16.67% calc(100% - 1px),
+			curve to 12.5% calc(100% - 10.5px) with 13.89% calc(100% - 19px),
+			curve to 9.72% calc(100% - 9px) with 11.11% calc(100% - 2px),
+			curve to 6.94% calc(100% - 12.5px) with 8.33% calc(100% - 16px),
+			curve to 4.17% calc(100% - 14.5px) with 5.56% calc(100% - 9px),
+			curve to 0 calc(100% - 10.5px) with 2.78% calc(100% - 20px),
+			vline to 0);
+}
+
+/*
+Breakpoints
+
+1040px
+844px
+540px
+380px
+*/
+
+body {
+	background-color: var(--body-background);
+	font-family: var(--font-system);
+	color: var(--body-text);
+}

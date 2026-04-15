@@ -17,3 +17,4 @@ images:
   - ../../assets/sites/manaccan/9.jpg
   - ../../assets/sites/manaccan/10.jpg
 ---
+

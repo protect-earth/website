@@ -1,18 +1,18 @@
 ---
-title: 'South Molton Hedgerow 2: Take 1'
-notionId: '327e7dc6-657c-80de-a158-f746d3153540'
-type: 'Hedge Planting'
-date: '2026-03-07T00:00:00.000Z'
-siteNotionId: '332d699e-85cb-4d5f-816b-7d08d4180544'
+title: "South Molton Hedgerow 2: Take 1"
+notionId: "327e7dc6-657c-80de-a158-f746d3153540"
+type: "Hedge Planting"
+date: "2026-03-07T00:00:00.000Z"
+siteNotionId: "332d699e-85cb-4d5f-816b-7d08d4180544"
 treesRestocked: 800
 photos:
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/1.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/2.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/3.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/4.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/5.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/6.jpg'
-  - '../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/7.jpg'
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/1.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/2.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/3.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/4.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/5.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/6.jpg"
+  - "../../assets/site-updates/south-molton-hedgerow-2-take-1-d3153540/7.jpg"
 ---
 
 Friday 6th and Saturday 7th of March 2026, we set about planting this hedgerow, with 11 volunteers signed up for Friday and 27 signed up for Saturday. For entirely unknown reasons we had the worst turnout of volunteers we've ever had, with only 7 of 11 on Friday (reasonable) and 4 of 27 on Saturday, two of which were children.

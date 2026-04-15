@@ -1,15 +1,21 @@
 ---
 import type { HTMLTag, Polymorphic } from 'astro/types';
+import { Image } from 'astro:assets';
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
 const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = Astro.props;
 ---
 
-<article class="Article">
-	<header class="Article__header">
-		<Tag class="Article__title">{title}</Tag>
+<article class="article stack">
+	<figure>
+		<a href={`/articles/${slug}`}>
+			{thumbnail && <Image src={thumbnail} alt={title} width={600} height={400} />}
+		</a>
+	</figure>
 
-		<time class="Article__date" datetime={pubDate.toISOString()}>
+	<header class="stack">
+		<Tag><a href={`/articles/${slug}`}>{title}</a></Tag>
+		<time datetime={pubDate.toISOString()}>
 			{
 				pubDate.toLocaleDateString('en-GB', {
 					day: 'numeric',
@@ -20,17 +26,46 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 		</time>
 	</header>
 
-	<aside class="Article__thumbnail">
-		{thumbnail && <img src={thumbnail} alt="" />}
-	</aside>
-
 	{
 		description && (
-			<div class="Article__description">
+			<div class="desc">
 				<p>{description}</p>
 			</div>
 		)
 	}
 
-	<a class="Article__link block-link" href={`/articles/${slug}`}>Read more</a>
+	<a class="button" href={`/articles/${slug}`}>Read more</a>
 </article>
+
+<style>
+	article {
+		text-align: left;
+	}
+
+	figure {
+		aspect-ratio: 3/2;
+		overflow: hidden;
+		max-inline-size: 24rem;
+		background: var(--grey);
+		border-radius: var(--radius-m);
+	}
+
+	.desc {
+		flex: 1;
+	}
+
+	a:not(.button) {
+		color: var(--body-text);
+		text-decoration: none;
+	}
+
+	h2,
+	h3 {
+		font-size: var(--font-s);
+		font-weight: 700;
+	}
+
+	p {
+		font-size: var(--font-xs);
+	}
+</style>

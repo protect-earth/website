@@ -2,10 +2,11 @@
 import Layout from '../layouts/Layout.astro';
 import { siteConfig } from '../config';
 import { getCollection } from 'astro:content';
-import GetStarted from '../components/GetStarted.astro';
 import TakeAction from '../components/TakeAction.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import ArticleSummary from '../components/ArticleSummary.astro';
+import { Image } from 'astro:assets';
+import ArrowRight from '../assets/icons/arrow-right.svg';
 
 const latestPosts = (await getCollection('articles'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -14,9 +15,13 @@ const latestPosts = (await getCollection('articles'))
 ---
 
 <Layout title="Home">
-	<section class="PageSection" data-layout="stacked">
-		<div class="PageSection__content">
-			<h1 class="PageSection__title">The Earth is in trouble. We're doing something about it.</h1>
+	<section class="video-container">
+		<video id="hero-video" preload="auto" autoplay loop muted playsinline>
+			<source src="/hero-video.mp4" type="video/mp4" />
+		</video>
+		<div class="video-mask"></div>
+		<div class="video-content">
+			<h1>The Earth is in trouble. We're doing something about it.</h1>
 			<p>
 				Protect Earth creates and restores woodlands, meadows, and hedgerows in the UK — helping to
 				combat the escalating climate and biodiversity crises.
@@ -30,107 +35,370 @@ const latestPosts = (await getCollection('articles'))
 				achieve outcomes that benefit everyone.
 			</p>
 		</div>
-
-		<div class="PageSection__background">
-			<video
-				class="PageSection__media"
-				id="hero-video"
-				preload="auto"
-				autoplay
-				loop
-				muted
-				playsinline
-			>
-				<source src="/hero-video.mp4" type="video/mp4" />
-			</video>
-		</div>
 	</section>
 
-	<div class="PageSection">
-		<div class="PageSection__content">
-			<GetStarted />
-		</div>
-	</div>
+	<section class="get-started wrap">
+		<h2>How to get involved</h2>
 
-	<section class="PageSection">
-		<h2 class="PageSection__title">Our Achievements</h2>
+		<article>
+			<div>
+				<h3>People &amp; Families</h3>
+				<p>
+					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
+					time, money, or expertise, there's a way for everyone to make a difference.
+				</p>
+				<a href="/get-involved/people-families" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
+				<a href="/get-involved/people-families">
+					<Image
+						src="/get-started/get-started--people.jpg"
+						alt="People and Families"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
 
-		<ul class="Achievements">
-			<li class="Achievement">
-				<strong class="Achievement__value">
+		<article>
+			<div>
+				<h3>Business</h3>
+				<p>
+					Ready to branch out? We offer businesses the chance to create lasting environmental impact
+					while building stronger teams and greener communities. Whether planting trees with your
+					colleagues, revitalising unused land or donating to our cause, we make it easy to level up
+					your sustainability strategy.
+				</p>
+				<a href="/get-involved/businesses" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
+				<a href="/get-involved/businesses">
+					<Image
+						src="/get-started/get-started--businesses.jpg"
+						alt="Business"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
+
+		<article>
+			<div>
+				<h3>Landowners</h3>
+				<p>
+					Take your land from idle to ideal with help from Protect Earth. We'll work with you to
+					enhance the ecosystem health of your land.
+				</p>
+				<p>
+					We work with landowners, land managers and farmers to increase tree cover, improve
+					biodiversity, and restore ecosystems – without breaking the bank or burying you in
+					paperwork.
+				</p>
+				<a href="/get-involved/landowners" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure class="squircle">
+				<a href="/get-involved/landowners">
+					<Image
+						src="/get-started/get-started--landowners.jpg"
+						alt="Landowners"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
+	</section>
+
+	<section class="achievements wrap">
+		<h2>Our Achievements</h2>
+		<div class="grid">
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.treesPlanted.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">trees planted</span>
-			</li>
-			<li class="Achievement">
-				<strong class="Achievement__value">
+				</h3>
+				<span>Trees planted</span>
+			</div>
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.acresRestored.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">acres restored</span>
-			</li>
-			<li class="Achievement">
-				<strong class="Achievement__value">
+				</h3>
+				<span>Acres restored</span>
+			</div>
+			<div class="stat squircle">
+				<h3>
 					{siteConfig.achievements.acresUnderManagement.toLocaleString()}
-				</strong>
-				<span class="Achievement__label">acres under direct management</span>
-			</li>
-		</ul>
+				</h3>
+				<span>Acres under direct management</span>
+			</div>
+		</div>
 	</section>
 
-	<section class="PageSection" data-variant="primary">
-		<header class="PageSection__header" data-layout="inline">
-			<h2 class="PageSection__title">Latest Articles</h2>
-			<a href="/articles">View all articles</a>
+	<section class="latest-articles">
+		<header class="wrap">
+			<h2>Latest Articles</h2>
 		</header>
 
-		<div class="PageSection__content article-list">
+		<div class="articles-list wrap grid">
 			{
 				latestPosts.map(({ slug, data: article }) => (
 					<ArticleSummary {...{ ...article, slug, titleAs: 'h3' }} />
 				))
 			}
 		</div>
+
+		<footer class="wrap">
+			<a href="/articles" class="button-ghost"
+				>View all articles <ArrowRight height={18} width={18} /></a
+			>
+		</footer>
 	</section>
 
-	<section class="PageSection">
-		<h2 class="PageSection__title">Our Funders & Partners</h2>
+	<section class="partners wrap">
+		<h2>Our Funders & Partners</h2>
+		<div class="partner-logos grid">
+			<a href="https://avonneedstrees.org.uk" target="_blank" class="squircle">
+				<Image
+					src="/partner-avon-needs-trees.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Avon Needs Trees"
+				/>
+			</a>
+			<a href="https://ecologi.com" target="_blank" class="squircle">
+				<Image src="/partner-ecologi.png" width={1200} height={675} alt="Ecologi" />
+			</a>
 
-		<div class="PageSection__content">
-			<ul class="LogoList">
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-avon-needs-trees.png" alt="Avon Needs Trees" />
-				</li>
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-ecologi.png" alt="Ecologi" />
-				</li>
-				<li class="LogoList__item">
-					<img
-						class="LogoList__logo"
-						src="/partner-fwag.png"
-						alt="Farming and Wildlife Advisory Group"
-					/>
-				</li>
-				<li class="LogoList__item">
-					<img class="LogoList__logo" src="/partner-woodland-trust.png" alt="Woodland Trust" />
-				</li>
-			</ul>
+			<a href="https://www.fwag.org.uk/" target="_blank" class="squircle">
+				<Image
+					src="/partner-fwag.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Farming and Wildlife Advisory Group"
+				/>
+			</a>
+
+			<a href="https://www.woodlandtrust.org.uk" target="_blank" class="squircle">
+				<Image
+					src="/partner-woodland-trust.png"
+					width={1200}
+					height={675}
+					densities={[1.5, 2]}
+					alt="Woodland Trust"
+				/>
+			</a>
 		</div>
 	</section>
 
 	<NewsletterSignup />
 
 	<TakeAction />
-
-	<script>
-		document.addEventListener('DOMContentLoaded', () => {
-			const video = document.getElementById('hero-video') as HTMLVideoElement | null;
-			if (video) {
-				video.play().catch((err) => console.error('Video play error:', err));
-				video.addEventListener('error', (e) => {
-					console.error('Video error:', e);
-					console.error('Video error details:', video.error);
-				});
-			}
-		});
-	</script>
 </Layout>
+
+<style>
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	section:not(.video-container, .get-started) {
+		padding-block: var(--space-xl);
+	}
+
+	.video-container {
+		clip-path: var(--wavy-line-top-bottom);
+		position: relative;
+		height: 100vh;
+		width: 100vw;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.video-container video {
+		position: absolute;
+		width: auto;
+		height: auto;
+		min-width: 100%;
+		min-height: 100%;
+		max-inline-size: unset !important;
+		block-size: unset !important;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		z-index: -1;
+	}
+
+	.video-mask {
+		position: absolute;
+		width: 100vw;
+		min-height: 100%;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background: var(--green-dark);
+		filter: opacity(0.75);
+		z-index: -1;
+	}
+
+	.video-content {
+		color: var(--offwhite);
+		gap: var(--space-m);
+		padding-inline: var(--space-2xl);
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: var(--space-m);
+		@media screen and (max-width: 844px) {
+			padding-inline: var(--space-m);
+			display: flex;
+			flex-flow: column;
+			gap: var(--space-s);
+		}
+
+		h1 {
+			font-size: var(--font-5xl);
+			margin-block-end: var(--space-m);
+			grid-column: 1 / span 3;
+			@media screen and (max-width: 540px) {
+				font-size: var(--font-xl);
+				margin-block-end: var(--space-s);
+			}
+		}
+
+		p {
+			font-size: var(--font-s);
+			@media screen and (max-width: 380px) {
+				font-size: var(--font-xs);
+			}
+		}
+	}
+
+	.get-started {
+		padding-block-start: var(--space-xl);
+	}
+
+	.get-started > div {
+		display: flex;
+		flex-flow: column;
+		align-items: flex-start;
+		gap: var(--space-xl);
+	}
+
+	.get-started h3 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.get-started p {
+		max-inline-size: var(--measure);
+		font-size: var(--font-s);
+		margin-block-end: var(--space-s);
+		color: var(--grey);
+	}
+
+	.get-started article div {
+		flex-basis: 50%;
+	}
+
+	.get-started figure {
+		flex-basis: 50%;
+		transition: all var(--trans-time) ease-in-out;
+	}
+
+	.get-started figure:hover {
+		transform: scale(102%);
+		filter: saturate(1.4) hue-rotate(2deg);
+	}
+
+	.get-started article {
+		display: flex;
+		gap: var(--space-xl);
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
+		}
+	}
+
+	.get-started article:not(:first-of-type) {
+		margin-block-start: var(--space-2xl);
+	}
+
+	.get-started article:nth-child(even) {
+		flex-flow: row-reverse;
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
+		}
+	}
+
+	.get-started .button {
+		color: var(--black);
+	}
+
+	.stat {
+		padding: var(--space-m);
+		background: var(--purple-dark);
+		color: var(--offwhite);
+	}
+
+	.stat h3 {
+		font-size: var(--font-3xl);
+		margin-block-end: var(--space-2xs);
+	}
+
+	.stat span {
+		font-size: var(--font-xs);
+	}
+
+	.latest-articles {
+		clip-path: var(--wavy-line-top-bottom);
+		background-color: var(--grey-light);
+		color: var(--black);
+
+		.articles-list {
+			grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+		}
+
+		footer {
+			margin-block-start: var(--space-xl);
+			text-align: center;
+		}
+	}
+
+	.partner-logos {
+		grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+
+		a {
+			padding: var(--space-xs);
+			background: var(--white);
+		}
+	}
+</style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const video = document.getElementById('hero-video') as HTMLVideoElement | null;
+		if (video) {
+			video.play().catch((err) => console.error('Video play error:', err));
+			video.addEventListener('error', (e) => {
+				console.error('Video error:', e);
+				console.error('Video error details:', video.error);
+			});
+		}
+	});
+</script>

@@ -2,8 +2,8 @@
 
 @layer page {
 	.PageSection {
-		--PageSection--color: black;
-		--PageSection--color-background: white;
+		--PageSection--color: var(--body-text);
+		--PageSection--color-background: var(--body-background);
 
 		background-color: var(--PageSection--color-background);
 		color: var(--PageSection--color);
@@ -51,7 +51,7 @@
 					position: relative;
 					z-index: 10;
 
-					> * + * {
+					>*+* {
 						margin-block-start: 1rem;
 					}
 				}

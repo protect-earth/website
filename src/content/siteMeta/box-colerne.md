@@ -9,3 +9,4 @@ images:
   - ../../assets/sites/box-colerne/2.jpg
   - ../../assets/sites/box-colerne/3.jpg
 ---
+

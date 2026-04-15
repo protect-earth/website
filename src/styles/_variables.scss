@@ -1,5 +1,6 @@
 $color--body: #101828;
-$color--text: black;
+$color--text: var(--body-text);
+$body-background: var(--body-background);
 
 $color--primary: hsla(16.28, 87.85%, 58.04%);
 $color--secondary: #ad0027;

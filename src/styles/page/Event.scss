@@ -1,0 +1,96 @@
+@use '../variables';
+
+@layer page {
+	.Event {
+		&__header {
+			background-image: linear-gradient(
+				oklch(0.21 0.034 264.665) 0%,
+				oklch(0.278 0.033 256.848) 100%
+			);
+			color: white;
+			padding-block: 6rem;
+			padding-inline: 1rem;
+
+			&Inner {
+				display: flex;
+				flex-direction: column;
+				justify-content: stretch;
+				margin-inline: auto;
+				max-width: 65ch;
+			}
+
+			@media screen and (min-width: 40rem) {
+				padding-inline: 1.5rem;
+			}
+
+			@media screen and (min-width: 64rem) {
+				padding-inline: 2rem;
+			}
+
+			a {
+				align-items: center;
+				// TODO !important
+				color: white !important;
+				display: flex;
+				gap: 0.5em;
+				margin-block-end: 1rem;
+				order: -1;
+				text-decoration: none;
+
+				&:hover {
+					color: variables.$color--link !important;
+					text-decoration: underline;
+				}
+			}
+		}
+
+		&__title {
+			font-size: 2.25rem;
+			font-weight: 700;
+			line-height: 2.5rem;
+			margin-bottom: 1.5rem;
+
+			@media screen and (min-width: 48rem) {
+				font-size: 3rem;
+				line-height: 1;
+			}
+		}
+
+		&__meta {
+			display: flex;
+			gap: 0.25em;
+			flex-flow: column;
+
+			a {
+				display: inline;
+			}
+
+			dl {
+				display: grid;
+				gap: 0.5em;
+				grid-template-columns: min-content 4fr;
+			}
+		}
+
+		&__content {
+			margin-block-start: 4rem;
+			margin-inline: auto;
+			max-inline-size: 65ch;
+			padding-block-end: 8rem;
+		}
+
+		&__imagegroup {
+			display: grid;
+			grid-template-columns: repeat(4, 1fr);
+			gap: 1rem;
+			@media screen and (max-width: 48rem) {
+				grid-template-columns: repeat(2, 1fr);
+			}
+
+			img {
+				margin: 0 !important;
+				aspect-ratio: 1/1;
+			}
+		}
+	}
+}

@@ -1,57 +1,88 @@
-<section class="PageSection GetInvolved">
-	<header class="PageSection__header" data-layout="full">
-		<h2 class="PageSection__title">Help Protect Earth - Take Action Now</h2>
+<section class="take-action">
+	<header class="wrap">
+		<h2>Help Protect Earth - Take Action Now</h2>
 	</header>
 
-	<div class="GetInvolved__methods">
-		<section class="GetInvolvedMethod" data-variant="volunteer">
+	<div class="wrap grid">
+		<section class="squircle">
 			<h3>Volunteer</h3>
-
-			<div>
-				<p>
-					Help us create and maintain new woodlands, hedgerows and wildflower meadows! We need
-					volunteers to sow seeds, plant saplings, clear invasive plant species and pick up litter.
-					No qualifications necessary; jobs for all ages and abilities. Come and turn climate
-					anxiety into climate action!
-				</p>
-			</div>
-
-			<div class="GetInvolvedMethod__actions">
-				<a class="block-link" href="/events">Upcoming Events</a>
+			<p>
+				Help us create and maintain new woodlands, hedgerows and wildflower meadows! We need
+				volunteers to sow seeds, plant saplings, clear invasive plant species and pick up litter. No
+				qualifications necessary; jobs for all ages and abilities. Come and turn climate anxiety
+				into climate action!
+			</p>
+			<div class="call-to-action">
+				<a class="button-ghost" href="/events">Upcoming Events</a>
 			</div>
 		</section>
 
-		<section class="GetInvolvedMethod" data-variant="funding">
+		<section class="squircle">
 			<h3>Fund Our Work</h3>
-
-			<div>
-				<p>
-					With government funding for reforestation and rewilding tenuous, we increasingly rely on
-					our amazing community to keep us growing regardless of political shifts. Help Protect
-					Earth continue to restore ecosystems and improve biodiversity across the country:
-				</p>
-			</div>
-
-			<div class="GetInvolvedMethod__actions">
-				<a class="block-link" href="/act-now/sponsor-trees">Sponsor Trees</a>
-				<a class="block-link" href="/act-now/general-donation">Donate</a>
+			<p>
+				With government funding for reforestation and rewilding tenuous, we increasingly rely on our
+				amazing community to keep us growing regardless of political shifts. Help Protect Earth
+				continue to restore ecosystems and improve biodiversity across the country.
+			</p>
+			<div class="call-to-action">
+				<a class="button-ghost" href="/act-now/sponsor-trees">Sponsor Trees</a>
+				<a class="button-ghost" href="/act-now/general-donation">Donate</a>
 			</div>
 		</section>
 
-		<section class="GetInvolvedMethod" data-variant="land-fund">
+		<section class="squircle">
 			<h3>Support the Land Fund</h3>
-
-			<div>
-				<p>
-					Help us put down roots! Your donations to our Land Fund let us seize the moment when the
-					perfect piece of land comes up for sale. Every penny helps us secure community woodlands,
-					healthier ecosystems, and a greener future for generations to come.
-				</p>
-			</div>
-
-			<div class="GetInvolvedMethod__actions">
-				<a class="block-link" href="/act-now/land-fund">Land Fund</a>
+			<p>
+				Help us put down roots! Your donations to our Land Fund let us seize the moment when the
+				perfect piece of land comes up for sale. Every penny helps us secure community woodlands,
+				healthier ecosystems, and a greener future for generations to come.
+			</p>
+			<div class="call-to-action">
+				<a class="button-ghost" href="/act-now/land-fund">Land Fund</a>
 			</div>
 		</section>
 	</div>
 </section>
+
+<style>
+	.take-action {
+		background-color: var(--take-action-background);
+		color: var(--offwhite);
+		padding-block: var(--space-xl);
+		clip-path: var(--wavy-line-top-bottom);
+
+		header {
+			padding-block-end: var(--space-xl);
+		}
+
+		> div section {
+			padding: var(--space-m);
+			background: var(--red-light);
+		}
+
+		.call-to-action {
+			display: flex;
+			flex-flow: column;
+			padding-block-start: var(--space-m);
+			gap: var(--space-s);
+		}
+
+		h2 {
+			font-size: var(--font-2xl);
+			text-align: center;
+		}
+
+		h3 {
+			font-size: var(--font-m);
+			margin-block-end: var(--space-s);
+		}
+
+		p {
+			font-size: var(--font-s);
+		}
+
+		a {
+			color: inherit;
+		}
+	}
+</style>
