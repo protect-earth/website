@@ -1,0 +1,43 @@
+.page-sections {
+	display: flex;
+	flex-flow: column;
+	gap: var(--space-xl);
+	padding-block: var(--space-xl);
+}
+
+.tags {
+	display: inline-flex;
+	gap: var(--space-3xs);
+	flex-wrap: wrap;
+}
+
+.tag {
+	border-radius: 500px;
+	padding-inline: var(--space-2xs);
+	font-size: var(--font-2xs);
+	background: var(--tag);
+	color: var(--tag-text);
+}
+
+.tag:has(svg) {
+	display: inline-flex;
+	gap: var(--space-3xs);
+}
+
+.meta.tags {
+	gap: var(--space-xs);
+}
+
+.meta>.tag {
+	padding: var(--space-2xs) var(--space-s);
+	font-size: var(--font-xs);
+}
+
+.prose {
+	max-inline-size: var(--measure);
+	font-size: var(--font-s);
+}
+
+.prose p:first-of-type {
+	font-size: var(--font-m);
+}

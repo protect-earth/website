@@ -8,6 +8,11 @@ import TakeAction from '../../components/TakeAction.astro';
 import { siteConfig } from '../../config';
 import { toKebabCase } from '../../helpers';
 import Layout from '../../layouts/Layout.astro';
+import MapPin from '../../assets/icons/map-pin.svg';
+import Tree from '../../assets/icons/tree-deciduous.svg';
+import PenField from '../../assets/icons/pen-field.svg';
+import Seedling from '../../assets/icons/seedling.svg';
+import Chart from '../../assets/icons/chart-fft.svg';
 
 export const prerender = true;
 
@@ -88,22 +93,22 @@ const species = apiData?.species || [];
 type FundingPartnerInfo = { src: string; alt: string; url: string };
 const fundingPartnerLogos = {
 	ecologi: {
-		src: '/logos/funding/ecologi.png',
+		src: '/logos/funding/ecologi-logo.png',
 		alt: 'Ecologi',
 		url: 'https://ecologi.com/',
 	},
 	'woodland-trust': {
-		src: '/logos/funding/woodland-trust.png',
+		src: '/logos/funding/woodland-trust-logo.png',
 		alt: 'Woodland Trust',
 		url: 'https://www.woodlandtrust.org.uk/',
 	},
 	reewild: {
-		src: '/logos/funding/reewild.png',
+		src: '/logos/funding/reewild-logo.png',
 		alt: 'Reewild',
 		url: 'https://www.reewild.co.uk/',
 	},
 	earthpoints: {
-		src: 'https://earthpoints.co.uk/wp-content/uploads/elementor/thumbs/earthpoints-logo-raqc5rj02uzbiv5arw3dkgg6s23ksaurwcha6ndgx4.jpg',
+		src: 'logos/funding/earthpoints-logo.png',
 		alt: 'Earthpoints',
 		url: 'https://earthpoints.co.uk/',
 	},
@@ -118,160 +123,225 @@ const fundingPartnerInfos = fundingPartners
 	<!-- Hero Section -->
 	<ContentHero imageAlt="" imgSrc={heroImage} title={siteName}>
 		<div>
-			{siteLocation && <p>📍 {siteLocation}</p>}
-			{treeCount > 0 && <p>🌳 {treeCount.toLocaleString()} trees planted</p>}
+			{
+				siteLocation && (
+					<p>
+						<MapPin height={24} width={24} /> {siteLocation}
+					</p>
+				)
+			}
+			{
+				treeCount > 0 && (
+					<p>
+						<Tree height={24} width={24} /> {treeCount.toLocaleString()} trees planted
+					</p>
+				)
+			}
 		</div>
 	</ContentHero>
 
-	<!-- Image Gallery -->
-	<ImageGallery images={images} siteName={siteName} />
+	<section class="page-sections wrap">
+		<!-- Image Gallery -->
+		<ImageGallery images={images} siteName={siteName} />
 
-	{
-		fundingPartnerInfos.length > 0 && (
-			<div class="PageSection">
-				<div class="PageSection__inner">
+		{
+			fundingPartnerInfos.length > 0 && (
+				<div class="intro">
 					{descriptionHtml && (
-						<div
-							class="prose readable-width inline-centered"
-							data-readable-width="larger"
-							set:html={descriptionHtml}
-						/>
+						<div class="stack prose" data-readable-width="larger" set:html={descriptionHtml} />
 					)}
 
-					<div class="SitePartners">
-						<h3 class="SitePartners__title">In partnership with</h3>
-						<ul class="SitePartners__list">
+					<div class="partnerships">
+						<h3>In partnership with</h3>
+
+						<div class="stack">
 							{fundingPartnerInfos.map((partnerInfo) => (
-								<li class="SitePartners__item">
-									<a href={partnerInfo.url} target="_blank" rel="noopener noreferrer">
-										<img src={partnerInfo.src} alt={partnerInfo.alt} />
-									</a>
-								</li>
+								<a
+									href={partnerInfo.url}
+									target="_blank"
+									rel="noopener noreferrer"
+									class="squircle"
+								>
+									<img src={partnerInfo.src} alt={partnerInfo.alt} />
+								</a>
 							))}
-						</ul>
+						</div>
 					</div>
 				</div>
-			</div>
-		)
-	}
+			)
+		}
 
-	<!-- Species Section -->
-	{
-		species.length > 0 && (
-			<section class="SiteTreeSpecies">
-				<div class="SiteTreeSpecies__inner">
-					<h2 class="SiteTreeSpecies__title">
-						<span>🌱</span>
-						Species Planted
+		<!-- Species Section -->
+		{
+			species.length > 0 && (
+				<section class="trees">
+					<h2>
+						<Tree height={36} width={36} /> Species Planted
 					</h2>
-					<ul class="SiteTreeSpecies__grid">
+					<ul class="grid">
 						{species.map((sp: any) => (
-							<li class="SiteTreeSpecies__tree">
+							<li>
 								<span>{sp.name}</span>
 							</li>
 						))}
 					</ul>
-				</div>
-			</section>
-		)
-	}
+				</section>
+			)
+		}
 
-	<!-- Site Updates Section -->
-	{
-		siteUpdates.length > 0 && (
-			<section class="PageSection SiteUpdates">
-				<header class="PageSection__header">
-					<h2 class="PageSection__title font-bold mb-8 text-gray-900">
-						<span aria-hidden>📝</span>
-						Site Updates
-					</h2>
-				</header>
-				<div class="PageSection__content SiteUpdates__feed space-y-6">
-					{siteUpdates.map(({ data, bodyHtml }) => (
-						<article class="SiteUpdate">
-							<header class="SiteUpdate__header">
-								<h3 class="SiteUpdate__title">
-									{data.date && (
-										<time datetime={data.date.toISOString()}>
-											{data.date.toLocaleDateString('en-GB', {
-												year: 'numeric',
-												month: 'long',
-											})}
-										</time>
-									)}
-								</h3>
-							</header>
+		<!-- Site Updates Section -->
+		{
+			siteUpdates.length > 0 && (
+				<section class="updates">
+					<header>
+						<h2>
+							<PenField height={36} width={36} />
+							Site Updates
+						</h2>
+					</header>
 
-							<dl class="SiteUpdate__meta">
-								{data.type && (
-									<>
-										<dt class="visually-hidden">Type</dt>
-										<dd class="SiteUpdate__tag" data-type="type">
+					<div class="updates-articles">
+						{siteUpdates.map(({ data, bodyHtml }) => (
+							<article class="update">
+								<header>
+									<h3>
+										{data.date && (
+											<time datetime={data.date.toISOString()}>
+												{data.date.toLocaleDateString('en-GB', {
+													year: 'numeric',
+													month: 'long',
+												})}
+											</time>
+										)}
+									</h3>
+								</header>
+
+								<ul class="meta tags">
+									{data.type && (
+										<li class="tag" data-type="type">
 											{data.type}
-										</dd>
-									</>
-								)}
-								{data.treesPlanted && (
-									<>
-										<dt class="visually-hidden">Trees planted</dt>
-										<dd class="SiteUpdate__tag" data-type="planted">
-											<span aria-hidden>🌳</span> {data.treesPlanted.toLocaleString()}&nbsp;
-											<span aria-hidden>trees planted</span>
-										</dd>
-									</>
-								)}
-								{data.treesRestocked && (
-									<>
-										<dt class="visually-hidden">Trees restocked</dt>
-										<dd class="SiteUpdate__tag" data-type="restocked">
-											<span aria-hidden>🌱</span> {data.treesRestocked.toLocaleString()}&nbsp;
-											<span aria-hidden>trees restocked</span>
-										</dd>
-									</>
-								)}
-								{data.survivalRate != null && (
-									<>
-										<dt class="visually-hidden">Survival rate</dt>
-										<dd class="SiteUpdate__tag" data-type="survival-rate">
-											<span aria-hidden>📊</span> {(data.survivalRate * 100).toFixed(0)}%&nbsp;
-											<span aria-hidden>survival rate</span>
-										</dd>
-									</>
-								)}
-							</dl>
+										</li>
+									)}
+									{data.treesPlanted && (
+										<li class="tag" data-type="planted">
+											<Tree height={18} width={18} /> {data.treesPlanted.toLocaleString()}
+											trees planted
+										</li>
+									)}
+									{data.treesRestocked && (
+										<li class="tag" data-type="restocked">
+											<Seedling height={18} width={18} /> {data.treesRestocked.toLocaleString()}
+											trees restocked
+										</li>
+									)}
+									{data.survivalRate != null && (
+										<li class="tag" data-type="survival-rate">
+											<Chart height={18} width={18} />
+											{(data.survivalRate * 100).toFixed(0)}% survival rate
+										</li>
+									)}
+								</ul>
 
-							{bodyHtml && <div class="SiteUpdate__body prose" set:html={bodyHtml} />}
+								{bodyHtml && <div class="stack prose" set:html={bodyHtml} />}
 
-							{data.photos && data.photos.length > 0 && (
-								<div class="SiteUpdate__photos">
-									{data.photos.map((photo: any) => (
-										<a href={photo.src} target="_blank" rel="noopener noreferrer" class="block">
-											<Image src={photo} alt={`Site update photo for ${siteName}`} loading="lazy" />
-										</a>
-									))}
-								</div>
-							)}
-						</article>
-					))}
-				</div>
-			</section>
-		)
-	}
+								{data.photos && data.photos.length > 0 && (
+									<div class="image-gallery grid">
+										{data.photos.map((photo: any) => (
+											<a href={photo.src} target="_blank" rel="noopener noreferrer" class="block">
+												<Image
+													src={photo}
+													alt={`Site update photo for ${siteName}`}
+													loading="lazy"
+												/>
+											</a>
+										))}
+									</div>
+								)}
+							</article>
+						))}
+					</div>
+				</section>
+			)
+		}
 
-	<!-- Map Section -->
-	{
-		coordinates && coordinates.latitude && coordinates.longitude && (
-			<section class="SiteLocation">
-				<div class="container inline-centered">
-					<h2 class="SiteLocation__title">Site Location</h2>
+		<!-- Map Section -->
+		{
+			coordinates && coordinates.latitude && coordinates.longitude && (
+				<section>
+					<h2>
+						<MapPin height={36} width={36} /> Site Location
+					</h2>
 					<div id="map" class="MapCanvas" />
-				</div>
-			</section>
-		)
-	}
+				</section>
+			)
+		}
+	</section>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	h2 {
+		font-size: var(--font-2xl);
+		margin-block-end: var(--space-s);
+	}
+
+	h3 {
+		font-size: var(--font-m);
+		margin-block-end: var(--space-s);
+	}
+
+	.partnerships img {
+		max-inline-size: 300px;
+	}
+
+	.intro {
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-2xl);
+	}
+
+	.updates-articles {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-xl);
+	}
+
+	.update {
+		background: var(--white);
+		padding: var(--space-m);
+		border-radius: var(--radius-m);
+		box-shadow: var(--shadow-lite);
+	}
+
+	.update:has(.image-gallery) .prose {
+		margin-block-end: var(--space-m);
+	}
+
+	.trees ul {
+		font-size: var(--font-m);
+		grid-template-columns: var(--grid-fill);
+	}
+
+	.trees li {
+		border: 2px solid var(--border-color);
+		padding: var(--space-2xs);
+		border-radius: var(--radius-s);
+	}
+
+	.meta {
+		margin-block-end: var(--space-m);
+	}
+
+	.update h3 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.image-gallery img {
+		border-radius: var(--radius-s);
+	}
+</style>
 
 <!-- Mapbox GL JS -->
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet" />

@@ -6,6 +6,8 @@ import { siteConfig } from '../../config';
 import { toKebabCase } from '../../helpers';
 import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import MapPin from '../../assets/icons/map-pin.svg';
+import NoImage from '../../assets/icons/image.svg';
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 
@@ -36,7 +38,6 @@ const sites = apiSites
 
 		return {
 			slug,
-
 			id: site.id,
 			name: site.name,
 			location: site.location,
@@ -64,35 +65,28 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 	</ContentHero>
 
 	<!-- Map Section -->
-	<figure class="SiteLocations">
-		<div class="SiteLocations__inner">
+	<section class="page-sections wrap">
+		<div class="map-box">
 			<div id="map" class="MapCanvas"></div>
 		</div>
-	</figure>
-
-	<!-- Sites Grid -->
-	<div class="PageSection">
-		<div class="PageSection__content">
+		<!-- Sites Grid -->
+		<div class="sites">
 			<!-- Filter Tags -->
 			{
 				allTags.length > 0 && (
-					<div class="SiteFilter">
-						<strong class="SiteFilter__title">Filter by type:</strong>
-						<menu class="SiteFilter__items">
-							<li class="SiteFilter__item">
-								<button type="button" class="SiteFilter__filter" data-tag="all" aria-pressed="true">
-									All Sites
-								</button>
-							</li>
+					<div class="filters">
+						<strong>Filter by type:</strong>
+						<nav>
+							<button type="button" class="button-filter" data-tag="all" aria-pressed="true">
+								All Sites
+							</button>
 							{allTags.map((tag) => (
-								<li class="SiteFilter__item">
-									<button class="SiteFilter__filter" data-tag={tag}>
-										{tag}
-									</button>
-								</li>
+								<button class="button-filter" data-tag={tag}>
+									{tag}
+								</button>
 							))}
-						</menu>
-						<p class="SiteFilter__results">
+						</nav>
+						<p class="results">
 							Showing{' '}
 							<span id="site-count">
 								{sites.length} {`site${sites.length !== 1 ? 's' : ''}`}
@@ -102,59 +96,151 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 				)
 			}
 
-			<div id="sites-grid" class="SiteGrid">
+			<div id="sites-grid" class="sites-grid">
 				{
 					sites.map((site: any) => (
-						<article class="Site" data-tags={JSON.stringify(site.tags)}>
-							<aside class="Site__thumbnail">
-								{site.localThumbnail ? (
-									<Image src={site.localThumbnail} alt="" width={600} height={338} loading="lazy" />
-								) : site.remoteThumbnail ? (
-									<img src={site.remoteThumbnail} alt="" loading="lazy" />
-								) : (
-									<svg fill="none" stroke="currentColor" viewBox="0 0 24 24">
-										<path
-											stroke-linecap="round"
-											stroke-linejoin="round"
-											stroke-width="2"
-											d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
+						<article class="card site-card" data-tags={JSON.stringify(site.tags)}>
+							<a href={`/sites/${site.slug}`}>
+								<figure>
+									{site.localThumbnail ? (
+										<Image
+											src={site.localThumbnail}
+											alt=""
+											width={600}
+											height={338}
+											loading="lazy"
 										/>
-									</svg>
-								)}
-							</aside>
-							<div class="Site__content">
-								<h2 class="Site__title">{site.name}</h2>
-
-								<dl class="Site__meta">
-									{site.location && (
-										<div class="Site__metaGroup Site__metaGroup--location">
-											<dt class="Site__metaTitle visually-hidden">Location</dt>
-											<dd class="Site__metaItem">📍 {site.location}</dd>
+									) : site.remoteThumbnail ? (
+										<img src={site.remoteThumbnail} alt="" loading="lazy" />
+									) : (
+										<div class="no-image">
+											<NoImage height={36} width={36} />
 										</div>
 									)}
-									{site.tags && site.tags.length > 0 && (
-										<div class="Site__metaGroup Site__metaGroup--tags">
-											<dt class="Site__metaTitle visually-hidden">Tags</dt>
-											{site.tags.map((tag: string) => (
-												<dd class="Site__metaItem Site__tag">{tag}</dd>
-											))}
-										</div>
-									)}
-								</dl>
+								</figure>
 
-								<a class="Site__link" href={`/sites/${site.slug}`}>
-									<span class="visually-hidden">Read more</span>
-								</a>
-							</div>
+								<div>
+									<h2>{site.name}</h2>
+
+									<ul class="meta">
+										{site.location && (
+											<li class="location">
+												<span class="visually-hidden">Location</span>
+												<MapPin height={14} width={14} color={'var(--red-light)'} /> {site.location}
+											</li>
+										)}
+										{site.tags && site.tags.length > 0 && (
+											<li class="tags">
+												{site.tags.map((tag: string) => (
+													<span class="tag">{tag}</span>
+												))}
+											</li>
+										)}
+									</ul>
+								</div>
+							</a>
 						</article>
 					))
 				}
 			</div>
 		</div>
-	</div>
+	</section>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	a {
+		color: var(--body-text);
+		text-decoration: none;
+	}
+
+	.button-filter {
+		appearance: none;
+		padding: var(--space-2xs) var(--space-xs);
+		background-color: var(--button-filter-background);
+		color: var(--button-filter-text);
+		border-radius: 500px;
+		border: 2px solid var(--button-filter-border);
+		font-size: var(--font-2xs);
+	}
+
+	.button-filter[aria-pressed='true'],
+	.button-filter:hover {
+		background-color: var(--button-filter-active);
+		border-color: transparent;
+		color: var(--button-filter-text-active);
+	}
+
+	.filters {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-s);
+		margin-block-end: var(--space-m);
+	}
+
+	.filters nav {
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-3xs);
+	}
+
+	.sites-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+		gap: var(--space-m);
+	}
+
+	.card {
+		background-color: var(--white);
+		border-radius: var(--radius-m);
+	}
+
+	.card a img {
+		transition: all var(--transition);
+	}
+
+	.card a:hover img {
+		transform: scale(102%);
+		filter: var(--hover-effect-filter);
+	}
+
+	figure {
+		aspect-ratio: 16/9;
+		overflow: hidden;
+		border-top-left-radius: var(--radius-m);
+		border-top-right-radius: var(--radius-m);
+	}
+
+	.no-image {
+		aspect-ratio: 16/9;
+		overflow: hidden;
+		background: var(--grey-light);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.card div {
+		padding: var(--space-2xs);
+		padding-block-end: var(--space-xs);
+	}
+
+	.location {
+		display: inline-flex;
+		gap: var(--space-3xs);
+	}
+
+	h2 {
+		margin-block-end: var(--space-s);
+	}
+
+	.meta {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-xs);
+	}
+</style>
 
 <!-- Mapbox GL JS -->
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet" />
@@ -196,8 +282,8 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 <script>
 	// Tag filtering functionality
 	document.addEventListener('DOMContentLoaded', () => {
-		const filterButtons = document.querySelectorAll('.SiteFilter__filter');
-		const siteCards = document.querySelectorAll('.Site');
+		const filterButtons = document.querySelectorAll('.button-filter');
+		const siteCards = document.querySelectorAll('.site-card');
 		const siteCountEl = document.getElementById('site-count');
 
 		let activeTag = 'all';
