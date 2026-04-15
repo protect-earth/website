@@ -7,7 +7,7 @@
 
 	/* @link https://utopia.fyi/type/calculator?c=360,18,1.2,1240,20,1.25,8,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
 	--font-2xs: clamp(0.7813rem, 0.7736rem + 0.0341vw, 0.8rem);
-	--font-x2: clamp(0.9375rem, 0.9119rem + 0.1136vw, 1rem);
+	--font-xs: clamp(0.9375rem, 0.9119rem + 0.1136vw, 1rem);
 	--font-s: clamp(1.125rem, 1.0739rem + 0.2273vw, 1.25rem);
 	--font-m: clamp(1.35rem, 1.2631rem + 0.3864vw, 1.5625rem);
 	--font-l: clamp(1.62rem, 1.4837rem + 0.6057vw, 1.9531rem);

@@ -67,7 +67,7 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 	<!-- Map Section -->
 	<section class="page-sections wrap">
 		<div class="map-box">
-			<div id="map" class="MapCanvas"></div>
+			<div id="map" class="map-canvas"></div>
 		</div>
 		<!-- Sites Grid -->
 		<div class="sites">
@@ -262,12 +262,12 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 			if (!site.coordinates || !site.coordinates.latitude || !site.coordinates.longitude) return;
 
 			const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(`
-				<div class="SiteMarkerInfo">
-					<h3 class="SiteMarkerInfo__title">${site.name}</h3>
-					${site.location ? `<p class="SiteMarkerInfo__location">${site.location}</p>` : ''}
-					${site.allocatedUnits > 0 ? `<p class="SiteMarkerInfo__units">${site.allocatedUnits.toLocaleString()} trees</p>` : ''}
-					<a href="/sites/${site.slug}" class="SiteMarkerInfo__link">
-						View Site →
+				<div class="site-marker-info">
+					<h3>${site.name}</h3>
+					${site.location ? `<p>${site.location}</p>` : ''}
+					${site.allocatedUnits > 0 ? `<p>${site.allocatedUnits.toLocaleString()} trees</p>` : ''}
+					<a href="/sites/${site.slug}">
+						View Site
 					</a>
 				</div>
 			`);

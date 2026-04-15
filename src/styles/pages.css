@@ -41,3 +41,31 @@
 .prose p:first-of-type {
 	font-size: var(--font-m);
 }
+
+/* MapBox */
+
+.map-canvas {
+	background: var(--white);
+	block-size: 400px;
+	border-radius: var(--radius-m);
+	box-shadow: var(--shadow-lite);
+	inline-size: 100%;
+}
+
+.site-marker-info {
+	padding: var(--space-3xs);
+	background: var(--white);
+	font-size: var(--font-2xs);
+	display: flex;
+	flex-flow: column;
+	gap: var(--space-3xs);
+}
+
+.site-marker-info h3 {
+	font-weight: 700;
+	font-size: var(--font-2xs);
+}
+
+.site-marker-info a {
+	color: var(--link);
+}
