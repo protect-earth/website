@@ -1,5 +1,9 @@
 ---
 import { Image } from 'astro:assets';
+import Magnify from '../assets/icons/magnifying-glass.svg';
+import Next from '../assets/icons/chevron-right.svg';
+import Prev from '../assets/icons/chevron-left.svg';
+import Close from '../assets/icons/xmark.svg';
 import type { ImageMetadata } from 'astro';
 
 interface Props {
@@ -16,63 +20,41 @@ if (!images || images.length === 0) {
 }
 ---
 
-<aside class="SiteImageGallery">
-	<div class="SiteImageGallery__inner inline-centered">
-		<div class="SiteImageGallery__items">
-			{
-				images.map((image, index) => (
-					<div class="SiteImageGallery__item" data-index={index}>
-						<Image
-							src={image}
-							alt={`${siteName} - Image ${index + 1}`}
-							loading="lazy"
-							class="SiteImageGallery__image"
-						/>
-						<div class="gallery-overlay">
-							<button
-								class="view-button"
-								data-image={imageUrls[index]}
-								data-index={index}
-								aria-label={`View image ${index + 1} in fullscreen`}
-							>
-								<svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-									<path
-										stroke-linecap="round"
-										stroke-linejoin="round"
-										stroke-width="2"
-										d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0zM10 7v3m0 0v3m0-3h3m-3 0H7"
-									/>
-								</svg>
-								<span class="visually-hidden">View image</span>
-							</button>
-						</div>
+<aside class="site-image-gallery">
+	<div class="grid image-gallery-grid">
+		{
+			images.map((image, index) => (
+				<div class="gallery-item" data-index={index}>
+					<Image src={image} alt={`${siteName} - Image ${index + 1}`} loading="lazy" />
+					<div class="gallery-overlay">
+						<button
+							class="view-button"
+							data-image={imageUrls[index]}
+							data-index={index}
+							aria-label={`View image ${index + 1} in fullscreen`}
+						>
+							<Magnify height={14} width={14} />
+							<span class="visually-hidden">View image</span>
+						</button>
 					</div>
-				))
-			}
-		</div>
+				</div>
+			))
+		}
 	</div>
 </aside>
 
 <!-- Lightbox Modal -->
 <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-hidden="true">
 	<button class="lightbox-close" aria-label="Close lightbox">
-		<svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-			<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"
-			></path>
-		</svg>
+		<Close height={14} width={14} />
 	</button>
 
 	<button class="lightbox-nav lightbox-prev" aria-label="Previous image">
-		<svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-			<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"
-			></path>
-		</svg>
+		<Prev height={14} width={14} />
 	</button>
 
 	<button class="lightbox-nav lightbox-next" aria-label="Next image">
-		<svg class="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-			<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
-		</svg>
+		<Next height={14} width={14} />
 	</button>
 
 	<div class="lightbox-content">
@@ -83,50 +65,58 @@ if (!images || images.length === 0) {
 	</div>
 </div>
 
-<style lang="scss">
-	@use '../styles/variables';
-
-	/* TODO Remove */
-	.h-8 {
-		height: 2rem;
-	}
-	.w-8 {
-		width: 2rem;
-	}
-	.h-10 {
-		height: 2.5rem;
-	}
-	.w-10 {
-		width: 2.5rem;
+<style>
+	.site-image-gallery {
+		background: var(--grey-light);
+		border-radius: var(--radius-m);
+		padding: var(--space-m);
 	}
 
-	/* TODO Formalise */
+	.grid {
+		grid-template-columns: var(--grid-fill-12rem);
+	}
+
+	.gallery-item {
+		position: relative;
+		aspect-ratio: 16/9;
+		overflow: hidden;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		border-radius: var(--radius-s);
+	}
+
+	.gallery-item img {
+		border-radius: var(--radius-s);
+		object-fit: cover;
+	}
+
 	.gallery-overlay {
 		position: absolute;
 		inset: 0;
-		background: rgba(0, 0, 0, 0.6);
+		background: var(--black-alpha-50);
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		opacity: 0;
-		transition: opacity 0.3s ease;
+		transition: opacity var(--transition);
 	}
 
-	.SiteImageGallery__item:hover .gallery-overlay {
+	.gallery-item:hover .gallery-overlay {
 		opacity: 1;
 	}
 
 	.view-button {
-		color: white;
-		background: rgba(34, 197, 94, 0.9);
-		padding: 1rem;
-		border-radius: 50%;
-		transition: all 0.2s ease;
-		border: 2px solid white;
+		color: var(--body-text-light);
+		background: var(--link);
+		padding: var(--space-2xs);
+		border-radius: 500px;
+		transition: all var(--transition);
+		border: 2px solid var(--border-color);
 	}
 
 	.view-button:hover {
-		background: rgba(22, 163, 74, 1);
+		background: var(--link-hover);
 		transform: scale(1.1);
 	}
 
@@ -134,13 +124,13 @@ if (!images || images.length === 0) {
 	.lightbox {
 		position: fixed;
 		inset: 0;
-		background: rgba(0, 0, 0, 0.95);
+		background: var(--black-alpha-90);
 		display: none;
 		align-items: center;
 		justify-content: center;
 		z-index: 9999;
 		opacity: 0;
-		transition: opacity 0.3s ease;
+		transition: opacity var(--transition);
 	}
 
 	.lightbox.active {
@@ -161,25 +151,24 @@ if (!images || images.length === 0) {
 		max-width: 100%;
 		max-height: 85vh;
 		object-fit: contain;
-		border-radius: 0.5rem;
-		box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.5);
+		border-radius: var(--radius-m);
+		box-shadow: 0 25px 50px -12px var(--black-alpha-50);
 	}
 
 	.lightbox-close {
 		position: absolute;
-		top: 1.5rem;
-		right: 1.5rem;
-		color: white;
-		background: rgba(0, 0, 0, 0.5);
-		padding: 0.75rem;
-		border-radius: 50%;
-		transition: all 0.2s ease;
+		top: var(--space-2xs);
+		right: var(--space-2xs);
+		color: var(--body-text-light);
+		background: var(--black-alpha-90);
+		padding: var(--space-xs);
+		border-radius: 500px;
+		transition: all var(--transition);
 		z-index: 10001;
 	}
 
 	.lightbox-close:hover {
-		background: rgba(220, 38, 38, 0.8);
-		transform: scale(1.1);
+		background: var(--link-hover);
 	}
 
 	.lightbox-nav {
@@ -187,35 +176,34 @@ if (!images || images.length === 0) {
 		top: 50%;
 		transform: translateY(-50%);
 		color: white;
-		background: rgba(0, 0, 0, 0.5);
-		padding: 1rem;
-		border-radius: 50%;
-		transition: all 0.2s ease;
+		background: var(--black-alpha-90);
+		padding: var(--space-xs);
+		border-radius: 500px;
+		transition: all var(--transition);
 		z-index: 10001;
 	}
 
 	.lightbox-nav:hover {
-		background: rgba(34, 197, 94, 0.8);
-		transform: translateY(-50%) scale(1.1);
+		background: var(--link-hover);
 	}
 
 	.lightbox-prev {
-		left: 1.5rem;
+		left: var(--space-xs);
 	}
 
 	.lightbox-next {
-		right: 1.5rem;
+		right: var(--space-xs);
 	}
 
 	.lightbox-counter {
-		margin-top: 1rem;
-		color: white;
-		font-size: variables.$text--md;
+		margin-top: var(--font-m);
+		color: var(--body-text-light);
+		font-size: var(--font-xs);
 		font-weight: 600;
 		text-align: center;
-		padding: 0.5rem 1rem;
-		background: rgba(0, 0, 0, 0.5);
-		border-radius: 0.5rem;
+		padding: var(--font-2xs) var(--font-xs);
+		background: var(--black-alpha-90);
+		border-radius: var(--radius-s);
 	}
 
 	@media (max-width: 640px) {
@@ -248,7 +236,7 @@ if (!images || images.length === 0) {
 	});
 
 	// Also allow clicking on the gallery item itself
-	document.querySelectorAll('.SiteImageGallery__item').forEach((item) => {
+	document.querySelectorAll('.gallery-item').forEach((item) => {
 		item.addEventListener('click', () => {
 			const index = parseInt(item.dataset.index);
 			openLightbox(index);
