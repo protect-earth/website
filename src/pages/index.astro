@@ -256,7 +256,7 @@ const latestPosts = (await getCollection('articles'))
 	}
 
 	.video-content {
-		color: var(--offwhite);
+		color: var(--body-text-light);
 		gap: var(--space-m);
 		padding-inline: var(--space-2xl);
 		display: grid;
@@ -321,7 +321,7 @@ const latestPosts = (await getCollection('articles'))
 
 	.get-started figure:hover {
 		transform: scale(102%);
-		filter: saturate(1.4) hue-rotate(2deg);
+		filter: var(--hover-effect-filter);
 	}
 
 	.get-started article {
@@ -350,7 +350,7 @@ const latestPosts = (await getCollection('articles'))
 	.stat {
 		padding: var(--space-m);
 		background: var(--purple-dark);
-		color: var(--offwhite);
+		color: var(--body-text-light);
 	}
 
 	.stat h3 {
@@ -365,7 +365,7 @@ const latestPosts = (await getCollection('articles'))
 	.latest-articles {
 		clip-path: var(--wavy-line-top-bottom);
 		background-color: var(--grey-light);
-		color: var(--black);
+		color: var(--body-text);
 
 		.articles-list {
 			grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
