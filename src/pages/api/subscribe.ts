@@ -3,9 +3,11 @@ import mailchimp from '@mailchimp/mailchimp_marketing';
 
 export const prerender = false;
 
-const audienceIds: Record<string, string | undefined> = {
-	general: import.meta.env.MAILCHIMP_AUDIENCE_ID_GENERAL,
-	volunteer: import.meta.env.MAILCHIMP_AUDIENCE_ID_VOLUNTEER,
+const audienceId = import.meta.env.MAILCHIMP_AUDIENCE_ID;
+
+const groupIds: Record<string, string | undefined> = {
+	general: import.meta.env.MAILCHIMP_GROUP_ID_GENERAL,
+	volunteer: import.meta.env.MAILCHIMP_GROUP_ID_VOLUNTEER,
 };
 
 mailchimp.setConfig({
@@ -44,8 +46,8 @@ export const POST: APIRoute = async ({ request }) => {
 			);
 		}
 
-		const audienceId = audienceIds[list];
-		if (!audienceId) {
+		const groupId = groupIds[list];
+		if (!audienceId || !groupId) {
 			return new Response(JSON.stringify({ success: false, message: 'Invalid mailing list.' }), {
 				status: 400,
 				headers: { 'Content-Type': 'application/json' },
@@ -62,6 +64,7 @@ export const POST: APIRoute = async ({ request }) => {
 			email_address: email,
 			status: 'pending',
 			merge_fields: mergeFields,
+			interests: { [groupId]: true },
 		});
 
 		return new Response(
