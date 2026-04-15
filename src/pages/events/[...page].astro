@@ -6,6 +6,7 @@ import EventSummary from '../../components/EventSummary.astro';
 import Pagination from '../../components/Pagination.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import ContentHero from '../../components/ContentHero.astro';
+import VolunteerSignup from '../../components/VolunteerSignup.astro';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const events = (await getCollection('events'))
@@ -35,6 +36,8 @@ const { page } = Astro.props as { page: Page };
 			{page.lastPage > 1 && <Pagination {...page} />}
 		</div>
 	</section>
+
+	<VolunteerSignup />
 
 	<TakeAction />
 </Layout>
