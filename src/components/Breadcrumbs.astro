@@ -1,4 +1,5 @@
 ---
+import ChevronRight from '../assets/icons/chevron-right.svg';
 const { pathname } = Astro.url;
 const paths = pathname.split('/').filter(Boolean);
 
@@ -26,38 +27,20 @@ paths.forEach((segment, index) => {
 
 {
 	breadcrumbs.length > 1 && (
-		<nav aria-label="Breadcrumb" class="Breadcrumb">
-			<div class="Breadcrumb__inner container">
-				<ol class="Breadcrumb__items">
-					{breadcrumbs.map((crumb, index) => (
-						<li class="Breadcrumb__item">
-							{index > 0 && (
-								<svg
-									aria-hidden="true"
-									class="Breadcrumb__separator"
-									fill="none"
-									stroke="currentColor"
-									viewBox="0 0 24 24"
-								>
-									<path
-										stroke-linecap="round"
-										stroke-linejoin="round"
-										stroke-width="2"
-										d="M9 5l7 7-7 7"
-									/>
-								</svg>
-							)}
-							<a
-								aria-current={index === breadcrumbs.length - 1 ? 'page' : undefined}
-								href={crumb.href}
-								class="Breadcrumb__link"
-							>
-								{crumb.label}
-							</a>
-						</li>
-					))}
-				</ol>
-			</div>
+		<nav aria-label="Breadcrumb" class="breadcrumbs wrap">
+			<ol>
+				{breadcrumbs.map((crumb, index) => (
+					<li>
+						{index > 0 && <ChevronRight height={14} width={14} aria-hidden="true" />}
+						<a
+							aria-current={index === breadcrumbs.length - 1 ? 'page' : undefined}
+							href={crumb.href}
+						>
+							{crumb.label}
+						</a>
+					</li>
+				))}
+			</ol>
 		</nav>
 	)
 }
