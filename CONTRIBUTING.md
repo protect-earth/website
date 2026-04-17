@@ -37,6 +37,13 @@ Run:
 pnpm build
 ```
 
+Also, please [lint](https://github.com/protect-earth/website?tab=readme-ov-file#linting) changes:
+
+```bash
+pnpm format:check
+pnpm format:write
+```
+
 If your change touches scripts, content models, or data flow, also verify relevant sync commands in [docs/scripts.md](docs/scripts.md).
 
 ## Content and Data Model Changes
