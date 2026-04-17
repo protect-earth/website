@@ -1,4 +1,5 @@
 import type { APIRoute } from 'astro';
+import { createHash } from 'node:crypto';
 import mailchimp from '@mailchimp/mailchimp_marketing';
 
 export const prerender = false;
@@ -60,32 +61,25 @@ export const POST: APIRoute = async ({ request }) => {
 		if (lastName) mergeFields.LNAME = lastName;
 		if (region) mergeFields.REGION = region;
 
-		await mailchimp.lists.addListMember(audienceId, {
+		const subscriberHash = createHash('md5').update(email.toLowerCase()).digest('hex');
+
+		const result: any = await mailchimp.lists.setListMember(audienceId, subscriberHash, {
 			email_address: email,
-			status: 'pending',
+			status_if_new: 'pending',
 			merge_fields: mergeFields,
 			interests: { [groupId]: true },
 		});
 
+		const message =
+			result.status === 'pending'
+				? 'Please check your email to confirm your subscription.'
+				: 'You are already subscribed to this list.';
+
 		return new Response(
-			JSON.stringify({
-				success: true,
-				message: 'Please check your email to confirm your subscription.',
-			}),
+			JSON.stringify({ success: true, message }),
 			{ status: 200, headers: { 'Content-Type': 'application/json' } },
 		);
 	} catch (error: any) {
-		// Mailchimp returns 400 with "Member Exists" when already subscribed
-		if (error?.status === 400 && error?.response?.body?.title === 'Member Exists') {
-			return new Response(
-				JSON.stringify({
-					success: true,
-					message: 'You are already subscribed to this list.',
-				}),
-				{ status: 200, headers: { 'Content-Type': 'application/json' } },
-			);
-		}
-
 		console.error('Mailchimp subscribe error:', error);
 
 		return new Response(
