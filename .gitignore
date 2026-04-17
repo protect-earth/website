@@ -26,4 +26,4 @@ pnpm-debug.log*
 .netlify
 
 # Editors
-.novain
+.nova
