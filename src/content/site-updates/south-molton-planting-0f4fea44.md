@@ -15,7 +15,5 @@ Collaborating with Protect Earth, their ambitious plan spans the next two years,
 
 This undertaking reflects a dedication to sustainable land management and signifies a harmonious coexistence between equestrian pursuits and the flourishing natural world.
 
-
-
 tCO2 after 50 years: 238
 Species planted: Hornbeam, Hazel, Common Oak, Goat Willow, Rowan, Alder, Downy Birch, Small-leaved Lime, Hawthorn, Aspen, Wild Cherry, Guilder Rose, Crab Apple, Blackthorn

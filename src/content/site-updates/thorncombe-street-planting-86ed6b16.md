@@ -11,8 +11,6 @@ Thorncombe Street is a beautiful Hamlet (confusingly!) close to Guildford. Prote
 
 After cutting a swathe through them, we were then able to plant some local variants of trees, ensuring a much wider variety in the immediate vicinity of the planting area. By creating these areas of diversity, it means that all manner of little critters and beasties are able to make their homes in and amongst the trees.
 
-
-
 Trees planted: 3000
 tCO2 after 50 years: 1020
 Species planted: Common Oak, Alder, Aspen, Wild Cherry, Rowan, Hornbeam, Silver Birch, Hazel, Beech, Guelder Rose, Hawthorn, Crab Apple, Alder Buckthorn, Blackthorn

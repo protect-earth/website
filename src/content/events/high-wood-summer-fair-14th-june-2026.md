@@ -9,7 +9,7 @@ map: https://maps.google.com/?q=Looe%20Mills%20Liskeard,%20England,%20PL14%204LA
 ics: https://www.protect.earth/events/high-wood-summer-fair-14th-june-2026?format=ical
 googleCal: https://www.google.com/calendar/event?action=TEMPLATE&text=High%20Wood%20Summer%20Fair&dates=20260614T100000Z/20260614T150000Z&location=Looe%20Mills%2C%20Liskeard%2C%20England%2C%20PL14%204LA%2C%20United%20Kingdom
 thumbnail: /events/highwood-cover.jpg
-eventBrite: https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-tickets-1986120946215?aff=oddtdtcreator&_gl=1*1fjubib*_up*MQ..*_ga*NTk2MjQ1ODU4LjE3NzQ2OTg2NTM.*_ga_TQVES5V6SH*czE3NzQ2OTg2NTEkbzEkZzAkdDE3NzQ2OTg2NTEkajYwJGwwJGgw
+eventbriteLink: https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-tickets-1986120946215?aff=oddtdtcreator&_gl=1*1fjubib*_up*MQ..*_ga*NTk2MjQ1ODU4LjE3NzQ2OTg2NTM.*_ga_TQVES5V6SH*czE3NzQ2OTg2NTEkbzEkZzAkdDE3NzQ2OTg2NTEkajYwJGwwJGgw
 ---
 
 # High Wood Summer Fair
@@ -53,10 +53,21 @@ Lots of activities for those interested in nature, the environment, history and 
 - Food by Oishibuns, Olive and Co. Café and Nanny Crumbs. 
 - Toilets are available.
 
-Site of the Summer Fair is here: [https://w3w.co/dignify.udder.capillary](https://w3w.co/dignify.udder.capillary), 50.462093, -4.49014, [https://maps.app.goo.gl/xFFf6j3D8pTzFjbx9]([https://maps.app.goo.gl/xFFf6j3D8pTzFjbx9])
+Site of the Summer Fair is here: 
+
+- What 3 Words: [///dignify.udder.capillary](https://w3w.co/dignify.udder.capillary)
+- Google Maps: <https://maps.app.goo.gl/xFFf6j3D8pTzFjbx9>
 
 Chat to members of the Protect Earth team to find out what our future plans are for High Wood, make your own suggestions, and maybe volunteer for our monthly work parties.
 
-Parking is limited at Looe Mills so please walk, cycle or take the bus if at all possible.  Entrance to the woods is here [https://w3w.co/louder.reactions.unites](https://w3w.co/louder.reactions.unites), 50.456595, -4.491764, [https://maps.app.goo.gl/1WSBUGtmkRR3Dv959](https://maps.app.goo.gl/1WSBUGtmkRR3Dv959)
+## Parking
 
-Blue badge holders may park onsite via the Venslooe Hill entrance. Wheelchair users may experience some difficulty as the track is uneven in places. Enter the woods here [https://w3w.co/product.ditching.stick](https://w3w.co/product.ditching.stick), 50.46681, -4.47920, [https://maps.app.goo.gl/hRB9SVC2dNr7j8FZ7](https://maps.app.goo.gl/hRB9SVC2dNr7j8FZ7)
+Parking is limited at Looe Mills so please walk, cycle or take the bus if at all possible. This entrance to the woods is here:
+
+- What 3 Words: [///louder.reactions.unites](https://w3w.co/louder.reactions.unites)
+- Google Maps: <https://maps.app.goo.gl/1WSBUGtmkRR3Dv959>
+
+**Blue badge holders** may park onsite via the Venslooe Hill entrance. Wheelchair users may experience some difficulty as the track is uneven in places. Enter the woods here: 
+
+- What 3 Words: [https://w3w.co/product.ditching.stick](///product.ditching.stick),
+- Google Maps: <https://maps.app.goo.gl/hRB9SVC2dNr7j8FZ7>

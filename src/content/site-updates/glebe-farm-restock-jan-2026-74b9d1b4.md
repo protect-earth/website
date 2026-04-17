@@ -20,7 +20,7 @@ photos:
   - "../../assets/site-updates/glebe-farm-restock-jan-2026-74b9d1b4/12.jpg"
 ---
 
-Despite the torrential rain the day before, the morning was quite splendid. A little chilly, but the lads were in high spirits as one of them was getting married, and this was part of his stag weekend! 
+Despite the torrential rain the day before, the morning was quite splendid. A little chilly, but the lads were in high spirits as one of them was getting married, and this was part of his stag weekend!
 
 The crew planted 225 replacement trees, and helped with general maintenance replacing missing guards or damaged guards.
 

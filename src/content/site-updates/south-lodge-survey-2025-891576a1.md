@@ -21,12 +21,12 @@ photos:
   - "../../assets/site-updates/south-lodge-survey-2025-891576a1/12.jpg"
 ---
 
-As part of our partnership with Exclusive Hotels, South Lodge recorded a lower than expected establishment rate, with an overall survival rate of approximately 55%.
+South Lodge had a rough start, with a survival rate of 56% by our first survey.
 
 The landowner reported that 1,075 trees were planted, with 488 losses, giving a calculated survival rate of 54.6%. Our own survey recorded a similar result at 56.4% live, based on sample plots ranging from 20 to 35 live trees per sample.
 
-Early maintenance issues were identified, including ineffective cardboard guards, which were later replaced by the site’s gardeners. A restock and further maintenance programme took place in autumn 2025, with the aim of increasing establishment towards the 80% target.
+Early maintenance issues were identified, including cardboard guards that had completely fallen apart (and some even being eaten by deer). These guards were later replaced with the plastic recyclable guards, which we don’t like using but are forced to as the alternatives do not work at all.
 
 Despite the establishment challenges, the site is already showing encouraging ecological activity. Observations included butterflies, bees, ladybirds, European hornets and a range of aquatic insects, indicating developing habitat value.
 
-The planting area sits adjacent to ancient woodland, so open space has been retained along the boundary to support natural regeneration. Significant numbers of Blackthorn were also included in the scheme as a key foodplant for the rare Brown Hairstreak Butterfly, which is known to occur in the wider area.
+The planting area sits adjacent to ancient woodland, so open space has been retained along the boundary to support natural regeneration. Significant numbers of Blackthorn were also included in the scheme as a key food-plant for the rare Brown Hairstreak Butterfly, which is known to occur in the wider area.

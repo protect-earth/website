@@ -18,6 +18,6 @@ photos:
   - "../../assets/site-updates/st-donats-castle-survey-2025-678b3c2a/9.jpg"
 ---
 
-We sampled 50 trees in the first planting zone, and the survival rate is 84%.  Anything that looked in serious distress was classified as dead, so the survival figure could be higher.  The dead saplings appeared to be ones that never established, i.e. no signs of growth.
+We sampled 50 trees in the first planting zone, and the survival rate is 84%.  Anything that looked in serious distress was classified as dead, so the survival figure could be higher.  The dead saplings appeared to be ones that never established, i.e. no signs of growth.
 
-The area is very dry as it is well-drained soil and we have had so little rain, but many species are doing well, particularly Oak, Dog Rose, Scots Pine, Cherry and Hawthorn.  Rowan is presenting with fewer green leaves.  - Landowner Quote: ‘Since the March inspection in 2024, there have been 25% losses… We had 12 days of rain in each of June and July, and have had rain on 4 days in August so far, albeit not large volumes.
+The area is very dry as it is well-drained soil and we have had so little rain, but many species are doing well, particularly Oak, Dog Rose, Scots Pine, Cherry and Hawthorn.  Rowan is presenting with fewer green leaves.  - Landowner Quote: ‘Since the March inspection in 2024, there have been 25% losses… We had 12 days of rain in each of June and July, and have had rain on 4 days in August so far, albeit not large volumes.

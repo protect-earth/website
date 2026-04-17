@@ -7,9 +7,4 @@ siteNotionId: "c6b4c439-42e2-49cc-b88e-80c1d0a2dc1c"
 treesPlanted: 210
 ---
 
-Hemyock was a smaller plot of land than we are used to planting at Protect Earth, but we are firm believers that, to steal a phrase from a popular supermarket, Every Little Helps. By planting these trees on this land, we are helping to encourage wildlife back to the area. Not only that, as the trees mature and grow, they’ll help stabilise the ground beneath them, suck up all that nasty CO2 in the air, and generally do great things. What more could you possibly ask for!
-
-
-
-tCO2 after 50 years: 59
-Species planted: Guelder Rose, Common Oak, Alder, Rowan, Wild Cherry, Hazel, Blackthorn
+Hemyock was a smaller plot of land than we are used to planting at Protect Earth, but we are firm believers that, to borrow a phrase from a popular supermarket, Every Little Helps. By planting these trees on this land, we are helping to encourage wildlife back to the area. Not only that, as the trees mature and grow, they’ll help stabilise the ground beneath them, suck up all that nasty CO2 in the air, and generally do great things. What more could you possibly ask for!

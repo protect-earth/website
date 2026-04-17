@@ -34,7 +34,7 @@ const events = defineCollection({
 		ics: z.string(),
 		googleCal: z.string(),
 		thumbnail: z.string().optional(),
-		eventBrite: z.string().optional(),
+		eventbriteLink: z.string().optional(),
 	}),
 });
 

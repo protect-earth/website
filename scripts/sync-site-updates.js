@@ -533,19 +533,21 @@ function normalizePageContent(content) {
 		return '';
 	}
 
-	return content
-		// Normalize line endings from Notion/API payloads first.
-		.replace(/\r\n?/g, '\n')
-		// Normalize non-breaking spaces that often appear from pasted Notion content.
-		.replace(/\u00a0/g, ' ')
-		// Remove trailing spaces/tabs on each line.
-		.replace(/[\t ]+$/gm, '')
-		// Collapse whitespace-only lines into plain blank lines.
-		.replace(/^[\t ]+$/gm, '')
-		// Prevent large runs of blank lines in the middle of content.
-		.replace(/\n{3,}/g, '\n\n')
-		// Remove leading/trailing whitespace/newlines for the full body.
-		.replace(/^[\t \n]+|[\t \n]+$/g, '');
+	return (
+		content
+			// Normalize line endings from Notion/API payloads first.
+			.replace(/\r\n?/g, '\n')
+			// Normalize non-breaking spaces that often appear from pasted Notion content.
+			.replace(/\u00a0/g, ' ')
+			// Remove trailing spaces/tabs on each line.
+			.replace(/[\t ]+$/gm, '')
+			// Collapse whitespace-only lines into plain blank lines.
+			.replace(/^[\t ]+$/gm, '')
+			// Prevent large runs of blank lines in the middle of content.
+			.replace(/\n{3,}/g, '\n\n')
+			// Remove leading/trailing whitespace/newlines for the full body.
+			.replace(/^[\t \n]+|[\t \n]+$/g, '')
+	);
 }
 
 async function listAllBlocks(blockId) {

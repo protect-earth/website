@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
-import { getEntry } from 'astro:content';
 import { render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -10,21 +10,26 @@ export async function getStaticPaths() {
 
 	return events.map((event) => ({
 		params: { slug: event.id },
-		data: { event },
+		props: { event },
 	}));
 }
-
-const { slug } = Astro.params;
-
-const event = await getEntry('events', slug);
-
-if (!event) {
-	return Astro.rewrite('/404');
-}
+const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
-	data: { description, title, startDate, endDate, address, map, ics, googleCal, eventBrite },
+	data: {
+		description,
+		title,
+		startDate,
+		endDate,
+		address,
+		map,
+		ics,
+		googleCal,
+		eventbriteLink,
+	},
 } = event;
+const startDateValue = startDate as Date | undefined;
+const endDateValue = endDate as Date | undefined;
 const { Content } = await render(event);
 ---
 
@@ -38,11 +43,11 @@ const { Content } = await render(event);
 				<div class="Event__meta">
 					<dl>
 						{
-							startDate && (
+							startDateValue && (
 								<dt>Starts</dt>
 								<dd>
-									<time datetime={startDate.toISOString()}>
-										{startDate.toLocaleString('en-GB', {
+									<time datetime={startDateValue.toISOString()}>
+										{startDateValue.toLocaleString('en-GB', {
 											day: 'numeric',
 											month: 'long',
 											year: 'numeric',
@@ -52,11 +57,11 @@ const { Content } = await render(event);
 							)
 						}
 						{
-							endDate && (
+							endDateValue && (
 								<dt>Ends</dt>
 								<dd>
-									<time datetime={endDate.toISOString()}>
-										{endDate.toLocaleDateString('en-GB', {
+									<time datetime={endDateValue.toISOString()}>
+										{endDateValue.toLocaleDateString('en-GB', {
 											day: 'numeric',
 											month: 'long',
 											year: 'numeric',
@@ -68,19 +73,19 @@ const { Content } = await render(event);
 
 						<dt>Time</dt>
 						<dd>
-							{startDate && (
+							{startDateValue && (
 								<time>
-								{startDate.toLocaleTimeString('en-GB', {
+								{startDateValue.toLocaleTimeString('en-GB', {
 									hour: '2-digit',
 									minute: '2-digit',
 								})}
 								</time>
 							)}
 
-							{startDate && endDate && <>&mdash;</>}
+							{startDateValue && endDateValue && <>&mdash;</>}
 
-							{endDate && (<time>
-								{endDate.toLocaleTimeString('en-GB', {
+							{endDateValue && (<time>
+								{endDateValue.toLocaleTimeString('en-GB', {
 									hour: '2-digit',
 									minute: '2-digit',
 								})}
@@ -110,9 +115,11 @@ const { Content } = await render(event);
 		<div class="Event__content prose">
 			<Content />
 
-		{eventBrite && (
-			<a href={eventBrite} class="block-link">Let us know you are coming</a>
-		)}
+			{eventbriteLink && (
+				<a href={eventbriteLink} class="block-link" target="_blank" rel="noopener noreferrer">
+					Sign up to volunteer
+				</a>
+			)}
 		</div>
 
 		<TakeAction />

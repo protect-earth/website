@@ -37,8 +37,6 @@ Blackthorn, Hazel, Holly, and Dog Rose all sourced from tree seeds of local
 
 provenance.
 
-
-
 tCO2 after 50 years: 187
 Species planted: Sessile Oak, Rowan, Bird Cherry, Crab Apple,
 Blackthorn, Hazel, Holly, and Dog Rose
