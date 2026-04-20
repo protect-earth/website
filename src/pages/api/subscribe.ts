@@ -40,13 +40,6 @@ export const POST: APIRoute = async ({ request }) => {
 			);
 		}
 
-		if (list === 'volunteer' && !region) {
-			return new Response(
-				JSON.stringify({ success: false, message: 'Please select your region.' }),
-				{ status: 400, headers: { 'Content-Type': 'application/json' } },
-			);
-		}
-
 		const groupId = groupIds[list];
 		if (!audienceId || !groupId) {
 			return new Response(JSON.stringify({ success: false, message: 'Invalid mailing list.' }), {
