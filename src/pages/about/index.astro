@@ -1,35 +1,39 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContentHero from '../../components/ContentHero.astro';
+import SectionCard from '../../components/SectionCard.astro';
 ---
 
 <Layout title="About">
-	<div class="SectionIndex">
-		<header class="SectionIndex__header">
-			<div class="container inline-centered">
-				<h1 class="SectionIndex__title">About Protect Earth</h1>
-				<p>Our mission and values</p>
-			</div>
-		</header>
+	<ContentHero
+		imgSrc="/hero-press.jpg"
+		imgAlt="Forest path through pine trees"
+		title="About Protect Earth"
+	>
+		<p>Our mission and values</p>
+	</ContentHero>
 
-		<nav>
-			<div class="container inline-centered">
-				<div class="SectionIndex__grid">
-					<a href="/about/our-purpose">
-						<strong>Our Purpose</strong>
-						<span>Our mission and what drives us</span>
-					</a>
-
-					<a href="/about/meet-the-team">
-						<strong>Meet the Team</strong>
-						<span>The people behind Protect Earth</span>
-					</a>
-
-					<a href="/about/in-the-press">
-						<strong>In the Press</strong>
-						<span>Media coverage and press releases</span>
-					</a>
-				</div>
-			</div>
-		</nav>
-	</div>
+	<section class="PageSection">
+		<div class="PageSection__content">
+			<nav aria-label="About sections">
+				<ul class="SectionCards">
+					<SectionCard
+						href="/about/our-purpose"
+						title="Our Purpose"
+						description="Our mission and what drives us"
+					/>
+					<SectionCard
+						href="/about/meet-the-team"
+						title="Meet the Team"
+						description="The people behind Protect Earth"
+					/>
+					<SectionCard
+						href="/about/in-the-press"
+						title="In the Press"
+						description="Media coverage and press releases"
+					/>
+				</ul>
+			</nav>
+		</div>
+	</section>
 </Layout>
