@@ -118,6 +118,8 @@
 
 	--border-color: var(--grey-light);
 
+	--placeholder: var(--grey);
+
 	/* Component Colours */
 	--take-action-background: var(--red-dark);
 	--content-hero: var(--black);
@@ -312,6 +314,7 @@ Breakpoints
 
 1040px
 844px
+740px -- where the nav breaks
 540px
 380px
 */

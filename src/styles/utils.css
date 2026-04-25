@@ -41,3 +41,24 @@
 	gap: var(--space-m);
 	grid-template-columns: var(--grid-fit);
 }
+
+.no-focus-visually-hidden {
+	clip-path: inset(50%) !important;
+	height: 1px !important;
+	width: 1px !important;
+	overflow: hidden !important;
+	position: absolute !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+	user-select: none !important;
+}
+
+.visually-hidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}

@@ -1,0 +1,138 @@
+.site-header {
+	display: flex;
+	gap: var(--space-m);
+	padding-block: var(--space-m);
+	align-items: center;
+	position: relative;
+
+	@media screen and (max-width: 1040px) {
+		flex-flow: column;
+	}
+
+	@media screen and (max-width: 740px) {
+		flex-flow: row;
+	}
+}
+
+.site-header .logo {
+	max-inline-size: 14rem;
+}
+
+.site-nav {
+	flex: 1;
+	align-self: flex-end;
+
+	@media screen and (max-width: 1040px) {
+		align-self: center;
+	}
+
+	@media screen and (max-width: 740px) {
+		align-self: flex-start;
+	}
+}
+
+.nav-items {
+	display: flex;
+	font-size: var(--font-s);
+	gap: var(--space-s);
+	justify-content: flex-end;
+
+	@media screen and (max-width: 740px) {
+		display: none;
+		background: var(--body-background);
+		position: absolute;
+		top: 120px;
+		left: 0;
+		flex-flow: column;
+		width: 100vw;
+		z-index: 11;
+		gap: var(--space-2xs);
+		padding-block-end: var(--space-m);
+	}
+}
+
+@media screen and (max-width: 740px) {
+	.nav-items li {
+		padding-inline: var(--space-m);
+		white-space: nowrap;
+	}
+}
+
+@media screen and (min-width: 740px) {
+	.nav-items>li {
+		position: relative;
+		white-space: nowrap;
+	}
+
+	.nav-items li>a {
+		color: var(--body-text);
+		text-decoration: none;
+	}
+
+	.nav-items li>a:hover {
+		color: var(--link);
+	}
+
+	.nav-items li>a[aria-current='page'] {
+		color: var(--link);
+		text-decoration: underline;
+		text-decoration-color: var(--link);
+		text-decoration-thickness: 2px;
+	}
+
+	.sub-nav-items {
+		display: none;
+		flex-flow: column;
+		position: absolute;
+		background: var(--body-background);
+		z-index: 11;
+		box-shadow: var(--shadow);
+		border-radius: var(--radius-m);
+		overflow: hidden;
+	}
+
+	.sub-nav-items li {
+		display: flex;
+		white-space: nowrap;
+		background: var(--link);
+	}
+
+	.sub-nav-items li a {
+		padding: var(--space-2xs) var(--space-xs);
+		color: var(--body-text-light);
+	}
+
+	.sub-nav-items li:hover {
+		background: var(--link-hover);
+	}
+
+	.sub-nav-items li:hover a {
+		color: var(--body-text-light);
+	}
+
+	.nav-items li:hover>.sub-nav-items {
+		display: flex;
+	}
+}
+
+// Nav trigger
+
+.site-nav-trigger {
+	position: absolute;
+	top: 50%;
+	right: var(--space-m);
+	margin: 0;
+	transform: translateY(-50%);
+}
+
+@media screen and (max-width: 740px) {
+	.site-nav-trigger:has(.navigation-toggle:checked) {
+		+.nav-items {
+			display: flex;
+		}
+	}
+}
+
+html:has(.navigation-toggle:checked) {
+	overflow-y: hidden;
+}

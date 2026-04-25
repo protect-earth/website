@@ -1,17 +1,15 @@
 ---
-// Supports weights 100-900
 import '@fontsource-variable/lexend/wght.css';
 import '../styles/global.scss';
 import '../styles/global.css';
 
+import Head from '../components/Head.astro';
 import Navigation from '../components/Navigation.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import PageHeader from '../components/PageHeader.astro';
 import Footer from '../components/Footer.astro';
 import { siteConfig } from '../config';
-
-const { charityNumber, contact, social } = siteConfig;
-const copyrightYear = new Date().getFullYear();
+const { tagline } = siteConfig;
 
 interface Props {
 	title: string;
@@ -20,35 +18,23 @@ interface Props {
 	className?: string;
 }
 
-const {
-	title,
-	description = 'Creating and restoring ecosystems in the UK',
-	breadcrumb = '',
-	className = '',
-} = Astro.props;
+const { title, description = tagline, breadcrumb = '', className = '' } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>{title} | Protect Earth</title>
-
-		<link rel="canonical" href="https://protect.earth" />
-		<link rel="icon" type="image/png" href="/favicon.png" />
-		<meta name="description" content={description} />
-		<meta name="color-scheme" content="light only" />
-		<meta name="theme-color" content="#000000" />
+		<Head title={title} description={description} />
 	</head>
-	<body>
+	<body class={className}>
 		<PageHeader>
 			<Navigation />
 		</PageHeader>
 
 		<Breadcrumbs activeLabel={breadcrumb} />
 
-		<main id="content" class={className}>
+		<main id="content">
 			<slot />
 		</main>
 
