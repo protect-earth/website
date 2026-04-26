@@ -1,35 +1,39 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ContentHero from '../../components/ContentHero.astro';
+import SectionCard from '../../components/SectionCard.astro';
 ---
 
 <Layout title="Act Now">
-	<div class="SectionIndex">
-		<header class="SectionIndex__header">
-			<div class="container inline-centered">
-				<h1 class="SectionIndex__title">Act Now</h1>
-				<p>Take action to protect the Earth</p>
-			</div>
-		</header>
+	<ContentHero
+		imgSrc="/hero-donate.jpg"
+		imgAlt="Group of people planting young trees in a row in a field"
+		title="Act Now"
+	>
+		<p>Take action to protect the Earth</p>
+	</ContentHero>
 
-		<nav>
-			<div class="container inline-centered">
-				<div class="SectionIndex__grid">
-					<a href="/act-now/sponsor-trees">
-						<strong>Sponsor Trees</strong>
-						<span>Fund tree planting and maintenance</span>
-					</a>
-
-					<a href="/act-now/general-donation">
-						<strong>General Donation</strong>
-						<span>Support our work</span>
-					</a>
-
-					<a href="/act-now/land-fund">
-						<strong>Land Fund</strong>
-						<span>Help us acquire land for conservation</span>
-					</a>
-				</div>
-			</div>
-		</nav>
-	</div>
+	<section class="PageSection">
+		<div class="PageSection__content">
+			<nav aria-label="Ways to take action">
+				<ul class="SectionCards">
+					<SectionCard
+						href="/act-now/sponsor-trees"
+						title="Sponsor Trees"
+						description="Fund tree planting and maintenance"
+					/>
+					<SectionCard
+						href="/act-now/general-donation"
+						title="General Donation"
+						description="Support our work"
+					/>
+					<SectionCard
+						href="/act-now/land-fund"
+						title="Land Fund"
+						description="Help us acquire land for conservation"
+					/>
+				</ul>
+			</nav>
+		</div>
+	</section>
 </Layout>
