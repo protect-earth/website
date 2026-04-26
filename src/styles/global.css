@@ -52,6 +52,7 @@ input[type='button'],
 input[type='submit'],
 input[type='reset'] {
 	all: unset;
+	cursor: pointer;
 }
 
 .button {
@@ -67,6 +68,7 @@ input[type='reset'] {
 	transition: all var(--trans-time) ease-in-out;
 	justify-content: center;
 	color: var(--button-text) !important;
+	align-items: center;
 
 	&:hover {
 		background: var(--button-hover);

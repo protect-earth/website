@@ -33,26 +33,20 @@
 	}
 }
 
-// Nav toggle
-
 .nav-toggle {
-	display: none !important;
-	height: 1px;
-	width: 1px;
-}
+	display: none;
 
-.nav-toggle svg {
-	color: var(--nav-link);
+	svg {
+		color: var(--nav-link);
+	}
 }
 
 @media screen and (max-width: 740px) {
 	.nav-toggle {
 		display: block;
 		position: absolute;
-		top: 50%;
+		top: 80px;
 		right: var(--space-m);
-		margin: 0;
-		transform: translateY(-50%);
 
 		#menu-bars {
 			display: block;

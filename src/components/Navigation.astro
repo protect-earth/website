@@ -7,16 +7,12 @@ const [topLevel, secondLevel] = paths;
 ---
 
 <nav class="site-nav">
-	<label class="site-nav-trigger" for="navigation-toggle">
-		<span class="visually-hidden">Menu</span>
-		<input
-			class="navigation-toggle no-focus-visually-hidden"
-			type="checkbox"
-			id="navigation-toggle"
-		/>
+	<button aria-controls="#nav-menu" class="nav-toggle" id="nav-toggle">
+		<span class="visually-hidden">Open menu</span>
 		<Menu width={36} height={36} />
-	</label>
-	<ul class="nav-items">
+	</button>
+
+	<ul class="nav-menu" id="nav-menu">
 		<li>
 			<a href="/" aria-current={topLevel === '' ? 'page' : undefined}> Home </a>
 		</li>
@@ -123,3 +119,13 @@ const [topLevel, secondLevel] = paths;
 		</li>
 	</ul>
 </nav>
+
+<script>
+	const navToggle = document.getElementById('nav-toggle') as HTMLElement;
+	const navMenu = document.getElementById('nav-menu') as HTMLElement;
+
+	navToggle?.addEventListener('click', () => {
+		navToggle.classList.toggle('nav-active');
+		navMenu?.classList.toggle('menu-open');
+	});
+</script>
