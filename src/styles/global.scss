@@ -6,21 +6,14 @@
 
 @import url('./page/ContentHero.scss');
 @import url('./page/ContentBlock.scss');
-@import url('./page/PageHeader.scss');
 @import url('./page/PageSection.scss');
 @import url('./page/Post.scss');
 @import url('./page/Event.scss');
-@import url('./page/Footer.scss');
-
 @import url('./page/SectionIndex.scss');
-
-@import url('./components/Achievements.scss');
 @import url('./components/Article.scss');
-@import url('./components/Breadcrumb.scss');
 @import url('./components/GetInvolved.scss');
 @import url('./components/GetStarted.scss');
 @import url('./components/LogoList.scss');
-@import url('./components/Navigation.scss');
 @import url('./components/Pagination.scss');
 @import url('./components/PressArticles.scss');
 @import url('./components/Site.scss');
@@ -139,11 +132,11 @@
 	fieldset {
 		border: none;
 
-		> * + * {
+		>*+* {
 			margin-block-start: 1rem;
 		}
 
-		.stacked-options > * + * {
+		.stacked-options>*+* {
 			display: block;
 			margin-block-start: 0.5rem;
 		}
