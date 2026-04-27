@@ -1,6 +1,7 @@
 ---
 import type { HTMLTag, Polymorphic } from 'astro/types';
 import { Image } from 'astro:assets';
+import NoImage from './../assets/icons/image.svg';
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
 const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = Astro.props;
@@ -9,7 +10,18 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 <article class="article stack">
 	<figure>
 		<a href={`/articles/${slug}`}>
-			{thumbnail && <Image src={thumbnail} alt={title} width={600} height={400} />}
+			{
+				thumbnail ? (
+					<Image src={thumbnail} alt={title}
+						width={600}
+						height={400}
+						loading="lazy"} />
+				) : (
+					<div class="no-image">
+						<NoImage height={36} width={36} />
+					</div>
+				)
+			}
 		</a>
 	</figure>
 
@@ -45,9 +57,26 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 	figure {
 		aspect-ratio: 3/2;
 		overflow: hidden;
-		max-inline-size: 24rem;
-		background: var(--grey);
+		background: var(--grey-light);
 		border-radius: var(--radius-m);
+	}
+
+	figure img {
+		transition: all var(--transition);
+	}
+
+	figure:hover img {
+		transform: scale(102%);
+		filter: var(--hover-effect-filter);
+	}
+
+	.no-image {
+		aspect-ratio: 3/2;
+		overflow: hidden;
+		background: var(--grey-light);
+		display: flex;
+		align-items: center;
+		justify-content: center;
 	}
 
 	.desc {
