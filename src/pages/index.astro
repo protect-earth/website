@@ -1,10 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { siteConfig } from '../config';
 import { getCollection } from 'astro:content';
 import TakeAction from '../components/TakeAction.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import ArticleSummary from '../components/ArticleSummary.astro';
+import Achievments from '../components/Achievements.astro';
 import { Image } from 'astro:assets';
 import ArrowRight from '../assets/icons/arrow-right.svg';
 
@@ -123,29 +123,7 @@ const latestPosts = (await getCollection('articles'))
 		</article>
 	</section>
 
-	<section class="achievements wrap">
-		<h2>Our Achievements</h2>
-		<div class="grid">
-			<div class="stat squircle">
-				<h3>
-					{siteConfig.achievements.treesPlanted.toLocaleString()}
-				</h3>
-				<span>Trees planted</span>
-			</div>
-			<div class="stat squircle">
-				<h3>
-					{siteConfig.achievements.acresRestored.toLocaleString()}
-				</h3>
-				<span>Acres restored</span>
-			</div>
-			<div class="stat squircle">
-				<h3>
-					{siteConfig.achievements.acresUnderManagement.toLocaleString()}
-				</h3>
-				<span>Acres under direct management</span>
-			</div>
-		</div>
-	</section>
+	<Achievments />
 
 	<section class="latest-articles">
 		<header class="wrap">
@@ -350,21 +328,6 @@ const latestPosts = (await getCollection('articles'))
 
 	.get-started .button {
 		color: var(--black);
-	}
-
-	.stat {
-		padding: var(--space-m);
-		background: var(--purple-dark);
-		color: var(--body-text-light);
-	}
-
-	.stat h3 {
-		font-size: var(--font-3xl);
-		margin-block-end: var(--space-2xs);
-	}
-
-	.stat span {
-		font-size: var(--font-xs);
 	}
 
 	.latest-articles {
