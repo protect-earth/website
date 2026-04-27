@@ -1,14 +1,12 @@
 /* Forms, Inputs and Button */
 
 textarea,
-input:not(
-	button,
+input:not(button,
 	[type='button'],
 	[type='sumbit'],
 	[type='reset'],
 	[type='checkbox'],
-	[type='radio']
-) {
+	[type='radio']) {
 	appearance: none;
 	border: 2px solid var(--border-color);
 	padding: var(--space-2xs);
@@ -34,6 +32,7 @@ input[type='submit'],
 input[type='reset'] {
 	all: unset;
 	cursor: pointer;
+	color: currentcolor;
 }
 
 .button,
@@ -51,7 +50,7 @@ input[type='reset'] {
 	text-align: center;
 	transition: all var(--transition);
 	justify-content: center;
-	color: var(--button-text) !important;
+	color: var(--button-text);
 
 	&:hover {
 		background: var(--button-hover);
