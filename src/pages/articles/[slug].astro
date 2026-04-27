@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import { Image } from 'astro:assets';
 import { getEntry } from 'astro:content';
 import { render } from 'astro:content';
 
@@ -24,21 +25,20 @@ if (!article) {
 }
 
 const {
-	data: { author, description, pubDate, title },
+	data: { author, description, pubDate, title, thumbnail },
 } = article;
 const { Content } = await render(article);
 ---
 
 <Layout {title} {description} breadcrumb={title}>
 	<!-- Hero Section -->
-	<div class="Post">
-		<header class="Post__header">
-			<div class="Post__headerInner">
-				<h1 class="Post__title">{title}</h1>
-
-				<dl class="Post__meta">
-					<dt class="Post__metaTitle">Posted at</dt>
-					<dd class="Post__metaValue">
+	<article class="post">
+		<header>
+			<h1>{title}</h1>
+			<div class="wrap">
+				<dl class="meta">
+					<dt class="visually-hidden">Posted at</dt>
+					<dd>
 						<time datetime={pubDate.toISOString()}>
 							{
 								pubDate.toLocaleDateString('en-GB', {
@@ -49,31 +49,77 @@ const { Content } = await render(article);
 							}
 						</time>
 					</dd>
-					<dt class="Post__metaTitle"><span class="visually-hidden">Posted </span>By</dt>
-					<dd class="Post__metaValue">{author}</dd>
+					<dt class="visually-hidden">Posted By</dt>
+					<dd>{author}</dd>
 				</dl>
-
-				<a href="/articles">
-					<svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-						<path
-							stroke-linecap="round"
-							stroke-linejoin="round"
-							stroke-width="2"
-							d="M15 19l-7-7 7-7"
-						>
-						</path>
-					</svg>
-					Back to Articles
-				</a>
 			</div>
+
+			{
+				thumbnail && (
+					<div class="background-canvas">
+						<Image src={thumbnail} loading="eager" alt={title} />
+					</div>
+				)
+			}
 		</header>
 
-		<div class="Post__content prose">
-			<Content />
+		<div class="wrap">
+			<div class="prose stack">
+				<Content />
+			</div>
 		</div>
-	</div>
+	</article>
 
 	<NewsletterSignup />
 
 	<TakeAction />
 </Layout>
+
+<style>
+	header {
+		background: var(--content-hero);
+		color: var(--body-text-light);
+		clip-path: var(--wavy-line-top-bottom);
+		position: relative;
+		padding-block: var(--space-3xl);
+		overflow: hidden;
+	}
+
+	.wrap {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	h1 {
+		font-size: var(--font-2xl);
+		margin-block-end: var(--space-s);
+		text-align: center;
+	}
+
+	.background-canvas {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: -1;
+
+		img {
+			block-size: 100%;
+			inline-size: 100%;
+			object-fit: cover;
+			filter: opacity(0.5) grayscale(1);
+		}
+	}
+
+	.prose {
+		margin: auto;
+		margin-block: var(--space-2xl);
+	}
+
+	.meta {
+		display: flex;
+		gap: var(--space-xs);
+	}
+</style>
