@@ -1,0 +1,106 @@
+---
+import { siteConfig } from '../config';
+---
+
+<section class="achievements wrap">
+	<h2>Our Achievements</h2>
+	<div class="grid">
+		<div class="stat stat-trees squircle">
+			<h3>
+				{siteConfig.achievements.treesPlanted}
+			</h3>
+			<span>Trees planted</span>
+		</div>
+		<div class="stat stat-restored squircle">
+			<h3>
+				{siteConfig.achievements.acresRestored}
+			</h3>
+			<span>Acres restored</span>
+		</div>
+		<div class="stat stat-management squircle">
+			<h3>
+				{siteConfig.achievements.acresUnderManagement}
+			</h3>
+			<span>Acres under direct management</span>
+		</div>
+	</div>
+</section>
+
+<style>
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	section {
+		padding-block: var(--space-xl);
+	}
+
+	.stat {
+		padding: var(--space-m);
+		background: var(--purple-dark);
+		color: var(--body-text-light);
+	}
+
+	.stat h3 {
+		font-size: var(--font-3xl);
+		margin-block-end: var(--space-2xs);
+	}
+
+	.stat span {
+		font-size: var(--font-xs);
+	}
+</style>
+
+<script>
+	import { gsap } from 'gsap';
+	import { SplitText } from 'gsap/SplitText';
+	import { TextPlugin } from 'gsap/TextPlugin';
+	import { ScrollTrigger } from 'gsap/ScrollTrigger';
+	gsap.registerPlugin(ScrollTrigger, SplitText, TextPlugin);
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const trees = document.querySelector('.stat-trees h3') as HTMLElement;
+		const restored = document.querySelector('.stat-restored h3') as HTMLElement;
+		const management = document.querySelector('.stat-management h3') as HTMLElement;
+
+		let tl = gsap.timeline({
+			paused: true,
+			defaults: { duration: 3, textContent: 0 },
+			scrollTrigger: {
+				trigger: '.achievements',
+				start: 'top 75% bottom',
+				end: 'bottom 5% bottom',
+				toggleActions: 'play pause resume reset',
+			},
+		});
+
+		tl.from(
+			trees,
+			{
+				snap: { textContent: 1 },
+				onUpdate: function () {
+					trees.textContent = parseInt(trees.textContent).toLocaleString('en-GB');
+				},
+			},
+			0,
+		);
+
+		tl.from(
+			restored,
+			{
+				snap: { textContent: 1 },
+			},
+			0,
+		);
+
+		tl.from(
+			management,
+			{
+				snap: { textContent: 1 },
+			},
+			0,
+		);
+	});
+</script>

@@ -1,0 +1,85 @@
+/* Forms, Inputs and Button */
+
+textarea,
+input:not(button,
+	[type='button'],
+	[type='sumbit'],
+	[type='reset'],
+	[type='checkbox'],
+	[type='radio']) {
+	appearance: none;
+	border: 2px solid var(--border-color);
+	padding: var(--space-2xs);
+	color: inherit;
+	font-size: inherit;
+	font-family: inherit;
+	outline: none;
+
+	&:focus {
+		border-color: var(--border-focus);
+	}
+}
+
+::placeholder {
+	color: var(--placeholder);
+}
+
+/* Buttons */
+
+button,
+input[type='button'],
+input[type='submit'],
+input[type='reset'] {
+	all: unset;
+	cursor: pointer;
+	color: currentcolor;
+}
+
+.button,
+button,
+input[type='button'],
+input[type='submit'],
+input[type='reset'] {
+	border-radius: var(--radius-l);
+	padding: var(--space-xs) var(--space-l);
+	border: 2px solid transparent;
+	display: inline-flex;
+	text-decoration: none;
+	font-size: var(--font-s);
+	background: var(--button-background);
+	text-align: center;
+	transition: all var(--transition);
+	justify-content: center;
+	color: var(--button-text);
+
+	&:hover {
+		background: var(--button-hover);
+		transform: translateY(var(--space-3xs));
+	}
+}
+
+.button:has(svg) {
+	gap: var(--space-3xs);
+}
+
+.button-ghost {
+	border-radius: var(--radius-l);
+	padding: var(--space-xs) var(--space-l);
+	border: 2px solid var(--button-border);
+	display: inline-flex;
+	text-decoration: none;
+	font-size: var(--font-s);
+	background: transparent;
+	text-align: center;
+	transition: all var(--trans-time) ease-in-out;
+	justify-content: center;
+	color: currentcolor !important;
+
+	&:hover {
+		transform: translateY(var(--space-3xs));
+	}
+}
+
+.button-ghost:has(svg) {
+	gap: var(--space-3xs);
+}

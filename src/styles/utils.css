@@ -16,19 +16,19 @@
 	justify-content: flex-start;
 }
 
-.stack>* {
+.stack > * {
 	margin-block: 0;
 }
 
-.stack>*+* {
+.stack > * + * {
 	margin-block-start: var(--space-s, 1.25rem);
 }
 
-.stack-3xs>* {
+.stack-3xs > * {
 	margin-block: 0;
 }
 
-.stack-3xs>*+* {
+.stack-3xs > * + * {
 	margin-block-start: var(--space-3xs, 0.3125rem);
 }
 
