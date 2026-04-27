@@ -1,57 +1,56 @@
-<section class="PageSection NewsletterSignup" data-variant="muted" id="newsletter">
-	<h2 class="PageSection__title">Stay up to date</h2>
-	<div class="PageSection__content">
-		<form class="NewsletterSignup__form readable-width inline-centered">
-			<p>
-				Join our mailing list to keep up with what we're doing to restore natural habitats and boost
-				biodiversity across the UK.
-			</p>
+<section class="wrap">
+	<h2>Stay up to date</h2>
 
-			<p>
-				We don't email too often and you can unsubscribe any time. Your <a href="/privacy-policy"
-					>privacy is important to us</a
-				> and your info will not be passed to third parties.
-			</p>
+	<form class="squircle stack">
+		<p>
+			Join our mailing list to keep up with what we're doing to restore natural habitats and boost
+			biodiversity across the UK.
+		</p>
 
-			<p style="display: none;">
-				<label>Do not fill this in: <input name="honeyTrap" /></label>
-			</p>
+		<p>
+			We don't email too often and you can unsubscribe any time. Your <a href="/privacy-policy"
+				>privacy is important to us</a
+			> and your info will not be passed to third parties.
+		</p>
 
-			<fieldset>
-				<legend class="visually-hidden">Your details</legend>
-				<div class="inline-group">
-					<div>
-						<label for="newsletter-first-name" class="visually-hidden">First Name</label>
-						<input
-							type="text"
-							id="newsletter-first-name"
-							name="firstName"
-							placeholder="First Name"
-							required
-						/>
-					</div>
-					<div>
-						<label for="newsletter-last-name" class="visually-hidden">Last Name</label>
-						<input type="text" id="newsletter-last-name" name="lastName" placeholder="Last Name" />
-					</div>
-				</div>
+		<p style="display: none;">
+			<label>Do not fill this in: <input name="honeyTrap" /></label>
+		</p>
+
+		<fieldset>
+			<legend class="visually-hidden">Your details</legend>
+			<div class="inline-group">
 				<div>
-					<label for="newsletter-email" class="visually-hidden">Email</label>
+					<label for="newsletter-first-name" class="visually-hidden">First Name</label>
 					<input
-						type="email"
-						id="newsletter-email"
-						name="email"
-						placeholder="Email address"
+						type="text"
+						id="newsletter-first-name"
+						name="firstName"
+						placeholder="First Name"
 						required
 					/>
 				</div>
-			</fieldset>
+				<div>
+					<label for="newsletter-last-name" class="visually-hidden">Last Name</label>
+					<input type="text" id="newsletter-last-name" name="lastName" placeholder="Last Name" />
+				</div>
+			</div>
+			<div>
+				<label for="newsletter-email" class="visually-hidden">Email</label>
+				<input
+					type="email"
+					id="newsletter-email"
+					name="email"
+					placeholder="Email address"
+					required
+				/>
+			</div>
+		</fieldset>
 
-			<button type="submit">Subscribe</button>
+		<button type="submit" class="button">Subscribe</button>
 
-			<div class="form-message" data-message-container aria-live="assertive"></div>
-		</form>
-	</div>
+		<div class="form-message" data-message-container aria-live="assertive"></div>
+	</form>
 </section>
 
 <script>
@@ -97,3 +96,49 @@
 		});
 	});
 </script>
+
+<style>
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	section {
+		padding-block: var(--space-xl);
+	}
+
+	p {
+		font-size: var(--font-s);
+	}
+
+	form {
+		background: var(--white);
+		max-width: 44rem;
+		margin: auto;
+	}
+
+	fieldset {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-s);
+		font-size: var(--font-s);
+	}
+
+	/* This can go once all the styles are cleansed */
+	fieldset > * + * {
+		margin: 0;
+	}
+
+	.inline-group {
+		display: flex;
+		gap: var(--space-s);
+		@media screen and (max-width: 540px) {
+			flex-flow: column;
+		}
+	}
+
+	.inline-group div {
+		flex: 1;
+	}
+</style>

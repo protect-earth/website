@@ -4,6 +4,7 @@
 @import url('./navigation.css');
 @import url('./footer.css');
 @import url('./pages.css');
+@import url('./forms.css');
 
 body {
 	margin: 0;
@@ -45,61 +46,6 @@ h2:has(svg) {
 	display: inline-flex;
 	gap: var(--space-2xs);
 	align-items: center;
-}
-
-button,
-input[type='button'],
-input[type='submit'],
-input[type='reset'] {
-	all: unset;
-	cursor: pointer;
-}
-
-.button {
-	appearance: none;
-	border-radius: var(--radius-l);
-	padding: var(--space-xs) var(--space-l);
-	border: 2px solid transparent;
-	display: inline-flex;
-	text-decoration: none;
-	font-size: var(--font-s);
-	background: var(--button-background);
-	text-align: center;
-	transition: all var(--trans-time) ease-in-out;
-	justify-content: center;
-	color: var(--button-text) !important;
-	align-items: center;
-
-	&:hover {
-		background: var(--button-hover);
-		transform: translateY(var(--space-3xs));
-	}
-}
-
-.button:has(svg) {
-	gap: var(--space-3xs);
-}
-
-.button-ghost {
-	border-radius: var(--radius-l);
-	padding: var(--space-xs) var(--space-l);
-	border: 2px solid var(--button-border);
-	display: inline-flex;
-	text-decoration: none;
-	font-size: var(--font-s);
-	background: transparent;
-	text-align: center;
-	transition: all var(--trans-time) ease-in-out;
-	justify-content: center;
-	color: currentcolor !important;
-
-	&:hover {
-		transform: translateY(var(--space-3xs));
-	}
-}
-
-.button-ghost:has(svg) {
-	gap: var(--space-3xs);
 }
 
 /* Shapes */
