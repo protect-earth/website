@@ -6,7 +6,7 @@ import ContentHero from '../../components/ContentHero.astro';
 import ImageGallery from '../../components/ImageGallery.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { siteConfig } from '../../config';
-import { toKebabCase } from '../../helpers';
+import { fetchProtectEarthSitesSafely, toKebabCase } from '../../helpers';
 import Layout from '../../layouts/Layout.astro';
 import MapPin from '../../assets/icons/map-pin.svg';
 import Tree from '../../assets/icons/tree-deciduous.svg';
@@ -17,8 +17,7 @@ import Chart from '../../assets/icons/chart-fft.svg';
 export const prerender = true;
 
 export async function getStaticPaths() {
-	const apiResponse = await fetch('https://api.protect.earth/sites');
-	const allApiSites = await apiResponse.json();
+	const allApiSites = await fetchProtectEarthSitesSafely();
 
 	// Filter out ignored sites
 	const apiSites = allApiSites.filter((site: any) => !siteConfig.ignoredSites.includes(site.name));

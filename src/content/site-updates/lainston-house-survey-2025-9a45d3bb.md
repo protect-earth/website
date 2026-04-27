@@ -11,14 +11,9 @@ photos:
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/3.jpg"
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/4.jpg"
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/5.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/6.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/7.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/8.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/9.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/10.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/11.jpg"
-  - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/12.jpg"
 ---
+
+
 
 
 

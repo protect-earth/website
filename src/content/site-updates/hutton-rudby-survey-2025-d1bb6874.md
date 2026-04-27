@@ -11,7 +11,6 @@ photos:
   - "../../assets/site-updates/hutton-rudby-survey-2025-d1bb6874/3.jpg"
   - "../../assets/site-updates/hutton-rudby-survey-2025-d1bb6874/4.jpg"
   - "../../assets/site-updates/hutton-rudby-survey-2025-d1bb6874/5.jpg"
-  - "../../assets/site-updates/hutton-rudby-survey-2025-d1bb6874/6.jpg"
 ---
 
 Since the planting, we have endeavoured to visit after strong wings, armed with a hammer to adjust and make good stakes.

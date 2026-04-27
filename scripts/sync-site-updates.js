@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 import { config } from 'dotenv';
 import { Client } from '@notionhq/client';
-import { google } from 'googleapis';
 import crypto from 'crypto';
 import fs from 'fs';
 import path from 'path';
@@ -20,8 +19,6 @@ config();
 
 const NOTION_API_KEY = process.env.NOTION_API_KEY;
 const SITE_UPDATES_DATABASE_ID = process.env.NOTION_SITE_UPDATES_DB_ID;
-const GOOGLE_SERVICE_ACCOUNT_EMAIL = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
-const GOOGLE_PRIVATE_KEY = process.env.GOOGLE_PRIVATE_KEY?.replace(/\\n/g, '\n');
 
 if (!NOTION_API_KEY) {
 	console.error('Error: NOTION_API_KEY environment variable is required');
@@ -33,27 +30,7 @@ if (!SITE_UPDATES_DATABASE_ID) {
 	process.exit(1);
 }
 
-if (replaceImages && (!GOOGLE_SERVICE_ACCOUNT_EMAIL || !GOOGLE_PRIVATE_KEY)) {
-	console.error(
-		'Error: GOOGLE_SERVICE_ACCOUNT_EMAIL and GOOGLE_PRIVATE_KEY are required with --replace-images',
-	);
-	process.exit(1);
-}
-
 const notion = new Client({ auth: NOTION_API_KEY });
-
-const drive = replaceImages
-	? google.drive({
-			version: 'v3',
-			auth: new google.auth.GoogleAuth({
-				credentials: {
-					client_email: GOOGLE_SERVICE_ACCOUNT_EMAIL,
-					private_key: GOOGLE_PRIVATE_KEY,
-				},
-				scopes: ['https://www.googleapis.com/auth/drive.readonly'],
-			}),
-		})
-	: null;
 
 function toKebabCase(str) {
 	return str
@@ -90,28 +67,37 @@ function isGoogleDriveLink(url) {
 	return typeof url === 'string' && url.includes('drive.google.com');
 }
 
-function extractFolderId(url) {
-	if (typeof url !== 'string') {
+function isImageFileName(fileName = '') {
+	return /\.(avif|bmp|gif|heic|heif|jpe?g|png|tiff?|webp|svg)$/i.test(fileName);
+}
+
+function getStableRemoteFileKey(url) {
+	if (!isRemoteUrl(url)) {
 		return null;
 	}
 
 	try {
 		const parsedUrl = new URL(url);
-		const idParam = parsedUrl.searchParams.get('id');
-		if (idParam) {
-			return idParam;
-		}
+		return `${parsedUrl.origin}${parsedUrl.pathname}`;
 	} catch {
-		// Fall through to regex parsing for malformed URLs.
+		return null;
+	}
+}
+
+function isDownloadableNotionPhoto(photo) {
+	if (!photo || photo.sourceType !== 'file') {
+		return false;
 	}
 
-	const folderMatch = url.match(/folders\/([a-zA-Z0-9_-]+)/);
-	if (folderMatch) {
-		return folderMatch[1];
+	if (!isRemoteUrl(photo.url) || isGoogleDriveLink(photo.url)) {
+		return false;
 	}
 
-	const genericIdMatch = url.match(/[-\w]{25,}/);
-	return genericIdMatch ? genericIdMatch[0] : null;
+	if (typeof photo.mimeType === 'string' && photo.mimeType.toLowerCase().startsWith('image/')) {
+		return true;
+	}
+
+	return isImageFileName(photo.name);
 }
 
 function ensureParentDirectory(filePath) {
@@ -136,11 +122,19 @@ function loadPhotoManifest(outputDir) {
 }
 
 function savePhotoManifest(outputDir, manifest) {
+	if (!fs.existsSync(outputDir)) {
+		fs.mkdirSync(outputDir, { recursive: true });
+	}
+
 	const manifestPath = path.join(outputDir, PHOTO_MANIFEST_FILENAME);
 	fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
 }
 
 function pruneUnusedLocalizedImages(outputDir, usedFileNames) {
+	if (!fs.existsSync(outputDir)) {
+		return;
+	}
+
 	const allowed = new Set([...usedFileNames, PHOTO_MANIFEST_FILENAME]);
 	for (const entry of fs.readdirSync(outputDir)) {
 		if (allowed.has(entry)) {
@@ -199,6 +193,41 @@ function downloadImage(url, filePath) {
 	});
 }
 
+function normalizeChecksum(value) {
+	if (typeof value !== 'string') {
+		return null;
+	}
+
+	return value.replace(/^W\//, '').replace(/"/g, '').trim() || null;
+}
+
+function fetchRemoteChecksum(url) {
+	return new Promise((resolve) => {
+		const request = https.request(url, { method: 'HEAD' }, (response) => {
+			if ([301, 302, 307, 308].includes(response.statusCode || 0)) {
+				const redirectUrl = response.headers.location;
+				if (!redirectUrl) {
+					resolve(null);
+					return;
+				}
+
+				resolve(fetchRemoteChecksum(redirectUrl));
+				return;
+			}
+
+			if (response.statusCode && response.statusCode >= 400) {
+				resolve(null);
+				return;
+			}
+
+			resolve(normalizeChecksum(response.headers.etag));
+		});
+
+		request.on('error', () => resolve(null));
+		request.end();
+	});
+}
+
 async function processImage(inputPath, outputPath, maxWidth = 1200) {
 	try {
 		await sharp(inputPath)
@@ -248,64 +277,34 @@ function getTempImageExtension(mimeType, fileName = '') {
 
 	return 'jpg';
 }
-
-async function fetchImagesFromDriveFolder(folderId, depth = 0) {
-	if (!drive) return [];
-
-	try {
-		if (depth === 0) {
-			console.log(`  Looking up Google Drive folder ${folderId}...`);
-		}
-
-		const response = await drive.files.list({
-			q: `'${folderId}' in parents and trashed=false`,
-			fields: 'files(id,name,mimeType,md5Checksum)',
-			pageSize: 100,
-			supportsAllDrives: true,
-			includeItemsFromAllDrives: true,
-		});
-
-		const files = response.data.files || [];
-		let images = files.filter((file) => file.mimeType?.includes('image/'));
-
-		if (depth < 2) {
-			const folders = files.filter(
-				(file) => file.mimeType === 'application/vnd.google-apps.folder',
-			);
-			for (const folder of folders) {
-				const nested = await fetchImagesFromDriveFolder(folder.id, depth + 1);
-				images = images.concat(nested);
-			}
-		}
-
-		if (depth === 0) {
-			console.log(`  Found ${images.length} image file(s) in Google Drive folder ${folderId}`);
-		}
-
-		return images;
-	} catch (error) {
-		console.warn(`Warning: Could not fetch Google Drive folder ${folderId}: ${error.message}`);
-		return [];
-	}
-}
-
 async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
-	if (!photos || photos.length === 0) return [];
-
-	console.log(`  Localizing ${photos.length} photo reference(s) for ${slug}...`);
-
+	const photoList = Array.isArray(photos) ? photos : [];
+	const notionPhotos = photoList.filter(isDownloadableNotionPhoto);
+	const ignoredPhotos = photoList.length - notionPhotos.length;
 	const outputDir = path.join(imagesDir, slug);
-	if (!fs.existsSync(outputDir)) {
-		fs.mkdirSync(outputDir, { recursive: true });
-	}
 	const previousManifest = loadPhotoManifest(outputDir);
 	const nextManifest = {};
 	const usedFileNames = new Set();
+	const hadExistingLocalizedPhotos =
+		fs.existsSync(outputDir) || Object.keys(previousManifest).length > 0;
+
+	console.log(`  Localizing ${notionPhotos.length} Notion photo file(s) for ${slug}...`);
+	if (ignoredPhotos > 0) {
+		console.log(`  Ignoring ${ignoredPhotos} non-image or external photo reference(s)`);
+	}
+
+	if (notionPhotos.length === 0 && !hadExistingLocalizedPhotos) {
+		return [];
+	}
+
+	if (!fs.existsSync(outputDir) && notionPhotos.length > 0) {
+		fs.mkdirSync(outputDir, { recursive: true });
+	}
 
 	const localized = [];
 	let index = 1;
 
-	for (const photoUrl of photos) {
+	for (const photo of notionPhotos) {
 		if (localized.length >= MAX_SITE_UPDATE_PHOTOS) {
 			console.log(
 				`  Reached max photo limit (${MAX_SITE_UPDATE_PHOTOS}) for ${slug}; skipping remaining photo sources`,
@@ -313,114 +312,27 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 			break;
 		}
 
-		if (!isRemoteUrl(photoUrl)) {
-			console.log(`  Keeping existing local photo path for ${slug}`);
-			localized.push(photoUrl);
-			usedFileNames.add(path.basename(photoUrl));
-			continue;
-		}
-
-		if (isGoogleDriveLink(photoUrl)) {
-			console.log(`  Resolving Google Drive photo source for ${slug}: ${photoUrl}`);
-			const folderId = extractFolderId(photoUrl);
-			if (!folderId) {
-				console.warn(`Warning: Could not extract Google Drive folder ID from ${photoUrl}`);
-				continue;
-			}
-
-			const driveImages = await fetchImagesFromDriveFolder(folderId);
-			for (const driveImage of driveImages) {
-				if (localized.length >= MAX_SITE_UPDATE_PHOTOS) {
-					console.log(
-						`    Reached max photo limit (${MAX_SITE_UPDATE_PHOTOS}) while processing Drive images`,
-					);
-					break;
-				}
-
-				const sourceKey = `drive:${driveImage.id}`;
-				const ext = getTempImageExtension(driveImage.mimeType, driveImage.name);
-				const tempPath = path.join(tempDir, `${slug}-${driveImage.id}.${ext}`);
-				const localName = `${index}.jpg`;
-				const localPath = path.join(outputDir, localName);
-				const contentPath = `../../assets/site-updates/${slug}/${localName}`;
-				const previousEntry = previousManifest[sourceKey];
-				const previousPath = previousEntry?.localName
-					? path.join(outputDir, previousEntry.localName)
-					: null;
-
-				if (
-					previousEntry?.checksum &&
-					driveImage.md5Checksum &&
-					previousEntry.checksum === driveImage.md5Checksum &&
-					previousPath &&
-					fs.existsSync(previousPath)
-				) {
-					if (previousPath !== localPath) {
-						if (fs.existsSync(localPath)) {
-							fs.unlinkSync(localPath);
-						}
-						fs.renameSync(previousPath, localPath);
-					}
-
-					console.log(`    Reusing localized image ${localName} via checksum match`);
-					localized.push(contentPath);
-					nextManifest[sourceKey] = {
-						localName,
-						checksum: driveImage.md5Checksum,
-					};
-					usedFileNames.add(localName);
-					index++;
-					continue;
-				}
-
-				try {
-					console.log(`    Downloading ${driveImage.name} -> ${localName}`);
-					const response = await drive.files.get(
-						{ fileId: driveImage.id, alt: 'media' },
-						{ responseType: 'stream' },
-					);
-
-					ensureParentDirectory(tempPath);
-					const writer = fs.createWriteStream(tempPath);
-					response.data.pipe(writer);
-					await new Promise((resolve, reject) => {
-						writer.on('finish', resolve);
-						writer.on('error', reject);
-					});
-
-					await processImage(tempPath, localPath);
-					localized.push(contentPath);
-					nextManifest[sourceKey] = {
-						localName,
-						checksum: driveImage.md5Checksum || (await hashFile(localPath)),
-					};
-					usedFileNames.add(localName);
-					index++;
-					console.log(`    Wrote ${contentPath}`);
-
-					if (fs.existsSync(tempPath)) {
-						fs.unlinkSync(tempPath);
-					}
-				} catch (error) {
-					console.warn(
-						`Warning: Failed to localize Drive image ${driveImage.name}: ${error.message}`,
-					);
-				}
-			}
-			continue;
-		}
-
-		const tempPath = path.join(tempDir, `${slug}-${index}.jpg`);
+		const stableKey = getStableRemoteFileKey(photo.url);
+		const sourceKey = `notion:${photo.sourceId || stableKey || photo.name}`;
+		const ext = getTempImageExtension(photo.mimeType, photo.name);
+		const tempPath = path.join(tempDir, `${slug}-${index}.${ext}`);
 		const localName = `${index}.jpg`;
 		const localPath = path.join(outputDir, localName);
 		const contentPath = `../../assets/site-updates/${slug}/${localName}`;
-		const sourceKey = `url:${photoUrl}`;
 		const previousEntry = previousManifest[sourceKey];
 		const previousPath = previousEntry?.localName
 			? path.join(outputDir, previousEntry.localName)
 			: null;
+		const remoteChecksum = previousEntry?.sourceChecksum
+			? await fetchRemoteChecksum(photo.url)
+			: null;
 
-		if (previousPath && fs.existsSync(previousPath) && previousEntry?.sourceUrl === photoUrl) {
+		if (
+			previousPath &&
+			fs.existsSync(previousPath) &&
+			((previousEntry?.sourceChecksum && remoteChecksum === previousEntry.sourceChecksum) ||
+				(!previousEntry?.sourceChecksum && previousEntry))
+		) {
 			if (previousPath !== localPath) {
 				if (fs.existsSync(localPath)) {
 					fs.unlinkSync(localPath);
@@ -428,12 +340,13 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 				fs.renameSync(previousPath, localPath);
 			}
 
-			console.log(`  Reusing existing localized image ${localName} for unchanged URL`);
+			console.log(`  Reusing existing localized image ${localName} for unchanged Notion file`);
 			localized.push(contentPath);
 			nextManifest[sourceKey] = {
 				localName,
 				checksum: previousEntry.checksum,
-				sourceUrl: photoUrl,
+				sourceChecksum: previousEntry.sourceChecksum || remoteChecksum,
+				fileName: photo.name,
 			};
 			usedFileNames.add(localName);
 			index++;
@@ -441,14 +354,16 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 		}
 
 		try {
-			console.log(`  Downloading direct image ${photoUrl}`);
-			await downloadImage(photoUrl, tempPath);
+			console.log(`  Downloading Notion image ${photo.name} -> ${localName}`);
+			await downloadImage(photo.url, tempPath);
 			await processImage(tempPath, localPath);
+			const checksum = await hashFile(localPath);
 			localized.push(contentPath);
 			nextManifest[sourceKey] = {
 				localName,
-				checksum: await hashFile(localPath),
-				sourceUrl: photoUrl,
+				checksum,
+				sourceChecksum: remoteChecksum,
+				fileName: photo.name,
 			};
 			usedFileNames.add(localName);
 			index++;
@@ -458,7 +373,7 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 				fs.unlinkSync(tempPath);
 			}
 		} catch (error) {
-			console.warn(`Warning: Failed to localize image ${photoUrl}: ${error.message}`);
+			console.warn(`Warning: Failed to localize Notion image ${photo.name}: ${error.message}`);
 		}
 	}
 
@@ -488,7 +403,10 @@ async function getPropertyValue(property) {
 			return (
 				property.files?.map((file) => ({
 					name: file.name,
-					url: file.type === 'external' ? file.external?.url : file.file?.url,
+					url: file.type === 'file' ? file.file?.url : file.external?.url,
+					sourceType: file.type,
+					sourceId: file.file_upload?.id || null,
+					mimeType: file.file?.mime_type || null,
 				})) || []
 			);
 		case 'relation':
@@ -675,21 +593,15 @@ async function syncSiteUpdates() {
 			const existingBody = getExistingBody(filePath);
 			const existingLocalPhotos = getExistingLocalPhotos(filePath);
 
-			const notionPhotoUrls = (photos || []).map((p) => p.url).filter(Boolean);
+			const notionPhotoFiles = Array.isArray(photos) ? photos : [];
 			let photosToUse = [];
 
 			if (replaceImages) {
-				photosToUse = await localizeSiteUpdatePhotos(notionPhotoUrls, slug, imagesDir, tempDir);
-				if (photosToUse.length === 0 && existingLocalPhotos.length > 0) {
-					console.log(
-						`  No new localized photos produced; keeping ${existingLocalPhotos.length} existing local photo(s)`,
-					);
-					photosToUse = existingLocalPhotos;
-				}
+				photosToUse = await localizeSiteUpdatePhotos(notionPhotoFiles, slug, imagesDir, tempDir);
 			} else {
 				// Never write Notion remote URLs during normal sync.
 				photosToUse = existingLocalPhotos;
-				if (notionPhotoUrls.length > 0 && existingLocalPhotos.length === 0) {
+				if (notionPhotoFiles.length > 0 && existingLocalPhotos.length === 0) {
 					console.log('  Remote Notion photo URLs detected but omitted during plain sync');
 				}
 			}

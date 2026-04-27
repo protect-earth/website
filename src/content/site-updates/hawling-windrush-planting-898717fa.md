@@ -7,6 +7,8 @@ siteNotionId: "18a9ffed-8abf-4477-93c3-7288e18837e6"
 treesPlanted: 500
 ---
 
+
 On a slightly cloudier winters in January 2022, we were invited by the new owners of a neighbouring sheep farm, to help plant a further 500 trees a few fields away.
 
 With Ash dieback hitting hard there was interest in replacing the lost trees, and we planted several Hornbeam which serve the same wildlife.
+

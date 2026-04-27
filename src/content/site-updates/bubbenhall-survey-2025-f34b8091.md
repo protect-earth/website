@@ -12,12 +12,6 @@ photos:
   - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/4.jpg"
   - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/5.jpg"
   - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/6.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/7.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/8.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/9.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/10.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/11.jpg"
-  - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/12.jpg"
 ---
 
 Angus, the site inspector, visited Bubbenhall in August 2025. He counted 5 sample areas of trees, finding a 70% survival rate. The landowner tells us “The trees that were replanted in 2023 seem to be doing ok, only half the hedgerow is thriving though, we had an influx of rabbits and as the hedgerow had not all got tree guards I think some of them succumbed to rabbit attack!”.

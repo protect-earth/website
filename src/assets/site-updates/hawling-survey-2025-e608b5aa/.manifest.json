@@ -1,18 +1,26 @@
 {
-	"drive:1frPXclbc4wN0l8UgPc9oJRHVNa6tRMU6": {
-		"localName": "1.jpg",
-		"checksum": "2a49db6e7a246f59468adea727c8974f"
-	},
-	"drive:1LujW_beiWKgLlL6vv_YsVAN2I6UiEB4K": {
-		"localName": "2.jpg",
-		"checksum": "1754464c45faa5399e6afcd3a636d914"
-	},
-	"drive:1-4kU9RuXgbLwRNkFlTtMWPzoH2MMJJhv": {
-		"localName": "3.jpg",
-		"checksum": "4aaccb7123dccb503e8706884a89e18e"
-	},
-	"drive:1xQiKaJMUBepVeISYn10BRXU16Go13ACT": {
-		"localName": "4.jpg",
-		"checksum": "27ac8887fb566c95e7c44b3b289a321e"
-	}
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/63dc688a-3636-4d79-8e60-72419d2c1dd0/Hawling_1_0825.jpg": {
+    "localName": "1.jpg",
+    "checksum": "9fff8dd1e90925ddf81a4d05f2ab4544eb8606fce9dd6595f86dd4885d2db45c",
+    "sourceChecksum": null,
+    "fileName": "Hawling 1 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d16b251b-fae4-4048-8c49-08fcd15683d5/Hawling_2_0825.jpg": {
+    "localName": "2.jpg",
+    "checksum": "bde1b487ab3268fb70ff9da14b9ee7dff4a26fa0c7f1ee1f07bda669d4dd9af6",
+    "sourceChecksum": null,
+    "fileName": "Hawling 2 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/51f73ca9-0c66-4412-a805-b8d28a9ef7f8/Hawling_3_0825.jpg": {
+    "localName": "3.jpg",
+    "checksum": "925da8184d8663089e6dabd0ada7cbdf69db0a7ffb63df30cbff3580faba0b6d",
+    "sourceChecksum": null,
+    "fileName": "Hawling 3 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/902d1871-1e09-47b2-8902-1fd49ed00c50/Hawling_0825_%282%29.jpg": {
+    "localName": "4.jpg",
+    "checksum": "dbd07bcd3f588e43c59591c9afbd6bac869b528a2553f0aa84b8b0171c965364",
+    "sourceChecksum": null,
+    "fileName": "Hawling 0825 (2).jpg"
+  }
 }

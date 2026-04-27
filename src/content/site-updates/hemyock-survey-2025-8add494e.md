@@ -8,7 +8,6 @@ survivalRate: 0.87
 photos:
   - "../../assets/site-updates/hemyock-survey-2025-8add494e/1.jpg"
   - "../../assets/site-updates/hemyock-survey-2025-8add494e/2.jpg"
-  - "../../assets/site-updates/hemyock-survey-2025-8add494e/3.jpg"
 ---
 
 A survey carried out at Hemyock shows very strong overall establishment across the site, with an estimated survival rate of around 87%.

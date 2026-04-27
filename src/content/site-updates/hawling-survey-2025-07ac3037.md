@@ -9,8 +9,9 @@ photos:
   - "../../assets/site-updates/hawling-survey-2025-07ac3037/1.jpg"
   - "../../assets/site-updates/hawling-survey-2025-07ac3037/2.jpg"
   - "../../assets/site-updates/hawling-survey-2025-07ac3037/3.jpg"
-  - "../../assets/site-updates/hawling-survey-2025-07ac3037/4.jpg"
 ---
+
+
 
 
 

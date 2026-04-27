@@ -16,9 +16,9 @@ photos:
   - "../../assets/site-updates/mauchline-33d5d15f/8.jpg"
   - "../../assets/site-updates/mauchline-33d5d15f/9.jpg"
   - "../../assets/site-updates/mauchline-33d5d15f/10.jpg"
-  - "../../assets/site-updates/mauchline-33d5d15f/11.jpg"
-  - "../../assets/site-updates/mauchline-33d5d15f/12.jpg"
 ---
+
+
 
 
 

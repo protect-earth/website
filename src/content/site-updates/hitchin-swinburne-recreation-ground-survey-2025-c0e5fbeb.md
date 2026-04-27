@@ -12,8 +12,6 @@ photos:
   - "../../assets/site-updates/hitchin-swinburne-recreation-ground-survey-2025-c0e5fbeb/4.jpg"
   - "../../assets/site-updates/hitchin-swinburne-recreation-ground-survey-2025-c0e5fbeb/5.jpg"
   - "../../assets/site-updates/hitchin-swinburne-recreation-ground-survey-2025-c0e5fbeb/6.jpg"
-  - "../../assets/site-updates/hitchin-swinburne-recreation-ground-survey-2025-c0e5fbeb/7.jpg"
-  - "../../assets/site-updates/hitchin-swinburne-recreation-ground-survey-2025-c0e5fbeb/8.jpg"
 ---
 
 The youngest 2000 trees at Swinburne are doing remarkably well with a survival rate of 99%. Trees at the bottom of the sloped site are taller and absorb more moisture in the soil. Last year, we planted 300 replacement trees, so hopefully most are still alive.  The rest of the forest is pretty well established.  During the heatwave in 2022, we watered the forest with 50 tankers of river water, and since then, the forest has hopefully been robust enough to survive.

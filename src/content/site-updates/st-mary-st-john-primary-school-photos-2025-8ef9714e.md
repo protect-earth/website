@@ -12,12 +12,6 @@ photos:
   - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/4.jpg"
   - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/5.jpg"
   - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/6.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/7.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/8.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/9.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/10.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/11.jpg"
-  - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/12.jpg"
 ---
 
 The school’s headteacher tells us: “The children have really enjoyed seeing the trees grow, even just a little. It’s been a gentle but powerful reminder of the passage of time and how small actions can lead to lasting change.

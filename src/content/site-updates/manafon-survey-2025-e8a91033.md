@@ -9,15 +9,6 @@ photos:
   - "../../assets/site-updates/manafon-survey-2025-e8a91033/1.jpg"
   - "../../assets/site-updates/manafon-survey-2025-e8a91033/2.jpg"
   - "../../assets/site-updates/manafon-survey-2025-e8a91033/3.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/4.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/5.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/6.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/7.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/8.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/9.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/10.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/11.jpg"
-  - "../../assets/site-updates/manafon-survey-2025-e8a91033/12.jpg"
 ---
 
 Overall impression - very good. Trees are doing well, all shelters vertical - site looks well looked after. 92% survival rate.

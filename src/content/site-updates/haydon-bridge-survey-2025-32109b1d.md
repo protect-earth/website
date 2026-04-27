@@ -12,10 +12,11 @@ photos:
   - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/4.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/5.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/6.jpg"
-  - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/7.jpg"
-  - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/8.jpg"
-  - "../../assets/site-updates/haydon-bridge-survey-2025-32109b1d/9.jpg"
 ---
+
+
+
+
 
 
 

@@ -11,8 +11,9 @@ photos:
   - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/3.jpg"
   - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/4.jpg"
   - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/5.jpg"
-  - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/6.jpg"
 ---
+
+
 
 
 

@@ -1,14 +1,14 @@
 {
-	"drive:1QKzH3rzkUsekq97d60GXExMowSA8PdVt": {
-		"localName": "1.jpg",
-		"checksum": "affb894b18788e9c41ad1325fb63bf51"
-	},
-	"drive:1FXZMpzFEgkrGJsa0xDNAKLWXxoXvrU-l": {
-		"localName": "2.jpg",
-		"checksum": "ac6402e75d1ab1463ba02f481a9385dc"
-	},
-	"drive:1Q6YRNDIjgwrwA51Art62rtge9MbYJNNN": {
-		"localName": "3.jpg",
-		"checksum": "4f8ae918e9c666aaf561c1d910745dad"
-	}
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/7b9d3835-d455-498f-a74c-58f113043e04/after.jpg": {
+    "localName": "1.jpg",
+    "checksum": "120dbebba64538758b812bed1693d0a8bc854cad265118528a2d60d67b6aded5",
+    "sourceChecksum": null,
+    "fileName": "after.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/8be2c350-297e-4d38-ac47-150bfea92f6f/other_field.jpg": {
+    "localName": "2.jpg",
+    "checksum": "1e2f99a29111cf68afb5b396314f66a62ea5f4359b68fe319b507766c06b0be2",
+    "sourceChecksum": null,
+    "fileName": "other field.jpg"
+  }
 }

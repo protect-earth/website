@@ -12,12 +12,6 @@ photos:
   - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/4.jpg"
   - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/5.jpg"
   - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/6.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/7.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/8.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/9.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/10.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/11.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/12.jpg"
 ---
 
 A dedicated team of 15 volunteers came together for a summer work session. Despite 30-degree heat and extremely dry, cracked ground, the group made steady progress with weed management, strimming around young trees, replacing lost saplings, and adding mulch and guards. The rain arrived late in the afternoon, bringing the day to a close after a productive few hours of maintenance.

@@ -11,13 +11,6 @@ photos:
   - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/3.jpg"
   - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/4.jpg"
   - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/5.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/6.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/7.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/8.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/9.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/10.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/11.jpg"
-  - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/12.jpg"
 ---
 
 We surveyed the 3 separate fields and the hedgerow. On 2 of the fields, there was a slight bramble encroachment; however, 95% of trees are in great health, although some are showing signs of powdery mildew. The Hedgerow was a bit gappy - 70% survival rate, so we will arrange a restock for the hedgerow.

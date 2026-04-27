@@ -7,6 +7,7 @@ siteNotionId: "e5103731-0c73-464d-9808-44406eaada7a"
 treesPlanted: 1000
 ---
 
+
 Last weekend, Storm Bert swept across the UK, leaving a trail of damage and chaos in its wake. As communities braced themselves for its arrival, a group of schoolchildren in Oxford showed how local action can offer hope amid the challenges of climate change. With support from their school and Oxford City Council, these Year 5 and 6 students planted a mini-forest on unused school grounds, creating a legacy of learning and resilience.
 
 Protect Earth was proud to assist with planning and planting, helping the students understand trees' vital role in tackling climate change. Just days later, Storm Bert served as a sobering backdrop, underscoring the urgency of their work and the impacts of a warming planet and changing climates. This mini-forest won't reach its full potential until these students are adults, but as the old adage goes; The best time to plant a tree was 25 years ago. The second-best time to plant a tree is today.
@@ -15,3 +16,4 @@ In the face of challenges like Storm Bert, such initiatives remind us of the imp
 
 tCO2 after 50 years: 357
 Species planted: Oak, Cherry, Hornbeam, Small-leaved Lime, Rowan, Hazel, Osier
+

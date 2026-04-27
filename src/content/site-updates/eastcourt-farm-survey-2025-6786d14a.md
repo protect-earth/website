@@ -15,10 +15,9 @@ photos:
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/7.jpg"
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/8.jpg"
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/9.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/10.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/11.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/12.jpg"
 ---
+
+
 
 
 

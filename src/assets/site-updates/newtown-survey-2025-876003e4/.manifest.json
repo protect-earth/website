@@ -1,30 +1,44 @@
 {
-	"drive:1soa6AVwO3ZLs8JEfg8etV81gDH84pBNF": {
-		"localName": "1.jpg",
-		"checksum": "6788041da19d797e5c7c0229cc0e6c47"
-	},
-	"drive:1vt9RJdrwiWbEINjSVkJxGRFlVzLS8YTq": {
-		"localName": "2.jpg",
-		"checksum": "fe233818a035914dd718d1166b7931ad"
-	},
-	"drive:18M1Yj0eFTRExCXMZM_Fuo9ZPMNYgcRDh": {
-		"localName": "3.jpg",
-		"checksum": "631faea4e84fcd2f4af8e43e7a105703"
-	},
-	"drive:1zfE0mv1MsTJOuqvyENfi48C7VwcvQRKn": {
-		"localName": "4.jpg",
-		"checksum": "5380f893e30dc94477c19ff587432c44"
-	},
-	"drive:1vVh6DcOsw7nGcl2EdIi8ts3CgLqTvvib": {
-		"localName": "5.jpg",
-		"checksum": "2ffc9141f3575283e57d9b9570c03172"
-	},
-	"drive:1FZavUHfUC5i45M1xcTe-K1PfbjcBu-wH": {
-		"localName": "6.jpg",
-		"checksum": "d5531fb86b4229f854aa05fd8af56077"
-	},
-	"drive:1MFGF7EbdtNj1PW8LVWnSaWsov-z0Umbx": {
-		"localName": "7.jpg",
-		"checksum": "38a7661885d825962767a95b4c7898ba"
-	}
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/da1032e1-d6fa-449f-9564-69e40edf5e8b/Newtown_1_0825.jpg": {
+    "localName": "1.jpg",
+    "checksum": "2e1a6a68fc5fdc1552bf92437a6316389239681eea49e908ae0985a57ae6f2bd",
+    "sourceChecksum": null,
+    "fileName": "Newtown 1 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/9bb3c12f-0c74-4c4d-b18c-ba91b133544c/Newtown_2_0825.jpg": {
+    "localName": "2.jpg",
+    "checksum": "286c2d645da6823e2554cdd71240ffda0031ddb676e0af4aa9a447d01521e11f",
+    "sourceChecksum": null,
+    "fileName": "Newtown 2 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/216003f0-49e9-42a1-a1e1-4a6037455a7d/Newtown_3_0825.jpg": {
+    "localName": "3.jpg",
+    "checksum": "b7e8e385da6155a9719402c862ad5578cb834f0b0b844e05b42bc4949a53bd29",
+    "sourceChecksum": null,
+    "fileName": "Newtown 3 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d9f9278d-06cb-4036-8478-d3c7e5b24b28/Newtown_4_0825.jpg": {
+    "localName": "4.jpg",
+    "checksum": "b8ef011b5fb1cbc751755688c42ca45c5b71a30856271f2b34beac0fe4f5394e",
+    "sourceChecksum": null,
+    "fileName": "Newtown 4 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d89917a8-03e1-4e41-9922-370c1b104e0d/Newtown_5_0825.jpg": {
+    "localName": "5.jpg",
+    "checksum": "fe9bab8fc81eae7f4513b1bb6d333d99450e1415837f2f77cae7c6119deea74a",
+    "sourceChecksum": null,
+    "fileName": "Newtown 5 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/40e113a4-910b-45cf-958e-fe2a50446ab2/Newtown_6_0825.jpg": {
+    "localName": "6.jpg",
+    "checksum": "f67a07fa62ef24872d1026cdf03bde2f791d3f1bf156e77a1fdc0c5278174251",
+    "sourceChecksum": null,
+    "fileName": "Newtown 6 0825.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/ff3be3ba-bad7-4979-bd2b-164146420dcb/Newtown_0825.jpg": {
+    "localName": "7.jpg",
+    "checksum": "d9e649523a21e170f6158865bc3f88441e5682acc929e4350a9b931a943df816",
+    "sourceChecksum": null,
+    "fileName": "Newtown 0825.jpg"
+  }
 }

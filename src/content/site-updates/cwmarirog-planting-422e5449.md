@@ -7,6 +7,7 @@ siteNotionId: "537e5680-6689-45bc-94d6-d7dad82c0072"
 treesPlanted: 550
 ---
 
+
 At Cwmarirog we helped a landowner design and plant a shelterbelt on a very
 
 exposed site in Radnorshire, Mid-Wales. The shelterbelt will help stabilise and
@@ -40,3 +41,4 @@ provenance.
 tCO2 after 50 years: 187
 Species planted: Sessile Oak, Rowan, Bird Cherry, Crab Apple,
 Blackthorn, Hazel, Holly, and Dog Rose
+
