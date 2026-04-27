@@ -12,7 +12,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
 		.map((post) => ({ slug: post.id, data: post.data }));
 
-	return paginate(articles, { pageSize: 20 });
+	return paginate(articles, { pageSize: 18 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props as { page: Page };
@@ -27,16 +27,20 @@ const { page } = Astro.props as { page: Page };
 	/>
 
 	<!-- Articles List -->
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<div class="article-list">
-				{page.data.map(({ slug, data: article }) => <ArticleSummary {...{ ...article, slug }} />)}
-			</div>
-
-			<!-- Pagination Controls -->
-			{page.lastPage > 1 && <Pagination {...page} />}
+	<section class="page-sections wrap">
+		<div class="grid">
+			{page.data.map(({ slug, data: article }) => <ArticleSummary {...{ ...article, slug }} />)}
 		</div>
+
+		<!-- Pagination Controls -->
+		{page.lastPage > 1 && <Pagination {...page} />}
 	</section>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.grid {
+		grid-template-columns: var(--grid-fill);
+	}
+</style>
