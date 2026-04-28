@@ -5,6 +5,7 @@ import TakeAction from '../components/TakeAction.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import ArticleSummary from '../components/ArticleSummary.astro';
 import Achievments from '../components/Achievements.astro';
+import GetInvolved from '../components/GetInvolved.astro';
 import { Image } from 'astro:assets';
 import ArrowRight from '../assets/icons/arrow-right.svg';
 
@@ -37,91 +38,7 @@ const latestPosts = (await getCollection('articles'))
 		</div>
 	</section>
 
-	<section class="get-started wrap">
-		<h2>How to get involved</h2>
-
-		<article>
-			<div>
-				<h3>People &amp; Families</h3>
-				<p>
-					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
-					time, money, or expertise, there's a way for everyone to make a difference.
-				</p>
-				<a href="/get-involved/people-families" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
-			</div>
-			<figure class="squircle">
-				<a href="/get-involved/people-families">
-					<Image
-						src="/get-started/get-started--people.jpg"
-						alt="People and Families"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-					/>
-				</a>
-			</figure>
-		</article>
-
-		<article>
-			<div>
-				<h3>Business</h3>
-				<p>
-					Ready to branch out? We offer businesses the chance to create lasting environmental impact
-					while building stronger teams and greener communities. Whether planting trees with your
-					colleagues, revitalising unused land or donating to our cause, we make it easy to level up
-					your sustainability strategy.
-				</p>
-				<a href="/get-involved/businesses" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
-			</div>
-			<figure class="squircle">
-				<a href="/get-involved/businesses">
-					<Image
-						src="/get-started/get-started--businesses.jpg"
-						alt="Business"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-					/>
-				</a>
-			</figure>
-		</article>
-
-		<article>
-			<div>
-				<h3>Landowners</h3>
-				<p>
-					Take your land from idle to ideal with help from Protect Earth. We'll work with you to
-					enhance the ecosystem health of your land.
-				</p>
-				<p>
-					We work with landowners, land managers and farmers to increase tree cover, improve
-					biodiversity, and restore ecosystems – without breaking the bank or burying you in
-					paperwork.
-				</p>
-				<a href="/get-involved/landowners" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
-			</div>
-			<figure class="squircle">
-				<a href="/get-involved/landowners">
-					<Image
-						src="/get-started/get-started--landowners.jpg"
-						alt="Landowners"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-					/>
-				</a>
-			</figure>
-		</article>
-	</section>
+	<GetInvolved />
 
 	<Achievments />
 
@@ -268,66 +185,6 @@ const latestPosts = (await getCollection('articles'))
 				font-size: var(--font-xs);
 			}
 		}
-	}
-
-	.get-started {
-		padding-block-start: var(--space-xl);
-	}
-
-	.get-started > div {
-		display: flex;
-		flex-flow: column;
-		align-items: flex-start;
-		gap: var(--space-xl);
-	}
-
-	.get-started h3 {
-		font-size: var(--font-xl);
-		margin-block-end: var(--space-s);
-	}
-
-	.get-started p {
-		max-inline-size: var(--measure);
-		font-size: var(--font-s);
-		margin-block-end: var(--space-s);
-		color: var(--grey);
-	}
-
-	.get-started article div {
-		flex-basis: 50%;
-	}
-
-	.get-started figure {
-		flex-basis: 50%;
-		transition: all var(--trans-time) ease-in-out;
-	}
-
-	.get-started figure:hover {
-		transform: scale(102%);
-		filter: var(--hover-effect-filter);
-	}
-
-	.get-started article {
-		display: flex;
-		gap: var(--space-xl);
-		@media screen and (max-width: 844px) {
-			flex-flow: column;
-		}
-	}
-
-	.get-started article:not(:first-of-type) {
-		margin-block-start: var(--space-2xl);
-	}
-
-	.get-started article:nth-child(even) {
-		flex-flow: row-reverse;
-		@media screen and (max-width: 844px) {
-			flex-flow: column;
-		}
-	}
-
-	.get-started .button {
-		color: var(--button-text);
 	}
 
 	.latest-articles {
