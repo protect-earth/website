@@ -121,21 +121,21 @@
 }
 
 @media screen and (min-width: 740px) {
-	.nav-menu > li {
+	.nav-menu>li {
 		position: relative;
 		white-space: nowrap;
 	}
 
-	.nav-menu li > a {
+	.nav-menu li>a {
 		color: var(--nav-link);
 		text-decoration: none;
 	}
 
-	.nav-menu li > a:hover {
+	.nav-menu li>a:hover {
 		color: var(--link);
 	}
 
-	.nav-menu li > a[aria-current='page'] {
+	.nav-menu>li>a[aria-current='page'] {
 		color: var(--link);
 		text-decoration: underline;
 		text-decoration-color: var(--link);
@@ -172,7 +172,7 @@
 		color: var(--body-text-light);
 	}
 
-	.nav-menu li:hover > .sub-nav-items {
+	.nav-menu li:hover>.sub-nav-items {
 		display: flex;
 	}
 }

@@ -4,17 +4,14 @@
 
 @import '@acab/reset.css' layer(reset);
 
-@import url('./page/ContentHero.scss');
 @import url('./page/ContentBlock.scss');
 @import url('./page/PageSection.scss');
 @import url('./page/Post.scss');
 @import url('./page/Event.scss');
 
-@import url('./components/Article.scss');
 @import url('./components/GetInvolved.scss');
 @import url('./components/GetStarted.scss');
 @import url('./components/LogoList.scss');
-@import url('./components/Pagination.scss');
 @import url('./components/PressArticles.scss');
 @import url('./components/SectionCards.scss');
 @import url('./components/TeamMembers.scss');
@@ -45,7 +42,7 @@
 		background-color: #f9fafb;
 		text-align: left;
 
-		> * + * {
+		>*+* {
 			margin-block-start: 1.5rem;
 		}
 
@@ -132,11 +129,11 @@
 	fieldset {
 		border: none;
 
-		> * + * {
+		>*+* {
 			margin-block-start: 1rem;
 		}
 
-		.stacked-options > * + * {
+		.stacked-options>*+* {
 			display: block;
 			margin-block-start: 0.5rem;
 		}
@@ -164,7 +161,7 @@
 				outline-color: #059669;
 			}
 
-			+ span {
+			+span {
 				margin-left: 0.5rem;
 				color: #374151;
 			}
@@ -452,6 +449,7 @@
 }
 
 @layer overrides {
+
 	/* Article prose styling */
 	.prose {
 		:where(h1, h2, h3, h4, h5, h6) {
