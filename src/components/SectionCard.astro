@@ -1,0 +1,16 @@
+---
+type Props = {
+	href: string;
+	title: string;
+	description: string;
+};
+
+const { href, title, description } = Astro.props;
+---
+
+<li class="SectionCard">
+	<a class="SectionCard__link" href={href}>
+		<h2 class="SectionCard__title">{title}</h2>
+		<p class="SectionCard__description">{description}</p>
+	</a>
+</li>

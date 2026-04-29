@@ -1,1 +1,11 @@
 pnpm-lock.yaml
+
+# Ignore content files
+
+content/**/*
+src/content/**/*
+
+# Ignore assets files
+
+public/**/*
+src/assets/**/*

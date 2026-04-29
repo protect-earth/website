@@ -1,0 +1,167 @@
+---
+import { Image } from 'astro:assets';
+import ArrowRight from '../assets/icons/arrow-right.svg';
+---
+
+<section class="get-involved wrap">
+	<div class="squircle inner">
+		<h2>How to get involved</h2>
+
+		<article>
+			<div>
+				<h3>People &amp; Families</h3>
+				<p>
+					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
+					time, money, or expertise, there's a way for everyone to make a difference.
+				</p>
+				<a href="/get-involved/people-families" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure>
+				<a href="/get-involved/people-families" class="squircle">
+					<Image
+						src="/get-started/get-started--people.jpg"
+						alt="People and Families"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
+
+		<article>
+			<div>
+				<h3>Business</h3>
+				<p>
+					Ready to branch out? We offer businesses the chance to create lasting environmental impact
+					while building stronger teams and greener communities. Whether planting trees with your
+					colleagues, revitalising unused land or donating to our cause, we make it easy to level up
+					your sustainability strategy.
+				</p>
+				<a href="/get-involved/businesses" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure>
+				<a href="/get-involved/businesses" class="squircle">
+					<Image
+						src="/get-started/get-started--businesses.jpg"
+						alt="Business"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
+
+		<article>
+			<div>
+				<h3>Landowners</h3>
+				<p>
+					Take your land from idle to ideal with help from Protect Earth. We'll work with you to
+					enhance the ecosystem health of your land.
+				</p>
+				<p>
+					We work with landowners, land managers and farmers to increase tree cover, improve
+					biodiversity, and restore ecosystems – without breaking the bank or burying you in
+					paperwork.
+				</p>
+				<a href="/get-involved/landowners" class="button">
+					Learn more
+					<ArrowRight height={18} width={18} />
+				</a>
+			</div>
+			<figure>
+				<a href="/get-involved/landowners" class="squircle">
+					<Image
+						src="/get-started/get-started--landowners.jpg"
+						alt="Landowners"
+						width={1200}
+						height={800}
+						densities={[1.5, 2]}
+					/>
+				</a>
+			</figure>
+		</article>
+	</div>
+</section>
+
+<style>
+	section {
+		padding-block-start: var(--space-xl);
+	}
+
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-m);
+	}
+
+	.get-involved {
+		padding-block-start: var(--space-xl);
+	}
+
+	.inner {
+		display: flex;
+		flex-flow: column;
+		align-items: center;
+		background: var(--purple-dark);
+		color: var(--body-text-light);
+		padding: var(--space-xl);
+		gap: var(--space-m);
+	}
+
+	.get-involved h3 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.get-involved p {
+		max-inline-size: var(--measure);
+		font-size: var(--font-s);
+		margin-block-end: var(--space-s);
+	}
+
+	.get-involved article div {
+		flex-basis: 50%;
+	}
+
+	.get-involved figure {
+		flex-basis: 50%;
+		transition: all var(--trans-time) ease-in-out;
+	}
+
+	.get-involved figure:hover {
+		transform: scale(102%);
+		filter: var(--hover-effect-filter);
+	}
+
+	.get-involved article {
+		display: flex;
+		gap: var(--space-l);
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
+		}
+	}
+
+	.get-involved article:not(:first-of-type) {
+		margin-block-start: var(--space-l);
+	}
+
+	.get-involved article:nth-child(even) {
+		flex-flow: row-reverse;
+		@media screen and (max-width: 844px) {
+			flex-flow: column;
+		}
+	}
+
+	.get-involved .button {
+		background: var(--purple-light);
+		color: var(--button-text);
+	}
+</style>

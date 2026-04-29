@@ -1,33 +1,27 @@
 ---
 import type { Page } from 'astro';
+import ChevronLeft from './../assets/icons/chevron-left.svg';
+import ChevronRight from './../assets/icons/chevron-right.svg';
 
 type Props = Page;
 
 const { currentPage, lastPage, url } = Astro.props;
 ---
 
-<nav class="Pagination" aria-label="Pagination">
+<nav class="pagination" aria-label="pagination">
 	{
 		url.prev && (
-			<a class="Pagination__link Pagination__link--previous" href={url.prev}>
-				<svg class="Pagination__icon icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-					<path
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						d="M15 19l-7-7 7-7"
-					/>
-				</svg>
+			<a class="pagination-nav pagination-previous" href={url.prev}>
+				<ChevronLeft width={18} height={18} />
 				Previous
 			</a>
 		)
 	}
 
-	<div class="Pagination__pages">
+	<div class="pagination-pages">
 		{
 			Array.from({ length: lastPage }, (_, i) => i + 1).map((pageNum) => (
 				<a
-					class="Pagination__link Pagination__link--page"
 					href={pageNum === 1 ? '/articles' : `/articles/${pageNum}`}
 					aria-current={pageNum === currentPage ? 'page' : undefined}
 				>
@@ -39,12 +33,52 @@ const { currentPage, lastPage, url } = Astro.props;
 
 	{
 		url.next && (
-			<a class="Pagination__link Pagination__link--next" href={url.next}>
+			<a class="pagination-nav pagination-next" href={url.next}>
 				Next
-				<svg class="Pagination__icon icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-				</svg>
+				<ChevronRight width={18} height={18} />
 			</a>
 		)
 	}
 </nav>
+
+<style>
+	.pagination {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: var(--space-m);
+		font-size: var(--font-s);
+	}
+
+	.pagination a {
+		text-decoration: none;
+		background: var(--grey-light);
+		border-radius: 500px;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		color: var(--body-text);
+	}
+
+	.pagination-pages {
+		display: flex;
+		gap: var(--space-xs);
+	}
+
+	.pagination-pages a {
+		aspect-ratio: 1/1;
+		padding: var(--space-2xs);
+		width: 3rem;
+	}
+
+	.pagination a:hover,
+	.pagination-pages a[aria-current='page'] {
+		background: var(--black);
+		color: var(--body-text-light);
+	}
+
+	.pagination-nav {
+		gap: var(--space-3xs);
+		padding: var(--space-2xs) var(--space-s);
+	}
+</style>

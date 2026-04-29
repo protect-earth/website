@@ -1,6 +1,8 @@
 ## Summary
 
-<!-- eg. 1-3 bullets, and / or a short paragraph, covering changes -->
+<!-- Link to issue, eg. "Closes: <link>", or "Relates to: <link>"
+
+<!-- 1-3 bullets, and / or a short paragraph, covering changes -->
 
 ## Checklist
 

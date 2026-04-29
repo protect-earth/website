@@ -5,6 +5,7 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://www.protect.earth',
 	output: 'static',
 	adapter: netlify(),
 	vite: {

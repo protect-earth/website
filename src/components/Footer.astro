@@ -2,7 +2,7 @@
 import { siteConfig } from '../config';
 import FilePdf from '../assets/icons/file-pdf.svg';
 
-const { charityNumber, contact, social } = siteConfig;
+const { charityNumber, contact, social, name } = siteConfig;
 const copyrightYear = new Date().getFullYear();
 ---
 
@@ -51,7 +51,7 @@ const copyrightYear = new Date().getFullYear();
 
 		<div>
 			<a href="/">
-				<img class="logo" src="/logo-footer.png" alt="Protect Earth" />
+				<img class="logo" src="/logo-footer.png" alt={name} />
 			</a>
 		</div>
 	</div>

@@ -41,10 +41,11 @@
 	display: flex;
 	flex-flow: column;
 	gap: var(--space-3xs);
-	color: var(--gray);
+	color: var(--grey);
 	font-size: var(--font-xs);
 
 	small {
+		font-size: inherit;
 		display: block;
 	}
 }

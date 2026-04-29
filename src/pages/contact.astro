@@ -2,9 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 import { siteConfig } from '../config';
 import ContentHero from '../components/ContentHero.astro';
+
+const desc =
+	"Contact Us. We'd love to hear from you. Whether you're interested in volunteering, have land to offer, or want to support our work, please get in touch.";
 ---
 
-<Layout title="Contact" className="Contact">
+<Layout title="Contact" className="page-contact" description={desc}>
 	<ContentHero
 		title="Contact Us"
 		imgSrc="/hero-people-families.jpg"

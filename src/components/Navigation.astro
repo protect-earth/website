@@ -1,55 +1,44 @@
 ---
+import Menu from '../assets/icons/menu.svg';
 const { pathname } = Astro.url;
 const paths = pathname.split('/').filter(Boolean);
 
 const [topLevel, secondLevel] = paths;
 ---
 
-<nav class="Navigation">
-	<label class="Navigation__trigger" for="navigation-toggle">
-		<span>Menu</span>
-		<input
-			class="Navigation__toggle no-focus-visually-hidden"
-			type="checkbox"
-			id="navigation-toggle"
-		/>
-	</label>
-	<ul class="Navigation__items">
-		<li class="Navigation__item">
-			<a class="Navigation__link" href="/" aria-current={topLevel === '' ? 'page' : undefined}>
-				Home
-			</a>
+<nav class="site-nav">
+	<button aria-controls="#nav-menu" class="nav-toggle" id="nav-toggle">
+		<span class="visually-hidden">Open menu</span>
+		<Menu width={36} height={36} />
+	</button>
+
+	<ul class="nav-menu" id="nav-menu">
+		<li>
+			<a href="/" aria-current={topLevel === '' ? 'page' : undefined}> Home </a>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/get-involved"
-				aria-current={topLevel === 'get-involved' ? 'page' : undefined}
-			>
+		<li>
+			<a href="/get-involved" aria-current={topLevel === 'get-involved' ? 'page' : undefined}>
 				Get Involved
 			</a>
-			<ul class="Navigation__items">
-				<li class="Navigation__item">
+			<ul class="sub-nav-items">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/get-involved/businesses"
 						aria-current={secondLevel === 'businesses' ? 'page' : undefined}
 					>
 						Businesses
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/get-involved/landowners"
 						aria-current={secondLevel === 'landowners' ? 'page' : undefined}
 					>
 						Landowners
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/get-involved/people-families"
 						aria-current={secondLevel === 'people-families' ? 'page' : undefined}
 					>
@@ -58,63 +47,36 @@ const [topLevel, secondLevel] = paths;
 				</li>
 			</ul>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/events"
-				aria-current={topLevel === 'events' ? 'page' : undefined}
-			>
-				Events
-			</a>
+		<li>
+			<a href="/events" aria-current={topLevel === 'events' ? 'page' : undefined}> Events </a>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/sites"
-				aria-current={topLevel === 'sites' ? 'page' : undefined}
-			>
-				Sites
-			</a>
+		<li>
+			<a href="/sites" aria-current={topLevel === 'sites' ? 'page' : undefined}> Sites </a>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/articles"
-				aria-current={topLevel === 'articles' ? 'page' : undefined}
-			>
-				Articles
-			</a>
+		<li>
+			<a href="/articles" aria-current={topLevel === 'articles' ? 'page' : undefined}> Articles </a>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/act-now"
-				aria-current={topLevel === 'act-now' ? 'page' : undefined}
-			>
-				Act Now
-			</a>
-			<ul class="Navigation__items">
-				<li class="Navigation__item">
+		<li>
+			<a href="/act-now" aria-current={topLevel === 'act-now' ? 'page' : undefined}> Act Now </a>
+			<ul class="sub-nav-items">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/act-now/general-donation"
 						aria-current={secondLevel === 'general-donation' ? 'page' : undefined}
 					>
 						General Donation
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/act-now/sponsor-trees"
 						aria-current={secondLevel === 'sponsor-trees' ? 'page' : undefined}
 					>
 						Sponsor Trees
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/act-now/land-fund"
 						aria-current={secondLevel === 'land-fund' ? 'page' : undefined}
 					>
@@ -123,36 +85,27 @@ const [topLevel, secondLevel] = paths;
 				</li>
 			</ul>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/about"
-				aria-current={topLevel === 'about' ? 'page' : undefined}
-			>
-				About
-			</a>
-			<ul class="Navigation__items">
-				<li class="Navigation__item">
+		<li>
+			<a href="/about" aria-current={topLevel === 'about' ? 'page' : undefined}> About </a>
+			<ul class="sub-nav-items">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/about/our-purpose"
 						aria-current={secondLevel === 'our-purpose' ? 'page' : undefined}
 					>
 						Our Purpose
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/about/meet-the-team"
 						aria-current={secondLevel === 'meet-the-team' ? 'page' : undefined}
 					>
 						Meet the Team
 					</a>
 				</li>
-				<li class="Navigation__item">
+				<li>
 					<a
-						class="Navigation__link"
 						href="/about/in-the-press"
 						aria-current={secondLevel === 'in-the-press' ? 'page' : undefined}
 					>
@@ -161,14 +114,18 @@ const [topLevel, secondLevel] = paths;
 				</li>
 			</ul>
 		</li>
-		<li class="Navigation__item">
-			<a
-				class="Navigation__link"
-				href="/contact"
-				aria-current={topLevel === 'contact' ? 'page' : undefined}
-			>
-				Contact
-			</a>
+		<li>
+			<a href="/contact" aria-current={topLevel === 'contact' ? 'page' : undefined}> Contact </a>
 		</li>
 	</ul>
 </nav>
+
+<script>
+	const navToggle = document.getElementById('nav-toggle') as HTMLElement;
+	const navMenu = document.getElementById('nav-menu') as HTMLElement;
+
+	navToggle?.addEventListener('click', () => {
+		navToggle.classList.toggle('nav-active');
+		navMenu?.classList.toggle('menu-open');
+	});
+</script>

@@ -24,7 +24,7 @@ const regionInterestIds: Record<string, string> = {
 	'South West Wales': '54ee790e75',
 	'Mid Wales': '7e8c207db0',
 	'South East Wales': 'b6cad07b51',
-	'Scotland': '5c5bdc385f',
+	Scotland: '5c5bdc385f',
 };
 
 mailchimp.setConfig({
@@ -87,10 +87,10 @@ export const POST: APIRoute = async ({ request }) => {
 				? 'Please check your email to confirm your subscription.'
 				: 'You are already subscribed to this list.';
 
-		return new Response(
-			JSON.stringify({ success: true, message }),
-			{ status: 200, headers: { 'Content-Type': 'application/json' } },
-		);
+		return new Response(JSON.stringify({ success: true, message }), {
+			status: 200,
+			headers: { 'Content-Type': 'application/json' },
+		});
 	} catch (error: any) {
 		console.error('Mailchimp subscribe error:', error);
 

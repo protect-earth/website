@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 ---
 
@@ -9,7 +10,7 @@ const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 	</div>
 
 	<div class="background-canvas">
-		{imgSrc && <img src={imgSrc} alt={imgAlt} loading="eager" alt={title} />}
+		{imgSrc && <Image src={imgSrc} loading="eager" alt={title} />}
 	</div>
 </header>
 

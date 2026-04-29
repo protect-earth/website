@@ -1,14 +1,38 @@
+@import url('./reset.css');
 @import url('./root.css');
 @import url('./utils.css');
+@import url('./navigation.css');
 @import url('./footer.css');
 @import url('./pages.css');
+@import url('./forms.css');
+
+body {
+	margin: 0;
+	background-color: var(--body-background);
+	font-family: var(--font-system);
+	color: var(--body-text);
+}
 
 ::selection {
 	background: var(--orange);
 	color: var(--offwhite);
 }
 
+/* Images */
+
+:where(img, picture, video) {
+	max-inline-size: 100%;
+	block-size: auto;
+}
+
 /* Typography Defaults */
+
+ul,
+ol {
+	list-style: none;
+	padding: 0;
+}
+
 h1,
 h2,
 h3,
@@ -24,51 +48,6 @@ h2:has(svg) {
 	align-items: center;
 }
 
-.button {
-	border-radius: var(--radius-l);
-	padding: var(--space-xs) var(--space-l);
-	border: 2px solid transparent;
-	display: inline-flex;
-	text-decoration: none;
-	font-size: var(--font-s);
-	background: var(--button-background);
-	text-align: center;
-	transition: all var(--trans-time) ease-in-out;
-	justify-content: center;
-	color: var(--button-text) !important;
-
-	&:hover {
-		background: var(--button-hover);
-		transform: translateY(var(--space-3xs));
-	}
-}
-
-.button:has(svg) {
-	gap: var(--space-3xs);
-}
-
-.button-ghost {
-	border-radius: var(--radius-l);
-	padding: var(--space-xs) var(--space-l);
-	border: 2px solid var(--button-border);
-	display: inline-flex;
-	text-decoration: none;
-	font-size: var(--font-s);
-	background: transparent;
-	text-align: center;
-	transition: all var(--trans-time) ease-in-out;
-	justify-content: center;
-	color: currentcolor !important;
-
-	&:hover {
-		transform: translateY(var(--space-3xs));
-	}
-}
-
-.button-ghost:has(svg) {
-	gap: var(--space-3xs);
-}
-
 /* Shapes */
 
 .squircle {
@@ -77,19 +56,22 @@ h2:has(svg) {
 	--_r: clamp(0%, var(--r) / 2, 21%);
 	--_v: calc(var(--_r) * (1 - sqrt(2) / 4));
 	--_p: calc(var(--_v) - var(--_r) / 2);
-	clip-path: shape(from var(--_v) var(--_p),
-			curve to 50% 0 with var(--_r) 0,
-			curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
-			curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
-			curve to 100% 50% with 100% var(--_r),
-			curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
-			curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p)) calc(100% - 2 * var(--_p)),
-			curve to 50% 100% with calc(100% - var(--_r)) 100%,
-			curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
-			curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
-			curve to 0 50% with 0 calc(100% - var(--_r)),
-			curve to var(--_p) var(--_v) with 0 var(--_r),
-			curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p)));
+	clip-path: shape(
+		from var(--_v) var(--_p),
+		curve to 50% 0 with var(--_r) 0,
+		curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
+		curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
+		curve to 100% 50% with 100% var(--_r),
+		curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
+		curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p))
+			calc(100% - 2 * var(--_p)),
+		curve to 50% 100% with calc(100% - var(--_r)) 100%,
+		curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
+		curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
+		curve to 0 50% with 0 calc(100% - var(--_r)),
+		curve to var(--_p) var(--_v) with 0 var(--_r),
+		curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p))
+	);
 }
 
 /* Breadcrumbs */
