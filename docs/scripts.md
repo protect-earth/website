@@ -24,7 +24,7 @@ pnpm install
 cp .env.example .env
 ```
 
-3. Populate required values in .env for Notion and Google integrations.
+3. Populate required values in .env for Notion integrations.
 
 ## Script Reference
 
@@ -73,15 +73,15 @@ Required env vars:
 
 - NOTION_API_KEY
 - NOTION_SITE_UPDATES_DB_ID
-- GOOGLE_SERVICE_ACCOUNT_EMAIL (only with `--replace-images`)
-- GOOGLE_PRIVATE_KEY (only with `--replace-images`)
 
 Purpose:
 
 - Reads Site Updates from Notion database
 - Converts fields + page blocks to markdown
 - Writes one markdown file per update
-- Optionally localizes remote photo URLs to `src/assets/site-updates` with `--replace-images`
+- With `--replace-images`, localizes image files from the Notion Photos field to `src/assets/site-updates`
+- Ignores Google Drive/external links and only downloads image files
+- Uses manifest checksums to reuse unchanged images and removes local images no longer present in Notion
 
 Primary output location:
 
