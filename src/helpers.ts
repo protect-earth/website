@@ -35,7 +35,10 @@ export async function fetchProtectEarthSitesSafely(): Promise<SiteApiRecord[]> {
 
 		return payload as SiteApiRecord[];
 	} catch (error) {
-		console.warn('[sites] Failed to fetch Protect Earth sites API during build. Falling back to local content.', error);
+		console.warn(
+			'[sites] Failed to fetch Protect Earth sites API during build. Falling back to local content.',
+			error,
+		);
 		return [];
 	} finally {
 		clearTimeout(timeout);
