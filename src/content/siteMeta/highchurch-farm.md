@@ -16,5 +16,6 @@ images:
     ../../assets/sites/highchurch-farm/3f0d7e96bcafa39b954e3878656547476089e73cde7ffcea2b9e937442350d91.jpg
   - >-
     ../../assets/sites/highchurch-farm/8009c4995a9e5c77ea2d459245a29de75a82fb647461906ffdba2e85d3118ce1.jpg
+siteId: ae60df70-5489-4a86-8839-fb958378c7ca
 ---
 

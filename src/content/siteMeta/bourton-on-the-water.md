@@ -16,5 +16,6 @@ images:
     ../../assets/sites/bourton-on-the-water/d703d9f570472cfb7ccef910b4ceae8b662ef4ad6937a0520c13e1f24ce59b19.jpg
   - >-
     ../../assets/sites/bourton-on-the-water/39fd8aeeb6c38c53d48bf1b3424da5e3debeb9b081aa3b9a3733e53fa5a93873.jpg
+siteId: 582286a1-5781-4f67-b819-bf734d3cf1b6
 ---
 

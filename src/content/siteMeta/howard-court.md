@@ -16,5 +16,6 @@ images:
     ../../assets/sites/howard-court/cbbd7ea4d3df997fb218c5aebc879d31c1ccd10f7102778656ae35bb3998598e.jpg
   - >-
     ../../assets/sites/howard-court/d351a956ae1f9d6d60dcbb8e32a2bd2e4969572afa5d7c71507cd53c95d1c790.jpg
+siteId: b5e691b5-6f17-4a7a-b9fd-1981c4fc259b
 ---
 

@@ -380,8 +380,12 @@ async function syncSites() {
 				delete frontmatter.images;
 			}
 
+			// Hardcode site ID to frontmatter for reference
+			frontmatter.siteId = site.id;
+
 			// Write the file
 			const newContent = matter.stringify(content, frontmatter);
+
 			fs.writeFileSync(filePath, newContent, 'utf8');
 
 			if (fileExists) {

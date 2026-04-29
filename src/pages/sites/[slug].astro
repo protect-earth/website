@@ -80,6 +80,7 @@ const siteName = apiData?.name || site.id;
 const siteLocation = apiData?.location || '';
 const treeCount = apiData?.allocatedUnits || 0;
 const coordinates = apiData?.coordinates;
+const siteId = site.data.siteId;
 // Use images directly from content collection
 const images = site.data.images || [];
 const heroImage = images[0] || null;
@@ -87,6 +88,34 @@ const fundingPartners = site.data.fundingPartners || [];
 const siteDescription = apiData?.description;
 const descriptionHtml = siteDescription ? await marked.parse(siteDescription) : '';
 const species = apiData?.species || [];
+
+let siteMapGeoJson: any = null;
+if (siteId) {
+	try {
+		const mapResponse = await fetch(`https://api.protect.earth/maps/sites/${siteId}`);
+		if (mapResponse.ok) {
+			const mapData = await mapResponse.json();
+			if (mapData?.type === 'FeatureCollection' && Array.isArray(mapData.features)) {
+				const polygonFeatures = mapData.features.filter((feature: any) => {
+					const geometryType = feature?.geometry?.type;
+					return geometryType === 'Polygon' || geometryType === 'MultiPolygon';
+				});
+
+				if (polygonFeatures.length > 0) {
+					siteMapGeoJson = {
+						type: 'FeatureCollection',
+						features: polygonFeatures,
+					};
+				}
+			}
+		}
+	} catch (error) {
+		console.warn(`Could not load map polygons for ${site.id}:`, (error as Error).message);
+	}
+}
+
+const hasCoordinates = Boolean(coordinates && coordinates.latitude && coordinates.longitude);
+const hasMapData = hasCoordinates || Boolean(siteMapGeoJson);
 
 // Funding partner logo mapping
 type FundingPartnerInfo = { src: string; alt: string; url: string };
@@ -270,7 +299,7 @@ const fundingPartnerInfos = fundingPartners
 
 		<!-- Map Section -->
 		{
-			coordinates && coordinates.latitude && coordinates.longitude && (
+			hasMapData && (
 				<section>
 					<h2>
 						<MapPin height={36} width={36} /> Site Location
@@ -364,23 +393,82 @@ const fundingPartnerInfos = fundingPartners
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.css" rel="stylesheet" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.8.2/mapbox-gl.js"></script>
 
-<script is:inline define:vars={{ coordinates, siteName, mapboxToken }}>
-	if (coordinates && coordinates.latitude && coordinates.longitude) {
+<script is:inline define:vars={{ coordinates, siteName, mapboxToken, siteMapGeoJson }}>
+	if ((coordinates && coordinates.latitude && coordinates.longitude) || siteMapGeoJson) {
 		document.addEventListener('DOMContentLoaded', () => {
 			mapboxgl.accessToken = mapboxToken;
+
+			const defaultCenter = coordinates
+				? [coordinates.longitude, coordinates.latitude]
+				: [-2.5, 54.0];
 
 			const map = new mapboxgl.Map({
 				container: 'map',
 				style: 'mapbox://styles/mapbox/satellite-v9',
-				center: [coordinates.longitude, coordinates.latitude],
+				center: defaultCenter,
 				zoom: 15,
 			});
 
 			map.addControl(new mapboxgl.NavigationControl());
 
-			new mapboxgl.Marker({ color: '#15803d' })
-				.setLngLat([coordinates.longitude, coordinates.latitude])
-				.addTo(map);
+			map.on('load', () => {
+				const hasPolygonFeatures =
+					siteMapGeoJson &&
+					siteMapGeoJson.type === 'FeatureCollection' &&
+					Array.isArray(siteMapGeoJson.features) &&
+					siteMapGeoJson.features.length > 0;
+
+				if (hasPolygonFeatures) {
+					map.addSource('site-boundary', {
+						type: 'geojson',
+						data: siteMapGeoJson,
+					});
+
+					map.addLayer({
+						id: 'site-boundary-fill',
+						type: 'fill',
+						source: 'site-boundary',
+						paint: {
+							'fill-color': '#16a34a',
+							'fill-opacity': 0.3,
+						},
+					});
+
+					map.addLayer({
+						id: 'site-boundary-line',
+						type: 'line',
+						source: 'site-boundary',
+						paint: {
+							'line-color': '#166534',
+							'line-width': 2,
+						},
+					});
+
+					const bounds = new mapboxgl.LngLatBounds();
+					siteMapGeoJson.features.forEach((feature) => {
+						const geometry = feature?.geometry;
+						if (!geometry?.coordinates) return;
+
+						if (geometry.type === 'Polygon') {
+							geometry.coordinates.flat().forEach((coordinate) => bounds.extend(coordinate));
+						}
+
+						if (geometry.type === 'MultiPolygon') {
+							geometry.coordinates
+								.flat(2)
+								.forEach((coordinate) => bounds.extend(coordinate));
+						}
+					});
+
+					if (!bounds.isEmpty()) {
+						map.fitBounds(bounds, { padding: 40, maxZoom: 16 });
+					}
+				} else if (coordinates && coordinates.latitude && coordinates.longitude) {
+					new mapboxgl.Marker({ color: '#15803d' })
+						.setLngLat([coordinates.longitude, coordinates.latitude])
+						.addTo(map);
+				}
+			});
 		});
 	}
 </script>

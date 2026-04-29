@@ -16,5 +16,6 @@ images:
     ../../assets/sites/hutton-rudby/5db9a5801f90cd078c9a272aa5f9e9662a3b834143018bfb42f0403805fb54c9.jpg
   - >-
     ../../assets/sites/hutton-rudby/6fc79f4e6874d14b4ddd3722ef0db0d29bf0e7d804c39dc812919f22bbc8f0d8.jpg
+siteId: 97fef98a-d9c4-4204-bef6-9b79ce8b8f76
 ---
 

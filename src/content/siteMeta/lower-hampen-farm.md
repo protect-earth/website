@@ -14,5 +14,6 @@ images:
     ../../assets/sites/lower-hampen-farm/0686923a6dd7814ee200fbbdaab1a88542d9b8344565f440d4a87d724f1722c2.jpg
   - >-
     ../../assets/sites/lower-hampen-farm/b5b36b258ea5a39c2ec7203898d395ea3e9eb6569d5edafa6988ba9157d615b0.jpg
+siteId: ae8f7907-926c-42a5-89cb-0e40a5cd1fc6
 ---
 

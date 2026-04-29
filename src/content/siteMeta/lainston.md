@@ -14,5 +14,6 @@ images:
     ../../assets/sites/lainston/274834d50858e6712c347ac99f3f807e23f8169383f35ade4c642be36e04e737.jpg
   - >-
     ../../assets/sites/lainston/45edbb1dfc35912485e99312165cf4e750869d3c9a724f26b986b897df82cde6.jpg
+siteId: 9abafe48-70a4-4d89-b14f-6d4b8c0c6a16
 ---
 

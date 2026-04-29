@@ -18,5 +18,6 @@ images:
     ../../assets/sites/bubbenhall/dfcb28b1725131ff7ec9fbe43a7f6907e1c58d5bad3a4728853c131c29266caf.jpg
   - >-
     ../../assets/sites/bubbenhall/3607212da0dbb60381431b6b71a23016270c9908a70d8a0026ab4a7eb8c193f9.jpg
+siteId: 2a7721f4-327e-4825-87c8-c3312406a2a2
 ---
 

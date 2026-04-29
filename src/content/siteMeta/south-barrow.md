@@ -16,5 +16,6 @@ images:
     ../../assets/sites/south-barrow/f799457865a4ec1df51c6274364bb15cfa0438ba7dfc69e9815a0f27ad003b77.jpg
   - >-
     ../../assets/sites/south-barrow/7fe8ac8fdb1a8c91d99da3c8b736d3961ab07e352f5ba11fd1ddde9d0449a716.jpg
+siteId: 9ba87296-80d9-4048-beae-b04145c96bfa
 ---
 
