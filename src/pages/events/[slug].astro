@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import VolunteerSignup from '../../components/VolunteerSignup.astro';
 import { render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -16,7 +17,18 @@ export async function getStaticPaths() {
 const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
-	data: { description, title, startDate, endDate, address, map, ics, googleCal, eventbriteLink },
+	data: {
+		description,
+		title,
+		startDate,
+		endDate,
+		address,
+		map,
+		ics,
+		googleCal,
+		eventbriteLink,
+		thumbnail,
+	},
 } = event;
 const startDateValue = startDate as Date | undefined;
 const endDateValue = endDate as Date | undefined;
@@ -25,121 +37,132 @@ const { Content } = await render(event);
 
 <Layout {title} {description} breadcrumb={title}>
 	<!-- Hero Section -->
-	<div class="Event">
-		<header class="Event__header">
-			<div class="Event__headerInner">
-				<h1 class="Event__title">{title}</h1>
-
-				<div class="Event__meta">
-					<dl>
+	<div class="post">
+		<header>
+			<div class="wrap">
+				<h1>{title}</h1>
+				<dl class="meta">
+					{
+						startDateValue && (
+							<>
+								<dt>Starts</dt>
+								<dd>
+									<time datetime={startDateValue.toISOString()}>
+										{startDateValue.toLocaleString('en-GB', {
+											day: 'numeric',
+											month: 'long',
+											year: 'numeric',
+										})}
+									</time>
+								</dd>
+							</>
+						)
+					}
+					{
+						endDateValue && (
+							<>
+								<dt>Ends</dt>
+								<dd>
+									<time datetime={endDateValue.toISOString()}>
+										{endDateValue.toLocaleDateString('en-GB', {
+											day: 'numeric',
+											month: 'long',
+											year: 'numeric',
+										})}
+									</time>
+								</dd>
+							</>
+						)
+					}
+					<dt>Time</dt>
+					<dd>
 						{
 							startDateValue && (
-								<>
-									<dt>Starts</dt>
-									<dd>
-										<time datetime={startDateValue.toISOString()}>
-											{startDateValue.toLocaleString('en-GB', {
-												day: 'numeric',
-												month: 'long',
-												year: 'numeric',
-											})}
-										</time>
-									</dd>
-								</>
+								<time>
+									{startDateValue.toLocaleTimeString('en-GB', {
+										hour: '2-digit',
+										minute: '2-digit',
+									})}
+								</time>
 							)
 						}
+						{startDateValue && endDateValue && <>&mdash;</>}
 						{
 							endDateValue && (
-								<>
-									<dt>Ends</dt>
-									<dd>
-										<time datetime={endDateValue.toISOString()}>
-											{endDateValue.toLocaleDateString('en-GB', {
-												day: 'numeric',
-												month: 'long',
-												year: 'numeric',
-											})}
-										</time>
-									</dd>
-								</>
+								<time>
+									{endDateValue.toLocaleTimeString('en-GB', {
+										hour: '2-digit',
+										minute: '2-digit',
+									})}
+								</time>
 							)
 						}
-
-						<dt>Time</dt>
-						<dd>
-							{
-								startDateValue && (
-									<time>
-										{startDateValue.toLocaleTimeString('en-GB', {
-											hour: '2-digit',
-											minute: '2-digit',
-										})}
-									</time>
-								)
-							}
-
-							{startDateValue && endDateValue && <>&mdash;</>}
-
-							{
-								endDateValue && (
-									<time>
-										{endDateValue.toLocaleTimeString('en-GB', {
-											hour: '2-digit',
-											minute: '2-digit',
-										})}
-									</time>
-								)
-							}
-						</dd>
-
-						{
-							address && (
-								<>
-									<dt>Address</dt>
-									<dd>
-										{address} {map && <a href={map}>(Map)</a>}
-									</dd>
-								</>
-							)
-						}
-
-						{
-							ics && googleCal && (
-								<>
-									<dt>Add to</dt>
-									<dd>
-										{ics && (
-											<a href={ics} class="cal-link">
-												iCal
-											</a>
-										)}
-										or
-										{googleCal && (
-											<a href={googleCal} class="cal-link">
-												Google Calendar
-											</a>
-										)}
-									</dd>
-								</>
-							)
-						}
-					</dl>
-				</div>
+					</dd>
+					{
+						address && (
+							<>
+								<dt>Address</dt>
+								<dd>
+									{address}
+									{map && (
+										<>
+											<br />
+											<a href={map}>(Map)</a>
+										</>
+									)}
+								</dd>
+							</>
+						)
+					}
+					{
+						ics && googleCal && (
+							<>
+								<dt>Add to</dt>
+								<dd>
+									{ics && (
+										<a href={ics} class="cal-link">
+											iCal
+										</a>
+									)}
+									or
+									{googleCal && (
+										<a href={googleCal} class="cal-link">
+											Google Calendar
+										</a>
+									)}
+								</dd>
+							</>
+						)
+					}
+				</dl>
 			</div>
 		</header>
 
-		<div class="Event__content prose">
-			<Content />
-
+		<div class="wrap">
+			<div class="prose stack">
+				<Content />
+			</div>
 			{
 				eventbriteLink && (
-					<a href={eventbriteLink} class="block-link" target="_blank" rel="noopener noreferrer">
+					<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
 						Sign up to volunteer
 					</a>
 				)
 			}
 		</div>
-
-		<TakeAction />
 	</div>
+	<VolunteerSignup />
+	<TakeAction />
 </Layout>
+
+<style>
+	header {
+		background: var(--green-dark);
+	}
+
+	.meta {
+		display: grid;
+		grid-template-columns: min-content 1fr;
+		gap: var(--space-2xs);
+	}
+</style>

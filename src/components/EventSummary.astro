@@ -1,6 +1,8 @@
 ---
 import { isSameDay } from '../helpers';
 import type { HTMLTag, Polymorphic } from 'astro/types';
+import { Image } from 'astro:assets';
+import NoImage from './../assets/icons/image.svg';
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
 const {
@@ -9,9 +11,6 @@ const {
 	endDate,
 	slug,
 	address,
-	map,
-	ics,
-	googleCal,
 	thumbnail,
 	title,
 	titleAs: Tag = 'h2',
@@ -56,7 +55,6 @@ const {
 					</li>
 				)
 			}
-
 			<li>
 				{
 					startDate && (
@@ -68,9 +66,7 @@ const {
 						</time>
 					)
 				}
-
 				{startDate && endDate && <>&mdash;</>}
-
 				{
 					endDate && (
 						<time>
@@ -82,48 +78,68 @@ const {
 					)
 				}
 			</li>
-
 			<li>
 				{address}
 			</li>
 		</ul>
 
-		<a class="button block-link" href={`/events/${slug}`}>View event</a>
+		<a class="button" href={`/events/${slug}`}>View event</a>
 	</div>
 
-	<figure class="thumbnail">
-		{thumbnail && <img src={thumbnail} alt={title} />}
+	<figure>
+		<a href={`/events/${slug}`}>
+			{
+				thumbnail ? (
+					<Image
+						src={thumbnail}
+						alt={title}
+						width={600}
+						height={400}
+						loading="lazy"
+						class="squircle"
+					/>
+				) : (
+					<div class="no-image">
+						<NoImage height={36} width={36} />
+					</div>
+				)
+			}
+		</a>
 	</figure>
 </article>
 
 <style>
-	@layer overrides {
-		h2,
-		p {
-			text-align: left;
-		}
-	}
-
 	.card {
 		display: flex;
 		flex-flow: row-reverse;
 		justify-content: flex-start;
-		gap: 2rem;
+		gap: var(--space-m);
 
-		@media screen and (max-width: 48rem) {
+		@media screen and (max-width: 844px) {
 			flex-flow: column-reverse;
 		}
 	}
-	.meta {
-		text-align: left;
+
+	.stack {
+		flex: 3;
 	}
 
-	.thumbnail {
-		aspect-ratio: 1/1;
+	.button {
+		align-self: flex-start;
+	}
+
+	figure {
+		aspect-ratio: 3/2;
 		overflow: hidden;
-		max-inline-size: 24rem;
-		@media screen and (max-width: 48rem) {
+		max-inline-size: 28rem;
+		transition: all var(--transition);
+		@media screen and (max-width: 844px) {
 			max-inline-size: 100%;
 		}
+	}
+
+	figure:hover {
+		transform: scale(102%);
+		filter: var(--hover-effect-filter);
 	}
 </style>

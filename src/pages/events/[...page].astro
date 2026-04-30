@@ -27,14 +27,12 @@ const { page } = Astro.props as { page: Page };
 		</p>
 	</ContentHero>
 	<!-- Articles List -->
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<div class="events-list">
-				{page.data.map(({ slug, data: article }) => <EventSummary {...{ ...article, slug }} />)}
-			</div>
-			<!-- Pagination Controls -->
-			{page.lastPage > 1 && <Pagination {...page} />}
+	<section class="page-sections wrap">
+		<div class="events-list">
+			{page.data.map(({ slug, data: article }) => <EventSummary {...{ ...article, slug }} />)}
 		</div>
+		<!-- Pagination Controls -->
+		{page.lastPage > 1 && <Pagination {...page} />}
 	</section>
 
 	<VolunteerSignup />
@@ -46,7 +44,7 @@ const { page } = Astro.props as { page: Page };
 	.events-list {
 		display: flex;
 		flex-flow: column;
-		gap: 4rem;
+		gap: var(--space-xl);
 		align-items: flex-start;
 	}
 </style>

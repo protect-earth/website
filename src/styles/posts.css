@@ -1,0 +1,53 @@
+.post {
+	header {
+		background: var(--content-hero);
+		color: var(--body-text-light);
+		clip-path: var(--wavy-line-top-bottom);
+		position: relative;
+		padding-block: var(--space-3xl);
+		overflow: hidden;
+
+		.wrap {
+			display: flex;
+			flex-flow: column;
+			justify-content: center;
+			align-items: center;
+		}
+
+		h1 {
+			font-size: var(--font-2xl);
+			margin-block-end: var(--space-s);
+			text-align: center;
+		}
+
+		a {
+			color: currentcolor;
+		}
+	}
+
+	.background-canvas {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: -1;
+
+		img {
+			block-size: 100%;
+			inline-size: 100%;
+			object-fit: cover;
+			filter: opacity(0.5) grayscale(1);
+		}
+	}
+
+	.prose {
+		margin: auto;
+		margin-block: var(--space-2xl);
+	}
+
+	.meta {
+		display: flex;
+		gap: var(--space-2xs);
+	}
+}
