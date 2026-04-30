@@ -4,8 +4,8 @@ const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 ---
 
 <header class="content-hero" data-variant={variant || undefined}>
-	<h1>{title}</h1>
 	<div class="wrap">
+		<h1>{title}</h1>
 		<slot />
 	</div>
 
@@ -31,13 +31,16 @@ const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 
 	.wrap {
 		display: flex;
+		flex-flow: column;
 		justify-content: center;
 		align-items: center;
-		font-size: var(--font-s);
+		font-size: var(--font-m);
 
 		p {
 			display: inline-flex;
 			gap: var(--space-2xs);
+			max-inline-size: var(--measure);
+			text-align: center;
 		}
 	}
 

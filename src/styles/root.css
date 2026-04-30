@@ -134,6 +134,8 @@
 
 	--stat: var(--pink-dark);
 
+	--input: var(--white);
+
 	/* Links */
 
 	--link: var(--green);
