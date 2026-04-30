@@ -1,12 +1,14 @@
 /* Forms, Inputs and Button */
 
 textarea,
-input:not(button,
+input:not(
+	button,
 	[type='button'],
 	[type='sumbit'],
 	[type='reset'],
 	[type='checkbox'],
-	[type='radio']) {
+	[type='radio']
+) {
 	appearance: none;
 	border: 2px solid var(--border-color);
 	padding: var(--space-2xs);
