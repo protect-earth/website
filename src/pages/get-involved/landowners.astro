@@ -22,69 +22,87 @@ import TakeAction from '../../components/TakeAction.astro';
 		</p>
 	</ContentHero>
 
-	<!-- Reforesting or Rewilding Section -->
-	<ContentBlock
-		imgSrc="/landowners-rewilding.jpg"
-		imgAlt="Open grassy field with scattered patches."
-		title="Reforesting or Rewilding Your Land"
-	>
-		<p>
-			Enhancing your land for nature and wildlife has never been easier. We can plant shelterbelts
-			and field trees to provide shade and protection for livestock. In unused areas, we can
-			establish thriving woodlands or vibrant wildflower meadows that act as productive carbon
-			stores. For those with existing woodlands, we offer expert management to restore or maintain
-			healthy, biodiverse ecosystems.
-		</p>
-	</ContentBlock>
-
-	<!-- Agroforestry Section -->
-	<ContentBlock
-		imgAlt="Muddy field with newly installed fencing."
-		imgSrc="/landowners-agroforestry.jpg"
-		title="Agroforestry"
-		isReversed
-	>
-		<p>
-			If navigating government funding feels like an uphill battle, Protect Earth can help. We'll
-			guide you in your rewilding, agroforestry (i.e. shelterbelts, silvopasture), or other
-			nature-focused efforts. If grants are available, we'll help you apply (and you keep the
-			funding). If not, we can use charitable donations to cover the costs. Either way, we'll help
-			you make meaningful improvements at little to no expense.
-		</p>
-	</ContentBlock>
-
-	<!-- Lease or Donate Land Section -->
-	<ContentBlock
-		imgSrc="/landowners-rewilding.jpg"
-		imgAlt="Open grassy field with scattered patches."
-		title="Lease or Donate Land"
-	>
-		<p>
-			Want to see your land transformed but don't have the time or resources? Lease or donate it to
-			Protect Earth.
-		</p>
-		<p>
-			We'll conduct surveys, carry out planting, and ensure the long-term care and protection of the
-			space. Donating or leasing land is a straightforward, impactful way to contribute to nature
-			restoration. <a href="/contact">Get in touch</a> to discuss how we can work together.
-		</p>
-	</ContentBlock>
-
-	<!-- Application Form Section -->
-	<section class="PageSection" data-variant="call-to-action">
-		<header class="PageSection__header">
-			<h2 class="PageSection__title">Apply for Biodiversity Assistance & Funding</h2>
-			<p>Fill out the application form below to tell us more about your land and your goals.</p>
-		</header>
-		<a
-			href="https://noteforms.com/forms/form-landowner-applications-kifqm4"
-			target="_blank"
-			rel="noopener noreferrer"
-			class="button-link"
+	<section class="page-sections wrap">
+		<!-- Reforesting or Rewilding Section -->
+		<ContentBlock
+			imgSrc="/landowners-rewilding.jpg"
+			imgAlt="Open grassy field with scattered patches."
+			title="Reforesting or Rewilding Your Land"
 		>
-			Application Form →
-		</a>
+			<p>
+				Enhancing your land for nature and wildlife has never been easier. We can plant shelterbelts
+				and field trees to provide shade and protection for livestock. In unused areas, we can
+				establish thriving woodlands or vibrant wildflower meadows that act as productive carbon
+				stores. For those with existing woodlands, we offer expert management to restore or maintain
+				healthy, biodiverse ecosystems.
+			</p>
+		</ContentBlock>
+
+		<!-- Agroforestry Section -->
+		<ContentBlock
+			imgAlt="Muddy field with newly installed fencing."
+			imgSrc="/landowners-agroforestry.jpg"
+			title="Agroforestry"
+			isReversed
+		>
+			<p>
+				If navigating government funding feels like an uphill battle, Protect Earth can help. We'll
+				guide you in your rewilding, agroforestry (i.e. shelterbelts, silvopasture), or other
+				nature-focused efforts. If grants are available, we'll help you apply (and you keep the
+				funding). If not, we can use charitable donations to cover the costs. Either way, we'll help
+				you make meaningful improvements at little to no expense.
+			</p>
+		</ContentBlock>
+
+		<!-- Lease or Donate Land Section -->
+		<ContentBlock
+			imgSrc="/landowners-rewilding.jpg"
+			imgAlt="Open grassy field with scattered patches."
+			title="Lease or Donate Land"
+		>
+			<p>
+				Want to see your land transformed but don't have the time or resources? Lease or donate it
+				to Protect Earth.
+			</p>
+			<p>
+				We'll conduct surveys, carry out planting, and ensure the long-term care and protection of
+				the space. Donating or leasing land is a straightforward, impactful way to contribute to
+				nature restoration. <a href="/contact">Get in touch</a> to discuss how we can work together.
+			</p>
+		</ContentBlock>
+
+		<!-- Application Form Section -->
+
+		<section class="apply squircle stack" data-variant="call-to-action">
+			<header>
+				<h2>Apply for Biodiversity Assistance & Funding</h2>
+			</header>
+			<p>Fill out the application form below to tell us more about your land and your goals.</p>
+			<a
+				href="https://noteforms.com/forms/form-landowner-applications-kifqm4"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="button"
+			>
+				Application Form →
+			</a>
+		</section>
 	</section>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.apply {
+		background: var(--white);
+		padding: var(--space-xl);
+	}
+
+	.apply h2 {
+		font-size: var(--font-xl);
+	}
+
+	.apply p {
+		font-size: var(--font-m);
+	}
+</style>

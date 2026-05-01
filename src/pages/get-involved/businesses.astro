@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import ContentBlock from '../../components/ContentBlock.astro';
@@ -20,125 +21,149 @@ import TakeAction from '../../components/TakeAction.astro';
 		</p>
 	</ContentHero>
 
-	<!-- Brand Logos Section -->
-	<section class="PageSection">
-		<h2 class="PageSection__title">Some brands who have benefited from supporting us:</h2>
+	<section class="page-sections wrap">
+		<!-- Corporate Volunteering Section -->
+		<ContentBlock
+			imgSrc="/businesses-volunteering.jpg"
+			imgAlt="People planting young trees in a grassy field"
+			linkHref="https://protectearthcio.notion.site/2c1e7dc6657c80d3b21ff727acd31056"
+			linkTarget="_blank"
+			linkText="Get Started →"
+			title="Corporate Volunteering"
+		>
+			<p>
+				Escape the office and bring your team out for a unique, environmentally-friendly experience!
+				Our tree planting days offer the perfect opportunity for team building while supporting our
+				mission.
+			</p>
+			<p>
+				Many companies have joined us for these events, and together, we've planted as many as 2,000
+				trees in a single day!
+			</p>
+			<p>
+				Not only is this a rewarding way to contribute to your local area, but it's also a fantastic
+				chance to capture some fun content for your socials. Our eco-experts will guide your team
+				through the day – from what to bring, to the basics of tree planting, to carbon-reducing
+				tips they can apply at home.
+			</p>
+		</ContentBlock>
 
-		<ul class="LogoList" data-cols="6">
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+		<!-- Sponsor Reforestation Section -->
+		<ContentBlock
+			imgSrc="/businesses-sponsor1.jpg"
+			imgAlt="People planting trees on a grassy hillside"
+			linkHref="/contact"
+			linkText="Contact Us →"
+			title="Sponsor Reforestation & Rewilding"
+			isReversed
+		>
+			<p>
+				Most of the work we do is done without government grants or any other form of funding, and
+				donations only get us so far. Companies who want to plant trees or improve biodiversity in
+				their area can sponsor an entire project, or a certain number of trees, or square meters of
+				other work like ancient woodland restoration.
+			</p>
+			<p>
+				This helps boost your company's sustainability credentials, demonstrate a commitment to
+				combating climate change, and you can come out to help do the work if you fancy it.
+			</p>
+		</ContentBlock>
+
+		<!-- Planting Your Land Section -->
+		<ContentBlock
+			imgSrc="/businesses-sponsor2.jpg"
+			imgAlt="Group of people planting trees in a field"
+			linkHref="/contact"
+			linkText="Contact Us →"
+			title="Planting Your Land"
+		>
+			<p>
+				Got land sitting idle? Turn it into a productive carbon store and thriving habitat for
+				wildlife!
+			</p>
+			<p>
+				Whether you're a small business with a back garden or a large corporation with acres to
+				spare, we can help transform your unused land into something extraordinary. Our ecologists
+				will design a plan tailored to your site's potential, and be your guides in planting and
+				ongoing maintenance.
+			</p>
+		</ContentBlock>
+
+		<!-- Brand Logos Section -->
+		<section class="brands">
+			<h2>Some brands who have benefited from supporting us</h2>
+
+			<div class="grid">
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-absolute-vodka.png"
 					alt="Absolut Vodka"
+					class="squircle"
 				/>
-			</li>
-			<li class="LogoList__item">
-				<img class="LogoList__logo" src="/logos/corporate-volunteers/brand-acer.png" alt="Acer" />
-			</li>
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+
+				<Image
+					width={667}
+					height={375}
+					src="/logos/corporate-volunteers/brand-acer.png"
+					alt="Acer"
+					class="squircle"
+				/>
+
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-capsule-cover.png"
 					alt="Capsule Cover"
+					class="squircle"
 				/>
-			</li>
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-environment-agency.png"
 					alt="Environment Agency"
+					class="squircle"
 				/>
-			</li>
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-google.png"
 					alt="Google"
+					class="squircle"
 				/>
-			</li>
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-ovo-energy.png"
 					alt="Ovo Energy"
+					class="squircle"
 				/>
-			</li>
-			<li class="LogoList__item">
-				<img
-					class="LogoList__logo"
+
+				<Image
+					width={667}
+					height={375}
 					src="/logos/corporate-volunteers/brand-reuseabox.png"
 					alt="Reuseabox"
+					class="squircle"
 				/>
-			</li>
-		</ul>
+			</div>
+		</section>
 	</section>
-
-	<!-- Corporate Volunteering Section -->
-	<ContentBlock
-		imgSrc="/businesses-volunteering.jpg"
-		imgAlt="People planting young trees in a grassy field"
-		linkHref="https://protectearthcio.notion.site/2c1e7dc6657c80d3b21ff727acd31056"
-		linkTarget="_blank"
-		linkText="Get Started →"
-		title="Corporate Volunteering"
-	>
-		<p>
-			Escape the office and bring your team out for a unique, environmentally-friendly experience!
-			Our tree planting days offer the perfect opportunity for team building while supporting our
-			mission.
-		</p>
-		<p>
-			Many companies have joined us for these events, and together, we've planted as many as 2,000
-			trees in a single day!
-		</p>
-		<p>
-			Not only is this a rewarding way to contribute to your local area, but it's also a fantastic
-			chance to capture some fun content for your socials. Our eco-experts will guide your team
-			through the day – from what to bring, to the basics of tree planting, to carbon-reducing tips
-			they can apply at home.
-		</p>
-	</ContentBlock>
-
-	<!-- Sponsor Reforestation Section -->
-	<ContentBlock
-		imgSrc="/businesses-sponsor1.jpg"
-		imgAlt="People planting trees on a grassy hillside"
-		linkHref="/contact"
-		linkText="Contact Us →"
-		title="Sponsor Reforestation & Rewilding"
-		isReversed
-	>
-		<p>
-			Most of the work we do is done without government grants or any other form of funding, and
-			donations only get us so far. Companies who want to plant trees or improve biodiversity in
-			their area can sponsor an entire project, or a certain number of trees, or square meters of
-			other work like ancient woodland restoration.
-		</p>
-		<p>
-			This helps boost your company's sustainability credentials, demonstrate a commitment to
-			combating climate change, and you can come out to help do the work if you fancy it.
-		</p>
-	</ContentBlock>
-
-	<!-- Planting Your Land Section -->
-	<ContentBlock
-		imgSrc="/businesses-sponsor2.jpg"
-		imgAlt="Group of people planting trees in a field"
-		linkHref="/contact"
-		linkText="Contact Us →"
-		title="Planting Your Land"
-	>
-		<p>
-			Got land sitting idle? Turn it into a productive carbon store and thriving habitat for
-			wildlife!
-		</p>
-		<p>
-			Whether you're a small business with a back garden or a large corporation with acres to spare,
-			we can help transform your unused land into something extraordinary. Our ecologists will
-			design a plan tailored to your site's potential, and be your guides in planting and ongoing
-			maintenance.
-		</p>
-	</ContentBlock>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.grid {
+		grid-template-columns: var(--grid-fit-12rem);
+	}
+
+	.brands h2 {
+		font-size: var(--font-l);
+		text-align: center;
+		margin-block-end: var(--space-m);
+	}
+</style>

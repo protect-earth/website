@@ -1,32 +1,73 @@
 ---
+import { Image } from 'astro:assets';
 const { imgAlt, imgSrc, isReversed, linkHref, linkTarget, linkText, title, variant } = Astro.props;
 ---
 
 <section
-	class="ContentBlock"
+	class="content-block"
 	data-direction={isReversed ? 'reversed' : undefined}
 	data-variant={variant}
 >
-	<img class="ContentBlock__image" src={imgSrc} alt={imgAlt} />
+	{
+		imgSrc && (
+			<figure>
+				<Image src={imgSrc} alt={imgAlt} inferSize densities={[1.5, 2]} class="squircle" />
+			</figure>
+		)
+	}
 
-	<div class="ContentBlock__canvas">
-		<h2 class="ContentBlock__title">{title}</h2>
-
-		<div class="ContentBlock__content">
-			<slot />
-		</div>
+	<div class="prose stack">
+		<h2>{title}</h2>
+		<slot />
 
 		{
 			linkHref && (
-				<a
-					class="ContentBlock__link"
-					href={linkHref}
-					target={linkTarget}
-					rel={linkTarget === '_blank' ? 'noopener noreferrer' : undefined}
-				>
-					{linkText}
-				</a>
+				<div class="cta">
+					<a
+						class="button"
+						href={linkHref}
+						target={linkTarget}
+						rel={linkTarget === '_blank' ? 'noopener noreferrer' : undefined}
+					>
+						{linkText}
+					</a>
+				</div>
 			)
 		}
 	</div>
 </section>
+
+<style>
+	.content-block {
+		display: flex;
+		flex-flow: row;
+		gap: var(--space-xl);
+		margin-block-start: var(--space-xl);
+	}
+
+	.content-block:first-of-type {
+		margin-block-start: 0;
+	}
+
+	h2 {
+		font-size: var(--font-xl);
+	}
+
+	.prose {
+		flex: 3;
+	}
+
+	figure {
+		flex: 2;
+	}
+
+	img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+
+	.content-block[data-direction='reversed'] {
+		flex-flow: row-reverse;
+	}
+</style>

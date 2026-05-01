@@ -6,6 +6,8 @@
 @import url('./pages.css');
 @import url('./forms.css');
 
+@layer global, component;
+
 body {
 	margin: 0;
 	background-color: var(--body-background);
@@ -48,6 +50,24 @@ h2:has(svg) {
 	align-items: center;
 }
 
+.prose {
+	max-inline-size: var(--measure);
+	font-size: var(--font-s);
+	line-height: 1.6;
+}
+
+.prose a:not(.button) {
+	color: var(--prose-link);
+}
+
+.prose a:hover:not(.button) {
+	text-decoration: none;
+}
+
+.post .prose p:first-of-type {
+	font-size: var(--font-m);
+}
+
 /* Shapes */
 
 .squircle {
@@ -56,22 +76,19 @@ h2:has(svg) {
 	--_r: clamp(0%, var(--r) / 2, 21%);
 	--_v: calc(var(--_r) * (1 - sqrt(2) / 4));
 	--_p: calc(var(--_v) - var(--_r) / 2);
-	clip-path: shape(
-		from var(--_v) var(--_p),
-		curve to 50% 0 with var(--_r) 0,
-		curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
-		curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
-		curve to 100% 50% with 100% var(--_r),
-		curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
-		curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p))
-			calc(100% - 2 * var(--_p)),
-		curve to 50% 100% with calc(100% - var(--_r)) 100%,
-		curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
-		curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
-		curve to 0 50% with 0 calc(100% - var(--_r)),
-		curve to var(--_p) var(--_v) with 0 var(--_r),
-		curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p))
-	);
+	clip-path: shape(from var(--_v) var(--_p),
+			curve to 50% 0 with var(--_r) 0,
+			curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
+			curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
+			curve to 100% 50% with 100% var(--_r),
+			curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
+			curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p)) calc(100% - 2 * var(--_p)),
+			curve to 50% 100% with calc(100% - var(--_r)) 100%,
+			curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
+			curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
+			curve to 0 50% with 0 calc(100% - var(--_r)),
+			curve to var(--_p) var(--_v) with 0 var(--_r),
+			curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p)));
 }
 
 /* Breadcrumbs */

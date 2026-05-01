@@ -1,11 +1,15 @@
 ---
 import { Image } from 'astro:assets';
-const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
+const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
 ---
 
-<header class="content-hero" data-variant={variant || undefined}>
-	<h1>{title}</h1>
+<header
+	class="content-hero"
+	data-variant={variant || undefined}
+	style={{ backgroundColor: backgroundColor }}
+>
 	<div class="wrap">
+		<h1>{title}</h1>
 		<slot />
 	</div>
 
@@ -31,6 +35,7 @@ const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 
 	.wrap {
 		display: flex;
+		flex-flow: column;
 		justify-content: center;
 		align-items: center;
 		font-size: var(--font-s);
@@ -38,6 +43,7 @@ const { imgAlt, imgSrc, title, variant = '' } = Astro.props;
 		p {
 			display: inline-flex;
 			gap: var(--space-2xs);
+			text-align: center;
 		}
 	}
 
