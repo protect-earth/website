@@ -4,159 +4,157 @@ import ArrowRight from '../assets/icons/arrow-right.svg';
 ---
 
 <section class="get-involved wrap">
-	<div class="squircle inner">
-		<article>
-			<div>
-				<h2>People &amp; Families</h2>
-				<p>
-					Get stuck in and fight the climate and biodiversity crises. Whether you can offer your
-					time, money, or expertise, there's a way for everyone to make a difference.
-				</p>
-				<a href="/get-involved/people-families" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
-			</div>
-			<figure>
-				<a href="/get-involved/people-families">
-					<Image
-						src="/get-started/get-started--people.jpg"
-						alt="People and Families"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-						class="squircle"
-					/>
-				</a>
-			</figure>
-		</article>
+	<article class="squircle big-cta">
+		<a href="/get-involved/people-families">
+			<h2>People &amp; Families</h2>
+			<p>
+				Get stuck in and fight the climate and biodiversity crises. Whether you can offer your time,
+				money, or expertise, there's a way for everyone to make a difference.
+			</p>
+			<span class="button">
+				Learn more
+				<ArrowRight height={18} width={18} />
+			</span>
 
-		<article>
-			<div>
-				<h2>Business</h2>
-				<p>
-					Ready to branch out? We offer businesses the chance to create lasting environmental impact
-					while building stronger teams and greener communities. Whether planting trees with your
-					colleagues, revitalising unused land or donating to our cause, we make it easy to level up
-					your sustainability strategy.
-				</p>
-				<a href="/get-involved/businesses" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
+			<div class="background-canvas">
+				<Image
+					src="/get-started/get-started--people.jpg"
+					alt="People and Families"
+					width={1200}
+					height={800}
+					densities={[1.5, 2]}
+				/>
 			</div>
-			<figure>
-				<a href="/get-involved/businesses">
-					<Image
-						src="/get-started/get-started--businesses.jpg"
-						alt="Business"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-						class="squircle"
-					/>
-				</a>
-			</figure>
-		</article>
+		</a>
+	</article>
 
-		<article>
-			<div>
-				<h2>Landowners</h2>
-				<p>
-					Take your land from idle to ideal with help from Protect Earth. We'll work with you to
-					enhance the ecosystem health of your land.
-				</p>
-				<p>
-					We work with landowners, land managers and farmers to increase tree cover, improve
-					biodiversity, and restore ecosystems – without breaking the bank or burying you in
-					paperwork.
-				</p>
-				<a href="/get-involved/landowners" class="button">
-					Learn more
-					<ArrowRight height={18} width={18} />
-				</a>
+	<article class="squircle big-cta">
+		<a href="/get-involved/businesses">
+			<h2>Business</h2>
+			<p>
+				Ready to branch out? We offer businesses the chance to create lasting environmental impact
+				while building stronger teams and greener communities.
+			</p>
+			<span class="button">
+				Learn more
+				<ArrowRight height={18} width={18} />
+			</span>
+
+			<div class="background-canvas">
+				<Image
+					src="/get-started/get-started--businesses.jpg"
+					alt="Business"
+					width={1200}
+					height={800}
+					densities={[1.5, 2]}
+				/>
 			</div>
-			<figure>
-				<a href="/get-involved/landowners">
-					<Image
-						src="/get-started/get-started--landowners.jpg"
-						alt="Landowners"
-						width={1200}
-						height={800}
-						densities={[1.5, 2]}
-						class="squircle"
-					/>
-				</a>
-			</figure>
-		</article>
-	</div>
+		</a>
+	</article>
+
+	<article class="squircle big-cta">
+		<a href="/get-involved/landowners">
+			<h2>Landowners</h2>
+			<p>
+				Take your land from idle to ideal with help from Protect Earth. We'll work with you to
+				enhance the ecosystem health of your land.
+			</p>
+			<span class="button">
+				Learn more
+				<ArrowRight height={18} width={18} />
+			</span>
+
+			<div class="background-canvas">
+				<Image
+					src="/get-started/get-started--landowners.jpg"
+					alt="Landowners"
+					width={1200}
+					height={800}
+					densities={[1.5, 2]}
+				/>
+			</div>
+		</a>
+	</article>
 </section>
 
 <style>
 	section {
 		padding-block-start: var(--space-xl);
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-xl);
 	}
 
-	.get-involved {
-		padding-block-start: var(--space-xl);
+	.big-cta {
+		background: var(--purple-dark);
+		aspect-ratio: 16/9;
+		width: 100%;
+		position: relative;
+		color: var(--body-text-light);
+		overlay: hidden;
+		padding: var(--space-xs);
+		@media screen and (max-width: 844px) {
+			aspect-ratio: 1/1;
+		}
 	}
 
-	.inner {
+	.big-cta a {
 		display: flex;
 		flex-flow: column;
 		align-items: center;
-		background: var(--purple-dark);
-		color: var(--body-text-light);
-		padding: var(--space-xl);
+		justify-content: center;
 		gap: var(--space-m);
+		height: 100%;
+		text-decoration: none;
 	}
 
-	.get-involved h2 {
-		font-size: var(--font-xl);
-		margin-block-end: var(--space-s);
+	h2 {
+		font-size: var(--font-4xl);
+		@media screen and (max-width: 844px) {
+			font-size: var(--font-xl);
+		}
 	}
 
-	.get-involved p {
+	p {
+		font-size: var(--font-m);
+		text-align: center;
 		max-inline-size: var(--measure);
-		font-size: var(--font-s);
-		margin-block-end: var(--space-s);
-	}
-
-	.get-involved article div {
-		flex-basis: 50%;
-	}
-
-	.get-involved figure {
-		flex-basis: 50%;
-		transition: all var(--trans-time) ease-in-out;
-	}
-
-	.get-involved figure:hover {
-		transform: scale(102%);
-		filter: var(--hover-effect-filter);
-	}
-
-	.get-involved article {
-		display: flex;
-		gap: var(--space-l);
 		@media screen and (max-width: 844px) {
-			flex-flow: column;
+			font-size: var(--font-s);
 		}
 	}
 
-	.get-involved article:not(:first-of-type) {
-		margin-block-start: var(--space-l);
+	h2,
+	p,
+	span {
+		z-index: 2;
+		text-decoration: none;
+		text-align: center;
 	}
 
-	.get-involved article:nth-child(even) {
-		flex-flow: row-reverse;
-		@media screen and (max-width: 844px) {
-			flex-flow: column;
-		}
-	}
-
-	.get-involved .button {
+	.button {
 		background: var(--purple-light);
 		color: var(--button-text);
+	}
+
+	.button:hover {
+		background: var(--purple-light);
+		color: var(--button-text);
+	}
+
+	.background-canvas {
+		position: absolute;
+		inset: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: 1;
+
+		img {
+			block-size: 100%;
+			inline-size: 100%;
+			object-fit: cover;
+			filter: opacity(0.5) grayscale(1);
+		}
 	}
 </style>
