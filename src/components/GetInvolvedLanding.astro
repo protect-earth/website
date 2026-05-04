@@ -92,7 +92,7 @@ import ArrowRight from '../assets/icons/arrow-right.svg';
 		position: relative;
 		color: var(--body-text-light);
 		overlay: hidden;
-		padding: var(--space-xs);
+		padding: var(--space-2xs);
 		@media screen and (max-width: 844px) {
 			aspect-ratio: 1/1;
 		}
@@ -106,6 +106,9 @@ import ArrowRight from '../assets/icons/arrow-right.svg';
 		gap: var(--space-m);
 		height: 100%;
 		text-decoration: none;
+		@media screen and (max-width: 844px) {
+			gap: var(--space-s);
+		}
 	}
 
 	h2 {
