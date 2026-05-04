@@ -28,7 +28,7 @@
 	gap: var(--space-xs);
 }
 
-.meta>.tag {
+.meta > .tag {
 	padding: var(--space-2xs) var(--space-s);
 	font-size: var(--font-xs);
 }

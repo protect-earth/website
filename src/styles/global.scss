@@ -42,7 +42,7 @@
 		background-color: #f9fafb;
 		text-align: left;
 
-		>*+* {
+		> * + * {
 			margin-block-start: 1.5rem;
 		}
 
@@ -129,11 +129,11 @@
 	fieldset {
 		border: none;
 
-		>*+* {
+		> * + * {
 			margin-block-start: 1rem;
 		}
 
-		.stacked-options>*+* {
+		.stacked-options > * + * {
 			display: block;
 			margin-block-start: 0.5rem;
 		}
@@ -161,7 +161,7 @@
 				outline-color: #059669;
 			}
 
-			+span {
+			+ span {
 				margin-left: 0.5rem;
 				color: #374151;
 			}
