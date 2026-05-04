@@ -43,6 +43,10 @@ const { imgAlt, imgSrc, isReversed, linkHref, linkTarget, linkText, title, varia
 		flex-flow: row;
 		gap: var(--space-xl);
 		margin-block-start: var(--space-xl);
+		@media screen and (max-width: 844px) {
+			flex-flow: column-reverse;
+			gap: var(--space-m);
+		}
 	}
 
 	.content-block:first-of-type {
@@ -69,5 +73,8 @@ const { imgAlt, imgSrc, isReversed, linkHref, linkTarget, linkText, title, varia
 
 	.content-block[data-direction='reversed'] {
 		flex-flow: row-reverse;
+		@media screen and (max-width: 844px) {
+			flex-flow: column-reverse;
+		}
 	}
 </style>
