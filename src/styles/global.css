@@ -4,6 +4,7 @@
 @import url('./navigation.css');
 @import url('./footer.css');
 @import url('./pages.css');
+@import url('./posts.css');
 @import url('./forms.css');
 
 @layer global, component;

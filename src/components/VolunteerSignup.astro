@@ -1,72 +1,70 @@
-<section class="PageSection VolunteerSignup" data-variant="call-to-action">
-	<header class="PageSection__header">
-		<h2 class="PageSection__title">Volunteer With Us</h2>
+<section class="wrap" data-variant="call-to-action">
+	<header>
+		<h2>Volunteer With Us</h2>
 	</header>
-	<div class="PageSection__content">
-		<form class="VolunteerSignup__form readable-width inline-centered">
-			<p>
-				Interested in volunteering at our tree planting and other conservation events? Sign up and
-				we'll keep you posted about opportunities in your region.
-			</p>
+	<form class="squircle stack">
+		<p>
+			Interested in volunteering at our tree planting and other conservation events? Sign up and
+			we'll keep you posted about opportunities in your region.
+		</p>
 
-			<p style="display: none;">
-				<label>Do not fill this in: <input name="honeyTrap" /></label>
-			</p>
+		<p style="display: none;">
+			<label>Do not fill this in: <input name="honeyTrap" /></label>
+		</p>
 
-			<fieldset>
-				<legend>Name <span class="field-required">*</span></legend>
-				<div class="inline-group">
-					<div>
-						<label for="volunteer-first-name" class="visually-hidden">First Name</label>
-						<input
-							type="text"
-							id="volunteer-first-name"
-							name="firstName"
-							placeholder="First Name"
-							required
-						/>
-					</div>
-					<div>
-						<label for="volunteer-last-name" class="visually-hidden">Last Name</label>
-						<input type="text" id="volunteer-last-name" name="lastName" placeholder="Last Name" />
-					</div>
+		<fieldset>
+			<legend>Name <span class="field-required">*</span></legend>
+			<div class="inline-group">
+				<div>
+					<label for="volunteer-first-name" class="visually-hidden">First Name</label>
+					<input
+						type="text"
+						id="volunteer-first-name"
+						name="firstName"
+						placeholder="First Name"
+						required
+					/>
 				</div>
-			</fieldset>
+				<div>
+					<label for="volunteer-last-name" class="visually-hidden">Last Name</label>
+					<input type="text" id="volunteer-last-name" name="lastName" placeholder="Last Name" />
+				</div>
+			</div>
+		</fieldset>
 
-			<fieldset>
-				<label for="volunteer-email">Email <span class="field-required">*</span></label>
-				<input type="email" id="volunteer-email" name="email" required />
-			</fieldset>
+		<fieldset>
+			<label for="volunteer-email">Email <span class="field-required">*</span></label>
+			<input type="email" id="volunteer-email" name="email" required />
+		</fieldset>
 
-			<fieldset>
-				<label for="volunteer-region">Region</label>
-				<select id="volunteer-region" name="region">
-					<option value="">Select your region...</option>
-					<option value="South West England">South West England</option>
-					<option value="South East England">South East England</option>
-					<option value="East of England">East of England</option>
-					<option value="West Midlands">West Midlands</option>
-					<option value="East Midlands">East Midlands</option>
-					<option value="Yorkshire & The Humber">Yorkshire & The Humber</option>
-					<option value="North West England">North West England</option>
-					<option value="North East">North East</option>
-					<option value="North Wales">North Wales</option>
-					<option value="South West Wales">South West Wales</option>
-					<option value="Mid Wales">Mid Wales</option>
-					<option value="South East Wales">South East Wales</option>
-					<option value="Scotland">Scotland</option>
-				</select>
-			</fieldset>
+		<fieldset>
+			<label for="volunteer-region">Region</label>
+			<select id="volunteer-region" name="region">
+				<option value="">Select your region...</option>
+				<option value="South West England">South West England</option>
+				<option value="South East England">South East England</option>
+				<option value="East of England">East of England</option>
+				<option value="West Midlands">West Midlands</option>
+				<option value="East Midlands">East Midlands</option>
+				<option value="Yorkshire & The Humber">Yorkshire & The Humber</option>
+				<option value="North West England">North West England</option>
+				<option value="North East">North East</option>
+				<option value="North Wales">North Wales</option>
+				<option value="South West Wales">South West Wales</option>
+				<option value="Mid Wales">Mid Wales</option>
+				<option value="South East Wales">South East Wales</option>
+				<option value="Scotland">Scotland</option>
+			</select>
+		</fieldset>
 
-			<button type="submit">Sign Up to Volunteer</button>
+		<button type="submit">Sign Up to Volunteer</button>
 
-			<div class="form-message" data-message-container aria-live="assertive"></div>
+		<div class="form-message" data-message-container aria-live="assertive"></div>
 
-			<footer>
-				<small>Your information will only be used for event and volunteer coordination.</small>
-			</footer>
-		</form>
-	</div>
+		<footer>
+			<small>Your information will only be used for event and volunteer coordination.</small>
+		</footer>
+	</form>
 </section>
 
 <script>
@@ -113,3 +111,53 @@
 		});
 	});
 </script>
+
+<style>
+	section h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	section {
+		padding-block: var(--space-xl);
+	}
+
+	p {
+		font-size: var(--font-s);
+	}
+
+	form {
+		background: var(--white);
+		max-width: 44rem;
+		margin: auto;
+	}
+
+	fieldset {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-3xs);
+		font-size: var(--font-s);
+	}
+
+	/* This can go once all the styles are cleansed */
+	fieldset > * + * {
+		margin: 0;
+	}
+
+	.inline-group {
+		display: flex;
+		gap: var(--space-s);
+		@media screen and (max-width: 540px) {
+			flex-flow: column;
+		}
+	}
+
+	.inline-group div {
+		flex: 1;
+	}
+
+	small {
+		font-size: var(--font-xs);
+	}
+</style>

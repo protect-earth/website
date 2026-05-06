@@ -34,8 +34,8 @@ const { Content } = await render(article);
 	<!-- Hero Section -->
 	<article class="post">
 		<header>
-			<h1>{title}</h1>
 			<div class="wrap">
+				<h1>{title}</h1>
 				<dl class="meta">
 					<dt class="visually-hidden">Posted at</dt>
 					<dd>
@@ -57,7 +57,7 @@ const { Content } = await render(article);
 			{
 				thumbnail && (
 					<div class="background-canvas">
-						<Image src={thumbnail} loading="eager" alt={title} />
+						<Image src={thumbnail} loading="eager" alt={title} inferSize={true} />
 					</div>
 				)
 			}
@@ -74,52 +74,3 @@ const { Content } = await render(article);
 
 	<TakeAction />
 </Layout>
-
-<style>
-	header {
-		background: var(--content-hero);
-		color: var(--body-text-light);
-		clip-path: var(--wavy-line-top-bottom);
-		position: relative;
-		padding-block: var(--space-3xl);
-		overflow: hidden;
-	}
-
-	.wrap {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
-	h1 {
-		font-size: var(--font-2xl);
-		margin-block-end: var(--space-s);
-		text-align: center;
-	}
-
-	.background-canvas {
-		position: absolute;
-		inset: 0;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		z-index: -1;
-
-		img {
-			block-size: 100%;
-			inline-size: 100%;
-			object-fit: cover;
-			filter: opacity(0.5) grayscale(1);
-		}
-	}
-
-	.prose {
-		margin: auto;
-		margin-block: var(--space-2xl);
-	}
-
-	.meta {
-		display: flex;
-		gap: var(--space-xs);
-	}
-</style>
