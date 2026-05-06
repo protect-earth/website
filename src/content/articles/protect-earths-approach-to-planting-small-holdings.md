@@ -3,7 +3,7 @@ title: "Protect Earth's approach to planting small holdings"
 description: 'We work with land small holders to support them turning their small holding into a woodlands. Protect Earth can consult to ensure the right mix of trees, identify sources of funding, and help out to p'
 pubDate: 2023-04-04T10:30:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earths-approach-to-planting-small-holdings.jpg'
+thumbnail: ../../articles/protect-earths-approach-to-planting-small-holdings.jpg
 ---
 
 Protect Earth has a very simple mission - it isn’t complex. Our mission is to plant a lot of trees.

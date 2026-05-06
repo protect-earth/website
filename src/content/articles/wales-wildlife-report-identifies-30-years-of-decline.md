@@ -3,7 +3,7 @@ title: 'Wales’ Wildlife: Report Identifies 30 Years of Decline'
 description: 'One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years.'
 pubDate: 2025-01-21T09:22:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/wales-wildlife-report-identifies-30-years-of-decline.png'
+thumbnail: ../../articles/wales-wildlife-report-identifies-30-years-of-decline.png
 ---
 
 One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years.
@@ -28,7 +28,7 @@ The team is in North Wales, undertaking a second project, planting 11,000 saplin
 
 The species planted have all been planned being the right species mix for the spaces, have all been sourced from nurseries local to the planting sites, and will, because they are species naturally found in the UK, go on to become homes for some of those species that have been identified as in decline - if they're still around when the trees are old enough to support life.
 
-![$2](/articles/squarespace/screenshot-2025-02-03-at-14.20.17-3abe4f9656.png)
+![](/articles/squarespace/screenshot-2025-02-03-at-14.20.17-3abe4f9656.png)
 
 We haven't tightly packed saplings into every nook and cranny. The land has been divided up based on its suitability and value today. Some land already supports life, which we'll only manage over the long term, not change. Other spaces are now becoming woodlands, while other spaces will become meadows of wildflowers, providing yet more food and shelter for pollinators and other valuable creatures and insects.
 

@@ -3,7 +3,7 @@ title: "Protect Earth's 2024/25 UK Tree Planting Achievements"
 description: 'The 2024/25 season wrapped up with 37,417 saplings planted across 55.85 acres - a 14% increase on last season despite government funding delays.'
 pubDate: 2025-03-31T07:00:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/protect-earths-202425-uk-tree-planting-achievements.jpg'
+thumbnail: ../../articles/protect-earths-202425-uk-tree-planting-achievements.jpg
 ---
 
 The 2024/25 planting season has wrapped up, and we're proud to reflect on Protect Earth's accomplishments. From October to March, our team, volunteers, and landowners worked together to expand green spaces and restore biodiversity across the UK.
@@ -18,7 +18,7 @@ With each season that passes and the increasing amount we are planting, everyone
 
 Our efforts in 2024/25 extended across England, Wales, and Scotland - our first project in Scotland. Protect Earth continued work on our established sites like [High Wood](https://www.protect.earth/high-wood) while expanding our footprint to new areas like [Goytre](https://www.protect.earth/goytre-wood) and Nannerch. Work on these sites comprised more than 60% of what was planted this season. This is an incredibly important point as Protect Earth owns and manages these three sites, meaning we had total control over planting plans where our plans focus on long-term habitat restoration.
 
-![$2](/articles/squarespace/pe-yoy-season-comparison-0c3b9519a9.png)
+![](/articles/squarespace/pe-yoy-season-comparison-0c3b9519a9.png)
 
 Beyond planting trees, we also increased our focus on invasive species removal, working with organisations requiring the skills or tools to rid habitats of these destructive plants.
 
@@ -26,7 +26,7 @@ Beyond planting trees, we also increased our focus on invasive species removal, 
 
 A key part of our mission is to equip landowners, farmers, and community members with the skills needed to protect and restore nature on their patches. Towards the end of this last season, we ran a handful of free courses at Goytre Wood, helping participants gain hands-on experience in sustainable practices. The principal focus of these courses was hedge-laying, which we will be continuing and adding to course topics in time.
 
-![$2](/articles/squarespace/img_3353-eee403ff83.jpeg)
+![](/articles/squarespace/img_3353-eee403ff83.jpeg)
 
 ## Looking Ahead
 

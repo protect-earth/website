@@ -3,7 +3,7 @@ title: 'Blending Natural Regeneration and Tree Planting: A Woodland Success Stor
 description: 'Many are divided on natural habitat restoration methods: natural regeneration versus the interventionist approach of planning species and creating woodlands.'
 pubDate: 2025-03-03T08:04:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg'
+thumbnail: ../../articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg
 ---
 
 Many in the environmental community and outside of it are divided on natural habitat restoration methods. On one hand, there are proponents for natural regeneration - leaving a space to itself and allowing nature to find a way. The converse is the interventionist approach of planning what species should be planted, their densities, and creating an artificial woodlands.
@@ -56,4 +56,4 @@ Many see natural regeneration and tree planting as opposing strategies, but they
 
 Protect Earth has many more projects like this in the pipeline—but funding is always a challenge. Every donation and sapling purchase supports future woodlands. Help us grow more forests today.
 
-![$2](/articles/squarespace/pxl_20250201_134935531-ef14bbf9e4.jpg)
+![](/articles/squarespace/pxl_20250201_134935531-ef14bbf9e4.jpg)

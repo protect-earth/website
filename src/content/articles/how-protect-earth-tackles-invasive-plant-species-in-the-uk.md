@@ -3,7 +3,7 @@ title: 'How Protect Earth Tackles Invasive Plant Species in the UK'
 description: 'Invasive plant species are negatively affecting biodiversity in the UK. Protect Earth has the resources, tools, and skills required to control and remove invasive species helping biodiversity in the...'
 pubDate: 2025-03-11T23:39:48.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/how-protect-earth-tackles-invasive-plant-species-in-the-uk.jpg'
+thumbnail: ../../articles/how-protect-earth-tackles-invasive-plant-species-in-the-uk.jpg
 ---
 
 Invasive plant species are negatively affecting biodiversity in the UK. Protect Earth has the resources, tools, and skills required to control and remove invasive species helping biodiversity in the UK to restabilise and proliferate.
@@ -14,7 +14,7 @@ Invasive species are species that, to borrow a subtitle from Dan Eatherly, are t
 
 Below is a table of some of the most common invasive plant species in the UK.
 
-![$2](/articles/squarespace/invasive-species-04545c8549.jpg)
+![](/articles/squarespace/invasive-species-04545c8549.jpg)
 
 Invasive species cause harm above and below the ground. Below the soil, these plants can change the soil health making soil pH unsuitable for other plants - more specifically, native plants - to grow and support life.
 

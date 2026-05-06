@@ -3,7 +3,7 @@ title: 'The South West Gains Another Hedgerow and Becomes a Little Greener'
 description: 'This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous...'
 pubDate: 2025-05-16T21:22:56.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/the-south-west-gains-another-hedgerow-and-becomes-a-little-greener.jpeg'
+thumbnail: ../../articles/the-south-west-gains-another-hedgerow-and-becomes-a-little-greener.jpeg
 ---
 
 This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous project](/articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting) with this landowner was to create natural screening for their horses. Happy with the results and Protect Earth's goals, they wanted to work with us again to create hedgerows. Long, winding, carbon-sequestering, wildlife-loving hedgerows.
@@ -12,7 +12,7 @@ This February, we returned to South Molton at the request of a brilliant landown
 
 Over two brisk but beautiful days (8–9 February 2025), we, alongside a merry band of volunteers, got to work in the South West, planting 400 metres of mixed native hedgerow - a total of 2,375 saplings popped lovingly into the soil: common hazel, hawthorn, blackthorn, goat willow, common beech, and dog rose. It's not just a hedgerow. It's a biodiverse banquet, a future corridor for wildlife, and in 50 years, it'll have quietly hoovered up over 1,000 tonnes of carbon.
 
-![$2](/articles/squarespace/img_3719-4536a0ddf8.jpeg)
+![](/articles/squarespace/img_3719-4536a0ddf8.jpeg)
 
 ## Powered by Passion (and Hot Coffee)
 
@@ -22,7 +22,7 @@ One volunteer summed it up perfectly:
 
 "We just all really enjoyed the day as a team, from being warmed up with the hot fresh coffee to eating outside on a cold day in February."
 
-![$2](/articles/squarespace/img_3717-0905c0f5bd.jpeg)
+![](/articles/squarespace/img_3717-0905c0f5bd.jpeg)
 
 And the landowner? Equally full of praise:
 

@@ -3,7 +3,7 @@ title: 'A case study in planting small holdings'
 description: 'This is a case study about Peter - a smallholder in rural west Wales - and how Protect Earth was able to help Peter bring his goal of increasing biodiversity on his seven acres to life.'
 pubDate: 2023-09-04T06:28:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/a-case-study-in-planting-small-holdings.jpg'
+thumbnail: ../../articles/a-case-study-in-planting-small-holdings.jpg
 ---
 
 My friend, Pete, told me one evening he'd like to turn his seven acres into a more natural habitat but wasn't sure how to go about it. "Don't worry", I told him, "Leave it with me, and I'll connect you with Protect Earth".

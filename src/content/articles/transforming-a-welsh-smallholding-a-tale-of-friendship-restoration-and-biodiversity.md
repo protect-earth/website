@@ -3,7 +3,7 @@ title: 'Transforming a Welsh Smallholding: A Tale of Friendship, Restoration, an
 description: 'Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be...'
 pubDate: 2024-05-27T06:59:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg'
+thumbnail: ../../articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg
 ---
 
 Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be one family.
@@ -14,7 +14,7 @@ Having bought some land, they've pulled out the vision board to start exploring 
 
 ## About Team DEFT and their Welsh smallholding
 
-![$2](/articles/squarespace/img_2470-362ed21c06.jpg)
+![](/articles/squarespace/img_2470-362ed21c06.jpg)
 
 ### Gift a Legacy: Trees and Hedges for Timeless Friendships
 
@@ -57,7 +57,7 @@ Alder, Downy Birch, and Aspen have found their home in dampened soils.
 
 Frank couldn't contain his excitement over the history and stories of the small holding they are now stewards of. He guided Protect Earth through the house, pointing out its "country charms" with a keen architect's eye.
 
-![$2](/articles/squarespace/img_2479-dc995d5740.jpg)
+![](/articles/squarespace/img_2479-dc995d5740.jpg)
 
 The rest of Team DEFT shared stories of the memories they'd already made at their small holding. It's a happy place that will make many more great memories.
 
@@ -85,7 +85,7 @@ Initially, the kids (teenagers living in London and Scotland at the time) didn't
 
 Providing for each other and creating a legacy for their children is important for Team DEFT.
 
-![$2](/articles/squarespace/image3-3ee746a50a.jpeg)
+![](/articles/squarespace/image3-3ee746a50a.jpeg)
 
 ### Community
 

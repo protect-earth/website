@@ -3,7 +3,7 @@ title: 'Shade Trees - The Hidden Gift to Biodiversity'
 description: 'Shade trees are a simple but powerful way to improve biodiversity, carbon storage, soil health, animal welfare, and farm resilience across the UK’s agricultural landscapes.'
 pubDate: 2026-02-13T00:00:00.000Z
 author: 'Elena Tornberg-Lennox'
-thumbnail: '/articles/shade-trees-the-hidden-gift-to-biodiversity.webp'
+thumbnail: ../../articles/shade-trees-the-hidden-gift-to-biodiversity.webp
 ---
 
 As the idea of nature restoration and rewilding fires imaginations, we often turn our gaze to landscape-scale change: vast peatlands, temperate rainforests, and whole river catchments. All of that work is desperately needed. But there is also incredible work that can happen on farmland through something as simple as planting shade trees.

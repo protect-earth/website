@@ -3,7 +3,7 @@ title: 'Which species of trees have we planted?'
 description: 'All projects have at least 8 species, some have 16. Overall Protect Earth has planted 46 different species, making up 38,580 saplings between 2020-2022.'
 pubDate: 2022-10-28T11:00:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/which-species-of-trees-have-we-planted.jpg'
+thumbnail: ../../articles/which-species-of-trees-have-we-planted.jpg
 ---
 
 As a young charity we have been growing fast, planting 4,000 trees in our first planting season, then 35,000 trees in the second season. Planting season runs [October to March](/articles/why-protect-earth-plant-trees-in-winter), and we were looking forward to some calm time to focus on writing about what had been done. Nope! We had to protect against wildfire at [High Wood](/sites/high-wood) by clearing forestry waste that people were setting fires in… then there were [thousands of saplings to water](https://www.protect.earth/blog/climate-crisis-heatwaves-vs-tree-planting), and now we’re out planting again. Ahhh!
@@ -140,6 +140,6 @@ All over the world there are different variations of these species, and even wit
 
 This is called “Seed Provenance”. We make sure we are planting the right seed provenance as often as possible, and this season that is the vast majority of the ~30,000 new trees we intend to plant.
 
-![$2](/articles/squarespace/seed-provenance-map-98b2419d60.png)
+![](/articles/squarespace/seed-provenance-map-98b2419d60.png)
 
 For example, at our ancient woodland High Wood, we have managed to find the only supplier growing 305 provenance saplings, which are specific to Cornwall and Devon. They have even offered us Plymouth Pear and Cornish Elm, which are hyper local and rare. In a few years you’ll be able to visit High Wood to see one of those Plymouth Pears and enjoy the majestic Cornish Elm, which is far more resistant to Dutch Elm Disease that other Elms.

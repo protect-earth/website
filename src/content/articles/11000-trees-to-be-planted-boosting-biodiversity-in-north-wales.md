@@ -3,7 +3,7 @@ title: '11,000 trees to be planted boosting biodiversity in North Wales'
 description: 'Nannerch is a 27 acre site in an Area of Outstanding Natural Beauty (AONB) in North Wales. Protect Earth have consolidated our plans on increasing biodiversity within this site, benefitting this piece'
 pubDate: 2024-01-04T11:19:08.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/11000-trees-to-be-planted-boosting-biodiversity-in-north-wales.jpeg'
+thumbnail: ../../articles/11000-trees-to-be-planted-boosting-biodiversity-in-north-wales.jpeg
 ---
 
 Before we go any further, let's clear one thing up. To pronounce Nannerch is "Nannac".
@@ -14,7 +14,7 @@ Protect Earth took over the tenancy of the site in July 2023 to contribute to th
 
 ## About Nannerch including how the land was used before
 
-![$2](/articles/squarespace/img_1444-47c3641472.jpeg)
+![](/articles/squarespace/img_1444-47c3641472.jpeg)
 
 Nannerch is an 11-hectare site on a hillside in the middle of the Clwydian and Dee Valley Area of Outstanding Natural Beauty.
 
@@ -26,7 +26,7 @@ The site includes areas of [lowland dry acid grassland](https://data.jncc.gov.uk
 
 While making a development plan for the site, Steve the Ecologist consulted with several local community members, including neighbouring landowners and residents, Flintshire Archeological Trust, Nannerch Community Council, Flintshire County Council, Scottish Power (who own the power lines), the team managing the AONB, and National Resources Wales. This was done to introduce everyone to Protect Earth and the charity's mission, outline what would be done on Nannerch, and get feedback from these community members.
 
-![$2](/articles/squarespace/img_8819-ba57888e3b.jpeg)
+![](/articles/squarespace/img_8819-ba57888e3b.jpeg)
 
 The site is approximately 11 hectares, with Protect Earth planting around 11,000 trees on nearly 8 hectares with a mix of native broadleaf species. The main woodland creation will be Oak over Hazel, with Birch, Aspen, and Wild Cherry areas. The periphery of the woodland will be Rowan, Hawthorn and Crab Apple. The objective (as with most of our planting projects) is carbon sequestration and developing wildlife habitat.
 

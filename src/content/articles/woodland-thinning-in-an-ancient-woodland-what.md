@@ -3,7 +3,7 @@ title: 'Woodland Thinning In An Ancient Woodland... What?'
 description: "Walking through a mature woodland full of gnarled trees and moss, you're likely in an ancient woodland. Despite their health, they still need management."
 pubDate: 2025-02-17T09:08:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/woodland-thinning-in-an-ancient-woodland-what.jpg'
+thumbnail: ../../articles/woodland-thinning-in-an-ancient-woodland-what.jpg
 ---
 
 Imagine yourself walking through a clearly mature woodland- smatterings of majestic, large, gnarled trees, branches, and trunks crashed over, decomposing back into the ground and moss everywhere. If you are in a woodland like this in the UK, you're probably in an ancient woodland. And, you may be surprised to hear that despite the health, greenness, and health of woodlands like these, they still need management.

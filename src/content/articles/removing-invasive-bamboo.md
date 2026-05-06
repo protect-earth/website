@@ -3,7 +3,7 @@ title: 'Removing Invasive Bamboo to Improve Biodiversity'
 description: 'Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown...'
 pubDate: 2022-08-03T20:24:37.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/removing-invasive-bamboo.jpg'
+thumbnail: ../../articles/removing-invasive-bamboo.jpg
 ---
 
 Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown potential is 10X larger than that of trees](https://onetreeplanted.org/blogs/stories/bamboo). People also love the look of bamboo, leading to its explosion across the United Kingdom, being available in every local garden center and B&Q around.
@@ -16,19 +16,19 @@ No matter what positive aesthetic or carbon sequestration benefits bamboo may ha
 
 After a few smaller experiments, we took on a huge job up near Bolton. Several homeowners in the village of Belmont (near Bolton) got in touch wanting to get rid of the bamboo that is taking over their gardens and their public space.
 
-![$2](/articles/squarespace/pxl_20220527_112037419-3abb6aa3ae.jpg)
+![](/articles/squarespace/pxl_20220527_112037419-3abb6aa3ae.jpg)
 
 Many of them have tried to remove the bamboo over the years, but unless every single above ground stem is removed it will always come back, as the leaves are creating energy for the entire network.
 
 A team of volunteers got together for several days of grueling work. The goal was to remove all of it, all at once. We had to cut every stem, even those over the edge of a steep hill behind the gardens, so harnesses and ropes were used and the cutting was done by experienced climbers.
 
-![$2](/articles/squarespace/img_8886-d25cf0ee0b.jpg)
+![](/articles/squarespace/img_8886-d25cf0ee0b.jpg)
 
 Once the bamboo stems are cut down, we process them by removing all the branches and leaves for composting, then cut the remaining stem into 1 meter segments. These stems will not go to waste. We dry them out in covered piles for a few months to dry them out (otherwise they’d simply reshoot when we planted them), and when they’re completely dead and tough we can use them for planting trees!
 
 We use bamboo to hold up our biodegradable rabbit guards, and improve the survival rate of our saplings. Harvesting invasive bamboo saves us importing farmed bamboo from China, reducing our reliance on imports, and the emissions associated with its production and transport.
 
-![$2](/articles/squarespace/image2-0e2e49b893.png)
+![](/articles/squarespace/image2-0e2e49b893.png)
 
 Normally once the stems are removed we would then attack the roots and rhizomes, to disturb the network and reduce the amount of shoots it was able to produce. Sadly with the hill there that would just mean a whole bunch of soil erosion, so instead the locals will be patrolling the area looking for new shoots. If enough fresh stems are removed, the network will eventually run out of energy like any battery. Then local species will either reconolise the space, or something native and beneficial can be planted to keep soaking up CO2.
 

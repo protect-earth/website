@@ -3,7 +3,7 @@ title: 'Protect Earth’s Landmark Project - Creating a Woodland Where None Exis
 description: 'Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales, to create a new woodland.'
 pubDate: 2024-12-16T22:47:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg'
+thumbnail: ../../articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg
 ---
 
 Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales.
@@ -20,7 +20,7 @@ Goytre and the area carry cultural significance. Goytre Hill marks the eastern e
 
 If you know what you’re looking for, you may be able to spot Offa’s Dyke - another famous walking route built in the late 700s that once divided Wales and England - from Goytre Hill as it somewhat follows the path of the River Teme at the hill’s base.
 
-![$2](/articles/squarespace/img_5644-88e19d782e.jpg)
+![](/articles/squarespace/img_5644-88e19d782e.jpg)
 
 ## Protect Earth’s Vision for Goytre Hill
 
@@ -40,7 +40,7 @@ Over the two years it took for permissions to be gained and funding to come thro
 
 With excitement simmering, we spent almost a week on the hill, welcoming old friends and new ones, finally transforming Goytre Hill and literally building our first woodlands from the ground up.
 
-![$2](/articles/squarespace/img_5643-ab43574015.jpg)
+![](/articles/squarespace/img_5643-ab43574015.jpg)
 
 During the week, we hosted [Ecologi](https://ecologi.com/), who has supported Protect Earth’s activities financially and spiritually from the beginning. It was very special having members of Ecologi’s team with us at our first woodland creation project on Goytre and having them be a part of bringing Protect Earth’s vision to life.
 
@@ -62,4 +62,4 @@ Our work to develop greenspaces is far from over. In fact, we are currently rais
 
 Help us continue greening more of the UK by donating now.
 
-![$2](/articles/squarespace/warleigh-0a4cb50498.jpg)
+![](/articles/squarespace/warleigh-0a4cb50498.jpg)

@@ -3,7 +3,7 @@ title: 'Restoring West Field Wood: A Shared Vision for Biodiversity'
 description: 'When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration,...'
 pubDate: 2025-02-16T17:09:26.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg'
+thumbnail: ../../articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg
 ---
 
 When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration, and time. As a Community Interest Company founded in 2022 by three friends concerned about the biodiversity crisis, their story closely mirrors that of Protect Earth. Naturally, our paths crossed. With aligned goals and a shared commitment to ecological restoration, Protect Earth has been proud to support Wood Could Should in bringing West Field Wood to life.
@@ -44,10 +44,10 @@ The sense of camaraderie extended into the evenings. Wood Could Should hosted vo
 
 West Field Wood is still in its early days, but its potential is undeniable. The trees planted today will shape a woodland woven together of ancient woodland that is naturally regenerating and new growth saplings planted by everyone.
 
-![$2](/articles/squarespace/pxl_20250201_134935531-fd05d1d856.jpg)
+![](/articles/squarespace/pxl_20250201_134935531-fd05d1d856.jpg)
 
 Over time, everything will merge with all the strengths of the ancient woodland, blending with the new growth to form more than 10 acres of rich soil and woodland primed for an explosion of biodiversity.
 
 Have land to restore? Protect Earth can help. Whether it’s woodland, wetlands, or wildflower meadows, we offer practical support to bring your vision to life.
 
-![$2](/articles/squarespace/pxl_20250131_141340229-f8a7484c06.jpg)
+![](/articles/squarespace/pxl_20250131_141340229-f8a7484c06.jpg)

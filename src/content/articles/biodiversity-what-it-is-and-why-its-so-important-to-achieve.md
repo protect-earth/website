@@ -3,7 +3,7 @@ title: "Biodiversity - what it is and why it's so important to achieve"
 description: 'Trees do great things. But, with 36% of the UK’s wooded areas being non-native conifer trees - the benefits of these trees is very limited. Biodiverse woodlands and areas are homes that bring a range '
 pubDate: 2023-07-17T06:33:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg'
+thumbnail: ../../articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg
 ---
 
 Biodiversity? What? What can that word possibly mean? Isn't tree planting sucking loads of carbon out of the atmosphere and storing it? Aren't forests of trees being planted? Surely, planting a forest and they will come will work, right?

@@ -12,13 +12,14 @@ import { z } from 'astro/zod';
 // 4. Define a `loader` and `schema` for each collection
 const articles = defineCollection({
 	loader: glob({ base: './src/content/articles', pattern: '**/*.{md, mdx}' }),
-	schema: z.object({
-		title: z.string(),
-		description: z.string(),
-		pubDate: z.date(),
-		author: z.string(),
-		thumbnail: z.string().optional(),
-	}),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string(),
+			description: z.string(),
+			pubDate: z.date(),
+			author: z.string(),
+			thumbnail: image().optional(),
+		}),
 });
 
 const events = defineCollection({

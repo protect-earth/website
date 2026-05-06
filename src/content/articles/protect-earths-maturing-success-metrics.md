@@ -3,7 +3,7 @@ title: 'Protect Earth’s Maturing Success Metrics'
 description: 'When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting...'
 pubDate: 2024-01-22T07:41:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earths-maturing-success-metrics.jpg'
+thumbnail: ../../articles/protect-earths-maturing-success-metrics.jpg
 ---
 
 When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting a tree equated to success, we quickly moved to deeper metrics, such as where a tree came from and where they were going. This evolution saw us think of success as planting the right locally sourced tree and the best option for the planting conditions.
@@ -28,7 +28,7 @@ This is a metric of growing importance because of the independence it brings. We
 
 When Protect Earth directly manages a piece of land (lowest quality agricultural land or a brownfield site), we can plan for more diversity without compromise. Where suitable, we can create wildlife ponds, wiggle some river, rewet some woodland, spread wildflower meadows and
 
-![$2](/articles/squarespace/soyth-lodge-trees-28b783ac59.jpg)
+![](/articles/squarespace/soyth-lodge-trees-28b783ac59.jpg)
 
 innoculate mushrooms, put up bird boxes, remove some invasive species, leave some land for skylarks to enjoy, and then develop woodlands on the remaining parts. Can you hear it? Can you see it?
 

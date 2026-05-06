@@ -3,18 +3,18 @@ title: 'Rescuing Ancient Woodlands from Rhododendron'
 description: "It interests us how many things we do are connected. Often it's one landowner recommending us to a neighbour, but this story links several services we offer."
 pubDate: 2025-10-29T09:56:13.000Z
 author: 'kathy@protect.earth'
-thumbnail: '/articles/rhododendrons-in-rhayader.jpg'
+thumbnail: ../../articles/rhododendrons-in-rhayader.jpg
 ---
 
 It always interests us how many of the things we do are connected in some way. Often it is one landowner recommending us to a neighbour, so that we end up returning to plant more trees nearby. However, this story is a little different, linking several of the services we offer to help the environment.
 
 During a casual conversation at a tree planting event in Powys, Phil, our chairman asked one of the volunteers, what he did for a living. Hearing that he laid hedges, this developed into to a much longer conversation which led to us offering two free hedge laying courses on the border of our land on Goytre Hill, Powys taught by John the volunteer which were very successful. At one of these courses, one of the attendees happened to mention that she had a woodland which was full of invasive rhododendron.
 
-![$2](/articles/squarespace/image2-1c205fe49f.jpeg)
+![](/articles/squarespace/image2-1c205fe49f.jpeg)
 
 Rhododendrons are tough and spread rapidly, making them very difficult to control. They can cause a number of problems in the wild as they tend to form dense plants which block sunlight from reaching the floor of the woodland, thus leading to native plants being shaded out and to a loss of biodiversity. Their leaves are acidic and decompose slowly which affects the PH value and nutrients in the soil as well as releasing chemicals which inhibit the germination of other native plants. Rhododendrons in a woodland can reduce the availability of food and shelter for birds, mammals and invertebrates. They also contain pathogens such as Phytophthora Ramorum which causes sudden oak death and affects many other tree species too.
 
-![$2](/articles/squarespace/c184f7ee-dc92-4b2d-8502-0836c1639948_1_105_c-bb3badc260.jpeg)
+![](/articles/squarespace/c184f7ee-dc92-4b2d-8502-0836c1639948_1_105_c-bb3badc260.jpeg)
 
 This woodland’s owner near Rhayader, Powys had been battling the rhododendrons almost single handedly for quite a while, but as she worked full time, she didn’t have a lot of time to deal with them, and the rhododendrons were clearly winning. After hearing her story, Steve, our ecologist, went to have a look for himself and decided that Protect Earth would be able to help her with her problem once the nesting season was over. Protect Earth organised an event for October and advertised for volunteers. Our team turned up to lead the day and to advise volunteers on the safest way to deal with the rhododenderon.
 

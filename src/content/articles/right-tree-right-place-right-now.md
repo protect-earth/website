@@ -3,7 +3,7 @@ title: 'The Right Tree in the Right Place… for this point in the Climate Crisi
 description: "Plant the right tree in the right place: Sessile Oak on Welsh hillsides, Beech in Cotswold valleys, Scot's Pines in the Highlands. But what about climate change?"
 pubDate: 2022-09-06T15:12:39.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/right-tree-right-place-right-now.jpg'
+thumbnail: ../../articles/right-tree-right-place-right-now.jpg
 ---
 
 The mantra is: ‘Plant the right tree in the right place.’ OK – we’ll plant Sessile Oak trees on Welsh hillsides, Beech trees in Cotswold valleys, and Scot’s Pines in the Highlands. What’s more, we’ll plant a belt of Alders and Black Poplars in the waterlogged area near the river, and a cluster of Silver Birch on that sandy ridge.
@@ -16,7 +16,7 @@ Well, that may have been true enough until our rampant carbon emissions put a ma
 
 What’s the answer? Should we only plant tree species that we know will ‘take,’ and then go on to survive frequent drought conditions? Well that’s the Alders gone, along with the Birch and Willow, as well as all the other wildlife that depends on them. So we’re left with a woodland of, maybe, Sweet Chestnut, Crab Apple and Wild Service Tree – because all three are pretty tough and good at surviving drought conditions. There will probably be less wildlife in our woodland now, but at least these trees won’t die! Is it correct to prioritise long-term carbon sequestration over shorter term biodiversity gains?
 
-![$2](/articles/squarespace/bee-eater-352c70aecc.jpg)
+![](/articles/squarespace/bee-eater-352c70aecc.jpg)
 
 Some say ‘hedge your bets’ – plant the greatest diversity possible, both in terms of species and genetic variation. Source the seeds of familiar species such as Oak from further south, much further, France, for example. Others are more radical still, and think planting species that are currently found on the Iberian Peninsula is the answer. Bee-eaters and other exotic looking birds, more associated with the Mediterranean region nested in Britain this year, pushed north by intense heat in Southern Europe. Some conservationists advocate planting Cork Oaks in Southern England in preparation for increasing temperatures as well as all the Bee-eaters, Rollers and Hoopoes they anticipate appearing here in the next decades.
 

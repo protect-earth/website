@@ -3,7 +3,7 @@ title: 'Revisiting a developing habitat in the West Midlands'
 description: "Now that Protect Earth has been planting for a few years, we're revisiting some of our very first projects that are 2-3 years old to review progress."
 pubDate: 2023-12-04T15:41:30.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/revisiting-a-developing-habitat-in-the-west-midlands.jpg'
+thumbnail: ../../articles/revisiting-a-developing-habitat-in-the-west-midlands.jpg
 ---
 
 Now that Protect Earth has been planting at sites for a few years, we are starting to get back to our roots (if you'll pardon the pun), revisiting some of our very first projects that are 2-3 years old to review progress.

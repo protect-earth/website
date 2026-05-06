@@ -3,14 +3,14 @@ title: 'Protect Earth Partners with Exclusive Collection to Create Greener Hotel
 description: 'Protect Earth partnered with boutique hotel group Exclusive Collection to plant 3,985 saplings across three properties, creating greener, healthier landscapes.'
 pubDate: 2024-02-12T08:05:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg'
+thumbnail: ../../articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg
 ---
 
 Protect Earth has partnered with [Exclusive Collection](https://www.exclusive.co.uk/), a boutique hotel group, to enhance guests' experience by creating a greener stay. [Seeing trees](https://www.protect.earth/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future-fm7r2) can boost mental health, and the cleaner air offers tremendous benefits, including increased well-being.
 
 This partnership involved a multi-site planting project across three Exclusive Collection properties: Lainston House, Pennyhill Park, and South Lodge. Protect Earth is thrilled to have managed this initiative, planting 3,985 saplings to contribute to greener, healthier landscapes.
 
-![$2](/articles/squarespace/pe-exclusive-8135f9ae83.png)
+![](/articles/squarespace/pe-exclusive-8135f9ae83.png)
 
 ## Readying to plant on-site
 
@@ -26,7 +26,7 @@ Protect Earth is committed to [planting what will thrive](http://protect.earth/a
 
 Steve the Ecologist conducted site visits to assess soil composition, moisture retention, and other environmental factors. He collaborated with Exclusive Collection to incorporate their ideas into the planting plan. This ensured the [selection of appropriate species](http://protect.earth/articles/where-do-our-saplings-come-from-apltp) and the [ideal planting times](http://protect.earth/articles/why-protect-earth-plant-trees-in-winter-zwlfk).
 
-![$2](/articles/squarespace/5i1a0044-454db18047.jpg)
+![](/articles/squarespace/5i1a0044-454db18047.jpg)
 
 ## Creating New Woodlands
 
@@ -36,7 +36,7 @@ Together with volunteer staff from Exclusive Collection, we planted 3,985 saplin
 
 These hands-on experiences foster a greater understanding of woodland restoration and strengthen the Protect Earth community. While the work can be physically demanding, it also brings a sense of pride and achievement to all involved.
 
-![$2](/articles/squarespace/soyth-lodge-trees-97-5187d37fff.jpg)
+![](/articles/squarespace/soyth-lodge-trees-97-5187d37fff.jpg)
 
 ## To Sum Up
 

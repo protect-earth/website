@@ -3,7 +3,7 @@ title: "Roskruge Farm: Cultivating Biodiversity on England's Lizard Peninsula"
 description: 'Roskruge Farm is a 44-acre farm on the Lizard Peninsula surrounded by intensive agricultural activities, intoxicating chemicals, and harmful environmental practices.'
 pubDate: 2024-05-13T07:55:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/roskruge-farm-cultivating-biodiversity-on-englands-lizard-peninsula.jpeg'
+thumbnail: ../../articles/roskruge-farm-cultivating-biodiversity-on-englands-lizard-peninsula.jpeg
 ---
 
 Roskruge Farm is a 44-acre farm on the Lizard Peninsula surrounded by intensive agricultural activities, intoxicating chemicals, and harmful environmental practices.
@@ -41,7 +41,7 @@ Kilometres of hedgerows planted: 0.85
 
 Roskruge Farm, spanning 44.47 acres of diverse habitats, including grassland, scrub, hedgerows, woodland, and ponds, has long been a haven for wildlife. But the landowners, with a deep love for nature and a commitment to conservation, sought to enhance its biodiversity further. Partnering with Protect Earth, they embarked on a journey to cultivate more habitat, planting 1400 native broadleaf trees and 850 metres of wildlife-friendly hedgerows.
 
-![$2](/articles/squarespace/img_0669-00100901b0.jpeg)
+![](/articles/squarespace/img_0669-00100901b0.jpeg)
 
     “By providing that refuge and significantly placed, stop over point for migratory birds, butterflies and other insects we hope to contribute to the conservation of these species and promote biodiversity in the local region.”
 
@@ -57,7 +57,7 @@ The landowner's commitment to biodiversity stems from a desire to provide sanctu
 
 Beyond the woodlands and meadows, the landowners envision a space teeming with life. Their multi-year plan for a traditional orchard, pond restoration, and the creation of an extensive wildflower meadow reveals their dedication to enhancing biodiversity.
 
-![$2](/articles/squarespace/img_0664-09e1708160.jpeg)
+![](/articles/squarespace/img_0664-09e1708160.jpeg)
 
 These efforts benefit wildlife and offer joy and fulfilment to those involved, knowing they're contributing to something greater than themselves.
 

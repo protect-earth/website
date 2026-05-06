@@ -3,12 +3,12 @@ title: 'Join us in planting trees all over the country this winter'
 description: 'Fancy getting your hands dirty and doing your bit to put a dent in the climate crisis? Come and help us plant a whole load of trees.'
 pubDate: 2022-10-12T09:16:59.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/tree-planting-events-2022-23.jpg'
+thumbnail: ../../articles/tree-planting-events-2022-23.jpg
 ---
 
 All summer we’ve been mulching, watering, clearing, and getting a whole lot of paperwork and logistics sorted out for this planting season, and now it’s finally time for tree planting again. Many of you have been reaching out about [Volunteering](https://www.protect.earth/volunteering) oppertunities, so I thought I’d put together a quick summary of the planting events coming up.
 
-![$2](/articles/squarespace/img_0360-53c5b02b67.jpg)
+![](/articles/squarespace/img_0360-53c5b02b67.jpg)
 
 Here’s all the events we have planned at the time of writing, grouped up by region.
 

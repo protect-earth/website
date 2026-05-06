@@ -3,7 +3,7 @@ title: "Rooted in Green: Park Avenue Recruitment's Journey to Sustainable Team B
 description: "Greenery and green space impact our mental and physical health. We examine Park Avenue Recruitment's team outing and the benefits of green spaces."
 pubDate: 2024-04-28T21:49:07.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg'
+thumbnail: ../../articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg
 ---
 
 Greenery and green space are very important to our health.
@@ -20,7 +20,7 @@ Let's kick things off by looking at what the team at Park Avenue Recruitment hop
 
 [Park Avenue Recruitment](https://www.park-avenue.co.uk/) are a London-based recruitment company with an 18-person strong team.
 
-![$2](/articles/squarespace/tree-planting-821ff585b6.jpg)
+![](/articles/squarespace/tree-planting-821ff585b6.jpg)
 
 The team and company support the environment through their work with [Ecologi](https://ecologi.com/parkavenuerecruitment?r=62f114b2c60a9ea75b9fc1ac), where they have funded 24 projects resulting in 3,086 trees being planted all over the UK.
 

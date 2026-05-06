@@ -3,7 +3,7 @@ title: 'Expanding Ancient Woodlands: When Does New Become Ancient?'
 description: 'Ancient woodlands are the crowned jewels of the UK’s natural landscapes. Rich in biodiversity and steeped in centuries of history, these woodlands hold a special place in conservation efforts. At...'
 pubDate: 2025-07-27T05:33:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/expanding-ancient-woodlands-when-does-new-become-ancient.jpg'
+thumbnail: ../../articles/expanding-ancient-woodlands-when-does-new-become-ancient.jpg
 ---
 
 Ancient woodlands are the crowned jewels of the UK’s natural landscapes. Rich in biodiversity and steeped in centuries of history, these woodlands hold a special place in conservation efforts. At Protect Earth, our mission is to nurture the conditions that allow woodlands to thrive and, over time, mature gracefully into these ancient havens. But here’s the rub: if an ancient woodland is defined by its age, what happens when you extend its boundaries into new spaces? Can these newly planted areas truly count as part of the ancient woodland, or are they just fresh patches of green surrounded by history?

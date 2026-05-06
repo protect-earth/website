@@ -3,7 +3,7 @@ title: "Protect Earth's experience with tree guards - plastics, plastic alternat
 description: "Green plastic square tubes stand thigh-high on every tree-planting project. Let's examine these guards, their purpose, materials, and what happens when they're no longer needed."
 pubDate: 2024-08-26T13:24:04.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earths-experience-with-tree-guards-plastics-plastic-alternatives-amp-beyond.jpg'
+thumbnail: ../../articles/protect-earths-experience-with-tree-guards-plastics-plastic-alternatives-amp-beyond.jpg
 ---
 
 You’ve seen them dotted on nearly every tree-planting project. Green plastic square tubes standing thigh or stomach height. They are mostly always plastic. And after being left out for a few years across every season, they look a bit battered.
@@ -136,7 +136,7 @@ These guards are one of the more expensive options available. Their rigid and bu
 
 ### Cardboard tree guards
 
-![$2](/articles/squarespace/card-board-tree-guard-794f84ccb3.jpg)
+![](/articles/squarespace/card-board-tree-guard-794f84ccb3.jpg)
 
 Unless it comes from recycled cardboard materials, surrounding trees with cardboard harvested from a tree sounds like a sadistic nightmare. It’d be like raising a cow in an abattoir. There is definitely a cruel irony. And that twist of fate—or window into the future—seems to be the case for some cardboard guard producers who do produce their tree guards from virgin paper products.
 

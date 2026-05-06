@@ -3,12 +3,12 @@ title: 'Climate Crisis: Heatwaves vs Tree Planting'
 description: 'The heatwave last summer took its toll on reforestation projects all over the UK, with loses exceeding usual for a young woodland.'
 pubDate: 2022-10-17T10:49:48.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/climate-crisis-heatwaves-vs-tree-planting.jpg'
+thumbnail: ../../articles/climate-crisis-heatwaves-vs-tree-planting.jpg
 ---
 
 The heatwave to hit the U.K. and all of Europe through-out July and a good chunk of August was horrendous, and proved a real challenge for our team as we scrambled to water sites across the country. Thankfully survival rates are within expected bounds at most projects, with one a handful of smaller sites suffering enough losses that saplings will need replacing.
 
-![$2](/articles/squarespace/img_9092-56c10a525c.jpg)
+![](/articles/squarespace/img_9092-56c10a525c.jpg)
 
 A little bit of context for those of us not thinking about reforestation all day every day: a standard practice for woodland creation is "overstocking", where trees are planted more closely together than you need, expecting some to be lost to critters, or unexpected circumstances like prolonged drought. It is simple to thin out the surviving trees after a few years, but the inverse is not true: you cannot magic a mature tree out of nowhere. If you only plant the number of trees you want for the woodland at the end, you need a 100% survival rate to establish a canopy. Instead of a successful woodland ecosystem, you just have a field with some trees, which would have some value as a woodland pasture for grazing cattle but that’s not the goal.
 

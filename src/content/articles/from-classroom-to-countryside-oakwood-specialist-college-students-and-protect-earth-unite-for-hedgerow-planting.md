@@ -3,7 +3,7 @@ title: 'From Classroom to Countryside: Oakwood Specialist College Students and P
 description: 'Protect Earth are more than enthusiastic to share natural spaces with the communities around our managed sites all over the UK. To say we were overjoyed when Oakwood Specialist College contacted us...'
 pubDate: 2024-01-29T08:28:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting.jpg'
+thumbnail: ../../articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting.jpg
 ---
 
 Protect Earth are more than enthusiastic to share natural spaces with the communities around our managed sites all over the UK. To say we were overjoyed when Oakwood Specialist College contacted us to spend some time with us planting hedgerows is an understatement.
@@ -22,7 +22,7 @@ Dan and his team sit with each student to learn more about their goals while att
 
 Not all Oakwood Specialist College’s students want to follow traditional career paths, and some wish to explore other avenues. The discussions with students encouraged Dan to look further afield at other opportunities he could contact to work together, which is how Protect Earth came onto his radar.
 
-![$2](/articles/squarespace/img_0214-87d72687db.jpg)
+![](/articles/squarespace/img_0214-87d72687db.jpg)
 
 As Dan related, he wished he'd had more opportunities during his school years to experience more potential career paths and understand what suited him best. We both agreed being a race car driver would have been great, but we've found more fulfilling roles with far less environmental impact.
 

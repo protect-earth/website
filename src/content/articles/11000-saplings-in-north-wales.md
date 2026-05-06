@@ -3,7 +3,7 @@ title: '11,000 Saplings in North Wales'
 description: 'Protect Earth completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects to restore habitats and boost biodiversity.'
 pubDate: 2025-02-24T08:54:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/11000-saplings-in-north-wales.jpg'
+thumbnail: ../../articles/11000-saplings-in-north-wales.jpg
 ---
 
 Protect Earth has completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects. Combined with our 12,000-tree planting at Goytre, we've stepped up our efforts to restore habitats and boost biodiversity across the UK this season.
@@ -12,7 +12,7 @@ To put this into perspective, we celebrated planting 100,000 saplings over four 
 
 ## The Landscape
 
-![$2](/articles/squarespace/pxl_20250119_140911884-58c09e53ff.jpg)
+![](/articles/squarespace/pxl_20250119_140911884-58c09e53ff.jpg)
 
 This site sits within the Clwydian Range and Dee Valley Area of Outstanding Natural Beauty, a landscape shaped by farming but rich in ecological potential. The land has been semi-improved grassland, heavily grazed by livestock for years. Some areas, classified as Lowland Dry Acid Grassland, may not look botanically rich but support fascinating grassland fungi. Fragments of ancient woodland—oak, ash, wild cherry, and hazel—add to the site's biodiversity alongside patches of scrub and gorse.
 
@@ -45,7 +45,7 @@ With 11,000 saplings to plant, efficiency is key. Over two weeks, a professional
 
     “A great sense of purpose, with knowledgeable and encouraging leaders on site.”
 
-![$2](/articles/squarespace/hh-global-and-clients-1-24cfb6c5d2.jpg)
+![](/articles/squarespace/hh-global-and-clients-1-24cfb6c5d2.jpg)
 
 We also invited volunteers—including local council members—to get involved in creating this new woodland.
 
@@ -59,4 +59,4 @@ The 11,000 trees planted here are expected to sequester 3,763 tonnes of carbon o
 
 Join us in restoring nature! Volunteer at our projects, donate, or buy saplings to help fund new woodlands. Every sapling planted makes a difference—get involved today.
 
-![$2](/articles/squarespace/pxl_20250118_094354807-eaa58e5698.jpg)
+![](/articles/squarespace/pxl_20250118_094354807-eaa58e5698.jpg)

@@ -3,7 +3,7 @@ title: 'The Hidden Cost of AI: Energy, Emissions, and Climate Impact'
 description: 'AI has been everywhere since ChatGPT dropped in late 2022. Behind all that whirring and chugging is some high energy consumption.'
 pubDate: 2024-11-11T15:11:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/the-hidden-cost-of-ai-energy-emissions-and-climate-impact.jpg'
+thumbnail: ../../articles/the-hidden-cost-of-ai-energy-emissions-and-climate-impact.jpg
 ---
 
 Artificial Intelligence has been everywhere since ChatGPT first dropped in late 2022. Want an imaginative image? Want a technical drawing to show your architect how you want a kitchen refurbished or a new conservatory to look? Want to write a bedtime story based on your child’s day? AI will do it all without breaking a sweat. Or, so we thought. We input a command into the field, and the interface whistles, whirrs, and pops, and then we get something close or far from what we had in mind, depending on the strength of the prompt. Behind all that whirring and chugging is some high energy consumption.
@@ -52,7 +52,7 @@ This section will help you understand the above estimates by comparing data cent
 
 For context, every activity people undertake creates around 40.9 billion metric tons of carbon dioxide annually.
 
-![$2](/articles/squarespace/artboard-1a-1-55f3e177e0.png)
+![](/articles/squarespace/artboard-1a-1-55f3e177e0.png)
 
 Above, we can see the neighbourhood in which data centres are located. The airline industry has long been criticised for its carbon footprint. Yet, it's smaller than data centres. And, if you're watching a documentary on YouTube or Netflix about the aviation industry's contribution to climate change, know that that documentary will probably be housed in a data centre (a bigger carbon source than the aviation industry).
 

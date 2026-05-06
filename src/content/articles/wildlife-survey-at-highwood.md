@@ -3,7 +3,7 @@ title: 'Surveying Wildlife at Highwood'
 description: 'Ecologist Steve Wiltshire reports on summer wildlife at High Wood, recording 30 species of breeding birds including Red Kite, Hobby, and Silver-washed Fritillary.'
 pubDate: 2022-07-06T14:28:19.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/wildlife-survey-at-highwood.jpg'
+thumbnail: ../../articles/wildlife-survey-at-highwood.jpg
 ---
 
 #### Protect Earth ecologist and conservationist Steve Wiltshire reports on Summer wildlife at High Wood, our community woodland in South-East Cornwall.

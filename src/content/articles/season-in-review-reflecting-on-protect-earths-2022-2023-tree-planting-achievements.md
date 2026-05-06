@@ -3,7 +3,7 @@ title: "A Season in Review: Reflecting on Protect Earth's Tree Planting Achievem
 description: 'Protect Earth’s goal is to do more for the planet. We’ve put boots to ground to do so and now we’re coming clean with how much habitat we’ve restored and where. Dive in and enjoy!'
 pubDate: 2023-09-19T06:29:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg'
+thumbnail: ../../articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg
 ---
 
 As we look forward to a new planting season starting soon, it's time to reflect on the 2022/2023 planting season and share what was achieved.
@@ -53,7 +53,7 @@ The South East region embraced 15.79% of our projects.
 
 Wales, with 21.05%, was our second most active region for planting projects in the 2022/23 season. The crown, however, goes to the South West, where a whopping 36.84% of our planting projects took root.
 
-![$2](/articles/squarespace/screenshot-2023-09-18-204220-11f21396f8.png)
+![](/articles/squarespace/screenshot-2023-09-18-204220-11f21396f8.png)
 
 ## What else did Protect Earth do during the 2022/23 season
 

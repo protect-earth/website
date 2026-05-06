@@ -3,18 +3,18 @@ title: 'Misconceptions about tree planting'
 description: 'Tree planting is a very effective and essential tool within all the activities we should be doing to responsibly manage and protect the earth. And, with so many cooks in the kitchen and food critics w'
 pubDate: 2023-03-21T09:00:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/misconceptions-about-tree-planting.jpg'
+thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
 ---
 
 As somebody relatively new to woodland creation and restoration, I have been learning quickly thanks to being surrounded by experts in various fields.
 
-Before having a chance to listen and learn from those long involved in tree-planting and reforesting, I thought I knew more than I do now. I thought having trees planted in a straight line was bad practice. I thought overplanting a site was wasteful.
+Before having a chance to listen and learn from those long involved in tree-planting and reforesting, I thought I knew more than I do now. I thought having trees planted in a straight line was bad practice. I thought overstocking a site was wasteful.
 
 I see a lot in traditional media and posts circulating social media platforms trading on many of the same preconceptions I have shed through my work with Protect Earth. Some of these things seem big, and some seem small, but they lead to distrust, infighting, and contention when cooperation is the only way out of the biodiversity and climate crises.
 
 I will kick off this series looking at misconceptions about tree planting by quickly addressing each topic I'll explore in greater depth in later articles.
 
-### **Misconception #1: Trees are planted "too close together"**
+### Misconception #1: Trees are planted "too close together"
 
 **Reality: Overstocking helps a woodland establish even when there are losses.**
 
@@ -28,7 +28,7 @@ If too many trees survive for them all to have enough space, they can be thinned
 
 Overall, overstocking helps to ensure that a woodland contains proper levels of diversity and health and should not be discouraged.
 
-### **Misconception #2: Planting in straight lines is lazy or bad**
+### Misconception #2: Planting in straight lines is lazy or bad
 
 **Reality: Sometimes, it's demanded by the government, but birds don't care.**
 
@@ -46,7 +46,7 @@ Those without grant restrictions might have more creative freedom when designing
 
 Ultimately, tree planting in straight lines may not be ideal. But, it doesn't affect its effectiveness as a habitat for wildlife as nature takes hold and shapes the woodland.
 
-### **Misconception #3: "Rewilding" is better than tree planting**
+### Misconception #3: "Rewilding" is better than tree planting
 
 Rewilding is gaining a lot of attention. It involves leaving the land to naturally turn into woodland.
 
@@ -56,13 +56,13 @@ Natural colonisation will create mature tree coverage but won't happen quickly e
 
 Our woodland, [High Wood](/sites/high-wood), combines natural colonisation and tree planting. We have some clear-felled areas that will not establish a canopy in any sort of relevant timescale. Through controlling the stocking density we can leave larger gaps between what we’re planting, and create clearings, so that if seeds (either in the soil already, or brought over by jays, squirrels, etc) want to give it a shot, they can.
 
-![$2](/articles/squarespace/high-wood-liskeard-20220715-26-8ecbaf7eae.jpg)
+![](/articles/squarespace/high-wood-liskeard-20220715-26-8ecbaf7eae.jpg)
 
 Natural colonisation and tree planting are two separate tools that work very well together. By understanding what these two methods offer, they can be combined to develop an ecosystem's biodiversity.
 
 Rewilding is an effective tool when combined with other techniques, such as tree planting, to create a healthy, biodiverse ecosystem [capable of addressing our current environmental crises](/articles/right-tree-right-place-right-now) more quickly.
 
-### **Misconception #4: Planting a tree for every t-shirt (insert any product) is greenwashing**
+### Misconception #4: Planting a tree for every t-shirt (insert any product) is greenwashing
 
 **Reality: Companies usually take one small step to do something productive and do not pretend that planting a single tree offsets the carbon created to manufacture products and get them on shelves.**
 
@@ -76,7 +76,7 @@ Nevertheless, we should all work harder to understand the truths behind those sl
 
 As an industry, we should be working together to standardise our reporting. Companies (who care about environmental issues rather than the bandwagon hoppers) should be interrogating how effective their spending is and passing that message on to customers who deserve an answer if they're spending their hard-earned money on tree-planting via their newest purchase.
 
-### **Misconception #5: Using plastic guards is daft because alternatives exist now.**
+### Misconception #5: Using plastic guards is daft because alternatives exist now.
 
 **Reality: Good options hit the market in 2021/ 22 but are still experimental, expensive, or both.**
 
@@ -92,7 +92,7 @@ As an industry, we know we need more than fossil plastic guards, and we continue
 
 I have heard whispers that regulation changes may be coming, requiring biodegradable/ sustainable tree guards. This means the economies of scale will kick in, making them more attainable for all organisations in the short term. Fingers crossed for this.
 
-### **Misconception #6: Reforestation is taking valuable land from farming**
+### Misconception #6: Reforestation is taking valuable land from farming
 
 **Reality: Groups like Protect Earth work with farmers to boost their land's bio-diversity increasing farm productivity while fighting climate change. We buy land with very low productivity for larger rewilding.**
 
@@ -100,7 +100,7 @@ The media has a narrative that hedge funds based in London are buying up entire 
 
 Some of that may be true, but not as much as some newspapers would make you think, as we can see from the records of [how much tree planting is being done across the UK](https://www.forestryjournal.co.uk/news/20214157.forest-research-woodland-statistics-uk-misses-annual-tree-planting-targets/).
 
-![$2](/articles/squarespace/image-da25fda54f.png)
+![](/articles/squarespace/image-da25fda54f.png)
 
 In the UK, 540 hectares are planted with trees yearly - just over 1,300 football fields. Much of the land is planted by existing landowners planting trees on their land (we know, we work with them to help them do it).
 

@@ -3,7 +3,7 @@ title: 'Protect Earth are Fundraising to protect Blackswarth Road Wood, Bristol'
 description: 'Protect Earth is on a mission to secure £40,000 to acquire Blackswarth Road Wood, a Site of Nature Conservation Interest in Bristol city.'
 pubDate: 2023-08-08T15:42:02.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protect-earth-are-fundraising-to-protect-blackswarth-road-wood-bristol.png'
+thumbnail: ../../articles/protect-earth-are-fundraising-to-protect-blackswarth-road-wood-bristol.png
 ---
 
 Protect Earth, an environmental charity is on a mission to secure £40,000 to preserve a portion of woodland in Bristol city. The organisation has initiated a fundraising campaign intending to acquire Blackswarth Road Wood, an area designated as a Site of Nature Conservation Interest (SNCI), located in the heart of Bristol. The acquisition of this land, according to Protect Earth, would not only ensure its protection from potential development but would also significantly contribute towards enhancing its biodiversity as a sanctuary for local wildlife.

@@ -3,7 +3,7 @@ title: 'Wildflower Meadows, Summer Planting, and Gift Aid'
 description: "While hunting for land to buy, we've been busy planning 100,000 trees for the 2021/22 season through site visits, contracts and grant applications."
 pubDate: 2021-09-14T12:35:53.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/september-2021-update.jpg'
+thumbnail: ../../articles/september-2021-update.jpg
 ---
 
 Most tree planting happens between November and March in the UK, but that doesn’t mean we’ve not been busy the last few months. We’re still hunting for the right piece of land to buy. In the meantime we’ve been hard at work talking to landowners all over the country, with the goal of planting 100,000 trees through the 2021/22 planting season. It’s a whole lot of phone calls, site visits, contracts and grant applications. So far we’ve got about 60,000 trees on the books at some stage, and we’re hoping we’re about to get all of those nailed down, and find the next 40,000 to hit our targets.
@@ -46,11 +46,11 @@ Another experiment on Pantpurlais is an attempt at year-round planting. Most ref
 
 The first 600 saplings we planted there were bare root saplings, as have all of the other 5,400 we planted last season, but now we’re experimenting with “cell grown” saplings.
 
-![$2](/articles/squarespace/3-cf1418b4d8.png)
+![](/articles/squarespace/3-cf1418b4d8.png)
 
 Cell grown saplings come from the nursery looking like little garden plants, with soil around their base and a relatively intact root system ready to be planted. We got a pack of 105 from the Woodland Trust and plopped them in another unused hilly field. These are being protected with some lovely cardboard guards, as we - like most reforestation organizations - are urgently trying to get away from the use of plastic, which has been the industry standard for far too long.
 
-![$2](/articles/squarespace/4-3416ab2cd0.png)
+![](/articles/squarespace/4-3416ab2cd0.png)
 
 Last season we looked into alternatives to bare root saplings and the prices were all prohibitively expensive, but for some reason this season the difference is only about an extra 10p on the cost of the sapling. It’s a little more work moving them around as they have more growth to worry about, and the soil is heavier, but this should open up a lot of doors for us to take care of smaller projects (500-1000 trees) outside of the usual rush of winter planting season!
 

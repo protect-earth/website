@@ -3,7 +3,7 @@ title: 'Triumph as temperate rainforest restoration project gets the go ahead'
 description: 'Protect Earth have managed to gain permission to plant native-only trees at our woods outside of Liskeard, Cornwall. This is BIG as we previously would have been required to plant non-native species t'
 pubDate: 2023-04-12T14:58:20.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg'
+thumbnail: ../../articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg
 ---
 
 Protect Earth has landed a veto on decades-long commercial clear-felling at High Wood, Liskeard.

@@ -3,7 +3,7 @@ title: 'Case Study: Supporting Menston Area Nature Trust with Invasive Species M
 description: 'Protect Earth partners with Menston Area Nature Trust to manage invasive rhododendron species damaging native wildlife habitat in East Wood, West Yorkshire.'
 pubDate: 2025-04-14T07:00:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/case-study-supporting-menston-area-nature-trust-with-invasive-species-management.jpeg'
+thumbnail: ../../articles/case-study-supporting-menston-area-nature-trust-with-invasive-species-management.jpeg
 ---
 
 Protect Earth is committed to reversing biodiversity loss across the UK by restoring natural habitats. While we actively manage our lands, we also collaborate with other organisations who share our ambitions. One such partnership was with the Menston Area Nature Trust (MANT), where we provided expertise and resources for invasive species management.

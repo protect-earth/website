@@ -3,7 +3,7 @@ title: 'Goytre Wood, Powys proposal'
 description: 'Goytre Wood is a 70 acre woodland Protect Earth have acquired in Powys, Wales. This is tremendously exciting for us to set out a plan bringing real, beneficial change to this woodland. In this piece, '
 pubDate: 2023-05-08T07:30:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/goytre-wood-powys-proposal.jpg'
+thumbnail: ../../articles/goytre-wood-powys-proposal.jpg
 ---
 
 Protect Earth are beyond proud and excited about our new [community woodland](/articles/goytre-wood) in Powys. It is located in an Atlantic Oak Woodland region on the Welsh side of the Wales-England border, overlooking the beautiful Shropshire Hills.
@@ -16,11 +16,11 @@ Taking a page out of Google’s book when they launched their new AI tool Bard, 
 
 Nonetheless, we’re going to share - in Steve the Ecologist’s words (his passion, knowledge, and enthusiasm is too apparent in what he’s shared it would hurt to rewrite) - the plan as this is an open dialogue with anyone with a connection to Powys and Goytre Wood - we want feedback from the community who know and use the land!
 
-![$2](/articles/squarespace/img_1478-88d55a0e3a.jpg)
+![](/articles/squarespace/img_1478-88d55a0e3a.jpg)
 
 ## The plan
 
-![$2](/articles/squarespace/img_1464-f61fd4e9ec.jpg)
+![](/articles/squarespace/img_1464-f61fd4e9ec.jpg)
 
 Basically, all the valleys of Mid-Wales should be Sessile Oak woodland, gnarly, moss-covered, old trees clinging to the steep valley sides. Underneath the Oaks should be Hazel and Hawthorn as well, along with Rowans and Birch trees at the edges.
 

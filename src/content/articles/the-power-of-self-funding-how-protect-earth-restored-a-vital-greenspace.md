@@ -3,7 +3,7 @@ title: 'The Power of Self-Funding: How Protect Earth Restored a Vital Greenspace
 description: 'After trees were mistakenly cut down in a community project, Protect Earth self-funded rapid restoration to revitalise the greenspace and restore community spirit.'
 pubDate: 2024-08-14T17:14:42.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/the-power-of-self-funding-how-protect-earth-restored-a-vital-greenspace.jpg'
+thumbnail: ../../articles/the-power-of-self-funding-how-protect-earth-restored-a-vital-greenspace.jpg
 ---
 
 A recent community-led reforestation initiative caught the attention of Protect Earth, but not for the reasons we might have hoped. Unfortunately, due to a miscommunication, several trees that had been painstakingly planted by local residents were inadvertently cut down. This affected the development of much-needed greenspace and threatened to undermine the community's morale and dedication to the project.
@@ -31,4 +31,4 @@ Help Protect Earth to restore vital green spaces.
 
 You will receive a personalised certificate with the tree's exact location, allowing you to visit and see the impact of your contribution firsthand. Act now and make a difference!
 
-![$2](/articles/squarespace/img_1816-164ab600f6.jpeg)
+![](/articles/squarespace/img_1816-164ab600f6.jpeg)

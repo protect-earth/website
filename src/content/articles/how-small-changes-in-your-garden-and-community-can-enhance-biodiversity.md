@@ -3,7 +3,7 @@ title: 'How Small Changes in Your Garden and Community Can Enhance Biodiversity'
 description: 'Many ways to support biodiversity in the UK, even at home. Planting more things and thinking about what insects and animals to attract will increase biodiversity.'
 pubDate: 2024-11-05T21:47:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/how-small-changes-in-your-garden-and-community-can-enhance-biodiversity.jpg'
+thumbnail: ../../articles/how-small-changes-in-your-garden-and-community-can-enhance-biodiversity.jpg
 ---
 
 There are many ways to support biodiversity in the UK - even making a few changes at home. Biodiversity is the range of plants, insects, and animals that are present. Planting a few more things and thinking a little more about what insects and animals you want to attract will increase biodiversity. Whether you have a garden or live in a flat with no outdoor space, some variation of all these ideas and steps can be done in your home to attract more wildlife to your surroundings.
@@ -65,4 +65,4 @@ By making thoughtful changes at home and encouraging wildlife-friendly spaces, w
 
 If you want to see more biodiversity thrive in the UK, head to Protect Earth's store and buy a hedge or tree. Each purchase helps plant in various projects across the UK, and you'll receive a certificate detailing the species planted and its location. Your contribution will directly support the enhancement of biodiversity, creating habitats for wildlife and enriching our ecosystems.
 
-![$2](/articles/squarespace/img_8223-edb523039d.jpg)
+![](/articles/squarespace/img_8223-edb523039d.jpg)

@@ -3,10 +3,10 @@ title: 'Why Protect Earth plant trees in winter'
 description: 'The autumn and winter are some of the best times to plant trees. Especially for us, where we plant thousands of trees.'
 pubDate: 2022-10-10T18:07:36.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/why-protect-earth-plant-trees-in-winter.jpg'
+thumbnail: ../../articles/why-protect-earth-plant-trees-in-winter.jpg
 ---
 
-![$2](/articles/squarespace/img_4981-9ea1e6e09d.jpg)
+![](/articles/squarespace/img_4981-9ea1e6e09d.jpg)
 
 The autumn and winter are some of the best times to plant trees. Especially for us, where we plant thousands of trees.
 
@@ -32,7 +32,7 @@ Planting in the summertime requires regular watering and other maintenance. Enjo
 
 The likelihood of survival for the tree also goes up. The trees only really have to focus on snuggling their roots up to the new soil they find themselves in - which is energy-consuming. But, they don't have to burn more energy on growing leaves, processing sunlight, and all those functions. That comes later in the growing cycle. Planted in winter, they can concentrate on getting themselves snug as a bug in their new soily home! Other times of the year, planting trees can be like burning the candle at both ends!
 
-![$2](/articles/squarespace/120f037a-8edb-4e7b-9867-2823f8a5c908-05743c77b1.jpg)
+![](/articles/squarespace/120f037a-8edb-4e7b-9867-2823f8a5c908-05743c77b1.jpg)
 
 Tree survival is an important goal for everyone. No one wants to plant a tree to see it perish. But, when considering the number of trees that Protect Earth plants annually, it could amount to a significant number of trees dying that don't contribute anything and then need replacing. We don't want to replant trees. As a community, we all want new and more trees to be planted!
 

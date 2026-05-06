@@ -3,7 +3,7 @@ title: 'Lower Hampen Farm: An Update'
 description: 'An update on 1200 trees planted in February 2021 at Lower Hampen Farm, which will sequester approximately 565 tonnes of carbon by 2051.'
 pubDate: 2021-08-27T13:51:26.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/lower-hampen-farm-an-update.jpg'
+thumbnail: ../../articles/lower-hampen-farm-an-update.jpg
 ---
 
 We are delighted to share an update on Lower Hampen Farm, there we planted 1200 trees in February 2021, which will sequester approximately 565 tonnes of carbon by 2051.

@@ -3,7 +3,7 @@ title: 'Ash Dieback — What it is, and the consequences for UK Woodlands'
 description: 'Eighty million Ash trees expected to die in the UK due to Ash Dieback fungus. Exploring what this disease is, where it came from, and the future for UK Ash.'
 pubDate: 2022-12-26T12:00:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/ash-dieback-what-it-is-and-consequences-to-the-uks-woodlands.jpg'
+thumbnail: ../../articles/ash-dieback-what-it-is-and-consequences-to-the-uks-woodlands.jpg
 ---
 
 #### Eighty million Ash trees are expected to die in the UK due to the Ash Dieback fungus, representing a significant shock to the UK's natural environment. This article explores what this disease is, where it came from, and what the future looks like for UK Ash and the ecosystems they support.

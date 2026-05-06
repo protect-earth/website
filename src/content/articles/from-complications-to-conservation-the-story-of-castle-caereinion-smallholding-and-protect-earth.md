@@ -3,7 +3,7 @@ title: 'From Complications to Conservation: The Story of Castle Caereinion Small
 description: 'Where: close to Welshpool, mid-Wales'
 pubDate: 2024-03-11T08:05:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/from-complications-to-conservation-the-story-of-castle-caereinion-smallholding-and-protect-earth.jpeg'
+thumbnail: ../../articles/from-complications-to-conservation-the-story-of-castle-caereinion-smallholding-and-protect-earth.jpeg
 ---
 
 ### **Project at a glance**
@@ -40,7 +40,7 @@ On buying the land, Jonathan wanted to change the landscape of his 4 hectares, a
 
 ## **Difficulties getting their dreams off the ground**
 
-![$2](/articles/squarespace/img_0890-e480790aaa.jpeg)
+![](/articles/squarespace/img_0890-e480790aaa.jpeg)
 
 As with the beginnings of most journeys today, Jonathan started online typing in keywords where the big players in developing biodiversity dominate the top search returns.
 
@@ -68,7 +68,7 @@ We took delivery of a mix of native tree and shrub species including Oak, Wild C
 
 Protect Earth has set out metrics that are essential to us. Equally, biodiversity development projects are wonderful to be a part of, and it helps to work with others from time to time, sharing our knowledge on biodiversity development and ongoing management.
 
-![$2](/articles/squarespace/img_0894-d034dd9bdb.jpeg)
+![](/articles/squarespace/img_0894-d034dd9bdb.jpeg)
 
 Jonathan, his family and friends who visit are happy to know that the woodlands they've started with Protect Earth will sequester 272 tons of carbon after 50 years.
 

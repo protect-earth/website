@@ -3,7 +3,7 @@ title: 'Biodiversity Enhancement at Nannerch: Creating Habitats for Wildlife'
 description: 'Protect Earth is enhancing biodiversity at Nannerch in North Wales, creating homes for wildlife while ensuring the local community can enjoy the green space.'
 pubDate: 2024-10-14T07:13:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/biodiversity-enhancement-at-nannerch-creating-habitats-for-wildlife.jpg'
+thumbnail: ../../articles/biodiversity-enhancement-at-nannerch-creating-habitats-for-wildlife.jpg
 ---
 
 Protect Earth is enhancing biodiversity at our site, Nannerch (_pronounced nannac_), in North Wales, by creating homes for wildlife while ensuring the local community can enjoy the green space for recreation and well-being. This project blends biodiversity enhancement with community use, providing a shared space that benefits nature and people.
@@ -14,7 +14,7 @@ Nannerch is a hillside site—sitting at an elevation of 240m—right in the mid
 
 There are some areas classed as Lowland Dry Acid Grassland. These areas are not particularly botanically rich but do appear to have some interesting grassland fungi. There are also some interesting areas of gorse and scrub to the north and south of the main planting areas. Nearby, there are fragments and patches of ancient woodland with Oak, Ash, Wild Cherry, and Hazel.
 
-![$2](/articles/squarespace/img_5401-4d5f994179.jpeg)
+![](/articles/squarespace/img_5401-4d5f994179.jpeg)
 
 ## Protect Earth’s plan for biodiversity enhancement
 
@@ -38,4 +38,4 @@ The grasslands will hopefully remain rich in fungi and become more botanically i
 
 Support Protect Earth's mission to create new woodlands and natural habitats in the UK by purchasing trees and shrubs from our shop. Your contribution will help enhance biodiversity and build homes for wildlife.
 
-![$2](/articles/squarespace/img_5410-8999c31642.jpeg)
+![](/articles/squarespace/img_5410-8999c31642.jpeg)

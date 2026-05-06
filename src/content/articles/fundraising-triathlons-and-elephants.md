@@ -3,7 +3,7 @@ title: 'Fundraising: Triathlons and Elephants!'
 description: 'Riding from Slovakia to Croatia to complete the Zadar Half Ironman. Completed in 6hr9min, raising funds for tree planting.'
 pubDate: 2020-10-15T13:21:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/fundraising-triathlons-and-elephants.jpg'
+thumbnail: ../../articles/fundraising-triathlons-and-elephants.jpg
 ---
 
 I've spent the last few weeks riding from the north of Slovakia to the middle of Croatia, dodging COVID-19 red zones, sleeping in my tent saving money for trees, all to get to a half-triathlon called the [Zadar Half Ironman](https://zadarhalf.com/).
@@ -12,7 +12,7 @@ Despite running with all the speed and elegance of a newborn calf, I managed to 
 
 The [fundraising target](https://www.justgiving.com/crowdfunding/philsturgeon) for this was £2,000 and we're up to **£1,185**. If you could post this on your social media we could get some one-off donations from your friends we can still get this up to the target!
 
-![$2](/articles/squarespace/phil-920c069339.webp)
+![](/articles/squarespace/phil-920c069339.webp)
 
 In other news, Gary Hockin (our very first VIP patron!) ran an auction, selling off his [collection of PHP elephants](https://twitter.com/GeeH/status/1309051001492721664)! This is a software programming thing, which means nothing to a lot of people, but if you happen to write PHP this was a very big deal, and it raised **£1,000!** This was amazing, unplanned, and I cannot thank Gary enough. He's going to be at some of our planting sessions this winter with his Camper Van, so say thank you when you meet him!
 

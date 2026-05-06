@@ -3,7 +3,7 @@ title: 'The Best Possible Quality Tree Planting'
 description: 'Tree planting versus natural regeneration discussions regularly pop up online. Some say tree planting is bad, when they mean bad tree planting is bad.'
 pubDate: 2024-07-08T06:29:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/the-best-possible-quality-tree-planting.jpg'
+thumbnail: ../../articles/the-best-possible-quality-tree-planting.jpg
 ---
 
 Discussions around “tree planting” versus “natural regeneration” regularly pop up online, and it’s amazing to see more people getting interested in this previously rather obscure conversation. Campaigners have done an amazing job of getting natural regeneration supported by government grant systems such as English Woodland Creation Offer, making this possible (and profitable) for more land owners, so we’ll see more of it happening across the country. At the same time some of the conversations are pretty unscientific, with suggestions of “tree planting is bad” when people are really just referring to problems that occur through “bad tree planting”, and natural regeneration is hailed a silver bullet by some activists when the vast majority of experts will explain it is far more complicated than that.
@@ -14,11 +14,11 @@ Most of us know what tree planting is, but let’s establish a clear basis for c
 
 Natural regeneration means letting land that used to be woodland re-establish itself. This is fantastic in areas like timber plantations on ancient woodlands that have had all their native species cut down, but still have an amazing store of seeds in the soil. This is what we’re doing at High Wood, taking out non-native conifers and letting the native species come back, where most of the land will not require any planting at all, and it will be full of silver birch, oak, ash, holly, hazel, rowan, and whatever else is still in the soil from before, along with whatever turns up via birds and wind spreading other seeds from nearby.
 
-![$2](/articles/squarespace/image8-ff71bb2e57.jpg)
+![](/articles/squarespace/image8-ff71bb2e57.jpg)
 
 Natural colonisation is another term which gets mixed in with natural regeneration, but they’re a little different. This means land which was never wooded, or has not been woodland for a long time. For example a woodland that was felled and converted to farmland decades or centuries ago. Seeds will spread from nearby seed sources such as woodlands and hedgerows, being dropped nearby by gravity, being buried or dropped by birds and mammals, and carried further by the wind, and suckering from adventitious roots. This method involves going through the full “woodland succession” process of scrubland generating from bramble and gorse, then “pioneer species” like rowan and willow growing through the protection, creating bird perches to attract more birds, then more diverse species being dropped into the bramble which over time grow through the pioneer species to make a diverse wonderful woodland. This is ideal, and the more seed source there is nearby the better and quicker it goes.
 
-![$2](/articles/squarespace/image3-ca51cc9ba6.jpg)
+![](/articles/squarespace/image3-ca51cc9ba6.jpg)
 
 There are no silver bullets here, and none of these approaches to woodland creation are inherently bad, unless done poorly, in the wrong place. You’ve heard “the right tree, in the right place” and sometimes that means not planting somewhere just as much as it means stalling natural colonisation / succession where an existing habitat is already valuable. It’s complicated, but a lot of experts have taken a swing at making it simple to understand.&nbsp;
 
@@ -41,15 +41,15 @@ Some locations will have seeds in the soil or seeds nearby, but the woodland cre
 
 Bolstering biodiversity through introducing species that used to be in the area, or [should be in the area](/articles/right-tree-right-place-right-now), can just mean dotting some of these trees around, or it could mean planting 25-50% of the land with a mixture of species that aren’t there and leaving large spacing and clearings between the planted saplings for nature to fill in the gaps.
 
-![$2](/articles/squarespace/image6-bda494d39b.jpg)
+![](/articles/squarespace/image6-bda494d39b.jpg)
 
 This is one of the most common versions of “both” for us, but my favourite examples would be adding Plymouth Pear and Cornish Elm around High Wood, two species that are incredibly rare, and would almost certainly never have turned up by themselves any time in the next 100 years.
 
-![$2](/articles/squarespace/image4-6ff0d5b129.jpg)
+![](/articles/squarespace/image4-6ff0d5b129.jpg)
 
 Another example: [Restoring Hardknott Forest](https://bag.leeds.ac.uk/projects/restoring-hardknott-forest/). They are restoring 630 hectares of old conifer timber plantation, and whilst regeneration was doing a great job, it was missing a few species, so for the sake of biodiversity and creating a functional ecosystem some supplementary planting of Juniper, Hawthorn, and Hazel was needed.
 
-![$2](/articles/squarespace/image5-493f29454f.jpg)
+![](/articles/squarespace/image5-493f29454f.jpg)
 
 This practice is not just my favourite approach, but it’s recommended by Rewilding Britain who are some of the most popular proponents of the natural regeneration & colonisation methods.
 
@@ -134,7 +134,7 @@ Cardboard guards seemed like the most interesting, because most bioplastic is st
 
 The biodegradable plastic rabbit spirals we’ve used at several sites turn out to be only “industrially compostable”, meaning they need to be collected and sent off to a specialist. All the spirals that break down in place will take centuries to degrade, because they break into small pieces (many were even chewed apart by rabbits) and it’s impossible to collect those fragmented plastic pieces that have been blown off into a hedge or squashed into the soil.
 
-![$2](/articles/squarespace/image1-f935edf216.png)
+![](/articles/squarespace/image1-f935edf216.png)
 
 The best sustainable guards we’ve tried are [Vigilis Bio shelters](https://vigilistreeshelters.com/products/vigilis-bio/), which are a form of bioplastic which will apparently break down in the soil leaving no microplastics, but we only got a handful to trial and they’re not commercially available. There’s also the plastic-free guards from [NextGen Tree Shelters](https://nexgen-ts.com/) made out of wool, and I’ve been eager to get hold of these since they were announced years ago, but they’ve been saying “available next season” for years.
 

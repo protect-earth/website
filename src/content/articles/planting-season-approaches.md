@@ -3,7 +3,7 @@ title: 'Planting Season Approaches'
 description: 'After the fundraising adventure to Croatia, getting everything ready for planting season. First land-owner planting project in Dyrham ready for 3,000 trees.'
 pubDate: 2020-11-13T12:18:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/planting-season-approaches.jpg'
+thumbnail: ../../articles/planting-season-approaches.jpg
 ---
 
 After the [fundraising adventure to Croatia](https://www.patreon.com/posts/fundraising-and-42486991), I'm back in the UK getting everything ready for planting season. Here in Dyrham (near Bristol and Bath), we're getting our first land-owner planting project ready for the day when 3,000 trees appear. We have yet to get a firm date, for a series of reasons:
@@ -14,11 +14,11 @@ After the [fundraising adventure to Croatia](https://www.patreon.com/posts/fundr
 
 Anyway, there's lots to do while we wait.&nbsp;
 
-![$2](/articles/squarespace/image-asset-202f2a6ae9.jpeg)
+![](/articles/squarespace/image-asset-202f2a6ae9.jpeg)
 
 The first step is sorting out some previous planting. Saplings were planted near one of our sites in two phases, 3 and 5 years ago, but they have not been monitored by the folks that planted them. You can't just shove them in the ground and ignore them for five years, which is why Protect Earth will be returning to each site we plant once or twice a year.... I've been taking down old guards and stakes, propping up ones that have been mislead by fallen guards, and over the next few years we'll hopefully see more of these small windswept trees growing tall and proud.
 
-![$2](/articles/squarespace/24bb7b5d-05e7-414c-a9a6-097f2e1cddd7-b99bd82a2f.jpg)
+![](/articles/squarespace/24bb7b5d-05e7-414c-a9a6-097f2e1cddd7-b99bd82a2f.jpg)
 
 After all the planning and emailing, it's great to be out here getting my hands dirty. I'll be at this all week, and then I'll be shoveling horse manure as mulch around their bases to keep the weeds back and help their growth. It's not all bunnies and rainbows but it's the work we need to do!
 
@@ -28,7 +28,7 @@ The rest of the team has been out visiting plots of land for us to acquire. We l
 
 We have seen some really hopeful plots coming up in Wales. £50k for 44 acres right next to a National Park? 🥰&nbsp;
 
-![$2](/articles/squarespace/screen-shot-2020-11-13-at-9.54.55-am-937ea67ce5.png)
+![](/articles/squarespace/screen-shot-2020-11-13-at-9.54.55-am-937ea67ce5.png)
 
 We're working as fast as we can to get this land now, as if we are incredibly lucky, we might be able to plant a "small part" of it this year (12 acres / 6,000 trees). Why? This is about to get confusing but I'd like you to know what you're funding!
 
@@ -52,4 +52,4 @@ The good news is that now we're more prepared and understand the game better, we
 
 So be it!&nbsp;
 
-![$2](/articles/squarespace/img_5144-a54c33b6d8.jpg)
+![](/articles/squarespace/img_5144-a54c33b6d8.jpg)

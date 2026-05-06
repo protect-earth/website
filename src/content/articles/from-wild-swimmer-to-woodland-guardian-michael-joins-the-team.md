@@ -3,7 +3,7 @@ title: 'From Wild Swimmer to Woodland Guardian – Michael Joins the Team'
 description: 'Michael Cunningham joins Protect Earth as Project Manager, bringing BSc in Conservation, chainsaw certification, and dedication to support all our projects.'
 pubDate: 2025-06-25T18:25:18.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/from-wild-swimmer-to-woodland-guardian-michael-joins-the-team.jpg'
+thumbnail: ../../articles/from-wild-swimmer-to-woodland-guardian-michael-joins-the-team.jpg
 ---
 
 Michael Cunningham has joined Protect Earth as our Project Manager, bringing hands-on expertise and a strong track record in conservation. With a BSc (Hons) in Countryside and Wildlife Conservation, chainsaw certification, and even PADI Rescue Diver training, Michael is well-equipped to support our growing network of planting and maintenance projects. He’s here to ensure that everyone involved with Protect Earth—from landowners with mature projects to new sites preparing to plant—feels supported, understood, and well taken care of.
@@ -12,7 +12,7 @@ Michael Cunningham has joined Protect Earth as our Project Manager, bringing han
 
 I’m from Wales - Radnorshire, between Builth Wells & Hay-on-Wye. However I have lived in Yorkshire, Devon, West Wales, Dorset and have been in Bristol on and off for the last 15 years.
 
-![$2](/articles/squarespace/20220120_104500-b7f2df36a3.jpg)
+![](/articles/squarespace/20220120_104500-b7f2df36a3.jpg)
 
 ## Have you been in the environmental sector, and for how long?
 
@@ -38,7 +38,7 @@ I also love coppicing and working in woodlands and the Hazel has so many uses!&n
 
 I love watching the first nuts appear on a 5-year-old tree and you can tell this species apart from others due to their iconic catkins - but did you know they also have flowers?!
 
-![$2](/articles/squarespace/hazel-dormouse-ed9c19580a.jpg)
+![](/articles/squarespace/hazel-dormouse-ed9c19580a.jpg)
 
 ## Ancient woodland, temperate rainforest, or peat bog - where would we find Michael on a day off?
 
@@ -56,7 +56,7 @@ If this seems too radical then I want more protection for birds, habitat creatio
 
 My species of choice would be the Osprey - *Pandio halieatus *listed as Schedule 1 species in ‘The Wildlife and Countryside Act 1981’.
 
-![$2](/articles/squarespace/osprey-a3f278b74b.jpg)
+![](/articles/squarespace/osprey-a3f278b74b.jpg)
 
 ## Biodiversity stabilisation is multifaceted (as in, there is no single solution to solve this crisis); what is the one thing we can do in the UK for the biggest win?
 

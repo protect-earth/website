@@ -3,7 +3,7 @@ title: 'Press Release: Protect Earth Purchases High Wood'
 description: 'Thanks to generous donations, Protect Earth now owns a historic 64-acre ancient woodland in Liskeard, Cornwall, with public access remaining a priority.'
 pubDate: 2022-04-29T12:57:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/ozj1qcs0rlk9cvo84icen2vtrchwyi.jpg'
+thumbnail: ../../articles/ozj1qcs0rlk9cvo84icen2vtrchwyi.jpg
 ---
 
 Thanks to the extremely generous donations of all sizes, Protect Earth is now the proud owner of a historic 64-acre ancient woodland known as High Wood, in Liskeard, Cornwall. High Wood has been woodland consistently since before 1600, and despite being used for commercial timber production for decades, it still retains an impressive amount of biodiversity and wildlife.

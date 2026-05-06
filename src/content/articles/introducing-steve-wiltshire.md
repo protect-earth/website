@@ -3,12 +3,12 @@ title: 'Introducing Steve Wiltshire, ecologist at Protect Earth'
 description: 'Joey from marketing agency TMD interviews Steve about his life in conservation, skills required, impact of climate change, and wildlife at Protect Earth sites.'
 pubDate: 2022-09-21T13:46:05.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/introducing-steve-wiltshire.jpg'
+thumbnail: ../../articles/introducing-steve-wiltshire.jpg
 ---
 
 _Joey from marketing agency TMD interviews Steve about his life in conservation. They discuss the skills required to be a conservationist, the impact of climate change on the work of Protect Earth, as well as the wildlife you might find at a Protect Earth site. _
 
-![$2](/articles/squarespace/steve-wiltshire-afb81ea456.jpg)
+![](/articles/squarespace/steve-wiltshire-afb81ea456.jpg)
 
 **Who are you and what’s your role at Protect Earth?**
 
@@ -42,7 +42,7 @@ Exactly. Different types of habitat need to be looked after in very different wa
 
 So, yeah, it just depends. Some conservationists and ecologists specialise in particular habitats and others perhaps have a broad knowledge of various habitats.
 
-![$2](/articles/squarespace/img_7756-24e61424a0.jpg)
+![](/articles/squarespace/img_7756-24e61424a0.jpg)
 
 **What are you most proud of in your working life?**
 
@@ -105,7 +105,7 @@ If I had to pick, I’d choose a bird called a hobby. It’s a small migratory f
 
 Yes, I've seen a hobby down in High Wood. I've also seen red kites, buzzards and sparrowhawks too. It’s a great place for all sorts of wildlife – and it’s only going to get better.
 
-![$2](/articles/squarespace/20220508_141158_1-3daffc6830.jpg)
+![](/articles/squarespace/20220508_141158_1-3daffc6830.jpg)
 
 **Interested in getting involved in conservation? Protect Earth needs volunteers year-round to assist with its projects up and down the country. The tree planting season from October to March is a particularly busy time — if you’re keen to lend a hand **[**click here**](/volunteering)**.**
 

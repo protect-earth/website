@@ -3,7 +3,7 @@ title: 'Restoring Ancient Woodlands: A Practical Guide from High Wood'
 description: "Ancient woodlands are living time capsules. Formed over centuries, their value runs deeper than their canopy—it's in the soil, fungi, veteran trees, and the species that evolved to call them home."
 pubDate: 2025-07-08T13:28:34.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood.jpg'
+thumbnail: ../../articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood.jpg
 ---
 
 Ancient woodlands are living time capsules. Formed over centuries, their value runs deeper than their canopy—it's in the soil, fungi, veteran trees, and the species that evolved to call them home.

@@ -3,7 +3,7 @@ title: 'The disappearance of biodiversity in the UK'
 description: 'The UK’s natural space has been battered and abused for centuries. Despite attempts to improve the situation, it’s continuing to decline with additional issues creeping in that will further worsen the'
 pubDate: 2024-01-12T00:24:37.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/the-disappearance-of-biodiversity-in-the-uk.jpg'
+thumbnail: ../../articles/the-disappearance-of-biodiversity-in-the-uk.jpg
 ---
 
 The UK's biodiversity is in the toilet. It has experienced destruction for centuries, meaning today, it's at the lowest levels compared with countries worldwide.

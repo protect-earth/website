@@ -3,7 +3,7 @@ title: 'Wetland Restoration'
 description: 'Wetlands are one of the UK’s most overlooked ecological superpowers, vital for biodiversity, flood resilience, water quality, carbon storage, and long-term public wellbeing.'
 pubDate: 2026-03-12T00:00:00.000Z
 author: 'Elena Tornberg-Lennox'
-thumbnail: '/articles/wetland-restoration.webp'
+thumbnail: ../../articles/wetland-restoration.webp
 ---
 
 Ever since a change in the climate in the middle of the Bronze Age, Britain has been an island shrouded in mists, rising from vast wetlands. Fens, marshes, bogs, swamps, floodplains, lakes, ponds, and rivers run through many of our myths and legends. Wetlands have shaped both us and the land.

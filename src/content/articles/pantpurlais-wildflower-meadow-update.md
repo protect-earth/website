@@ -3,7 +3,7 @@ title: 'Pantpurlais wildflower meadow update'
 description: 'Wildflower meadows are beautiful - many a poem has been written about and in these places. Beautiful as they are, they are hives of life! Any number of vital species of insects can claim home in these'
 pubDate: 2023-08-07T06:34:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/pantpurlais-wildflower-meadow-update.jpg'
+thumbnail: ../../articles/pantpurlais-wildflower-meadow-update.jpg
 ---
 
 Last year, we told you about a [wildflower meadow](/articles/wildflower-planting-in-llandrindod-wells) we were supporting a landowner to plant in Llandrindod Wells, Mid-Wales.

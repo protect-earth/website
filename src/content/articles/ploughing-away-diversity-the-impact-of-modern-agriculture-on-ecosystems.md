@@ -3,7 +3,7 @@ title: 'Ploughing Away Diversity: The Impact of Modern Agriculture on Ecosystems
 description: "Wildflower meadows have disappeared. Tragically, we have lost 97% of the UK's wildflower meadows since the 1930s, displacing natural inhabitants."
 pubDate: 2024-03-24T19:15:15.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/ploughing-away-diversity-the-impact-of-modern-agriculture-on-ecosystems.jpeg'
+thumbnail: ../../articles/ploughing-away-diversity-the-impact-of-modern-agriculture-on-ecosystems.jpeg
 ---
 
 Wildflower meadows and similar habitats have disappeared. Because homes have disappeared, the natural inhabitants have been displaced, and that’s caused a massive decline in population numbers. The problem is, these natural residents of wildflower meadows are not tremendously helpful to us - they are even more important than that!

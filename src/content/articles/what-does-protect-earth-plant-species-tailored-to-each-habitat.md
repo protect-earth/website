@@ -3,7 +3,7 @@ title: 'What Does Protect Earth Plant? Species Tailored to Each Habitat'
 description: 'Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way.'
 pubDate: 2025-01-08T01:22:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg'
+thumbnail: ../../articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg
 ---
 
 Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way.

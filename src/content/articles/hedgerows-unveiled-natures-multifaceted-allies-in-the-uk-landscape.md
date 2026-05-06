@@ -3,7 +3,7 @@ title: "Hedgerows Unveiled: Nature's Multifaceted Allies in the UK Landscape"
 description: "Hedgerows are the UK's most widespread semi-natural habitat, critical to numerous plants and animals, yet declining and misunderstood."
 pubDate: 2024-06-17T06:15:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/hedgerows-unveiled-natures-multifaceted-allies-in-the-uk-landscape.jpg'
+thumbnail: ../../articles/hedgerows-unveiled-natures-multifaceted-allies-in-the-uk-landscape.jpg
 ---
 
 Hedgerows are the most widespread semi-natural habitat in the UK and are critical to the existence of numerous plants and animals. Yet hedgerows are in decline, and their value is misunderstood.&nbsp;

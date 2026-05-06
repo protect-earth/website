@@ -3,12 +3,12 @@ title: 'Next Project: 500 Trees in Wales'
 description: 'Getting ready to plant 500 trees near Llandrindod Wells at Pantpurlais farm, working with the Forestry Commission, Woodland Trust, and funded by Ecologi.'
 pubDate: 2021-01-19T12:13:52.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/500-trees-in-wales.jpg'
+thumbnail: ../../articles/500-trees-in-wales.jpg
 ---
 
 Back at the start of December we planted our first ~100 trees and it was amazing to finally be done with all the red tape, paperwork, and emails. We finally got our hands dirty. We learned a lot, and now we are getting ready to plant another 500 trees near Llandrindod Wells in Wales. The farm is called [Pantpurlais](/sites/pantpurlais) and it is absolutely beautiful.
 
-![$2](/articles/squarespace/img_1039-8d9b98ecb1.jpeg)
+![](/articles/squarespace/img_1039-8d9b98ecb1.jpeg)
 
 Working with the Forestry Commission, the [Woodland Trust](https://woodlandtrust.org.uk/), and with funding from [Ecologi](https://ecologi.com/), we aim to plant lots of different types of endangered and popular trees. Specifically, in two days we’re getting the following trees delivered:
 

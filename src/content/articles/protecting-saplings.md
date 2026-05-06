@@ -3,16 +3,16 @@ title: 'Tree Guards: Do we need Plastic Tubes?'
 description: 'A look at the different kinds of tubes to protect young saplings'
 pubDate: 2021-05-20T10:18:53.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/protecting-saplings.png'
+thumbnail: ../../articles/protecting-saplings.png
 ---
 
 When you look at a field full of plastic tubes, it can be easy to see that as a disgusting man-made mess. Trees have been doing just fine on their own for hundreds of millions of years, so why go to such lengths to protect them? Shouldn’t we just plant the saplings then leave them to it?
 
-![$2](/articles/squarespace/field-with-saplings-48439b62a9.webp)
+![](/articles/squarespace/field-with-saplings-48439b62a9.webp)
 
 Sadly the natural world is such an imbalance due to human intervention, that we need more human intervention to solve those problems. Over the centuries, declining forest cover, hunting, and persecution lead to the extinction of British wolves, brown bears, and lynx, meaning animals lower down the food-chain have thrived in comparison. Rabbits, hare, deer, mice, voles, moles, all wander the countryside looking for food, and due to large scale agriculture turning huge swathes of our country into “green deserts”, they are happy to find a bunch of tasty young saplings to eat.
 
-![$2](/articles/squarespace/close-up-of-damaged-sapling-1b0282aa67.webp)
+![](/articles/squarespace/close-up-of-damaged-sapling-1b0282aa67.webp)
 
 This is one of the many reasons “natural regeneration” (the idea of just letting nature along to take its course and progress through scrubland to woodland) can take so long in some ares. If there are not enough mature pilot trees nearby, you have to wait for birds to poop out the right seeds in the right place for them to germinate. Then when some of them start to grow, you have to hope enough of them make it long enough to propagate more seeds, before too many of them are eaten by critters.
 
@@ -36,7 +36,7 @@ So what do foresters do about it?
 
 Tubes are generally recyclable if collected up. Until recently you’d need to use services like [https://www.agri-cycle.uk.com](https://www.agri-cycle.uk.com) and pay to have batches of them collected, but now tube manufacturers are starting to offer their own recycling programs. Tubex are a very popular brand of tube manufacturer, you’ve probably seen them before if you’ve ever seen a light green tube, and they let buyers sign up for the recycling program, collecting the tubes after they’ve served their purpose. [https://tubex.com/markets/forestry/](https://tubex.com/markets/forestry/)
 
-![$2](/articles/squarespace/biodegradable-tubes-edf802a34f.webp)
+![](/articles/squarespace/biodegradable-tubes-edf802a34f.webp)
 
 Then there are biodegradable plastic tubes, but the jury is out on those. They say :they break down “sooner” and its hard to tell if thats 100 years instead of 500 years. If it was going to be a few years, thety would probably say that, so we have yet to experiment with those.
 
@@ -51,7 +51,7 @@ The ideal situation would be something made from tough cardboard, which will sim
 
 We’re experimenting with another brand of cardboard protectors at Hazeland Wood, a partnership project with [Avon Needs Trees](https://www.avonneedstrees.org.uk/). We have 400 trees on their land, all protected with cardboard tubes. They’re Hazel and Hawthorn which should be fairly tough anyway, and we’ll keep an eye on how those cardboard protectors are holding up.
 
-![$2](/articles/squarespace/image6-91b810dca4.jpg)
+![](/articles/squarespace/image6-91b810dca4.jpg)
 
 There are new products on the market every year, and we will continue to experiment with them as we go. If on any given site we have 50% standard Tubex tubes (that will be recycled) then 25% cardboard and 25% biodegradable, we can see how things go without fear of losing too many of our saplings that we risk or delay the success of the woodland. Over time we can increase the percentages of the tubes that are successful and within 5 years maybe we use no new plastic at all.
 
@@ -61,6 +61,6 @@ One area we are proud to have no plastic involved is our choice of mulch mats. T
 
 Whatever happens, we will be sure to collect up all our plastic tubes for recycling, and not leave them laying round the woods like lazy foresters. We don’t want to see anything like these on our projects.
 
-![$2](/articles/squarespace/abandoned-tubes-d9f399f573.webp)
+![](/articles/squarespace/abandoned-tubes-d9f399f573.webp)
 
 _If you are near Middlesbrough and would like to help lay 1,000 mulch mats this May 29th, _[_we could really use your help!_](https://www.eventbrite.co.uk/e/153818809199)

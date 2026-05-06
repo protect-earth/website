@@ -3,7 +3,7 @@ title: 'Winter 2021 Update'
 description: 'Here’s what we’ve been up to lately.'
 pubDate: 2021-12-19T18:18:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/winter-2021-update.png'
+thumbnail: ../../articles/winter-2021-update.png
 ---
 
 Welcome to our festive update - it’s almost time for Christmas and we have some exciting announcements!
@@ -14,7 +14,7 @@ Welcome to our festive update - it’s almost time for Christmas and we have som
 
 \*\*Come and join us in the beautiful countryside of Warwickshire, near a small village called Bubbenhall. We need your help to plant 1,000 trees, and lay some hedgerow to give wildlife a corridor all around the farm. It doesn't matter if you've never planted a tree before - most of our volunteers never have.
 
-![$2](/articles/squarespace/526e4acc-31f3-8da9-6914-798a5f3faa76-3a6fa8d4ff.png)
+![](/articles/squarespace/526e4acc-31f3-8da9-6914-798a5f3faa76-3a6fa8d4ff.png)
 
 We have several planting events coming up soon but with no exact dates set yet. We’ve listed them below so they are on your radar; when we have final dates confirmed we’ll drop you a line to let you know.
 
@@ -31,21 +31,21 @@ We have several planting events coming up soon but with no exact dates set yet. 
 
 Using entirely cardboard guards, this site has been developed after consultation with local universities and Woodland Trust, and this has led to extremely productive experiments with different mulching techniques etc.
 
-![$2](/articles/squarespace/4255a4bb-0240-e06f-aa95-34798c94934a-fbf0ab220a.png)
+![](/articles/squarespace/4255a4bb-0240-e06f-aa95-34798c94934a-fbf0ab220a.png)
 
 \*\*Pantpurlais - Phase 2
 
 \*\*We recently added 630 new trees to Pantpurlais, bringing the total of trees on the farm to 1317.
 
-![$2](/articles/squarespace/2994f0e9-3fd7-4b3e-b8fd-87dc10f51e85-744691b4ec.jpg)
+![](/articles/squarespace/2994f0e9-3fd7-4b3e-b8fd-87dc10f51e85-744691b4ec.jpg)
 
-![$2](/articles/squarespace/baea7c81-788c-c5e8-f6e5-eacf33637938-76a42810a7.jpg)
+![](/articles/squarespace/baea7c81-788c-c5e8-f6e5-eacf33637938-76a42810a7.jpg)
 
 ### Funding Update
 
 We are delighted to let you know that, thanks to your continued generosity, we have now achieved £34,000 of our £100,000 target.
 
-![$2](/articles/squarespace/0db980dd-f15c-f4ec-fc29-d9e34e95b621-2952ee63b1.png)
+![](/articles/squarespace/0db980dd-f15c-f4ec-fc29-d9e34e95b621-2952ee63b1.png)
 
 ### Keep Your Eyes Peeled…
 

@@ -3,7 +3,7 @@ title: 'Growing Together: Protect Earth’s Mission to Restore UK Habitats in 20
 description: "With the new planting season just around the corner, there's much to be hopeful about as we roll out plans to restore habitats, strengthen biodiversity, and engage local communities. Let's look at..."
 pubDate: 2024-09-17T20:39:35.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg'
+thumbnail: ../../articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg
 ---
 
 With the new planting season just around the corner, there's much to be hopeful about as we roll out plans to restore habitats, strengthen biodiversity, and engage local communities. Let's look at what lies ahead for 2024/25.
@@ -14,9 +14,9 @@ Kicking off in September and running through February, Protect Earth is forecast
 
 This season's target represents a significant leap forward. We're planting 36% more than last year and nearly 75% more than in the 2022/23 season. In terms of land area, we aim to convert 74% more land to natural habitat than last year, a remarkable increase from the 33 acres - almost double - converted in 2023/24.
 
-![$2](/articles/squarespace/artboard-1-6d42746e39.png)
+![](/articles/squarespace/artboard-1-6d42746e39.png)
 
-![$2](/articles/squarespace/artboard-1-copy-0f8b2ea1e4.png)
+![](/articles/squarespace/artboard-1-copy-0f8b2ea1e4.png)
 
 The momentum behind this growth is exciting, but it's not just about numbers. These projects are about creating spaces that actively contribute to our planet's health while enriching the lives of those living nearby. One initiative we're particularly excited about involves planting a mini-forest with a school in Oxford. Here, students will not only get their hands dirty by planting trees but also learn about the vital role these green spaces play in both personal well-being and the future of the UK's environment.
 
@@ -39,7 +39,7 @@ Mid-Wales: 22% of our activities are planned here, where we'll be transforming 2
 
 South-West England: Leading the charge with 33% of our projects, South-West England will see 6 acres transformed.
 
-![$2](/articles/squarespace/artboard-1-copy-2-513050b102.png)
+![](/articles/squarespace/artboard-1-copy-2-513050b102.png)
 
 This wide distribution reflects our commitment to ensuring that various ecosystems—woodlands, grasslands, and hedgerows—are nurtured, contributing to biodiversity and climate resilience across the UK.
 

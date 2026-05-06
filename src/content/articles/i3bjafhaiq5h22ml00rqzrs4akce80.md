@@ -3,7 +3,7 @@ title: 'Cynnig Goetre Wood'
 description: "Mae Goetre Wood yn goetir 70 erw y mae Protect Earth wedi'i gaffael ym Mhowys, Cymru. Mae hyn yn hynod gyffrous i ni allu gosod cynllun sy'n dod â newid gwirioneddol, buddiol i'r coetir hwn. Yn y darn"
 pubDate: 2023-05-08T07:30:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/i3bjafhaiq5h22ml00rqzrs4akce80.jpg'
+thumbnail: ../../articles/goytre-wood-powys-proposal.jpg
 ---
 
 Mae Gwarchod y Ddaear y tu hwnt i falchder a chyffro am ein coetir [cymunedol newydd](/articles/coed-goetre) ym Mhowys. Fe'i lleolir mewn ardal fforest law dymherus ar ochr Gymreig y ffin rhwng Cymru a Lloegr, yn edrych dros Fryniau Sir Amwythig.
@@ -16,11 +16,11 @@ Gan gymryd tudalen allan o lyfr Google pan wnaethant lansio eu hofferyn AI newyd
 
 Serch hynny, rydyn ni'n mynd i rannu - yng ngeiriau Steve yr Ecolegydd (mae ei angerdd, ei wybodaeth, a'i frwdfrydedd yn rhy amlwg yn yr hyn y mae wedi'i rannu byddai'n brifo ailysgrifennu) - y cynllun gan fod hwn yn ddeialog agored gydag unrhyw un sydd â chysylltiad â Powys a Goetre Wood - rydym eisiau adborth gan y gymuned sy'n gwybod ac yn defnyddio'r tir!
 
-![$2](/articles/squarespace/img_1478-3048ecda3a.jpg)
+![](/articles/squarespace/img_1478-3048ecda3a.jpg)
 
 ## Y cynllun
 
-![$2](/articles/squarespace/img_1464-4c8e43ba15.jpg)
+![](/articles/squarespace/img_1464-4c8e43ba15.jpg)
 
 Bydd y traean arall yn cael ei adael a/neu ei reoli fel cynefinoedd eraill. Er enghraifft, bydd yr ardaloedd uchaf, lle mae ehedydd a chorhedydd y waun yn nythu, yn cael eu gadael fel glaswelltir. Bydd y llethrau neu’r cyrion ucheldirol mwyaf serth sydd wedi’u gorchuddio â rhedyn (cynefin prin a phwysig) hefyd yn cael eu gadael fel ag y mae gan ei fod yn werthfawr i wahanol rywogaethau o loÿnnod byw ac adar. Gallai ardaloedd eraill fod wedi bod yn laswelltir cyhyd nes eu bod wedi dod yn eithaf diddorol yn fotanegol neu fod ganddynt rywogaethau prin eraill fel Morgrug y Ddôl neu ffyngau Cap Cwyr – bydd yr ardaloedd hyn hefyd yn cael eu gadael ac efallai’n cael eu pori’n ysgafn i’w gwella.
 

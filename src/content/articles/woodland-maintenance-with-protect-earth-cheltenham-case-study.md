@@ -3,7 +3,7 @@ title: 'Woodland Maintenance with Protect Earth: Cheltenham Case Study'
 description: 'Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our...'
 pubDate: 2025-04-07T07:00:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/woodland-maintenance-with-protect-earth-cheltenham-case-study.jpg'
+thumbnail: ../../articles/woodland-maintenance-with-protect-earth-cheltenham-case-study.jpg
 ---
 
 Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our commitment to long-term woodland care and our dedication to ensuring every tree has the best chance to thrive.
@@ -28,7 +28,7 @@ Here's why woodland maintenance matters:
 
 On our return to Cheltenham, we worked with the farmer and nine enthusiastic volunteers to plant 100 new saplings. Some replaced those that didn't survive, while others expanded and strengthened the shelterbelts. Despite braving tough weather and battling brambles, our team completed the restocking efficiently and even had time for additional woodland maintenance tasks.
 
-![$2](/articles/squarespace/zenergi-volunteers-e02b295070.jpg)
+![](/articles/squarespace/zenergi-volunteers-e02b295070.jpg)
 
 By the end of the day, we had a healthier habitat, a happy farmer, and a habitat strengthened to continue doing what it's naturally evolved to do for wildlife and biodiversity.
 

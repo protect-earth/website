@@ -3,7 +3,7 @@ title: 'Ancient woodlands - places of huge ecological diversity'
 description: 'Ancient woodlands are irreplaceable ecosystems that have existed for centuries, supporting unique biodiversity and ecological complexity.'
 pubDate: 2023-02-20T09:44:23.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/ancient-woodlands-places-of-huge-ecological-diversity.jpg'
+thumbnail: ../../articles/ancient-woodlands-places-of-huge-ecological-diversity.jpg
 ---
 
 <figure>

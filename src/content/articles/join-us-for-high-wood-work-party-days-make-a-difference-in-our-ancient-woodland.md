@@ -3,7 +3,7 @@ title: 'Join Us for High Wood Work Party Days: Make a Difference in Our Ancient 
 description: 'High Wood Work Parties are monthly volunteer sessions restoring 64 acres of ancient woodland near Liskeard, making it accessible and enchanting for all.'
 pubDate: 2024-06-10T06:35:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/join-us-for-high-wood-work-party-days-make-a-difference-in-our-ancient-woodland.jpg'
+thumbnail: ../../articles/join-us-for-high-wood-work-party-days-make-a-difference-in-our-ancient-woodland.jpg
 ---
 
 High Wood, nestled near Liskeard in Cornwall, is the jewel of Protect Earth's conservation efforts thus far. This 64-acre expanse of ancient woodland, once partially converted into a commercial plantation, is being restored to its natural splendour, allowing for more biodiversity and community access. To bring this vision to life and ensure the woods are accessible and enchanting, we've launched the High Wood Work Party days—a series of monthly events where community spirit meets conservation.

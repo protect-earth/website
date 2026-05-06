@@ -3,7 +3,7 @@ title: 'Observations in High Wood: Insights from an Ecologist'
 description: 'Steve, a keen birder, along with local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful.'
 pubDate: 2024-08-19T13:54:31.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/observations-in-high-wood-insights-from-an-ecologist.jpg'
+thumbnail: ../../articles/observations-in-high-wood-insights-from-an-ecologist.jpg
 ---
 
 Over the past few years [Steve](/articles/introducing-steve-wiltshire), a keen birder, along with the help of other local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful.
@@ -38,12 +38,12 @@ Such a project could provide crucial data on how well High Wood serves as valuab
 
 ### Join High Wood's Monthly Work Parties
 
-![$2](/articles/squarespace/phil_001-b9bb20dc76.jpg)
+![](/articles/squarespace/phil_001-b9bb20dc76.jpg)
 
 Joining High Wood's monthly work parties can play a crucial role in preserving and enhancing this habitat. Whether you're a seasoned birdwatcher, a butterfly enthusiast, or someone who simply loves nature, your involvement can make a difference. We have no bat or moth data, for example, so if that is your area of expertise, please share your sightings and records. By getting involved in the Work Parties, we can create a more comprehensive picture of High Wood's biodiversity and work towards restoring it to its full glory as a thriving broadleaf woodland. Thanks to those who already volunteer at work parties or provide details of wildlife sightings.&nbsp;
 
 Join us this month and every month – your woodland needs you!
 
-![$2](/articles/squarespace/birds-82ba68b0f1.png)
+![](/articles/squarespace/birds-82ba68b0f1.png)
 
-![$2](/articles/squarespace/butterflies-8b9ee8a75c.png)
+![](/articles/squarespace/butterflies-8b9ee8a75c.png)

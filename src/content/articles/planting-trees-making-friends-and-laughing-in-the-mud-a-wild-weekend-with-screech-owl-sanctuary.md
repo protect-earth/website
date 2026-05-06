@@ -3,7 +3,7 @@ title: 'Planting Trees, Making Friends, and Laughing in the Mud: A Wild Weekend 
 description: 'Screech Owl Sanctuary secured woodland creation funding and invited Protect Earth for a bit of tree planting. Our response was somewhere between gleeful and muddy.'
 pubDate: 2025-05-16T23:05:20.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/planting-trees-making-friends-and-laughing-in-the-mud-a-wild-weekend-with-screech-owl-sanctuary.jpg'
+thumbnail: ../../articles/planting-trees-making-friends-and-laughing-in-the-mud-a-wild-weekend-with-screech-owl-sanctuary.jpg
 ---
 
 If you've been hanging around Protect Earth for a while, you'll know the name [Screech Owl Sanctuary](https://screechowlsanctuary.co.uk/) pops up more often than a hedgehog in a compost heap. Nestled near Cornwall, they've long been our feathered favourite—loyal collaborators, owl whisperers, and all-round good eggs. So when they rang us up and said, "We've secured woodland creation funding—fancy a bit of tree planting?" our response was somewhere between a gleeful _yes_ and a muddy sprint to our wellies.
@@ -12,7 +12,7 @@ If you've been hanging around Protect Earth for a while, you'll know the name [S
 
 The planting occurred in the South West of England, just as February was preparing to loosen its chilly grip on the landscape. Across two gloriously sunny days—28th February and 1st March 2025—we helped transform a corner of the countryside into a future woodland. 1,850 native broadleaf trees went into the ground, thanks to a dedicated gang of ten volunteers (five per day) and a cracking plan.
 
-![$2](/articles/squarespace/482058527_1683982818868771_3070741913438990844_n-a3462c8108.jpg)
+![](/articles/squarespace/482058527_1683982818868771_3070741913438990844_n-a3462c8108.jpg)
 
 If you're wondering what 1,850 trees can achieve, let's just say this: over the next 50 years, this new woodland will quietly gobble up 630 tonnes of carbon.
 
@@ -22,7 +22,7 @@ But it wasn't just saplings we planted—the Protect Earth community grew with m
 
 Kevin and Karen - Screech Owl Sanctuary's owners - who have been a joy to work with throughout, secured grants to cover saplings, stakes, guards, and mulch. Which meant we put our energy to bringing good people together and planting saplings.
 
-![$2](/articles/squarespace/482681361_957026636614850_4289723736486318730_n-3125b18189.jpg)
+![](/articles/squarespace/482681361_957026636614850_4289723736486318730_n-3125b18189.jpg)
 
 And Kevin and Karen had this to say afterwards:
 

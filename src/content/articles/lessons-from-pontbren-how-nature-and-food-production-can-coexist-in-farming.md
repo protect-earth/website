@@ -3,7 +3,7 @@ title: 'Lessons from Pontbren: How Nature and Food Production Can Coexist in Far
 description: 'Examining Pontbren, a mould-breaking case study showing benefits of sustainable farming. Can biodiversity and food production coexist on Welsh farms?'
 pubDate: 2024-03-08T14:01:51.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg'
+thumbnail: ../../articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg
 ---
 
 Land use is always a complicated topic. This long-running debate between biodiversity/climate advocates and food production has been flaring up to historic proportions in Wales after the government's move towards its new Sustainable Farming Scheme. This new scheme replaces subsidies that were given purely based on the size of farmable land available with a scheme that rewards sustainable farming.&nbsp;

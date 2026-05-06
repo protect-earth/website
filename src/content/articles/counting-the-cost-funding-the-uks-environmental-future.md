@@ -3,7 +3,7 @@ title: 'Counting the Cost: Funding the UK’s Environmental Future'
 description: "Putting Labour's budget to the test: Are environmental promises adding up? Exploring whether financial plans support nature-friendly farming and habitat restoration."
 pubDate: 2024-12-31T13:53:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/counting-the-cost-funding-the-uks-environmental-future.jpg'
+thumbnail: ../../articles/counting-the-cost-funding-the-uks-environmental-future.jpg
 ---
 
 Putting the Budget to the Test: Are Environmental Promises Adding Up?
@@ -74,4 +74,4 @@ Protect Earth will continue planting trees, restoring habitats, and advocating f
 
 We are close to the amount needed to purchase Warleigh Woods - 70 acres of abandoned agricultural land and wetland. We need your help to raise the final £30,000. Please donate today.
 
-![$2](/articles/squarespace/1726225358_dscf0147-5be38c6b6c.jpg)
+![](/articles/squarespace/1726225358_dscf0147-5be38c6b6c.jpg)

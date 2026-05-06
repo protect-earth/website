@@ -3,7 +3,7 @@ title: 'Deep Roots:  Ancient Woodlands Matter'
 description: 'Ancient woodlands are magical pockets of nature continuously wooded since at least 1600, surviving monarchs, industrial revolutions, and bad landscaping decisions.'
 pubDate: 2025-05-27T13:03:36.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/deep-roots-ancient-woodlands-matter.png'
+thumbnail: ../../articles/deep-roots-ancient-woodlands-matter.png
 ---
 
 Let's talk about [ancient woodland](/articles/ancient-woodlands-places-of-huge-ecological-diversity). Not just old trees—_ancient_. These are the scrappy, magical pockets of nature that have been doing their thing for hundreds (sometimes thousands!) of years. They've survived monarchs, industrial revolutions, and more than a few bad landscaping decisions.

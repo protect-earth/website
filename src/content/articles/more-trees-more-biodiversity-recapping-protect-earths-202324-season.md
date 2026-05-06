@@ -3,7 +3,7 @@ title: "More Trees, More Biodiversity: Recapping Protect Earth's 2023/24 Season"
 description: "The 2023/24 planting season has ended. Let's recap our intentions and what was planted, reflecting on another year of creating native broadleaf woodlands."
 pubDate: 2024-06-24T15:06:43.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg'
+thumbnail: ../../articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg
 ---
 
 Close to the beginning of the 2023/24 planting season, we shared with you what we expected to achieve over the season. [Remember](/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal)?

@@ -3,7 +3,7 @@ title: 'Misconceptions: Reforestation is taking valuable land from farming'
 description: 'The media is perpetuating a story of greed and resultant loss of vital food growing resources in the UK. The latest is from our Chair who tackles this misconception. Read on!'
 pubDate: 2023-09-11T06:30:00.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/misconceptions-reforestation-is-taking-valuable-land-from-farming.jpg'
+thumbnail: ../../articles/misconceptions-reforestation-is-taking-valuable-land-from-farming.jpg
 ---
 
 ### Reality: Groups like Protect Earth work with farmers to increase biodiversity on their land, which is proven to increase crop yield and reduce the costs of caring for farm animals. When we buy land, we look at taking on land that is not productive. We have no obligation to make money every quarter, meaning it makes more sense for everyone to work together, us planting less productive places and letting nature take its course over several decades.
@@ -22,7 +22,7 @@ The United Kingdom of Great Britain and Northern Ireland comprises 60.1973 milli
 
 Over the whole United Kingdom, 76% of the land is agricultural (you are welcome to work out what 76% of 60+ million acres is; I'm still trying to imagine 60+ million acres).
 
-![$2](/articles/squarespace/untitled-8d541dcccb.jpg)
+![](/articles/squarespace/untitled-8d541dcccb.jpg)
 
 According to[ Forest Research](https://www.forestresearch.gov.uk/tools-and-resources/statistics/statistics-by-topic/woodland-statistics/) in 2022, woodland covers only 13% of the total land area in the UK, 19% in Scotland, 15% in Wales, 10% in England, and 9% in Northern Ireland. Across the UK, the devolved governments have agreed to the target of 30,000 hectares of additional tree cover each year until 2050, which is 0.16% of the total land in the UK each year.
 
@@ -36,7 +36,7 @@ That is true! Farms shouldn't be the only types of property and land that benefi
 
 We've even had the harrowing experience of planting trees along the side of the M6 - with all the pollutants pumping out from cars day after day, the side of a motorway is no place for a farm producing food to be served on your plate. Trees along a motorway will at least make a dent in clearing some of this pollution.
 
-![$2](/articles/squarespace/screenshot-2023-09-10-215957-98c7f986db.png)
+![](/articles/squarespace/screenshot-2023-09-10-215957-98c7f986db.png)
 
 ### There are benefits to increasing agricultural biodiversity
 

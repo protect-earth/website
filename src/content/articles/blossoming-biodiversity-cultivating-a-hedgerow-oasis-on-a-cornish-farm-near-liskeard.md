@@ -3,7 +3,7 @@ title: 'Blossoming biodiversity: Cultivating a hedgerow oasis on a Cornish farm 
 description: 'After hearing about our habitat restoration project at High Wood, a local farmer reached out to develop their farm.'
 pubDate: 2023-12-20T21:54:56.000Z
 author: 'Phil Sturgeon'
-thumbnail: '/articles/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard.jpg'
+thumbnail: ../../articles/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard.jpg
 ---
 
 You must have heard about the ancient woodland, [High Wood](/articles/high-wood-liskeard-woodland-restoration-update-winter-2023), that Protect Earth is restoring near Liskeard, Cornwall. Well, our neighbours in that area certainly have and were amenable to the idea of us planting hedges on their farm, which is close to High Wood.
@@ -38,7 +38,7 @@ A school local to the farm had contacted Protect Earth, saying some of their stu
 
 The farmer, school, and Protect Earth came together to make sure the site for planting was accessible, and everyone could contribute and enjoy their day.
 
-![$2](/articles/squarespace/img_0214-5b94b24c90.jpg)
+![](/articles/squarespace/img_0214-5b94b24c90.jpg)
 
 After 3.5 hours of planting, 450 hedge plants were planted - one of the first steps towards establishing the hedgerow and new habitat development.
 

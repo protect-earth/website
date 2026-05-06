@@ -3,7 +3,7 @@ title: "What Lies Beneath: A Citizen Science Peek into High Wood's Soil Life"
 description: "At Protect Earth, we tend to focus our energy on what's growing *above* ground—native trees, bursting buds, and woodlands full of potential. But at this year's High Wood Summer Fair, we had an..."
 pubDate: 2025-07-21T06:02:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: '/articles/what-lies-beneath-a-citizen-science-peek-into-high-woods-soil-life.jpg'
+thumbnail: ../../articles/what-lies-beneath-a-citizen-science-peek-into-high-woods-soil-life.jpg
 ---
 
 At Protect Earth, we tend to focus our energy on what's growing _above_ ground—native trees, bursting buds, and woodlands full of potential. But at this year's High Wood Summer Fair, we had an impromptu encounter that reminded us just how much action (or lack thereof) might be happening _beneath_ our boots. When a visiting wildlife trust representative (and self-confessed soil fanatic) casually announced he had all the gear in his car to do some soil sampling, we thought: why not? What followed was a fascinating, slightly underwhelming, and entirely valuable bit of citizen science.
@@ -33,7 +33,7 @@ Despite healthy-looking soil texture and colour, the samples were relatively lif
 
 And that makes sense. While we're already seeing foxgloves and woodland wildflowers popping up where once there were only conifers, the story of soil regeneration is a slower one. Microbial communities need time to recolonise. And time, unfortunately, doesn't always bend to our optimism.
 
-![$2](/articles/squarespace/img_20250622_184234-853e133827.jpg)
+![](/articles/squarespace/img_20250622_184234-853e133827.jpg)
 
 ## To sum up
 
