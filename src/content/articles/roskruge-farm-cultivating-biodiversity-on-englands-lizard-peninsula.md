@@ -41,7 +41,7 @@ Kilometres of hedgerows planted: 0.85
 
 Roskruge Farm, spanning 44.47 acres of diverse habitats, including grassland, scrub, hedgerows, woodland, and ponds, has long been a haven for wildlife. But the landowners, with a deep love for nature and a commitment to conservation, sought to enhance its biodiversity further. Partnering with Protect Earth, they embarked on a journey to cultivate more habitat, planting 1400 native broadleaf trees and 850 metres of wildlife-friendly hedgerows.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468638-SR25XA8NW3SR91D9KTC7/IMG_0669.jpeg?format=original)
+![$2](/articles/squarespace/img_0669-00100901b0.jpeg)
 
     “By providing that refuge and significantly placed, stop over point for migratory birds, butterflies and other insects we hope to contribute to the conservation of these species and promote biodiversity in the local region.”
 
@@ -57,7 +57,7 @@ The landowner's commitment to biodiversity stems from a desire to provide sanctu
 
 Beyond the woodlands and meadows, the landowners envision a space teeming with life. Their multi-year plan for a traditional orchard, pond restoration, and the creation of an extensive wildflower meadow reveals their dedication to enhancing biodiversity.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468645-U4YX8EMTXVUVHY1DMVTZ/IMG_0664.jpeg?format=original)
+![$2](/articles/squarespace/img_0664-09e1708160.jpeg)
 
 These efforts benefit wildlife and offer joy and fulfilment to those involved, knowing they're contributing to something greater than themselves.
 

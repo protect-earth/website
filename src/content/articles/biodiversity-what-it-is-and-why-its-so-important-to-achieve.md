@@ -30,10 +30,10 @@ The simple answer is metrics. The one place biodiversity doesn't look like it's 
 
 Tree planting is recorded by each tree planted.
 
-       [caption id="" align="alignnone" width="4000"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469417-MR805931YQ6UZSSIV8SR/IMG_20230525_165557.jpg?format=original)
-This wildflower meadow packs an ecological punch you’d never expect! It’s home to and supermarket for a wide array of insects, birds, and smaller creatures upon which more life is supported. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_20230525_165557-625c784065.jpg" alt="" />
+  <figcaption>This wildflower meadow packs an ecological punch you’d never expect! It’s home to and supermarket for a wide array of insects, birds, and smaller creatures upon which more life is supported.</figcaption>
+</figure>
 
 Some organisations talk about habitat restoration in the hectares, some in the acres, and others go with square metres. But, even square meters - four trees can be planted in one square metre!
 

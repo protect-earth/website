@@ -18,11 +18,11 @@ Woodlands also act as natural air filters, reducing pollution, absorbing carbon 
 
 To sustain these benefits, effective woodland management is critical. Protect Earth’s [approach to woodland management](/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal) in the UK includes carefully removing invasive species that might overshadow young trees or native plants. We thin certain areas to encourage light penetration and improve biodiversity while creating open spaces for balanced ecosystems. Techniques like coppicing and selective felling enhance structural diversity while leaving deadwood enriches habitats for fungi and insects. In some cases, fencing helps control grazing and protects new growth, supporting woodland regeneration.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736948211130-0Y882JGG2MW2IIWSK2BA/IMG_3122.jpeg?format=original)
+![](/articles/squarespace/img_3122-c6c1ab3713.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736948211812-851CEHUL4BO00ITJ0TNA/IMG_7237.jpeg?format=original)
+![](/articles/squarespace/img_7237-fb71422e22.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736948215693-XYUFADME767CMCVCV0K8/IMG_1848.jpeg?format=original)
+![](/articles/squarespace/img_1848-4d43676203.jpeg)
 
 ## To sum up
 
@@ -32,4 +32,4 @@ Join Protect Earth in our commitment to woodland management and green space prot
 
 Your donation will help us purchase low-quality, degraded land across the UK, transforming it into thriving habitats full of plants and biodiversity. Support our mission for a greener future—donate today!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/5341471c-decc-4386-ae5b-04b6dd9386f3/IMG_3904.jpeg?format=original)
+![$2](/articles/squarespace/img_3904-5d1d67012a.jpeg)

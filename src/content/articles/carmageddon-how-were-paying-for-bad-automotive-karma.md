@@ -16,7 +16,7 @@ The car's infancy and adolescence were rough years with the public opposing auto
 
 The environmental impact of cars is staggering, from sourcing the materials to manufacturing, getting a car to a dealership, and then getting it on the road. The road, as we know it today, is a direct requirement of the car. There are approximately 1.45 billion vehicles in the world.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469396-2PPC1GSOUW76CR4OTQYK/IMG_3172.jpg?format=original)
+![$2](/articles/squarespace/img_3172-4c6be5afa0.jpg)
 
 Daniel points out a whopping statistic - in Houston, Texas, there are almost 200 million parking spaces, which, he further elaborates, is equivalent to the size of ten Parises! Imagine the benefits if this space could be woodland. Imagine the reaction from people in Houston to suggest such a thing. Despite the criticism that would surely come, how many people have questioned or criticised the creation of so much environmentally damaging stuff? You'll be looked at like you've two heads if you suggest transforming so much space into repairing woodland, yet that scale of transformation has been allowed to happen again and again worldwide in the name of the car.
 

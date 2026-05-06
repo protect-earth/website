@@ -10,20 +10,20 @@ What do Ninja Granny, willow sculptures, and a human fruit machine have in commo
 
 ## Celebration, Collaboration, and a Bit of Cornish Drizzle
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751379636747-YVPDV4PGG4UKUWV2BFYC/PXL_20250621_125825733.jpg?format=original)
+![](/articles/squarespace/pxl_20250621_125825733-8fa8667ab0.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751379614737-OSUGJV0BZP3XZ3T5XHUH/IMG_1660.jpg?format=original)
+![](/articles/squarespace/img_1660-417bded045.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751379661364-XORUJJXQECOEIL5BP4G2/IMG_1665.jpg?format=original)
+![](/articles/squarespace/img_1665-2467fb3f15.jpg)
 
 _June’s Work Party was all about readying High Wood for the Summer Fair. The volunteers worked really hard putting up bunting and signs and trimming back some over growth._
 
 This year marked our third Summer Fair—and it was by far the most bustling yet—more stalls, more people, more ways to get stuck in. For us, it's not just about showcasing our work in High Wood (though we're very proud of that). It's about opening the gates—literally and figuratively—and inviting the community in to see, question, celebrate, and co-create this little pocket of ecological recovery in Cornwall.
 
-       [caption id="" align="alignnone" width="5472"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/2c580263-e23d-40b2-9d5d-57b10cce1e03/P1011045.JPG?format=original)
-Steve led a touring talk through the woodlands helping people understand how it was identified as a Plantation on an Ancient Woodlands (PAWS) site and what Protect Earth are doing to restore biodiversity for local communities to enjoy. [/caption]
+<figure>
+  <img src="/articles/squarespace/p1011045-d2a94f0db2.jpg" alt="" />
+  <figcaption>Steve led a touring talk through the woodlands helping people understand how it was identified as a Plantation on an Ancient Woodlands (PAWS) site and what Protect Earth are doing to restore biodiversity for local communities to enjoy.</figcaption>
+</figure>
 
 Visitors got to explore what we're doing in the woods: why we dig, plant, weed, and occasionally talk to the trees. We had plenty of activities for all ages, from scavenger hunts and Qigong sessions with the legendary Ninja Granny, to storytelling, nature walks, and of course— the undeniably entertaining Human Fruit Machine.
 
@@ -37,12 +37,12 @@ Our Summer Fair is Protect Earth's way of inviting everyone into that connection
 
 Same time next year? Bring your wellies. We'll bring the marshmallows.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751380225524-PRN58003TAX77MPREAF1/Qigong-high+wood.jpg?format=original)
+![](/articles/squarespace/qigong-high-wood-4cc074067b.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751380811794-KO0K5VSWDMCCOOZE4TNA/P1011037.JPG?format=original)
+![](/articles/squarespace/p1011037-ddfdb1aaa4.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751380816658-VPV9R01HBPT3NEUPW6KZ/P1011048.JPG?format=original)
+![](/articles/squarespace/p1011048-3eb9141eb0.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751380903845-PROLGSC7FHWNHV15EA87/PXL_20250622_120515359.jpg?format=original)
+![](/articles/squarespace/pxl_20250622_120515359-d3a9b038f8.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1751380905646-L2OXDTTHD9JLGIESMAYP/PXL_20250622_161418790.jpg?format=original)
+![](/articles/squarespace/pxl_20250622_161418790-23411b6999.jpg)

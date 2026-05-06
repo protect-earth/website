@@ -10,19 +10,19 @@ It always interests us how many of the things we do are connected in some way. O
 
 During a casual conversation at a tree planting event in Powys, Phil, our chairman asked one of the volunteers, what he did for a living. Hearing that he laid hedges, this developed into to a much longer conversation which led to us offering two free hedge laying courses on the border of our land on Goytre Hill, Powys taught by John the volunteer which were very successful. At one of these courses, one of the attendees happened to mention that she had a woodland which was full of invasive rhododendron.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/8a140db5-a57e-4055-84f7-22fc36080085/image2.jpeg?format=original)
+![$2](/articles/squarespace/image2-1c205fe49f.jpeg)
 
 Rhododendrons are tough and spread rapidly, making them very difficult to control. They can cause a number of problems in the wild as they tend to form dense plants which block sunlight from reaching the floor of the woodland, thus leading to native plants being shaded out and to a loss of biodiversity. Their leaves are acidic and decompose slowly which affects the PH value and nutrients in the soil as well as releasing chemicals which inhibit the germination of other native plants. Rhododendrons in a woodland can reduce the availability of food and shelter for birds, mammals and invertebrates. They also contain pathogens such as Phytophthora Ramorum which causes sudden oak death and affects many other tree species too.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/d21108d8-26fe-4525-a303-f9b45c6a80ea/C184F7EE-DC92-4B2D-8502-0836C1639948_1_105_c.jpeg?format=original)
+![$2](/articles/squarespace/c184f7ee-dc92-4b2d-8502-0836c1639948_1_105_c-bb3badc260.jpeg)
 
 This woodland’s owner near Rhayader, Powys had been battling the rhododendrons almost single handedly for quite a while, but as she worked full time, she didn’t have a lot of time to deal with them, and the rhododendrons were clearly winning. After hearing her story, Steve, our ecologist, went to have a look for himself and decided that Protect Earth would be able to help her with her problem once the nesting season was over. Protect Earth organised an event for October and advertised for volunteers. Our team turned up to lead the day and to advise volunteers on the safest way to deal with the rhododenderon.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1761730928182-PN4WL4ILHZ9KS6J3E7CG/1000050335.jpg?format=original)
+![](/articles/squarespace/1000050335-4f42683695.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1761730976772-1O3FVWBELZN4JFXNYCYX/Screenshot_20251014-001243.png?format=original)
+![](/articles/squarespace/screenshot_20251014-001243-6931818ba9.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1761730933503-CPZZCOJOWS6MSE1CVK9J/1000050321.jpg?format=original)
+![](/articles/squarespace/1000050321-50f18d07b2.jpg)
 
 Local hero, Van, from Rayader in Nature (a wonderful local natural history group) was a force to be reckoned with as he and the other volunteers were incredibly enthusiastic and hard-working. The landowner provided excellent drinks and snacks, and a few family members to help with the work, and despite having injured her back the day before, the landowner also did her best to help out.
 

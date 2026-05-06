@@ -14,7 +14,7 @@ Protect Earth took over the tenancy of the site in July 2023 to contribute to th
 
 ## About Nannerch including how the land was used before
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469006-ILBQEF8CDF4E4M9VRAJC/IMG_1444.JPEG?format=original)
+![$2](/articles/squarespace/img_1444-47c3641472.jpeg)
 
 Nannerch is an 11-hectare site on a hillside in the middle of the Clwydian and Dee Valley Area of Outstanding Natural Beauty.
 
@@ -26,7 +26,7 @@ The site includes areas of [lowland dry acid grassland](https://data.jncc.gov.uk
 
 While making a development plan for the site, Steve the Ecologist consulted with several local community members, including neighbouring landowners and residents, Flintshire Archeological Trust, Nannerch Community Council, Flintshire County Council, Scottish Power (who own the power lines), the team managing the AONB, and National Resources Wales. This was done to introduce everyone to Protect Earth and the charity's mission, outline what would be done on Nannerch, and get feedback from these community members.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469011-16I59Q4JBKRIEWFID1B4/IMG_8819.JPEG?format=original)
+![$2](/articles/squarespace/img_8819-ba57888e3b.jpeg)
 
 The site is approximately 11 hectares, with Protect Earth planting around 11,000 trees on nearly 8 hectares with a mix of native broadleaf species. The main woodland creation will be Oak over Hazel, with Birch, Aspen, and Wild Cherry areas. The periphery of the woodland will be Rowan, Hawthorn and Crab Apple. The objective (as with most of our planting projects) is carbon sequestration and developing wildlife habitat.
 

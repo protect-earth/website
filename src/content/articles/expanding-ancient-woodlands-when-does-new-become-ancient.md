@@ -12,10 +12,10 @@ Ancient woodlands are the crowned jewels of the UK’s natural landscapes. Rich 
 
 Let’s be clear: if you take bare land and plant trees, you’ve got yourself a new woodland. That’s straightforward. But the story gets more interesting underground. Ancient woodlands aren’t just valuable for the life they host above ground — they are also treasure troves of life below the surface. Dormant seeds, some waiting patiently for decades or even centuries, lie buried in the soil, ready for the right moment to grow.
 
-       [caption id="" align="alignnone" width="4080"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1c8e1d08-e276-4c63-9a19-87cc5b4f9257/PXL_20250201_143112034.jpg?format=original)
-Blending new and old by giving what’s under the soil a chance to reawaken [/caption]
+<figure>
+  <img src="/articles/squarespace/pxl_20250201_143112034-c649afb064.jpg" alt="" />
+  <figcaption>Blending new and old by giving what’s under the soil a chance to reawaken</figcaption>
+</figure>
 
 So, planting saplings around an ancient woodland isn’t just expansion; it’s giving those buried seeds a chance to awaken. This process effectively accelerates the woodland’s natural growth, bridging the gap between old and new. Take bluebells as an example — these quintessential ancient woodland flowers are notoriously slow movers, with seeds that don’t travel far by wind or animals. When you clear and prepare new ground near ancient woodland and see bluebells begin to flourish there, that’s a sign that the woodland’s ancient spirit is spreading.
 

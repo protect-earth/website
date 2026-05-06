@@ -6,7 +6,7 @@ author: 'Phil Sturgeon'
 thumbnail: '/articles/supporter-initiative-sapling-grow-bags.jpg'
 ---
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469565-TQWWVBC50UU0NPM6X4QU/IMG_1267.jpg?format=original)
+![$2](/articles/squarespace/img_1267-083e6ad509.jpg)
 
 Andrew Gifford is a Protect Earth supporter.
 
@@ -72,11 +72,11 @@ Most British native tree seeds/acorns need a period of stratification to germina
 
 - The saplings will benefit from feeding during the growing seasons, e.g. monthly after the first three-six months, liquid seaweed or similar is fine
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469595-NAKZAVEIR4QKFIORNX6Y/unnamed+%282%29.jpg?format=original)
+![](/articles/squarespace/unnamed-2-ebff162329.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469588-RZTMRLV31BWFLM9H1FYX/unnamed+%281%29.jpg?format=original)
+![](/articles/squarespace/unnamed-1-581e2472ed.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469580-DL5JZAHM7IIR80K5AL39/IMG_1269.jpeg?format=original)
+![](/articles/squarespace/img_1269-6e07f42b96.jpeg)
 
 If your chosen location has mice or squirrels, you may lose a few seeds/acorns to predation, so it might be worth covering with chicken wire or positioning them somewhere less likely to be eaten - so long as they will still experience a few weeks’ frost.
 

@@ -18,7 +18,7 @@ When I say implicitly, if your Woodland Creation Plan says you're going to plant
 
 Either scenario could be ecologically problematic, potentially going against the agreed Environmental Impact Assessment for your woodland, and maybe lead to the grant being cancelled leaving the landowner thousands of pounds out of pocket.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469335-O7RSNA1UBCER0HM3SQ6X/IMG_6397.jpg?format=original)
+![$2](/articles/squarespace/img_6397-0099df4188.jpg)
 
 When I say explicitly, an example springs to mind: planting with a Welsh farmer near Cardigan using the[ Glastir Woodland Creation Grant](https://www.gov.wales/glastir-woodland-creation), they were told to use a square grid, and all trees had to be spaced exactly 2m apart from all other trees. Not 2.1, not 1.9, but 2m. Can you imaging trying to make sure 25,000 trees planted completely randomly are spaced perfectly, under threat of losing the ~£100,000 laid out up-front?
 

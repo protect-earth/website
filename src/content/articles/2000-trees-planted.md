@@ -10,12 +10,12 @@ Back in December our tree counter was on 92 trees and two months later we’re u
 
 ### Pantpurlais, Llandrindod Wells
 
-We mentioned last week the plan to [plant 500 trees](/articles/500-trees-in-wales) on a farm called [Pantpurlais](https://www.protect.earth/projects/pantpurlais) near Llandrindod Wells, Wales, and we’re happy to let you know it went swimmingly!
+We mentioned last week the plan to [plant 500 trees](/articles/500-trees-in-wales) on a farm called [Pantpurlais](/sites/pantpurlais) near Llandrindod Wells, Wales, and we’re happy to let you know it went swimmingly!
 
-       [caption id="" align="alignnone" width="2500"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470233-MTD55CPRJB1KG9LVXUBB/120F037A-8EDB-4E7B-9867-2823F8A5C908.JPG?format=original)
-Here you can see a bunch of Field Maple, Alder, Silver Birch, and in the background some Pine and Oak. [/caption]
+<figure>
+  <img src="/articles/squarespace/120f037a-8edb-4e7b-9867-2823f8a5c908-bc231dc98f.jpg" alt="" />
+  <figcaption>Here you can see a bunch of Field Maple, Alder, Silver Birch, and in the background some Pine and Oak.</figcaption>
+</figure>
 
 It was incredibly impressive how quickly the first 400 trees were planted: one day! Another 75 trees and shrubs were planted on the second day (25 short of the 500 but that’s what was delivered!)
 
@@ -23,10 +23,10 @@ It was incredibly impressive how quickly the first 400 trees were planted: one d
 
 Here’s a look at the same field before the trees went in. Much better now I think.
 
-       [caption id="" align="alignnone" width="2341"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470240-7DNIAK7HTPFSLIY0CP92/IMG_20201125_122008.jpg?format=original)
-The same field from a slightly different angle (sorry!) before the saplings went in, and before it snowed. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_20201125_122008-30279265b1.jpg" alt="" />
+  <figcaption>The same field from a slightly different angle (sorry!) before the saplings went in, and before it snowed.</figcaption>
+</figure>
 
 The success of this project in mostly due to the hard work and diligence of land owners: Darren and Claire, and their committed friends and neighbors, turning up despite the awful weather, two days in a row! We didn’t get a chance to bring any volunteers due to the COVID-19 restrictions, but this farm will be planting many more trees with us in the future, so you will hopefully have a chance to see this beautiful part of the world if you sign up for the mailing list.
 
@@ -34,17 +34,17 @@ We also need to thank the other organizations involved: advice and paperwork fro
 
 ### Donkeywell Farm, Cirencester
 
-Whilst some of our team were cycling to and from the Welsh mountains to keep the carbon footprint of this charity to a minimum, another crew of tree planters were getting 1,440 trees planted in [Donkeywell Farm.](https://www.protect.earth/projects/donkeywell-farm) We’ve not mentioned this one yet, but the plan came together at a rate of knots.
+Whilst some of our team were cycling to and from the Welsh mountains to keep the carbon footprint of this charity to a minimum, another crew of tree planters were getting 1,440 trees planted in [Donkeywell Farm.](/sites/donkeywell-farm) We’ve not mentioned this one yet, but the plan came together at a rate of knots.
 
 This was a really interesting project, and the first “Optimum Shelterbelt” we’ve planted. A shelterbelt is generally a row of trees or thick hedgerows along the edge of a field designed to stop strong winds battering crops and livestock. An “Optimum Shelterbelt” is a term we learned from [FWAG South West](https://www.fwagsw.org.uk/) who set this project up, and comes out of research from Oxford University. The basic idea is using a combination of trees and shrubs planted in a tight and specific formation, to not only reduce wind, but provide nature corridors, improve biodiversity, and in general improve yields from the fields they’re protecting.
 
 We could bang on a whole lot more about shelterbelts, and at some point we will, but for now take a look at the efforts of these tough volunteers planting 1,440 on a very cold day!
 
-       [caption id="" align="alignnone" width="1024"]
+<figure>
+  <img src="/articles/squarespace/photo-2021-01-23-08-26-21_1-129f8e8d4e.jpg" alt="" />
+  <figcaption>One of the two shelterbelts installed on this farm to improve productivity of the crops in the fields, and reduce soil erosion!</figcaption>
+</figure>
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470253-KCJZEQEBHBDO0L17KZAI/PHOTO-2021-01-23-08-26-21_1.jpg?format=original)
-One of the two shelterbelts installed on this farm to improve productivity of the crops in the fields, and reduce soil erosion! [/caption]
-
-We’ll be writing up more about [Donkeywell Farm](https://www.protect.earth/projects/donkeywell-farm) shortly, we’ve been a bit overwhelmed getting all of our trees entered into our database so that Eoclogi subscribers can see a tree of each of their saplings. [Łukasz Mróz](https://twitter.com/thesunshinejr) is hard at work making an iOS app which will help us get this done “in the field” in the future, but for now it’s a lot of manual data entry!
+We’ll be writing up more about [Donkeywell Farm](/sites/donkeywell-farm) shortly, we’ve been a bit overwhelmed getting all of our trees entered into our database so that Eoclogi subscribers can see a tree of each of their saplings. [Łukasz Mróz](https://twitter.com/thesunshinejr) is hard at work making an iOS app which will help us get this done “in the field” in the future, but for now it’s a lot of manual data entry!
 
 If you like what you’re seeing here please set up a [monthly donation](/donate) so that we can get closer to our goal of buying our own land, that we can plant, protect, and open to the public to enjoy!

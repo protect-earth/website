@@ -16,10 +16,10 @@ So, let's embark on this green recap and celebrate the strides we've made and th
 
 ## How many plants Protect Earth planted in the 2022/ 23 season
 
-       [caption id="" align="alignnone" width="2316"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469289-RBTYDLILOR5XKBBXOBGE/IMG_8955.jpg?format=original)
-Protect Earth’s Chair, Phil Sturgeon, pleased with growth! [/caption]
+<figure>
+  <img src="/articles/squarespace/img_8955-867aa0e5ea.jpg" alt="" />
+  <figcaption>Protect Earth’s Chair, Phil Sturgeon, pleased with growth!</figcaption>
+</figure>
 
 In the 2022/23 season, Protect Earth reached a remarkable milestone, planting 25,671 trees and shrubs!
 
@@ -53,7 +53,7 @@ The South East region embraced 15.79% of our projects.
 
 Wales, with 21.05%, was our second most active region for planting projects in the 2022/23 season. The crown, however, goes to the South West, where a whopping 36.84% of our planting projects took root.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469293-RUSS4WMDIUEFPDMJQXO7/Screenshot+2023-09-18+204220.png?format=original)
+![$2](/articles/squarespace/screenshot-2023-09-18-204220-11f21396f8.png)
 
 ## What else did Protect Earth do during the 2022/23 season
 

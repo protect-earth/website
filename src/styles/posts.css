@@ -44,6 +44,16 @@
 	.prose {
 		margin: auto;
 		margin-block: var(--space-2xl);
+
+		figure {
+			margin-block: var(--space-l);
+		}
+
+		figcaption {
+			margin-block-start: var(--space-2xs);
+			font-size: var(--font-xs);
+			color: var(--body-text-soft);
+		}
 	}
 
 	.meta {

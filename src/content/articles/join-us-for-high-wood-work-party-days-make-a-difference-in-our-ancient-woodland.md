@@ -16,10 +16,10 @@ High Wood Work Parties are all-day volunteer sessions dedicated to enhancing the
 
 The concept of the Work Parties sprang from the positive response we received from community members who participated in previous events over the winter months at High Wood during Protect Earth's regular tree-planting season. With the end of the planting season, community members close to High Wood wanted to stay connected and continue contributing to High Wood's renaissance.
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468552-2SZYR2UFR6O6J9ERELTU/IMG_5245.jpg?format=original)
-High Wood dappled with sunshine [/caption]
+<figure>
+  <img src="/articles/squarespace/img_5245-6c1033d47a.jpg" alt="" />
+  <figcaption>High Wood dappled with sunshine</figcaption>
+</figure>
 
 There's always work to be done that brings us closer to our ultimate goal. During the Work Parties, we recently installed dormice boxes and levelled picnic areas for the Second Annual Open Day.
 

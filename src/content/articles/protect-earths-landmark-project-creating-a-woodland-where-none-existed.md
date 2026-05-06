@@ -20,7 +20,7 @@ Goytre and the area carry cultural significance. Goytre Hill marks the eastern e
 
 If you know what you’re looking for, you may be able to spot Offa’s Dyke - another famous walking route built in the late 700s that once divided Wales and England - from Goytre Hill as it somewhat follows the path of the River Teme at the hill’s base.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/084d4550-3232-4372-8249-9e5d7a319eea/IMG_5644.jpg?format=original)
+![$2](/articles/squarespace/img_5644-88e19d782e.jpg)
 
 ## Protect Earth’s Vision for Goytre Hill
 
@@ -40,7 +40,7 @@ Over the two years it took for permissions to be gained and funding to come thro
 
 With excitement simmering, we spent almost a week on the hill, welcoming old friends and new ones, finally transforming Goytre Hill and literally building our first woodlands from the ground up.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/870f59c8-86cc-4e2a-b8da-9deb81d13997/IMG_5643.jpg?format=original)
+![$2](/articles/squarespace/img_5643-ab43574015.jpg)
 
 During the week, we hosted [Ecologi](https://ecologi.com/), who has supported Protect Earth’s activities financially and spiritually from the beginning. It was very special having members of Ecologi’s team with us at our first woodland creation project on Goytre and having them be a part of bringing Protect Earth’s vision to life.
 
@@ -62,4 +62,4 @@ Our work to develop greenspaces is far from over. In fact, we are currently rais
 
 Help us continue greening more of the UK by donating now.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/47668dc3-3eb3-41bb-8ee9-fa664cbedff7/warleigh.jpg?format=original)
+![$2](/articles/squarespace/warleigh-0a4cb50498.jpg)

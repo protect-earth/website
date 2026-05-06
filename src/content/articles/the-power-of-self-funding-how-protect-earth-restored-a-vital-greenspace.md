@@ -10,10 +10,10 @@ A recent community-led reforestation initiative caught the attention of Protect 
 
 Recognising the importance of rectifying this situation promptly, Protect Earth decided to replace the lost trees without delay. Understanding that the community's spirit and the project's momentum were at stake, we chose to self-fund the restoration efforts to ensure that the greenspace could be swiftly revitalised. Throughout the process, we regularly engaged with all stakeholders, learning from the initial mistake to ensure such an oversight would not occur again.
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468330-566671EGH8ENCKZ5AFZ2/IMG_1842.jpeg?format=original)
-In a few decades, this neighbourhood will have a thriving woodland. Guards aren’t necessary on this project. Instead, it’s been fenced off around the perimeter setting boundaries. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_1842-f4af89d189.jpeg" alt="" />
+  <figcaption>In a few decades, this neighbourhood will have a thriving woodland. Guards aren’t necessary on this project. Instead, it’s been fenced off around the perimeter setting boundaries.</figcaption>
+</figure>
 
 As we progressed with the project, it became clear how deeply the community valued their green space. Residents' gratitude for the restoration work reaffirmed our commitment and inspired us to go beyond mere replacement. We ultimately planted 13,500 plants, incorporating the [Miyawaki Planting Technique](https://www.creatingtomorrowsforests.co.uk/blog/the-miyawaki-method-for-creating-forests) for some of the new growth. This technique, known for creating dense, biodiverse forests, offered an exciting opportunity to experiment with innovative reforestation methods that could benefit future projects.
 
@@ -31,4 +31,4 @@ Help Protect Earth to restore vital green spaces.
 
 You will receive a personalised certificate with the tree's exact location, allowing you to visit and see the impact of your contribution firsthand. Act now and make a difference!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468334-Z6NNK11NZ62IILAV0FWH/IMG_1816.jpeg?format=original)
+![$2](/articles/squarespace/img_1816-164ab600f6.jpeg)

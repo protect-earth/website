@@ -40,10 +40,10 @@ A common misconception is that a tidy garden is a healthy garden. In reality, a 
 
 Long grass offers shelter to beetles and caterpillars, which become food for hedgehogs and birds. Piles of leaves and twigs attract small mammals and a variety of birds that forage for insects in the undergrowth. By letting parts of your garden grow wild (even a small section), you're creating a haven for countless species and enhancing biodiversity in a simple, low-maintenance way.
 
-       [caption id="" align="alignnone" width="1940"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/8a999029-8b31-41a9-a0ca-56f9e54f07c9/PXL_20240608_124539360%2B%281%29.jpg?format=original)
-At our most recent Open Day at High Wood, Steve the Ecologist led local children in building bird boxes which were installed in trees, creating new&nbsp; homes. [/caption]
+<figure>
+  <img src="/articles/squarespace/pxl_20240608_124539360-1-f72baa7383.jpg" alt="" />
+  <figcaption>At our most recent Open Day at High Wood, Steve the Ecologist led local children in building bird boxes which were installed in trees, creating new&nbsp; homes.</figcaption>
+</figure>
 
 ## Reducing Chemicals for a More Natural Balance
 
@@ -65,4 +65,4 @@ By making thoughtful changes at home and encouraging wildlife-friendly spaces, w
 
 If you want to see more biodiversity thrive in the UK, head to Protect Earth's store and buy a hedge or tree. Each purchase helps plant in various projects across the UK, and you'll receive a certificate detailing the species planted and its location. Your contribution will directly support the enhancement of biodiversity, creating habitats for wildlife and enriching our ecosystems.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/a2a816dc-55c9-4f91-a233-c4afaa10f199/IMG_8223.jpg?format=original)
+![$2](/articles/squarespace/img_8223-edb523039d.jpg)

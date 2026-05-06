@@ -213,7 +213,7 @@ The other side to this is challenges faced with the local contractors which did 
 
 Both of these were exacerbated by the topography of the site - the north west fields which were planted by volunteers are also protected, from trees on two sides and a hill on another. The eastern field is far more exposed, meaning that wind and sun could contribute to the lower survival rates.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/3926249d-0fa7-400a-8f5d-93cecff528e0/Untitled+presentation.png?format=original)
+![$2](/articles/squarespace/untitled-presentation-e2dc44d236.png)
 
 More thought is needed on how to continue working with contractors to ensure our high standards are met across all plantings, as well as the planting and maintenance plans taking into account sites or parts of sites that are exposed.
 
@@ -347,7 +347,7 @@ The lack of data over restocking will mean that this conclusions aren’t necess
 
 High Wood was taken over by Protect Earth after being managed as a commercial timber plantation, with Douglas Fir, Sitka Spruce, and Western Hemlock dominating the landscape for decades. Since then, we’ve cleared out the timber trees in successive waves to make way for native woodland to take root and grow, all with the advice from our ecologist and forester, folks at the Woodland Trust, and with permission from the Forestry Commission.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/648d4c8e-feaf-4e8f-8ffa-c62624d65f2a/Untitled+presentation+%281%29.png?format=original)
+![$2](/articles/squarespace/untitled-presentation-1-37953f9026.png)
 
 The first planting took place in January 2023, with a mix of trees like oak, beech, alder, aspen, Cornish elm, wild cherry, wild service, goat willow, silver birch and rowan, and shrubs like hawthorn, hazel, blackthorn, field rose, guelder rose and spindle. Open glades were left, and hardy alder and aspen were planted in the damper areas and around the edges of clusters of trees to act as windbreaks.
 

@@ -20,10 +20,10 @@ In the diversified environment in which plants and animals live, replacing only 
 
 What was planted is equivalent to approximately three acres, enough growth to boost the farm's biodiversity, directly [increasing the farm's turnover](/articles/increase-farm-productivity-and-profitability-with-agroforestry-amp-rewilding).
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469101-H5WB4HLQ4YBZJT71R4YF/IMG_9967.jpg?format=original)
-Bubbenhall habitat development at a glance Where: Warwickshire, West Midlands, UK When started: 2021 What planted: 1-acre wildflower meadow, roughly 2 acres of woodland and hedging (2,500 saplings in 2021 and restocking of 400 plants in 2023) How many days planting: 3 days for the initial 2,500 plants and one day for restocking [/caption]
+<figure>
+  <img src="/articles/squarespace/img_9967-b73d369b0b.jpg" alt="" />
+  <figcaption>Bubbenhall habitat development at a glance Where: Warwickshire, West Midlands, UK When started: 2021 What planted: 1-acre wildflower meadow, roughly 2 acres of woodland and hedging (2,500 saplings in 2021 and restocking of 400 plants in 2023) How many days planting: 3 days for the initial 2,500 plants and one day for restocking</figcaption>
+</figure>
 
 ## Returning to Bubbenhall in 2023
 

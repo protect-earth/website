@@ -28,10 +28,10 @@ All good things start with a plan, and a restoration plan is how you balance amb
 
 In 2022, we mapped our first 5-year plan for High Wood, having only taken over the woodland. Ultimately, the goal is to revive High Wood as a biodiverse Celtic rainforest. To achieve this, the first five years involve thinning and gradually removing conifers, leaving the best Douglas Firs as a heritage feature and encouraging natural regeneration with species such as Oak, Rowan, and Wild Cherry. We’re also holding off on planting in the short term to keep access open for machinery and to let nature do what it does best.
 
-       [caption id="" align="alignnone" width="991"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/70118305-8995-409f-b362-58d81a3f048a/98167983-9484-44ae-8769-247dee333c81.JPG?format=original)
-Professionals and volunteers together have removed over 900 tonnes of conifer from High Wood since we’ve taken over management [/caption]
+<figure>
+  <img src="/articles/squarespace/98167983-9484-44ae-8769-247dee333c81-f8955ac3d0.jpg" alt="" />
+  <figcaption>Professionals and volunteers together have removed over 900 tonnes of conifer from High Wood since we’ve taken over management</figcaption>
+</figure>
 
 ## 3. **Woodland Structure: Layers Matter**
 
@@ -53,10 +53,10 @@ When we start planting, we'll plant the following: Oak, Rowan, Silver Birch, Wil
 
 The debate between human-led planting and nature-driven natural regeneration is a frequently discussed topic. Doesn't need to be as they are different tools in the same belt and can be used to good effect when called for.
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/8c11b730-062d-48b0-8916-9658d3a9303e/IMG_8223.jpg?format=original)
-Nature finds a way. Signs of regeneration in High Wood [/caption]
+<figure>
+  <img src="/articles/squarespace/img_8223-278fe4a1a8.jpg" alt="" />
+  <figcaption>Nature finds a way. Signs of regeneration in High Wood</figcaption>
+</figure>
 
 ### **Our Approach:**
 

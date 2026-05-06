@@ -136,7 +136,7 @@ These guards are one of the more expensive options available. Their rigid and bu
 
 ### Cardboard tree guards
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468276-9XFH7338SAADPZUOE5TW/card+board+tree+guard.jpg?format=original)
+![$2](/articles/squarespace/card-board-tree-guard-794f84ccb3.jpg)
 
 Unless it comes from recycled cardboard materials, surrounding trees with cardboard harvested from a tree sounds like a sadistic nightmare. It’d be like raising a cow in an abattoir. There is definitely a cruel irony. And that twist of fate—or window into the future—seems to be the case for some cardboard guard producers who do produce their tree guards from virgin paper products.
 

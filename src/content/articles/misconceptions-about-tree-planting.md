@@ -54,9 +54,9 @@ This process, also known as "natural colonisation", can be successful when certa
 
 Natural colonisation will create mature tree coverage but won't happen quickly enough to address the urgency of climate and biodiversity crises without help from tree-planting organisations. Additionally, care has to be taken so that invasive plants don't take over due to a lack of saplings or human intervention.
 
-Our woodland, [High Wood](https://www.protect.earth/projects/high-wood), combines natural colonisation and tree planting. We have some clear-felled areas that will not establish a canopy in any sort of relevant timescale. Through controlling the stocking density we can leave larger gaps between what we’re planting, and create clearings, so that if seeds (either in the soil already, or brought over by jays, squirrels, etc) want to give it a shot, they can.
+Our woodland, [High Wood](/sites/high-wood), combines natural colonisation and tree planting. We have some clear-felled areas that will not establish a canopy in any sort of relevant timescale. Through controlling the stocking density we can leave larger gaps between what we’re planting, and create clearings, so that if seeds (either in the soil already, or brought over by jays, squirrels, etc) want to give it a shot, they can.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469613-NWWN4L9I35V26GM0L0Z1/High+Wood%2C+Liskeard+-+20220715-26.jpg?format=original)
+![$2](/articles/squarespace/high-wood-liskeard-20220715-26-8ecbaf7eae.jpg)
 
 Natural colonisation and tree planting are two separate tools that work very well together. By understanding what these two methods offer, they can be combined to develop an ecosystem's biodiversity.
 
@@ -100,7 +100,7 @@ The media has a narrative that hedge funds based in London are buying up entire 
 
 Some of that may be true, but not as much as some newspapers would make you think, as we can see from the records of [how much tree planting is being done across the UK](https://www.forestryjournal.co.uk/news/20214157.forest-research-woodland-statistics-uk-misses-annual-tree-planting-targets/).
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469618-4U7AL2T0F5HTIFXQE64F/image.png?format=original)
+![$2](/articles/squarespace/image-da25fda54f.png)
 
 In the UK, 540 hectares are planted with trees yearly - just over 1,300 football fields. Much of the land is planted by existing landowners planting trees on their land (we know, we work with them to help them do it).
 

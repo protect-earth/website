@@ -30,9 +30,9 @@ Another field at Pantpurlais is about to be converted from an ecologically unint
 
 Here’s a before and after comparison:
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470112-621BTSTZ8PAQCVPH0SUO/1+-+Before.png?format=original)
+![](/articles/squarespace/1-before-06568f000e.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470106-61B6C6A5BX3VJTW9Y18E/2+-+After.png?format=original)
+![](/articles/squarespace/2-after-cd0495c034.png)
 
 Beautiful! This small patch of thick growth will be home for bees, butterflies, and countless other insects. With this experiment working out nicely, we have bought enough native wildflower seed to create one acre of wildflower meadow at Pantpurlais!
 
@@ -46,11 +46,11 @@ Another experiment on Pantpurlais is an attempt at year-round planting. Most ref
 
 The first 600 saplings we planted there were bare root saplings, as have all of the other 5,400 we planted last season, but now we’re experimenting with “cell grown” saplings.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470124-3U68BGSCOB1XNR62N6ON/3.png?format=original)
+![$2](/articles/squarespace/3-cf1418b4d8.png)
 
 Cell grown saplings come from the nursery looking like little garden plants, with soil around their base and a relatively intact root system ready to be planted. We got a pack of 105 from the Woodland Trust and plopped them in another unused hilly field. These are being protected with some lovely cardboard guards, as we - like most reforestation organizations - are urgently trying to get away from the use of plastic, which has been the industry standard for far too long.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470129-3ALI7HD568C5AORIBFTO/4.png?format=original)
+![$2](/articles/squarespace/4-3416ab2cd0.png)
 
 Last season we looked into alternatives to bare root saplings and the prices were all prohibitively expensive, but for some reason this season the difference is only about an extra 10p on the cost of the sapling. It’s a little more work moving them around as they have more growth to worry about, and the soil is heavier, but this should open up a lot of doors for us to take care of smaller projects (500-1000 trees) outside of the usual rush of winter planting season!
 

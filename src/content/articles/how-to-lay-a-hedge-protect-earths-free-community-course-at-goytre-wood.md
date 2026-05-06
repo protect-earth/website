@@ -10,10 +10,10 @@ This past weekend, Protect Earth welcomed the community to [Goytre Wood](/articl
 
 ## Practical Skills for a Greener Future
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/352ab6d2-fb98-4cd3-a451-6a1903e4cd46/IMG_6172.jpg?format=original)
-John helping Karen to lay the hedge with Steve and Amelia working on their own hedges in the background. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_6172-ae36cf68fa.jpg" alt="" />
+  <figcaption>John helping Karen to lay the hedge with Steve and Amelia working on their own hedges in the background.</figcaption>
+</figure>
 
 John guided attendees through natural hedge creation, demonstrating how a handful of simple tools can transform overgrown or sparse hedges into thriving, dense barriers. For those curious about how to lay a hedge on their own land, the course covered essential techniques and the ecological benefits. Natural hedges can mark boundaries, contain livestock, and serve as effective windbreaks while enhancing local ecosystems. Attendees left equipped with the knowledge to apply these skills to their properties, creating greener and healthier landscapes.
 
@@ -25,10 +25,10 @@ The idea for the course emerged from a friendly collaboration. Protect Earth's n
 
 ## Learning in Action
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/a86570a5-eb2d-4cfe-819f-500808731917/IMG_6160.jpg?format=original)
-Course participants, Jason and Karen, putting to use the skills they were taught. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_6160-f1d83aa58c.jpg" alt="" />
+  <figcaption>Course participants, Jason and Karen, putting to use the skills they were taught.</figcaption>
+</figure>
 
 The course attracted diverse participants, each with their own motivations. Jason, a lorry driver, attended to try his hand at a new skill. Amelia, a woodland owner, saw the course as a natural next step in her sustainability journey. After recently completing a natural carpentry course at the Centre for Alternative Technology (CAT), she was eager to explore additional techniques for restoring her 40-acre woodland, which she plans to open to visitors in the future.
 
@@ -38,4 +38,4 @@ Protect Earth is committed to empowering communities through practical, hands-on
 
 Sign up to Protect Earth's [Eventbrite page](https://www.eventbrite.co.uk/o/protect-earth-33315236557) to be notified of future courses. If there is a group of people in your area keen to develop land management skills, contact us to discuss how we can work together to deliver the skills and knowledge needed to support biodiversity.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/499cfdc2-b359-483c-9448-66599f3407ad/IMG_6153.jpg?format=original)
+![$2](/articles/squarespace/img_6153-bde021fba9.jpg)

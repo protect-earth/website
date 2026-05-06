@@ -14,18 +14,18 @@ Most of us know what tree planting is, but let’s establish a clear basis for c
 
 Natural regeneration means letting land that used to be woodland re-establish itself. This is fantastic in areas like timber plantations on ancient woodlands that have had all their native species cut down, but still have an amazing store of seeds in the soil. This is what we’re doing at High Wood, taking out non-native conifers and letting the native species come back, where most of the land will not require any planting at all, and it will be full of silver birch, oak, ash, holly, hazel, rowan, and whatever else is still in the soil from before, along with whatever turns up via birds and wind spreading other seeds from nearby.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468424-SK9PUEGH2EG2VFW6EO0O/image8.jpg?format=original)
+![$2](/articles/squarespace/image8-ff71bb2e57.jpg)
 
 Natural colonisation is another term which gets mixed in with natural regeneration, but they’re a little different. This means land which was never wooded, or has not been woodland for a long time. For example a woodland that was felled and converted to farmland decades or centuries ago. Seeds will spread from nearby seed sources such as woodlands and hedgerows, being dropped nearby by gravity, being buried or dropped by birds and mammals, and carried further by the wind, and suckering from adventitious roots. This method involves going through the full “woodland succession” process of scrubland generating from bramble and gorse, then “pioneer species” like rowan and willow growing through the protection, creating bird perches to attract more birds, then more diverse species being dropped into the bramble which over time grow through the pioneer species to make a diverse wonderful woodland. This is ideal, and the more seed source there is nearby the better and quicker it goes.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468429-TUMN32PKKFRBIKBH90ST/image3.jpg?format=original)
+![$2](/articles/squarespace/image3-ca51cc9ba6.jpg)
 
 There are no silver bullets here, and none of these approaches to woodland creation are inherently bad, unless done poorly, in the wrong place. You’ve heard “the right tree, in the right place” and sometimes that means not planting somewhere just as much as it means stalling natural colonisation / succession where an existing habitat is already valuable. It’s complicated, but a lot of experts have taken a swing at making it simple to understand.&nbsp;
 
-       [caption id="" align="alignnone" width="2128"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468434-NAOBLG7SJ99S7ONOKEAE/gcb15498-fig-0002-m.jpg?format=original)
-From “Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits” - https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498 [/caption]
+<figure>
+  <img src="/articles/squarespace/gcb15498-fig-0002-m-b55afaa943.jpg" alt="" />
+  <figcaption>From “Ten golden rules for reforestation to optimize carbon sequestration, biodiversity recovery and livelihood benefits” - https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498</figcaption>
+</figure>
 
 Ignoring the fact that it mentions using NFTs there’s nothing much to disagree with here, other than the fact that 5 and 6 are “or”. At Protect Earth not only are we using all three approaches on different sites, we generally combine approaches to provide the best possible outcomes.
 
@@ -41,15 +41,15 @@ Some locations will have seeds in the soil or seeds nearby, but the woodland cre
 
 Bolstering biodiversity through introducing species that used to be in the area, or [should be in the area](/articles/right-tree-right-place-right-now), can just mean dotting some of these trees around, or it could mean planting 25-50% of the land with a mixture of species that aren’t there and leaving large spacing and clearings between the planted saplings for nature to fill in the gaps.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468439-Y2RLL227Y5CQGBNGN9P1/image6.jpg?format=original)
+![$2](/articles/squarespace/image6-bda494d39b.jpg)
 
 This is one of the most common versions of “both” for us, but my favourite examples would be adding Plymouth Pear and Cornish Elm around High Wood, two species that are incredibly rare, and would almost certainly never have turned up by themselves any time in the next 100 years.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468444-YSE69ZALMHWMFK1N9B6M/image4.jpg?format=original)
+![$2](/articles/squarespace/image4-6ff0d5b129.jpg)
 
 Another example: [Restoring Hardknott Forest](https://bag.leeds.ac.uk/projects/restoring-hardknott-forest/). They are restoring 630 hectares of old conifer timber plantation, and whilst regeneration was doing a great job, it was missing a few species, so for the sake of biodiversity and creating a functional ecosystem some supplementary planting of Juniper, Hawthorn, and Hazel was needed.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468449-AXY077LN0I6IOHYTQQ0Y/image5.jpg?format=original)
+![$2](/articles/squarespace/image5-493f29454f.jpg)
 
 This practice is not just my favourite approach, but it’s recommended by Rewilding Britain who are some of the most popular proponents of the natural regeneration & colonisation methods.
 
@@ -81,10 +81,10 @@ Whenever possible we introduce wildflower meadow area to our sites. For example,
 
 Wildflower meadows sequester a lot more carbon than you might think, and whilst the sequestration rates might not be as much as a woodland, it’s not just about carbon. Semi/natural grasslands and wildflower meadows are horrendously rare, and species that have specialised to rely on them are struggling. Therefore even if the carbon sequestration rates are not quite as high, we need to remember that we are fighting both the climate and biodiversity crises, and it’s important to never do anything that would benefit one at the cost of the other.
 
-       [caption id="" align="alignnone" width="860"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468458-MV08XALCW09GEDMRPKW3/image7.png?format=original)
-Source: Natural England, Natural England Research Report (NERR094) Carbon storage and sequestration by habitat: a review of the evidence, second edition (20 April 2021) pp 210–221: http://publications.naturalengland.org.uk/file/6726246198411264 [accessed 12 January 2022] Colour-coding indicates the level of scientific certainty around this ecosystem, as assessed by Natural England. The grey bars illustrate the range of values measured across different sites by Natural England’s meta-analysis, while the solid bar gives a best estimate. For most land ecosystems, these figures show soil carbon to the depth of the ecosystem and carbon stored in vegetation. [/caption]
+<figure>
+  <img src="/articles/squarespace/image7-268bf9f2c4.png" alt="" />
+  <figcaption>Source: Natural England, Natural England Research Report (NERR094) Carbon storage and sequestration by habitat: a review of the evidence, second edition (20 April 2021) pp 210–221: http://publications.naturalengland.org.uk/file/6726246198411264 [accessed 12 January 2022] Colour-coding indicates the level of scientific certainty around this ecosystem, as assessed by Natural England. The grey bars illustrate the range of values measured across different sites by Natural England’s meta-analysis, while the solid bar gives a best estimate. For most land ecosystems, these figures show soil carbon to the depth of the ecosystem and carbon stored in vegetation.</figcaption>
+</figure>
 
 ## Create a mosaic of habitats
 
@@ -134,7 +134,7 @@ Cardboard guards seemed like the most interesting, because most bioplastic is st
 
 The biodegradable plastic rabbit spirals we’ve used at several sites turn out to be only “industrially compostable”, meaning they need to be collected and sent off to a specialist. All the spirals that break down in place will take centuries to degrade, because they break into small pieces (many were even chewed apart by rabbits) and it’s impossible to collect those fragmented plastic pieces that have been blown off into a hedge or squashed into the soil.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468463-UIL2ZYAOLTUWJOEZ52MC/image1.png?format=original)
+![$2](/articles/squarespace/image1-f935edf216.png)
 
 The best sustainable guards we’ve tried are [Vigilis Bio shelters](https://vigilistreeshelters.com/products/vigilis-bio/), which are a form of bioplastic which will apparently break down in the soil leaving no microplastics, but we only got a handful to trial and they’re not commercially available. There’s also the plastic-free guards from [NextGen Tree Shelters](https://nexgen-ts.com/) made out of wool, and I’ve been eager to get hold of these since they were announced years ago, but they’ve been saying “available next season” for years.
 

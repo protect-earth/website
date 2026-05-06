@@ -22,10 +22,10 @@ Not only does this show growth in the right direction, but our time was going to
 
 Another point of early season excitement was that close to 76% of what was projected to be done was on land owned or long-term leased by Protect Earth. Here we could produce detailed woodland creation plans to restore long lost woodlands and maximise biodiversity.
 
-       [caption id="" align="alignnone" width="6048"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468496-UPIBG4OF21NH2OAHMV0V/soyth+lodge+trees-98.jpg?format=original)
-Protect Earth’s community made massive contributions to the UK’s ecology in 2023/ 24 [/caption]
+<figure>
+  <img src="/articles/squarespace/soyth-lodge-trees-98-a93ef687bd.jpg" alt="" />
+  <figcaption>Protect Earth’s community made massive contributions to the UK’s ecology in 2023/ 24</figcaption>
+</figure>
 
 ## **What Protect Earth achieved during the 2023/24 season**
 
@@ -39,10 +39,10 @@ Our 2023/24 planting footprint witnessed most of our planting activities in Engl
 
 During the past season, Protect Earth[ revised our metrics](/articles/protect-earths-maturing-success-metrics), broadening what we're measuring. Again, only planting trees isn't the only thing we can do, so we have broadened our horizons to achieve a higher rate of biodiversity on our projects and with everyone we work with.
 
-       [caption id="" align="alignnone" width="961"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468500-C0JLEIYX3QCJLU0K7UBR/Screenshot+2024-06-24+161539.png?format=original)
-A break down of what Protect Earth have accomplished during the 2023/24 planting season. [/caption]
+<figure>
+  <img src="/articles/squarespace/screenshot-2024-06-24-161539-ee7ee299cc.png" alt="" />
+  <figcaption>A break down of what Protect Earth have accomplished during the 2023/24 planting season.</figcaption>
+</figure>
 
 ### **Land Under Direct Protect Earth Management**
 

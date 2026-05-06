@@ -20,10 +20,10 @@ For each year that the government doesn't hit the targets they set, making sure 
 
 Over the last decade, frequent government changes have caused inconsistent goals, leading to high churn and energy wasted on constant readjustment. It should be noted that the UK has amongst the[ lowest forestry coverage in Europe](/articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests).
 
-       [caption id="" align="alignnone" width="724"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/0e8ac4e6-3c50-425e-85c0-1b7ac590ce15/Artboard%2B1a.png?format=original)
-Year on year, the government is failing to meet its own goals on creating new green spaces in the UK. By 2025, the government has pledged to plant 30,000 hectares of land annually. In the last tree planting season, the government managed to achieve just over half of this goal. [/caption]
+<figure>
+  <img src="/articles/squarespace/artboard-1a-789a84ae0d.png" alt="" />
+  <figcaption>Year on year, the government is failing to meet its own goals on creating new green spaces in the UK. By 2025, the government has pledged to plant 30,000 hectares of land annually. In the last tree planting season, the government managed to achieve just over half of this goal.</figcaption>
+</figure>
 
 Another point in "What is holding back woodland creation in the UK?" is the need for more investment in the UK tree nursery sector. Greenspaces require creation from the right saplings (native plants found in the UK), originating close to where they are planted in their forever homes for better natural resilience. An oak sapling starting life in milder and dryer Kent will probably be ok in the Scottish Borders, but an oak grown from an acorn harvested in the Scottish Borders will be better suited to those conditions. We need a tighter web of nurseries distributed throughout the UK to achieve this localisation. Additionally, the number of replacement trees required to combat the increasing number of diseases also demands more investment in nurseries. We need more trees as more trees become sick and require removal.
 

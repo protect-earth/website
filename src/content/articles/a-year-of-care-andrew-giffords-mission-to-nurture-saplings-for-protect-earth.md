@@ -18,17 +18,17 @@ Growing saplings from seed is more complex than it may sound. Before starting, A
 
 Over a year, Andrew meticulously cared for over 200 saplings, tenderly coaxing them from seeds into the sturdy beginnings of what will one day be towering trees.
 
-       [caption id="" align="alignnone" width="1333"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468786-HY0YSUSDAUIUOY6JR7AY/unnamed+%281%29.jpg?format=original)
-Tightly packed though they are, the saplings uprooted from the bag ok. We’re confident few saplings broke when being separated and are confident they’ll settle into their new homes very well. [/caption]
+<figure>
+  <img src="/articles/squarespace/unnamed-1-85506d1acd.jpg" alt="" />
+  <figcaption>Tightly packed though they are, the saplings uprooted from the bag ok. We’re confident few saplings broke when being separated and are confident they’ll settle into their new homes very well.</figcaption>
+</figure>
 
 ## Finding their forever home
 
-       [caption id="" align="alignnone" width="1333"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468792-7TVLXJBSNHBGXVTTP3GA/unnamed+%284%29.jpg?format=original)
-Planted with stakes in and guards to go on, these trees will populate a new woodlands made up of mixed native broadleaf species. [/caption]
+<figure>
+  <img src="/articles/squarespace/unnamed-4-1698340576.jpg" alt="" />
+  <figcaption>Planted with stakes in and guards to go on, these trees will populate a new woodlands made up of mixed native broadleaf species.</figcaption>
+</figure>
 
 As (lucky) fate would have it, Andrew's trees came of age at just the right time. Protect Earth had a small project we were planting in [Goytre Wood](/articles/goytre-wood), and our order from the nursery fell through. Again, Andrew had planted his seeds, and enough of them at just the right time that our nursery order was falling through; Andrew was able to save the day, allowing us to complete our project.
 
@@ -42,6 +42,6 @@ As was said in the original story, growing saplings from seeds for Protect Earth
 
 This was a special project to have communal involvement at a different part of the story than usual. We and Andrew are chuffed to see his 200 saplings planted in their forever home. We all look forward to seeing what this corner of Goytre looks like in the coming decades.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468818-EGLTMET22V09HHWWJBMV/unnamed+%283%29.jpg?format=original)
+![](/articles/squarespace/unnamed-3-7fadad61c2.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468810-XAKAOWUWNVC0L2EHRY5K/unnamed+%282%29.jpg?format=original)
+![](/articles/squarespace/unnamed-2-537495a99f.jpg)

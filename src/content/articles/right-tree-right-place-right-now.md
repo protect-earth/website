@@ -16,7 +16,7 @@ Well, that may have been true enough until our rampant carbon emissions put a ma
 
 What’s the answer? Should we only plant tree species that we know will ‘take,’ and then go on to survive frequent drought conditions? Well that’s the Alders gone, along with the Birch and Willow, as well as all the other wildlife that depends on them. So we’re left with a woodland of, maybe, Sweet Chestnut, Crab Apple and Wild Service Tree – because all three are pretty tough and good at surviving drought conditions. There will probably be less wildlife in our woodland now, but at least these trees won’t die! Is it correct to prioritise long-term carbon sequestration over shorter term biodiversity gains?
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469970-DE3ORJSQUFO9UBZ9QE4K/bee+eater.jpg?format=original)
+![$2](/articles/squarespace/bee-eater-352c70aecc.jpg)
 
 Some say ‘hedge your bets’ – plant the greatest diversity possible, both in terms of species and genetic variation. Source the seeds of familiar species such as Oak from further south, much further, France, for example. Others are more radical still, and think planting species that are currently found on the Iberian Peninsula is the answer. Bee-eaters and other exotic looking birds, more associated with the Mediterranean region nested in Britain this year, pushed north by intense heat in Southern Europe. Some conservationists advocate planting Cork Oaks in Southern England in preparation for increasing temperatures as well as all the Bee-eaters, Rollers and Hoopoes they anticipate appearing here in the next decades.
 

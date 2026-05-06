@@ -24,17 +24,17 @@ We intended to let locals know of the work we'd achieved, why it's important to 
 
 After Steve's insightful walk, we had a BBQ hosted by the wonderful Meike from Forest of Cornwall. While the event was free, we sold food and drinks to raise money, enabling us to plant apple trees. The thick shade provided by the conifer that once covered this area vanished after we thinned conifers. The apple trees (UK native species) will reshade the gap and refreshment in the future. It was great to see families enjoying one of the permanent picnic benches paid for with past donations.
 
-       [caption id="" align="alignnone" width="2717"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469404-5FFLA2DI2WEIF4Y01U0K/PXL_20230624_112838813.jpg?format=original)
-Steve the Ecologist led a walk wow’ing everyone with High Woods’ transformation [/caption]
+<figure>
+  <img src="/articles/squarespace/pxl_20230624_112838813-51d292405b.jpg" alt="" />
+  <figcaption>Steve the Ecologist led a walk wow’ing everyone with High Woods’ transformation</figcaption>
+</figure>
 
 There was marshmallow roasting, a scavenger hunt for kids, and later in the afternoon, a Medicinal Foraging Walk by a local friend of the woods, Margarita. She explained various historical and current-day uses of many common plants you wouldn't think useful, like Hawthorn and stinging nettles!
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469409-QY4YXV203YCVAA7YM8R3/IMG_8223.jpg?format=original)
-An unexpected Open Day guest popped up! Oak saplings have started breaking the soil all over the woodland! [/caption]
+<figure>
+  <img src="/articles/squarespace/img_8223-0fe9f59b87.jpg" alt="" />
+  <figcaption>An unexpected Open Day guest popped up! Oak saplings have started breaking the soil all over the woodland!</figcaption>
+</figure>
 
 ## To sum up
 

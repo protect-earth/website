@@ -28,7 +28,7 @@ Here's why woodland maintenance matters:
 
 On our return to Cheltenham, we worked with the farmer and nine enthusiastic volunteers to plant 100 new saplings. Some replaced those that didn't survive, while others expanded and strengthened the shelterbelts. Despite braving tough weather and battling brambles, our team completed the restocking efficiently and even had time for additional woodland maintenance tasks.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/f4d470f6-5acb-4bab-aa00-756b867217ea/Zenergi+volunteers.jpg?format=original)
+![$2](/articles/squarespace/zenergi-volunteers-e02b295070.jpg)
 
 By the end of the day, we had a healthier habitat, a happy farmer, and a habitat strengthened to continue doing what it's naturally evolved to do for wildlife and biodiversity.
 

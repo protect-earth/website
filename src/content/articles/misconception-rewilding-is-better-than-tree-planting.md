@@ -40,12 +40,16 @@ Human intervention is required to try to reverse the damages we've done to our n
 
 Tree-planting organisations use natural regeneration in interesting combinations. Sometimes a project will be entirely natural colonisation with no tree planting, but planting close to woodlands with lower stocking densities can combine the best of both techniques.
 
+<<<<<<< HEAD
 For example, at [High Wood](https://www.protect.earth/projects/high-wood), our ancient woodland in Cornwall, we have some clear-felled areas that will not establish a canopy in any sort of relevant timescale. Through controlling the stocking density, we can leave larger gaps between what we plant to create clearings so that if seeds (either in the soil already or brought over by jays, squirrels, etc.) want to give it a shot to establish themselves, they can. We can expect Oak, Ash, Willow, Holly and Hazel to pop up naturally. With low-density planting, we can bring back Cornish Elm, Plymouth Pear, Wild Service Tree, Yew, and Hornbeam, the latter of which will be [far more tolerant of high temperatures](/articles/right-tree-right-place-right-now) expected in upcoming years.
+=======
+For example, at [High Wood](/sites/high-wood), our ancient woodland in Cornwall, we have some clear-felled areas that will not establish a canopy in any sort of relevant timescale. Through controlling the stocking density, we can leave larger gaps between what we plant to create clearings so that if seeds (either in the soil already or brought over by jays, squirrels, etc.) want to give it a shot to establish themselves, they can. We can expect Oak, Ash, Willow, Holly and Hazel to pop up naturally. With low-density planting, we can bring back Cornish Elm, Plymouth Pear, Wild Service Tree, Yew, and Hornbeam, the latter of which will be [far more tolerant of high temperatures](https://www.protect.earth/blog/right-tree-right-place-right-now) expected in upcoming years.
+>>>>>>> 596aca1 (fix: replace [caption] with figcaption)
 
-       [caption id="" align="alignnone" width="1000"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469443-Q1BUFVZIX3U8EC8YALWM/IMG_6556.jpg?format=original)
-Even though there’s a lot of tree coverage already and a woodlands can develop - only what’s present can spread and that’s in acidic soil created from needle droppings. Planned woodland creation through tree-planting can diversify a woodland and enhance the soil’s quality. This picture is from High Wood where we have employed natural colonisation and tree planting. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_6556-41c6604571.jpg" alt="" />
+  <figcaption>Even though there’s a lot of tree coverage already and a woodlands can develop - only what’s present can spread and that’s in acidic soil created from needle droppings. Planned woodland creation through tree-planting can diversify a woodland and enhance the soil’s quality. This picture is from High Wood where we have employed natural colonisation and tree planting.</figcaption>
+</figure>
 
 At various other sites, we'll be planting next to an ancient woodland with the same approach: reintroducing native species which are missing and leaving space for other species to appear with the low-density planting. Combining both methods of rewilding and tree-planting boosts an area's recovery time, making a more fully functional and biodiverse ecosystem, which is the armament required to tackle climate change.
 

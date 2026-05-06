@@ -10,7 +10,7 @@ At a time when the climate crisis and biodiversity loss are demanding urgent act
 
 ## What Can You Buy?
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468149-HU48XYH46ADWITOKPWLP/Tree+shop.png?format=original)
+![$2](/articles/squarespace/tree-shop-5c6785ebfc.png)
 
 Protect Earth's shop offers native, broadleaf trees and hedges—species that belong in the UK, thriving in our climate and soil. These plants do more than grow. They help regenerate soil, create habitats for wildlife, conserve water, and purify the air, underpinning healthy ecosystems that are vital for future generations.
 
@@ -28,7 +28,7 @@ It's a meaningful way to stay connected to your contribution and see your impact
 
 ## Trees as Gifts or Legacies
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468155-6YZYYTHOJ44QR5O162GI/image.png?format=original)
+![$2](/articles/squarespace/image-6b364fdca9.png)
 
 Trees are more than just plants—they’re living legacies. Some trees, like oaks and yews, can live for over 1,000 years. Imagine how much impact they can have.
 

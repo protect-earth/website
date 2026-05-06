@@ -12,10 +12,10 @@ Wildflower meadows are particularly tricky ecosystems to develop. Counterintuiti
 
 ## Wildflower Meadows
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469426-4TLWOBOCLV3KQYAYDODR/Ragged+Robin.JPG?format=original)
-This natural neighbourhood is home to a diverse range of citizens - from butterflies, caterpillars, ladybirds, bumblebees to birds and small mammals [/caption]
+<figure>
+  <img src="/articles/squarespace/ragged-robin-8126a3603f.jpg" alt="" />
+  <figcaption>This natural neighbourhood is home to a diverse range of citizens - from butterflies, caterpillars, ladybirds, bumblebees to birds and small mammals</figcaption>
+</figure>
 
 A wildflower meadow in the full bloom of high summer, alive with bees, grasshoppers and brightly coloured butterflies, is one of the British landscapes' most intoxicating wildlife habitats. Sadly, they are now also one of the scarcest; the vast majority having been ploughed or fertilised into oblivion, another victim of modern farming practices. Most wildflower meadows that remain are found on nature reserves where they are carefully managed or, literally, hanging on to very steep, uncultivable hillsides.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -35,10 +35,10 @@ Establishing a true wildflower meadow will take work and time because lowering s
 
 ## Protect Earth developed a wildflower meadow
 
-       [caption id="" align="alignnone" width="3024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469432-F01W6HSO6HV8XG3XGIEQ/meadow+3.JPG?format=original)
-A wildflower meadow project in Warwickshire that Protect Earth supported. [/caption]
+<figure>
+  <img src="/articles/squarespace/meadow-3-2638286a8b.jpg" alt="" />
+  <figcaption>A wildflower meadow project in Warwickshire that Protect Earth supported.</figcaption>
+</figure>
 
 Last spring, Protect Earth set about establishing a wildflower meadow on an area of rough pasture in Warwickshire.
 

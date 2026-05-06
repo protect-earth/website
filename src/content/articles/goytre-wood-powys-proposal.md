@@ -16,11 +16,11 @@ Taking a page out of Google’s book when they launched their new AI tool Bard, 
 
 Nonetheless, we’re going to share - in Steve the Ecologist’s words (his passion, knowledge, and enthusiasm is too apparent in what he’s shared it would hurt to rewrite) - the plan as this is an open dialogue with anyone with a connection to Powys and Goytre Wood - we want feedback from the community who know and use the land!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469482-FPHD4JE4643A4DB9D8ZW/IMG_1478.jpg?format=original)
+![$2](/articles/squarespace/img_1478-88d55a0e3a.jpg)
 
 ## The plan
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469487-9Q6JLVS9INS2BLU9XUMJ/IMG_1464.jpg?format=original)
+![$2](/articles/squarespace/img_1464-f61fd4e9ec.jpg)
 
 Basically, all the valleys of Mid-Wales should be Sessile Oak woodland, gnarly, moss-covered, old trees clinging to the steep valley sides. Underneath the Oaks should be Hazel and Hawthorn as well, along with Rowans and Birch trees at the edges.
 

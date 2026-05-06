@@ -40,7 +40,7 @@ On buying the land, Jonathan wanted to change the landscape of his 4 hectares, a
 
 ## **Difficulties getting their dreams off the ground**
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468754-IEHFBI6H0N7L6N5YC8K9/IMG_0890.jpeg?format=original)
+![$2](/articles/squarespace/img_0890-e480790aaa.jpeg)
 
 As with the beginnings of most journeys today, Jonathan started online typing in keywords where the big players in developing biodiversity dominate the top search returns.
 
@@ -68,7 +68,7 @@ We took delivery of a mix of native tree and shrub species including Oak, Wild C
 
 Protect Earth has set out metrics that are essential to us. Equally, biodiversity development projects are wonderful to be a part of, and it helps to work with others from time to time, sharing our knowledge on biodiversity development and ongoing management.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468759-HZYGYJOVNDMO8O0QUKJY/IMG_0894.jpeg?format=original)
+![$2](/articles/squarespace/img_0894-d034dd9bdb.jpeg)
 
 Jonathan, his family and friends who visit are happy to know that the woodlands they've started with Protect Earth will sequester 272 tons of carbon after 50 years.
 

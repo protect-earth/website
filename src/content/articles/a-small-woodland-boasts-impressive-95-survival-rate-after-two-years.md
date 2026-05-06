@@ -28,7 +28,7 @@ Acres of Ancient Woodland Restoration: 0
 
 In 2021, we visited the Yorkshire and the Humber area to link up with an eager landholder. A plan was put together over a space stretching 2.2 acres, planting 1,227 trees and shrubs.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468847-BP1BH34BY648CHL4NO5I/IMG_6365.jpg?format=original)
+![$2](/articles/squarespace/img_6365-db4ad27e29.jpg)
 
 The two acres were split by a river. On the south side of the river, a new woodland was created. On the other side, hedgerows and shelterbelts were established.
 
@@ -46,7 +46,7 @@ The woodland on the river's south side needed careful maintenance to find the sw
 
 On visiting the site, we were thrilled to see that 95% of the plants we established in 2021 survive after two years. Many new woodlands experience 30% death rates in their first year. So 95% survival after two years is incredible and happens despite more volatile weather conditions over the past two years - 2022 saw temperatures in the UK hit 40 degrees, and 2023 was an odd year of quite a hot start with quite a cold finish to the UK's summer.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468852-EXNDWCIDVE2CHXG8H84J/IMG_8965.jpg?format=original)
+![$2](/articles/squarespace/img_8965-0c37fa7d1e.jpg)
 
 ## How a success rate of 95% was achieved
 

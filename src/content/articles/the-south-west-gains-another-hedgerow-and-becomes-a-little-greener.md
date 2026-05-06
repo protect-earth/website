@@ -12,7 +12,7 @@ This February, we returned to South Molton at the request of a brilliant landown
 
 Over two brisk but beautiful days (8–9 February 2025), we, alongside a merry band of volunteers, got to work in the South West, planting 400 metres of mixed native hedgerow - a total of 2,375 saplings popped lovingly into the soil: common hazel, hawthorn, blackthorn, goat willow, common beech, and dog rose. It's not just a hedgerow. It's a biodiverse banquet, a future corridor for wildlife, and in 50 years, it'll have quietly hoovered up over 1,000 tonnes of carbon.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/ea9c17da-5a59-4424-9085-9de15caff5e7/IMG_3719.jpeg?format=original)
+![$2](/articles/squarespace/img_3719-4536a0ddf8.jpeg)
 
 ## Powered by Passion (and Hot Coffee)
 
@@ -22,7 +22,7 @@ One volunteer summed it up perfectly:
 
 "We just all really enjoyed the day as a team, from being warmed up with the hot fresh coffee to eating outside on a cold day in February."
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/460861dd-6cfd-4423-b092-0fd7458e5749/IMG_3717.jpeg?format=original)
+![$2](/articles/squarespace/img_3717-0905c0f5bd.jpeg)
 
 And the landowner? Equally full of praise:
 

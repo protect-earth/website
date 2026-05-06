@@ -13,19 +13,19 @@ So what do we do about it? There's a few options. We could spray a bunch of chem
 
 Mulch mats can help, but usually they're plastic. One shelterbelt we planted (thanks to funding from Ecologi!) had a team of professional planters, and they went for an experiment: a single, heavy duty plastic mulch mat on about 10% of the shelterbelt. The whole thing was laid down before any planting is done, pegged in place, then the trees are slit planted through it.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470380-KCJ9L6MSCP5IG3PCVX0L/2021-02-21+12-12-20.jpg?format=original)
+![$2](/articles/squarespace/2021-02-21-12-12-20-3d853a8e02.jpg)
 
 As mentioned in our article about tree guards, we want to avoid plastic whenever possible, especially virgin fossil plastic, which these mulch mats pretty much always are. Another concern with plastic is that water will not get through it, which can kill the tree... if you open up the plastic mat to let water through, you just end up with weeds coming out the gap and crowding out the tree from inside the tube!
 
 We threw around a few ideas, like following "No dig" practices that suggest shoving down loads of cardboard boxes (big box stores, cardboard bicycle boxes, etc.). Before we had to even think about that, our friends over at [Coforest](https://coforest.co.uk/) introduced us to another option: hemp mulch mats!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470383-ODACCZ5CN0XZ151547SR/2021-04-08+15-22-45.jpg?format=original)
+![$2](/articles/squarespace/2021-04-08-15-22-45-0b5a6b58f3.jpg)
 
 For about 70p a tree, we can put down these all natural, bio-degradeable, no-plastic mulch mats. They do the same job as the plastic mats: they'll block sunlight from getting to the grass and any weeds waiting to pop up below, even right next to the sapling stem thanks to their slit design. Even better, they'll let water through to the sapling too! They'll last for about two or three years, then they'll just be food for the sapling.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470390-Q3QNTNE2PX2N0OYU7W5T/image6.jpg?format=original)
+![$2](/articles/squarespace/image6-93802d7574.jpg)
 
-We are using [Ecomatt Bio Weed Mats](https://www.green-tech.co.uk/tree-planting-products/weed-mats-mulch-and-tree-spats/ecomatt-bio-weed-mats) from Green Tech, and so far we’ve put down about 1,000 at [Pantpurlais](https://www.protect.earth/projects/pantpurlais), Hazeland Woods, and [Sands Farm](https://www.protect.earth/projects/sands-farm), and we have another 1,000 to put down on [Howard Court](https://www.protect.earth/events/2021-howard-court-maintenance) on May 29th ([volunteers welcome](https://www.protect.earth/events/2021-howard-court-maintenance)!)
+We are using [Ecomatt Bio Weed Mats](https://www.green-tech.co.uk/tree-planting-products/weed-mats-mulch-and-tree-spats/ecomatt-bio-weed-mats) from Green Tech, and so far we’ve put down about 1,000 at [Pantpurlais](/sites/pantpurlais), Hazeland Woods, and [South Lodge](/sites/south-lodge), and we have another 1,000 to put down on [Howard Court](https://www.protect.earth/events/2021-howard-court-maintenance) on May 29th ([volunteers welcome](https://www.protect.earth/events/2021-howard-court-maintenance)!)
 
 Much of this is an experiment. We want to know:
 
@@ -43,6 +43,6 @@ Avon Needs Trees (owners of Hazeland Woods) are experimenting with even more opt
 
 - Woodchips in nets - reusing downed wood through a chipper and a net to stop it blowing away.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470397-1V3O9D1A2VG6I1ZBWUVP/2021-03-24+12-15-19.jpg?format=original)
+![$2](/articles/squarespace/2021-03-24-12-15-19-5766b65585.jpg)
 
 All really interesting stuff and we will be sharing the results of our own experiments, and linking to whatever the University of Bristol publish if it’s publicly available. In the mean time, there’s more mats to lay, and then we’ve got to start planning the watering of these trees, as summer is probably going to be vicious on these saplings…

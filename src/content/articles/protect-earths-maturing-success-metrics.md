@@ -28,7 +28,7 @@ This is a metric of growing importance because of the independence it brings. We
 
 When Protect Earth directly manages a piece of land (lowest quality agricultural land or a brownfield site), we can plan for more diversity without compromise. Where suitable, we can create wildlife ponds, wiggle some river, rewet some woodland, spread wildflower meadows and
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468952-EC66FBTDIU7E35FPVXOU/soyth+lodge+trees.jpg?format=original)
+![$2](/articles/squarespace/soyth-lodge-trees-28b783ac59.jpg)
 
 innoculate mushrooms, put up bird boxes, remove some invasive species, leave some land for skylarks to enjoy, and then develop woodlands on the remaining parts. Can you hear it? Can you see it?
 

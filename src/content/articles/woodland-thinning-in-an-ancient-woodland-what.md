@@ -40,17 +40,17 @@ Even in protected woodlands or ancient woodlands, non-native plants tread uninvi
 
 Continuous cover forestry is a concept developed for managing commercial forests, which Protect Earth does not do. However, the idea can come into play in thinning woodlands. If an area is overly heavy with certain species, we may thin back those species, opening space for other species to flourish adding to diversity. We may open space for light to penetrate the canopy and allow ground-level growth. Or, a plant may be mortally damaged, and leaving it in place may cause damage to other trees surrounding it, so we'll take down the dying tree.
 
-       [caption id="" align="alignnone" width="480"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/0d5a0edd-e8a8-4251-8360-a9411101e945/image12.jpeg?format=original)
-After storms descend, we’ll always inspect areas of the woodlands open to the public looking for hazards like this damaged tree. [/caption]
+<figure>
+  <img src="/articles/squarespace/image12-aa6225e2a0.jpeg" alt="" />
+  <figcaption>After storms descend, we’ll always inspect areas of the woodlands open to the public looking for hazards like this damaged tree.</figcaption>
+</figure>
 
 ## What Does Protect Earth Do With Thinned Materials?
 
-       [caption id="" align="alignnone" width="1024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/28a40102-97dd-41b8-bbc5-9fae0b7128e9/4CB2D887-1464-4691-A249-90F2709F8C5F_1_105_c.jpeg?format=original)
-These are conifers that we’ve removed from our Ancient Woodland that was a commercial forest before we took it over. These felled trees have a home, but not in these woodlands. [/caption]
+<figure>
+  <img src="/articles/squarespace/4cb2d887-1464-4691-a249-90f2709f8c5f_1_105_c-8b327d5914.jpeg" alt="" />
+  <figcaption>These are conifers that we’ve removed from our Ancient Woodland that was a commercial forest before we took it over. These felled trees have a home, but not in these woodlands.</figcaption>
+</figure>
 
 Returning to the reasons we thin woodlands - if materials are not supposed to be there, we take them out.
 

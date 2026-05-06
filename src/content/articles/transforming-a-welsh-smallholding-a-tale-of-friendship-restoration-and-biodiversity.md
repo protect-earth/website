@@ -2,7 +2,7 @@
 title: 'Transforming a Welsh Smallholding: A Tale of Friendship, Restoration, and Biodiversity'
 description: 'Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be...'
 pubDate: 2024-05-27T06:59:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: '/articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg'
 ---
 
@@ -14,14 +14,14 @@ Having bought some land, they've pulled out the vision board to start exploring 
 
 ## About Team DEFT and their Welsh smallholding
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468594-5AVM2BOQ3WIQB65VJBC0/IMG_2470.jpg?format=original)
+![$2](/articles/squarespace/img_2470-362ed21c06.jpg)
 
 ### Gift a Legacy: Trees and Hedges for Timeless Friendships
 
-       [caption id="" align="alignnone" width="5292"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468599-RK4Q5ZJYNALSCKQES4V3/soyth+lodge+trees-97.jpg?format=original)
-Give a gift that grows with time, and celebrate your friendships with a gift that lasts: trees and hedges. [/caption]
+<figure>
+  <img src="/articles/squarespace/soyth-lodge-trees-97-04b0c497c9.jpg" alt="" />
+  <figcaption>Give a gift that grows with time, and celebrate your friendships with a gift that lasts: trees and hedges.</figcaption>
+</figure>
 
 When Team DEFT (Dean, Emma, Frank, and Tracey) decided to buy a smallholding, the list of criteria was stark: the land had to be big enough for two families to live on. The question of how big and where the land was was very much to be determined.
 
@@ -57,7 +57,7 @@ Alder, Downy Birch, and Aspen have found their home in dampened soils.
 
 Frank couldn't contain his excitement over the history and stories of the small holding they are now stewards of. He guided Protect Earth through the house, pointing out its "country charms" with a keen architect's eye.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468603-RHURTB4E2C6EL7QN8ABI/IMG_2479.jpg?format=original)
+![$2](/articles/squarespace/img_2479-dc995d5740.jpg)
 
 The rest of Team DEFT shared stories of the memories they'd already made at their small holding. It's a happy place that will make many more great memories.
 
@@ -85,7 +85,7 @@ Initially, the kids (teenagers living in London and Scotland at the time) didn't
 
 Providing for each other and creating a legacy for their children is important for Team DEFT.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468611-4TV5UG4EJPMFOAF7I2LJ/image3.jpeg?format=original)
+![$2](/articles/squarespace/image3-3ee746a50a.jpeg)
 
 ### Community
 

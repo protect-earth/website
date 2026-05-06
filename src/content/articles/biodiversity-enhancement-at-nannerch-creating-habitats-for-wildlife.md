@@ -14,7 +14,7 @@ Nannerch is a hillside site—sitting at an elevation of 240m—right in the mid
 
 There are some areas classed as Lowland Dry Acid Grassland. These areas are not particularly botanically rich but do appear to have some interesting grassland fungi. There are also some interesting areas of gorse and scrub to the north and south of the main planting areas. Nearby, there are fragments and patches of ancient woodland with Oak, Ash, Wild Cherry, and Hazel.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/24fcbd40-8edf-48f2-881e-7ca82797a716/IMG_5401.jpeg?format=original)
+![$2](/articles/squarespace/img_5401-4d5f994179.jpeg)
 
 ## Protect Earth’s plan for biodiversity enhancement
 
@@ -38,4 +38,4 @@ The grasslands will hopefully remain rich in fungi and become more botanically i
 
 Support Protect Earth's mission to create new woodlands and natural habitats in the UK by purchasing trees and shrubs from our shop. Your contribution will help enhance biodiversity and build homes for wildlife.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/4e388d7c-4e6f-4c96-aec7-718a22daa551/IMG_5410.jpeg?format=original)
+![$2](/articles/squarespace/img_5410-8999c31642.jpeg)

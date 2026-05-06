@@ -28,10 +28,10 @@ If there is anything you want to celebrate this year by fundraising for Protect 
 
 Probably the biggest and most widely recognised fundraising platform in the UK is Just Giving. When considering turning your milestone event into a fundraising opportunity, Just Giving is a great platform that’s easy to set up and link to us.
 
-       [caption id="" align="alignnone" width="4920"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468968-UITR5KDBBDFAREOFWWF2/IMG_1184.JPG?format=original)
-From left to right - Eoghan McHugh who rode 2,500 miles from Poland to Ireland, Cambridge’s Mayor, and Phil Sturgeon, Protect Earth’s Chair [/caption]
+<figure>
+  <img src="/articles/squarespace/img_1184-d8c6518ec8.jpg" alt="" />
+  <figcaption>From left to right - Eoghan McHugh who rode 2,500 miles from Poland to Ireland, Cambridge’s Mayor, and Phil Sturgeon, Protect Earth’s Chair</figcaption>
+</figure>
 
 On top of that, donors will more than likely recognise the Just Giving name and logo, giving them peace of mind when they donate through a safe and secure platform. At this point, has just about everyone in the UK donated through Just Giving?
 

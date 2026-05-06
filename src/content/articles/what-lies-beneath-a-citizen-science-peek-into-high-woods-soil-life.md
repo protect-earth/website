@@ -22,10 +22,10 @@ So, with this mix of habitats, our spontaneous scientist chose three sample zone
 
 What were we expecting? Well, not much from the conifer zone—those needle-dropping giants are notorious for dulling biodiversity. We hoped the ancient woodland patch would be teeming with microscopic partygoers: nematodes, fungi, bacteria, and the like. And the restored bit? Somewhere in between. But what did we find?
 
-       [caption id="" align="alignnone" width="2500"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/c969fc96-06d5-4cce-a4c1-cdff055b1739/IMG_20250622_170325.jpg?format=original)
-Soil samples waiting to be ! [/caption]
+<figure>
+  <img src="/articles/squarespace/img_20250622_170325-144fda4197.jpg" alt="" />
+  <figcaption>Soil samples waiting to be !</figcaption>
+</figure>
 
 Not a lot.
 
@@ -33,7 +33,7 @@ Despite healthy-looking soil texture and colour, the samples were relatively lif
 
 And that makes sense. While we're already seeing foxgloves and woodland wildflowers popping up where once there were only conifers, the story of soil regeneration is a slower one. Microbial communities need time to recolonise. And time, unfortunately, doesn't always bend to our optimism.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/ccc5cc7a-7ea2-4034-bb83-a0f9f5d07cbb/IMG_20250622_184234.jpg?format=original)
+![$2](/articles/squarespace/img_20250622_184234-853e133827.jpg)
 
 ## To sum up
 

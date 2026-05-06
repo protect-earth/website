@@ -10,7 +10,7 @@ Protect Earth has partnered with [Exclusive Collection](https://www.exclusive.co
 
 This partnership involved a multi-site planting project across three Exclusive Collection properties: Lainston House, Pennyhill Park, and South Lodge. Protect Earth is thrilled to have managed this initiative, planting 3,985 saplings to contribute to greener, healthier landscapes.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468860-9E6QWW4POLLMJOKSIA6X/PE+-+exclusive.png?format=original)
+![$2](/articles/squarespace/pe-exclusive-8135f9ae83.png)
 
 ## Readying to plant on-site
 
@@ -26,7 +26,7 @@ Protect Earth is committed to [planting what will thrive](http://protect.earth/a
 
 Steve the Ecologist conducted site visits to assess soil composition, moisture retention, and other environmental factors. He collaborated with Exclusive Collection to incorporate their ideas into the planting plan. This ensured the [selection of appropriate species](http://protect.earth/articles/where-do-our-saplings-come-from-apltp) and the [ideal planting times](http://protect.earth/articles/why-protect-earth-plant-trees-in-winter-zwlfk).
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468866-HX158FF0OT163VOO25VB/5I1A0044.jpg?format=original)
+![$2](/articles/squarespace/5i1a0044-454db18047.jpg)
 
 ## Creating New Woodlands
 
@@ -36,7 +36,7 @@ Together with volunteer staff from Exclusive Collection, we planted 3,985 saplin
 
 These hands-on experiences foster a greater understanding of woodland restoration and strengthen the Protect Earth community. While the work can be physically demanding, it also brings a sense of pride and achievement to all involved.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468871-WQT25HRFGRJXZZ38QG1R/soyth+lodge+trees-97.jpg?format=original)
+![$2](/articles/squarespace/soyth-lodge-trees-97-5187d37fff.jpg)
 
 ## To Sum Up
 
@@ -44,10 +44,10 @@ The newly planted woodlands will benefit Exclusive Collection's guests, offering
 
 Protect Earth is always eager to collaborate with organisations seeking to enhance their spaces with green growth. We know the positive impact it can have, and we're excited to help more people experience it.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468914-31A8GJFVLJA4BV3GYKZT/image00003.jpeg?format=original)
+![](/articles/squarespace/image00003-69a74de6ba.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468906-3ZBD3IEPR5GP0CQ7K3WC/soyth+lodge+trees-41.jpg?format=original)
+![](/articles/squarespace/soyth-lodge-trees-41-f423629d46.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468895-O99ZW5ZF4WKOVKQX11UN/soyth+lodge+trees-98.jpg?format=original)
+![](/articles/squarespace/soyth-lodge-trees-98-5f54ed5c0d.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468887-MCNLX8E0YUEBAFL0HZFH/tree+planting.jpg?format=original)
+![](/articles/squarespace/tree-planting-21f379f249.jpg)

@@ -46,10 +46,10 @@ Today, 1% of the UK's land area is home to these rainforests. These forests are 
 
 As our [Ecologist, Steve Wiltshire, explains](https://www.cornish-times.co.uk/news/protecting-the-earth-by-planting-trees-in-liskeard-582515), "The British Isles is increasingly devoid of wildlife; we should have loads of different species. We're losing species that should be here at a dramatic rate."
 
-       [caption id="" align="alignnone" width="5760"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469535-284W7GZCJP773ORY2MQU/PE250223-PrintRes-9225.jpg?format=original)
-Steve the Ecologist checking and documenting what volunteers have planted [/caption]
+<figure>
+  <img src="/articles/squarespace/pe250223-printres-9225-561df3d881.jpg" alt="" />
+  <figcaption>Steve the Ecologist checking and documenting what volunteers have planted</figcaption>
+</figure>
 
 This is why it's such a massive win for all of us to have overcome this Restocking Agreement and get permission to start developing High Wood into a temperate woodland!
 
@@ -57,10 +57,10 @@ This is why it's such a massive win for all of us to have overcome this Restocki
 
 Now along the base of the valley sit 1,000 saplings of native Beech, Oak, Alder, Aspen, Cornish Elm, Wild Service, Goat Willow, Silver Birch, and Rowan. All these beautiful broadleaf species will generate heaps of biodiversity and give homes to wildlife.
 
-       [caption id="" align="alignnone" width="5722"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469541-6BXIU79HL79DOI1HC4ZU/PE250223-PrintRes-9217.jpg?format=original)
-Volunteers having fun together planting hedgerows [/caption]
+<figure>
+  <img src="/articles/squarespace/pe250223-printres-9217-ccd291200a.jpg" alt="" />
+  <figcaption>Volunteers having fun together planting hedgerows</figcaption>
+</figure>
 
 To push that biodiversity further, we've rescued one compartment of native self-seeded saplings from the young, non-native conifers that would have eventually smothered them. Most of the saplings from the previous stock are now done away with. While plenty of fully-grown sentinels still haunt the north-facing slope, our triumph in switching up the Restocking Agreement means they won't stifle the biodiversity for much longer.
 

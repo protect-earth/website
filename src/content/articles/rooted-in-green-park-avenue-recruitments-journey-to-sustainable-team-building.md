@@ -20,7 +20,7 @@ Let's kick things off by looking at what the team at Park Avenue Recruitment hop
 
 [Park Avenue Recruitment](https://www.park-avenue.co.uk/) are a London-based recruitment company with an 18-person strong team.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468670-ND4M88DLFNTRW7RD1TPD/Tree+Planting.jpg?format=original)
+![$2](/articles/squarespace/tree-planting-821ff585b6.jpg)
 
 The team and company support the environment through their work with [Ecologi](https://ecologi.com/parkavenuerecruitment?r=62f114b2c60a9ea75b9fc1ac), where they have funded 24 projects resulting in 3,086 trees being planted all over the UK.
 
@@ -28,10 +28,10 @@ The environment isn't the only investment Park Avenue Recruitment makes. They al
 
 ## The Heart of Park Avenue Recruitment: A Commitment to Environmental Responsibility
 
-       [caption id="" align="alignnone" width="1200"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468675-Q1FE6EWS95E1H2UQ9E9M/Tree+Planting+3.jpg?format=original)
-Everyone that took part was actually surprised by how much they enjoyed the tree plant and it has become one of our favourite Wellness Wednesdays. [/caption]
+<figure>
+  <img src="/articles/squarespace/tree-planting-3-8cdebca881.jpg" alt="" />
+  <figcaption>Everyone that took part was actually surprised by how much they enjoyed the tree plant and it has become one of our favourite Wellness Wednesdays.</figcaption>
+</figure>
 
 For Park Avenue Recruitment, this outing wasn't just an ordinary team-building exercise but part of their Wellness Wednesday initiative. The team didn't plan any outcomes to achieve during their time with us. They only hoped everyone who participated enjoyed themselves while giving back to the environment. With plans to document the experience on [LinkedIn](https://www.linkedin.com/company/parkavenuerec/) and [TikTok](https://www.tiktok.com/@parkavenuerec), the team aimed to raise awareness about environmental conservation and showcase their commitment to becoming climate-positive.&nbsp;
 

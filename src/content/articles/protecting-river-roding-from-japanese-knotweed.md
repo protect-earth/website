@@ -8,7 +8,7 @@ thumbnail: '/articles/protecting-river-roding-from-japanese-knotweed.jpg'
 
 Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various imports from centuries past that have become uncontrollable, especially when left unchecked. One that many homeowners will be familiar with is Japanese Knotweed.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/331013d5-9794-4633-a6a4-d66946a1b426/1+-+here+is+some+knotweed.jpeg?format=original)
+![$2](/articles/squarespace/1-here-is-some-knotweed-5458acced6.jpeg)
 
 Japanese Knotweed is the one that specifically pops up on surveys when buying or selling a house, because the rhizomes (root structures) can push straight through foundations and come up through floors, causing subsidence and potentially destroying a building. Out in the wild it's just as problematic, creating huge dense clusters that shade out every other single species decimating biodiversity! The only plant I've ever seen successfully growing through Japanese Knotweed is Himalayan Balsam, another invasive species…
 
@@ -24,7 +24,7 @@ Japanese Knotweed is taking over the reedbeds, shading out the native reed speci
 
 Paul posted this photo of the ridiculous growth of Japanese Knotweed on the River Roding after struggling to get the council to do anything about it.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/0f91a1b0-50c0-4dc5-b260-894acd696384/2+-+paul+from+river.jpg?format=original)
+![$2](/articles/squarespace/2-paul-from-river-a53275a4cd.jpg)
 
 The River Roding team were applying for various river restoration grants, but as always seems to be the case, the grants do not come close to the real world cost of hiring experts to do this sort of work. Paul's search for help brought him to Protect Earth, after seeing how much I love removing invasive species to fix habitats all over the UK. We put our heads together, got Steve the Ecologist to write up a plan, and got everything in motion.
 
@@ -34,7 +34,7 @@ The first step to anything is finding out exactly how much of a problem you have
 
 At first this was popped onto a Google Maps list, and we quickly moved it over to The Land App to get a much more accurate calculation of the extent of the task & a bit more control over things.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/65bd110d-2e49-402c-a5d6-ce35f8e84bca/land+app+knotweed.png?format=original)
+![$2](/articles/squarespace/land-app-knotweed-c57fbaee25.png)
 
 ### Get Environment Agency Approval
 
@@ -58,21 +58,21 @@ One key thing to know about Japanese Knotweed is that it can regrow from a piece
 
 If all of that was different and we had infinite time and infinite money we could have done something about improving access, but life isn't like that. We settled for getting creative, and it actually worked out brilliantly. New team member Michael Cunningham and I had a boat, a long handled rake, extra-long spray booms, all powered by enthusiasm and a grudge.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/a8a33911-0267-48cd-acb7-5dbf8c3033fa/3+-+getting+stuck+in.jpeg?format=original)
+![$2](/articles/squarespace/3-getting-stuck-in-373e478662.jpeg)
 
 We scheduled two weeks to handle the mapped areas, with the expectation being four days in the field with four more days in case of adverse weather. Good thing we did, as this job needed all eight days thanks to us discovering more stands of knotweed than was known about previously. One hectare, or two and a half acres. Eeep!&nbsp;
 
 The work took us all over Ilford and Barking, from Aldersbrook to Cuckolds Haven, we covered 15 different areas completely covered in knotweed. Huge patches, with stumps so old they looked like ancient hazel stools.&nbsp;
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/7bf6ca1e-f6e0-49e9-9074-da5175dbc5b2/4+-+big+one.jpeg?format=original)
+![$2](/articles/squarespace/4-big-one-ae6c18718f.jpeg)
 
 There was no chance for injection to get anywhere, most of this was hard as wood. We had to get into the leaves, and that meant a big long boom on our knapsacks. Two meters was enough to get onto the leaves. We'd treat smaller patches from the outside, but the larger patches needed access paths, and without cutting the best I could think of was bending. The long handle rake came in super handy here. We could push our way through smaller growth between the mega stools, creating these corridors that were easily navigable.&nbsp;
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/a271e482-3670-47ce-9d64-5309e51f29c2/5+-+photo+of+corridor.jpeg?format=original)
+![$2](/articles/squarespace/5-photo-of-corridor-48af20e8c0.jpeg)
 
 Some of the areas were less forgiving. Getting permission from the Nissan dealership to rock climb down a dodgy wall to then end up stuck in silt, now shin deep, now knee deep, now waist deep... calling for my teammate to pull me out before I was face deep. You might have grown up and thought quicksand wasn't the major threat that movies made us believe when we were young. But then you go and get in the Aldersbrook with a heavy knapsack and relive the scene from Indiana Jones: Temple of Doom.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/f6bb85f3-88e4-42a1-891d-360a78a11160/6+-+aldersbrook+photo.JPG?format=original)
+![$2](/articles/squarespace/6-aldersbrook-photo-2fba60d06e.jpg)
 
 It was a wild, wet, and smelly, time, but evry patch we could get to we covered the up to 80% of the foliage, which we are extremely happy about due to difficult access for most of these areas.
 
@@ -80,7 +80,7 @@ It was a wild, wet, and smelly, time, but evry patch we could get to we covered 
 
 To save us a trip to London just to see how its coming along, Paul sent us some photos one month after treatment. In this photo for example, you can see the line where our booms could reach, The sprayed stuff is yellow, the leaves we could not reach are still showing as green. The yellow shows that the herbicide has done its job, blocking up the sap passageways as it moves through on its way to the roots.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/702708f9-9adc-4182-bb2e-3890cc078c3d/one+month+later.jpg?format=original)
+![$2](/articles/squarespace/one-month-later-2e8de43544.jpg)
 
 This photo not only shows the knotweed is dying, but I think more importantly it shows that the surrounding growth is still doing just fine. Targeted spraying is not easy, but keeping an eye on wind speed, good boom control, and a huge amount of care and attention for the surrounding ecosystem gets you a good lot of the way there.
 

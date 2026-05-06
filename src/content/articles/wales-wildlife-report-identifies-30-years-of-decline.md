@@ -28,7 +28,7 @@ The team is in North Wales, undertaking a second project, planting 11,000 saplin
 
 The species planted have all been planned being the right species mix for the spaces, have all been sourced from nurseries local to the planting sites, and will, because they are species naturally found in the UK, go on to become homes for some of those species that have been identified as in decline - if they're still around when the trees are old enough to support life.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/45fe40f9-1862-43ba-a3e1-d071faa196df/Screenshot+2025-02-03+at+14.20.17.png?format=original)
+![$2](/articles/squarespace/screenshot-2025-02-03-at-14.20.17-3abe4f9656.png)
 
 We haven't tightly packed saplings into every nook and cranny. The land has been divided up based on its suitability and value today. Some land already supports life, which we'll only manage over the long term, not change. Other spaces are now becoming woodlands, while other spaces will become meadows of wildflowers, providing yet more food and shelter for pollinators and other valuable creatures and insects.
 

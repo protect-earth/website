@@ -22,7 +22,7 @@ Dan and his team sit with each student to learn more about their goals while att
 
 Not all Oakwood Specialist College’s students want to follow traditional career paths, and some wish to explore other avenues. The discussions with students encouraged Dan to look further afield at other opportunities he could contact to work together, which is how Protect Earth came onto his radar.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468940-TO1ZXU7ZVZ7YK4JAP0UE/IMG_0214.jpg?format=original)
+![$2](/articles/squarespace/img_0214-87d72687db.jpg)
 
 As Dan related, he wished he'd had more opportunities during his school years to experience more potential career paths and understand what suited him best. We both agreed being a race car driver would have been great, but we've found more fulfilling roles with far less environmental impact.
 

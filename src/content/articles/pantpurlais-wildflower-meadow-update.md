@@ -22,10 +22,10 @@ We planted 717 trees with many familiar species, including Silver Birch, Downy B
 
 In spring 2022, we sowed a full acre with wildflower meadow seed.
 
-       [caption id="" align="alignnone" width="600"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469379-FTSRAACO94CWATFDNOVW/IMG_20230525_165637.jpg?format=original)
-A pleasant meander around Pantpurlais’ budding wildflower meadow. Imagine it in a few years! [/caption]
+<figure>
+  <img src="/articles/squarespace/img_20230525_165637-cae4aea50c.jpg" alt="" />
+  <figcaption>A pleasant meander around Pantpurlais’ budding wildflower meadow. Imagine it in a few years!</figcaption>
+</figure>
 
 ## Where's it at now?
 

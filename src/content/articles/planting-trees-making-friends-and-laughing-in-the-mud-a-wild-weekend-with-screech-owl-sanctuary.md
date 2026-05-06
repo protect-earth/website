@@ -12,7 +12,7 @@ If you've been hanging around Protect Earth for a while, you'll know the name [S
 
 The planting occurred in the South West of England, just as February was preparing to loosen its chilly grip on the landscape. Across two gloriously sunny days—28th February and 1st March 2025—we helped transform a corner of the countryside into a future woodland. 1,850 native broadleaf trees went into the ground, thanks to a dedicated gang of ten volunteers (five per day) and a cracking plan.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1ccfd9c2-a194-4a95-ad3b-c8627ff5da4b/482058527_1683982818868771_3070741913438990844_n.jpg?format=original)
+![$2](/articles/squarespace/482058527_1683982818868771_3070741913438990844_n-a3462c8108.jpg)
 
 If you're wondering what 1,850 trees can achieve, let's just say this: over the next 50 years, this new woodland will quietly gobble up 630 tonnes of carbon.
 
@@ -22,7 +22,7 @@ But it wasn't just saplings we planted—the Protect Earth community grew with m
 
 Kevin and Karen - Screech Owl Sanctuary's owners - who have been a joy to work with throughout, secured grants to cover saplings, stakes, guards, and mulch. Which meant we put our energy to bringing good people together and planting saplings.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/bdb72b9f-b0d5-462a-b310-94ac889d78d4/482681361_957026636614850_4289723736486318730_n.jpg?format=original)
+![$2](/articles/squarespace/482681361_957026636614850_4289723736486318730_n-3125b18189.jpg)
 
 And Kevin and Karen had this to say afterwards:
 

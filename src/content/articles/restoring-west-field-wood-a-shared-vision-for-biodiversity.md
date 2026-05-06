@@ -16,10 +16,10 @@ Wood Could Should took a thoughtful approach, spending a year researching the be
 
 ## 5,000 Saplings and Counting: A Collaborative Effort
 
-       [caption id="" align="alignnone" width="4080"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/00af41a7-c9ce-49d7-8e4d-3507ea8a3353/PXL_20250202_123514244.jpg?format=original)
-Every session is started making sure everyone knows they’re welcome, what the day’s plan is, and who they can go to with questions. [/caption]
+<figure>
+  <img src="/articles/squarespace/pxl_20250202_123514244-f91c19c7b8.jpg" alt="" />
+  <figcaption>Every session is started making sure everyone knows they’re welcome, what the day’s plan is, and who they can go to with questions.</figcaption>
+</figure>
 
 In 2024, Protect Earth supported Wood Could Should in planting their first 2,000 saplings. But the work was far from finished. In early 2025, volunteers gathered again to plant another 2,850 trees, pushing the total beyond 5,000 when accounting for the self-sown oaks Wood Could Should protected in 2023.
 
@@ -27,10 +27,10 @@ Despite the winter setting, the atmosphere was anything but cold. On the first d
 
 ## The Power of Community and Shared Experience
 
-       [caption id="" align="alignnone" width="4080"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/d2912599-1251-4d10-ade8-64c117b151e4/PXL_20250131_114924096.MP.jpg?format=original)
-Woodlands are great. So are cakes. [/caption]
+<figure>
+  <img src="/articles/squarespace/pxl_20250131_114924096.mp-1d057f6ff9.jpg" alt="" />
+  <figcaption>Woodlands are great. So are cakes.</figcaption>
+</figure>
 
 Managing such a large group required coordination, and Protect Earth helped structure the efforts by dividing volunteers into teams, ensuring everyone had a meaningful role in the project.
 
@@ -44,10 +44,10 @@ The sense of camaraderie extended into the evenings. Wood Could Should hosted vo
 
 West Field Wood is still in its early days, but its potential is undeniable. The trees planted today will shape a woodland woven together of ancient woodland that is naturally regenerating and new growth saplings planted by everyone.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/ffbdfbe2-9708-4c36-8833-6d05b86dbb4e/PXL_20250201_134935531.jpg?format=original)
+![$2](/articles/squarespace/pxl_20250201_134935531-fd05d1d856.jpg)
 
 Over time, everything will merge with all the strengths of the ancient woodland, blending with the new growth to form more than 10 acres of rich soil and woodland primed for an explosion of biodiversity.
 
 Have land to restore? Protect Earth can help. Whether it’s woodland, wetlands, or wildflower meadows, we offer practical support to bring your vision to life.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/2f368e6e-a4ec-47c0-a696-aa6b5a32c777/PXL_20250131_141340229.jpg?format=original)
+![$2](/articles/squarespace/pxl_20250131_141340229-f8a7484c06.jpg)

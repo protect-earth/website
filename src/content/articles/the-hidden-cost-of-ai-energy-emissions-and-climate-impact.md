@@ -52,7 +52,7 @@ This section will help you understand the above estimates by comparing data cent
 
 For context, every activity people undertake creates around 40.9 billion metric tons of carbon dioxide annually.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/ad031d43-642f-444d-b475-3ce201a28482/Artboard%2B1a-1.png?format=original)
+![$2](/articles/squarespace/artboard-1a-1-55f3e177e0.png)
 
 Above, we can see the neighbourhood in which data centres are located. The airline industry has long been criticised for its carbon footprint. Yet, it's smaller than data centres. And, if you're watching a documentary on YouTube or Netflix about the aviation industry's contribution to climate change, know that that documentary will probably be housed in a data centre (a bigger carbon source than the aviation industry).
 

@@ -14,10 +14,10 @@ You can now [purchase trees and hedgerows](https://www.protect.earth/donate) tha
 
 Since our founding in 2020, Protect Earth has flourished into a vibrant charity and community. In just four years, we've planted [100,000 trees across the UK](/articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted). As we continue to expand, we're embarking on diverse projects with unique goals. Your purchase will support these vital initiatives, bringing us closer to a greener, more biodiverse future.
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468486-FYQ0QSE6M3OA1AI1PQVK/IMG_7225.jpeg?format=original)
-Buy some trees of hedgerows and dedicate to your furry friends! [/caption]
+<figure>
+  <img src="/articles/squarespace/img_7225-6f5e547463.jpeg" alt="" />
+  <figcaption>Buy some trees of hedgerows and dedicate to your furry friends!</figcaption>
+</figure>
 
 While our main donation channels remain crucial for acquiring more land and sustaining our operations, we recognise that some supporters prefer to know precisely how and where their contributions are going.
 

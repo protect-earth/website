@@ -12,10 +12,10 @@ We’ve covered this old as time debate elsewhere. But this piece talks about a 
 
 ## What is Natural Regeneration?
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/2bb9775d-62ba-4a3b-abd3-efa774f39756/IMG_8223.jpg?format=original)
-A wee oak grows at the base of an old oak showing signs of natural regeneration at our High Wood woodlands. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_8223-5cd8539236.jpg" alt="" />
+  <figcaption>A wee oak grows at the base of an old oak showing signs of natural regeneration at our High Wood woodlands.</figcaption>
+</figure>
 
 Natural regeneration in its most simplest form is to leave land unmanaged in the knowledge that nature will find its way creating a natural habitat.
 
@@ -39,10 +39,10 @@ Nestled within an area rich in biodiversity, West Field Wood has all the ingredi
 
 ## Why Allow Natural Regen In Some Areas and Plant Other Areas of West Field Wood?
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/01a59edf-fdbb-437e-b650-8f287094d528/IMG_0924.jpeg?format=original)
-In the foreground are the saplings planted by everyone at West Field Wood and in the background is the established woodland actively contributing to woodland growth one seed dropped at a time. A perfect representation of the two methods of natural regeneration and tree planting working together. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_0924-684ca94372.jpeg" alt="" />
+  <figcaption>In the foreground are the saplings planted by everyone at West Field Wood and in the background is the established woodland actively contributing to woodland growth one seed dropped at a time. A perfect representation of the two methods of natural regeneration and tree planting working together.</figcaption>
+</figure>
 
 West Field Wood is only partly wooded. On two of its boundary lines, there’s extant woodland with traces of ancient woodland. Nature will seed that area with great seeds that will grow as fast as anything Protect Earth can plant. So, rather than waste resources planting saplings that would have occurred there anyway, we’d rather tag nature into action and let it be the manager there.
 
@@ -56,4 +56,4 @@ Many see natural regeneration and tree planting as opposing strategies, but they
 
 Protect Earth has many more projects like this in the pipeline—but funding is always a challenge. Every donation and sapling purchase supports future woodlands. Help us grow more forests today.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/b3de8b1e-e4d4-4b3f-a635-1dd905ca182d/PXL_20250201_134935531.jpg?format=original)
+![$2](/articles/squarespace/pxl_20250201_134935531-ef14bbf9e4.jpg)

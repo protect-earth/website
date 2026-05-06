@@ -28,7 +28,7 @@ Spending time in green spaces offers numerous mental health benefits, making it 
 
 Being in nature has a soothing effect on the mind, fostering a sense of tranquillity and happiness. Exposure to nature has been linked to cognitive benefits, such as improved concentration, increased creativity, and better problem-solving skills.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468386-0QI1DDNJWXJW4CNIVQ67/working+with+farmers.jpg?format=original)
+![$2](/articles/squarespace/working-with-farmers-7aab5899d1.jpg)
 
 #### **Reducing Mental Health Issues:**
 

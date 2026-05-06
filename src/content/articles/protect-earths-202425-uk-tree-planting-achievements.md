@@ -18,7 +18,7 @@ With each season that passes and the increasing amount we are planting, everyone
 
 Our efforts in 2024/25 extended across England, Wales, and Scotland - our first project in Scotland. Protect Earth continued work on our established sites like [High Wood](https://www.protect.earth/high-wood) while expanding our footprint to new areas like [Goytre](https://www.protect.earth/goytre-wood) and Nannerch. Work on these sites comprised more than 60% of what was planted this season. This is an incredibly important point as Protect Earth owns and manages these three sites, meaning we had total control over planting plans where our plans focus on long-term habitat restoration.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/0d8f1516-6331-4a64-aa9d-cb0413ee5450/PE+YOY+season+comparison.png?format=original)
+![$2](/articles/squarespace/pe-yoy-season-comparison-0c3b9519a9.png)
 
 Beyond planting trees, we also increased our focus on invasive species removal, working with organisations requiring the skills or tools to rid habitats of these destructive plants.
 
@@ -26,7 +26,7 @@ Beyond planting trees, we also increased our focus on invasive species removal, 
 
 A key part of our mission is to equip landowners, farmers, and community members with the skills needed to protect and restore nature on their patches. Towards the end of this last season, we ran a handful of free courses at Goytre Wood, helping participants gain hands-on experience in sustainable practices. The principal focus of these courses was hedge-laying, which we will be continuing and adding to course topics in time.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/39d27eae-63af-4e02-ab29-6ab618d7de4c/IMG_3353.jpeg?format=original)
+![$2](/articles/squarespace/img_3353-eee403ff83.jpeg)
 
 ## Looking Ahead
 
@@ -34,10 +34,10 @@ We're committed to growing our impact as we plan for the next season. Demand for
 
 Thank you to all who contributed to making the 2024/25 season a success. Together, we're making a lasting impact for nature and future generations.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1743370135795-NN24XCFKGO2EL4HRN6BL/PXL_20250118_125008947.jpg?format=original)
+![](/articles/squarespace/pxl_20250118_125008947-1f78e121a8.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1743370154371-LC76BGSTTH87DT0ODJ67/PXL_20241213_123102951.jpg?format=original)
+![](/articles/squarespace/pxl_20241213_123102951-1e8f0af519.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1743371509733-ABNPPAX8SRP1IS8YTITR/IMG_3662.jpeg?format=original)
+![](/articles/squarespace/img_3662-6f1365ae81.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1743371508922-RJIYCOWVXQDF2R3UC2FN/IMG_3775.jpeg?format=original)
+![](/articles/squarespace/img_3775-2802239f86.jpeg)

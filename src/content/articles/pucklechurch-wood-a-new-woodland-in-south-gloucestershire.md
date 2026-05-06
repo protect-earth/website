@@ -22,19 +22,19 @@ They also planned to create a new 30-hectare woodland at Pucklechurch, which wil
 
 Between the end of November 2025 and March 2026, 22,000 native and climate-resilient trees will be planted by volunteers, with a further 22,000 the following November to March 2026-2027. In 10-15 years, the young trees will form a recognisable woodland, with some trees reaching up to 10 metres in height.
 
-       [caption id="" align="alignnone" width="1024"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/937c60fb-8189-4b59-b6a5-595e3e023264/Pucklechurch-wood-1024x768.jpg?format=original)
-Plan from the South Gloucestershire website. [/caption]
+<figure>
+  <img src="/articles/squarespace/pucklechurch-wood-1024x768-ddfdf38ef0.jpg" alt="" />
+  <figcaption>Plan from the South Gloucestershire website.</figcaption>
+</figure>
 
 Tree species have been carefully selected to ensure climate resilience, combining native trees like the English oak, with a small range of non-native species including the sweet chestnut, also known as the European chestnut, which can withstand warmer, drier conditions.
 
 South Gloucestershire Council are also planning to restore several historic ponds on the site and to create new wetland features including natural low areas called scrapes that capture rainfall and help prevent flooding. These are essential to ensure the long-term health of the woodland. Funding for these features comes from the West of England Mayoral Combined Authority (WECA) as part of the&nbsp;[Common Connections](https://beta.southglos.gov.uk/common-connections/)&nbsp;project.
 
-       [caption id="" align="alignnone" width="5712"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/3cc4fc59-fac7-4fb5-9f2d-8ae7e1c5d5c8/IMG_6158.jpg?format=original)
-The first saplings ready to be planted, next to one of the historic ponds. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_6158-bcb36cfe85.jpg" alt="" />
+  <figcaption>The first saplings ready to be planted, next to one of the historic ponds.</figcaption>
+</figure>
 
 ### The Bigger Plan
 
@@ -48,10 +48,10 @@ Phil, our chairman, contacted South Gloucestershire Council and Pucklechurch Par
 
 Planting began during National Tree Week at the end of November and we went along to lend a hand. Everyone was very enthusiastic and like any group of volunteers there was a diverse range of tree planting experience. Protect Earth was there to help show people the best way to plant a sapling, and to lend some of our tree planting equipment (we love our&nbsp;[stake drivers](https://www.farmforestry.co.uk/product/stake-drive-all/)) to make the process more efficient and enjoyable. The weather was dry and sunny which kept everyone in a good mood and working hard. There was a real community spirit and everyone had a good day.
 
-       [caption id="" align="alignnone" width="5712"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/f9bcaefc-eec1-4b1b-b1d8-af3ac4171497/IMG_6157.jpg?format=original)
-First day of planting. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_6157-3d9855e7a6.jpg" alt="" />
+  <figcaption>First day of planting.</figcaption>
+</figure>
 
 Since then, planting has continued every Tuesday and Thursday. All was going well until Storm Bram hit Pucklechurch on the 9th December. The wind and the rain proved too much, even for the hardiest of volunteers, and everyone was safely home and drying off by lunch time. Seagulls flocked across the field, possibly under the impression that a new inland sea had appeared.
 

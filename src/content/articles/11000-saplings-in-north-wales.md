@@ -12,7 +12,7 @@ To put this into perspective, we celebrated planting 100,000 saplings over four 
 
 ## The Landscape
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/55a6526d-0a22-41c6-a501-81d01c7d368b/PXL_20250119_140911884.jpg?format=original)
+![$2](/articles/squarespace/pxl_20250119_140911884-58c09e53ff.jpg)
 
 This site sits within the Clwydian Range and Dee Valley Area of Outstanding Natural Beauty, a landscape shaped by farming but rich in ecological potential. The land has been semi-improved grassland, heavily grazed by livestock for years. Some areas, classified as Lowland Dry Acid Grassland, may not look botanically rich but support fascinating grassland fungi. Fragments of ancient woodland—oak, ash, wild cherry, and hazel—add to the site's biodiversity alongside patches of scrub and gorse.
 
@@ -45,7 +45,7 @@ With 11,000 saplings to plant, efficiency is key. Over two weeks, a professional
 
     “A great sense of purpose, with knowledgeable and encouraging leaders on site.”
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/9b2d6f03-f629-437d-96a0-baa089b02777/HH+Global+and+clients+1.jpg?format=original)
+![$2](/articles/squarespace/hh-global-and-clients-1-24cfb6c5d2.jpg)
 
 We also invited volunteers—including local council members—to get involved in creating this new woodland.
 
@@ -59,4 +59,4 @@ The 11,000 trees planted here are expected to sequester 3,763 tonnes of carbon o
 
 Join us in restoring nature! Volunteer at our projects, donate, or buy saplings to help fund new woodlands. Every sapling planted makes a difference—get involved today.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/4d770dc7-cbdb-40cb-bbd3-e3de4db18496/PXL_20250118_094354807.jpg?format=original)
+![$2](/articles/squarespace/pxl_20250118_094354807-eaa58e5698.jpg)

@@ -36,10 +36,10 @@ After that, our areas of support breakdown across three significant areas:
 
 - We'll be there alongside you getting our hands dirty and helping plant your new green space.
 
-         [caption id="" align="alignnone" width="4160"]
-
-  ![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469552-VF2ZX249T66JW75XY6ME/Mulch+Mats+and+Cardboard+tubes.jpg?format=original)
-  The beginnings of a new woodland at one of our smallholders projects! [/caption]
+<figure>
+  <img src="/articles/squarespace/mulch-mats-and-cardboard-tubes-743eb6864b.jpg" alt="" />
+  <figcaption>The beginnings of a new woodland at one of our smallholders projects!</figcaption>
+</figure>
 
 ### Consultation
 
@@ -65,10 +65,10 @@ We’d be happy to come to share the burden and make the day go a little faster 
 
 In our experience, the more, the merrier.
 
-       [caption id="" align="alignnone" width="435"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469557-LEZ4U2PVNK1RUHR3KQSI/tree-planting-volunteering.png?format=original)
-Volunteers coming together on a beautiful winter day! [/caption]
+<figure>
+  <img src="/articles/squarespace/tree-planting-volunteering-2a9955bb1b.png" alt="" />
+  <figcaption>Volunteers coming together on a beautiful winter day!</figcaption>
+</figure>
 
 ## Benefits of planting trees
 

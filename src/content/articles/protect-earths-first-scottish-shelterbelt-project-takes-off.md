@@ -16,9 +16,9 @@ The team filled in trees in existing woodland, thickening what exists and extend
 
 Despite the conditions, the team worked efficiently and carefully, ensuring each sapling was given the best start. The mix of species, including broadleaf favourites like Alder, Downy Birch, Silver Birch, Crab Apple, Aspen, Hawthorne, Wild Cherry, Pedunculate Oak, Goat Willow, Elder, Rowan, and Hazel, were chosen for their resilience in the Scottish climate and ability to thrive in UK soils. For a greater chance of reaching maturity, Protect Earth sourced these saplings from a nursery 50 miles away, ensuring the genetic lineage stays close to home.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/42e8e8c7-c04c-4673-9856-658b23826c84/Mauchline.png?format=original)
+![$2](/articles/squarespace/mauchline-3c3e1dd95f.png)
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1a952841-1885-46c8-aa41-870107e8a5a3/IMG_3484.jpg?format=original)
+![$2](/articles/squarespace/img_3484-fd8c798257.jpg)
 
 By day three, practice and efficiency saw everyone plant 600 saplings in three hours! “When we got into the groove of it,” Andy noted. “The volunteers could plant a row of 160 trees within about 30 minutes, including laying out all the materials.” That three-hour planting time was finished just in time for lunch, which the farm provided for everyone!
 
@@ -28,26 +28,26 @@ Protect Earth takes another step towards a greener, more sustainable UK with eve
 
 Protect Earth has several potential projects we could bring to light as quickly as this season, but we don’t have the capital to buy the saplings and get them planted. Please buy trees and hedges from our shop, helping us fund these re-greening projects throughout the UK.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/abd2843a-eb37-4dc2-b25e-e343b120423d/IMG_3464.jpg?format=original)
+![$2](/articles/squarespace/img_3464-af02b2cac4.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950166891-WSSZRHTC8NNJX2BC8LKO/IMG_3322.jpg?format=original)
+![](/articles/squarespace/img_3322-dc72d2ecde.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950170205-JI5VIQ1TYMHNZVHKT0SB/IMG_3488.jpg?format=original)
+![](/articles/squarespace/img_3488-f7565624ca.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950169989-BUBQ7R6TMGGK2XUQWGXM/IMG_3327.JPG?format=original)
+![](/articles/squarespace/img_3327-d3fbe84da6.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950196283-H203DGLKKVM2NI9TAOHE/Image%2B%2812%29.png?format=original)
+![](/articles/squarespace/image-12-8cf75d9c99.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950175269-X171QVN584YOZ65CHPXD/IMG_3313.jpg?format=original)
+![](/articles/squarespace/img_3313-5e3a6f8bc4.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950203876-B05RFU6C204QWIEDPAWY/Image%2B%2814%29.png?format=original)
+![](/articles/squarespace/image-14-8c0031e594.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950203856-OQ828F89LK0TXQ54G8KQ/IMG_3489.jpg?format=original)
+![](/articles/squarespace/img_3489-42ed7a1dc1.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950227848-TDFWFHFVCZG68D88YQS9/Image%2B%2815%29.png?format=original)
+![](/articles/squarespace/image-15-6cd8636ee0.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950208319-OQM2YHFFQLBGG7F9SYWD/https___cdn.evbuc.com_images_899264103_1305444659483_1_original.jpeg?format=original)
+![](/articles/squarespace/https___cdn.evbuc.com_images_899264103_1305444659483_1_original-50351ab774.jpeg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950237186-LM0LW629UNDR2EZJNWI4/Image%2B%289%29.png?format=original)
+![](/articles/squarespace/image-9-a218ad8975.png)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1736950259026-X36R6ZB2JMIJEXVE8UBF/Image%2B%2811%29.png?format=original)
+![](/articles/squarespace/image-11-621322f031.png)

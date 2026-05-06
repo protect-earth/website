@@ -16,10 +16,10 @@ Work began at the eastern end of the woodland, as the priority was seen as clear
 
 The semi-mature Oaks, although 100 years old, are thin, stunted trees that have become contorted into unusual shapes as the surrounding conifer has deprived them of light, water, and nutrients. Removing the nearest conifers was seen as a necessary and crucial process in order to improve the health and extend the lifespan of the Oaks. The risk was that removing too much conifer too quickly would expose the Oaks to the elements and leave them vulnerable to wind damage. The forestry operators were fully briefed on this balance, and they began their work with this in mind and as carefully as could be hoped for when using 20-ton forest harvesters to fell and process 25-metre-tall trees. Many of the more inaccessible trees on steep slope areas were felled by hand with a chainsaw.
 
-       [caption id="" align="alignnone" width="2016"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469075-8ZV4EHVAMQMI83Y0VGPZ/IMG_1438.jpg?format=original)
-The process to restore High Wood to a native woodland will take years with efforts focused on removal of non-native trees (a legacy of the wood’s previous chapter as a forestry plantation), soil regeneration, and biodiversity development. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_1438-5c672cdafd.jpg" alt="" />
+  <figcaption>The process to restore High Wood to a native woodland will take years with efforts focused on removal of non-native trees (a legacy of the wood’s previous chapter as a forestry plantation), soil regeneration, and biodiversity development.</figcaption>
+</figure>
 
 During the first phase, the closest conifers were cleared from around the Oaks and, heading westward, two-thirds of the woodland’s conifer thinned. The timber was processed (brash removed) and stacked at the edge of the main track, ready for removal from the site.
 
@@ -37,10 +37,10 @@ Other work undertaken by volunteers with hand tools included the removal of smal
 
 Overall, the second phase was considered to have gone very well. The woodland trails and tracks were, again, unavoidably, in an extremely muddy state at the end of the operations.
 
-       [caption id="" align="alignnone" width="4032"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469083-USAL450MMJNVIB4ICFAC/IMG_0202.jpg?format=original)
-Volunteers clearing by hand young conifers. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_0202-71b194fd98.jpg" alt="" />
+  <figcaption>Volunteers clearing by hand young conifers.</figcaption>
+</figure>
 
 And, unfortunately, another product of the extremely wet and windy autumn – six mature Oaks were blown over. The site is not considered vulnerable or prone to wind damage, although the soils are thin. But four named storms in four months, including one in August when the trees were in full leaf, resulted in this loss. Oaks currently make up 9% of High Wood – so around 2.4 hectares of Oak remain along with another 0.4 hectares of other mixed broadleaf species – so the core of the restoration remains very much in place.
 

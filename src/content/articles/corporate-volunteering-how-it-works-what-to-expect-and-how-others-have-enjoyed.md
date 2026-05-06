@@ -28,10 +28,10 @@ Volunteers just need to bring themselves, clothes/ layers to stay warm and dry, 
 
 Generally, Protect Earth's team will have already planned for the day and laid out what's to be planted in the best places they should be. After the demonstration, it's time for everyone to put an elbow to the grindstone and get stuck
 
-       [caption id="" align="alignnone" width="5760"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469263-KANVHFJLUAISGAH1ELTD/volunteers+-+we+will+teach+you.jpg?format=original)
-Steve the Ecologist teaching a new generation! Planting is fairly simple, but it does help having a little initial explanation, which Steve is happy to help with [/caption]
+<figure>
+  <img src="/articles/squarespace/volunteers-we-will-teach-you-472b17fe2c.jpg" alt="" />
+  <figcaption>Steve the Ecologist teaching a new generation! Planting is fairly simple, but it does help having a little initial explanation, which Steve is happy to help with</figcaption>
+</figure>
 
 in! Although it's not a competition, we can't always say what happens on the day! Some volunteers who came out with us showed us how to do the job, "We were to[o] quick, so they couldn't catch up with preparing for us!"
 

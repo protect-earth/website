@@ -14,18 +14,18 @@ Kicking off in September and running through February, Protect Earth is forecast
 
 This season's target represents a significant leap forward. We're planting 36% more than last year and nearly 75% more than in the 2022/23 season. In terms of land area, we aim to convert 74% more land to natural habitat than last year, a remarkable increase from the 33 acres - almost double - converted in 2023/24.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468170-4YOF0Q33W66ZEV5CKAV9/Artboard+1.png?format=original)
+![$2](/articles/squarespace/artboard-1-6d42746e39.png)
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468175-30FYNB0TICDTG4X281EM/Artboard+1+copy.png?format=original)
+![$2](/articles/squarespace/artboard-1-copy-0f8b2ea1e4.png)
 
 The momentum behind this growth is exciting, but it's not just about numbers. These projects are about creating spaces that actively contribute to our planet's health while enriching the lives of those living nearby. One initiative we're particularly excited about involves planting a mini-forest with a school in Oxford. Here, students will not only get their hands dirty by planting trees but also learn about the vital role these green spaces play in both personal well-being and the future of the UK's environment.
 
 ## The Potential to Double Our Impact This Year
 
-       [caption id="" align="alignnone" width="1998"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468182-7IS3JNB7BUZO2554GFZ0/image.png?format=original)
-When you purchase from our new shop, you'll be sent a certificate letting you know what species was planted and where it was planted. Protect Earth only plants the right species in the right space to encourage natural habitats to thrive. [/caption]
+<figure>
+  <img src="/articles/squarespace/image-5a86dbd3a5.png" alt="" />
+  <figcaption>When you purchase from our new shop, you'll be sent a certificate letting you know what species was planted and where it was planted. Protect Earth only plants the right species in the right space to encourage natural habitats to thrive.</figcaption>
+</figure>
 
 44,540 new saplings planted in 2024/25 is the floor. There is demand for much, much more this upcoming season, and we have gaps in the calendar to fit them in. There's one thing we're missing, and that's money. It's why we've launched a [store](https://shop.protect.earth/) selling trees and hedges as a single purchase or subscription. The demand Protect Earth is receiving to reforest the UK is greater than the money available from our funding partners. To that end, if you [buy trees or hedges](/articles/planting-the-future-support-uk-reforestation-through-protect-earths-new-online-shop) - or better yet, a monthly subscription - that money will directly fuel natural habitat redevelopment all across the UK starting today. The tree planting season has already begun and will continue for 5-6 months. In that time, we WILL plant 44,540 trees, but with your help, there's scope, time, and demand to plant more than 100,000 saplings this year - doubling in one year what we've [achieved in the last three years](/articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted)!
 
@@ -39,7 +39,7 @@ Mid-Wales: 22% of our activities are planned here, where we'll be transforming 2
 
 South-West England: Leading the charge with 33% of our projects, South-West England will see 6 acres transformed.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351468187-GFLEBEJKSOB7X6ZPZKDS/Artboard+1+copy+2.png?format=original)
+![$2](/articles/squarespace/artboard-1-copy-2-513050b102.png)
 
 This wide distribution reflects our commitment to ensuring that various ecosystems—woodlands, grasslands, and hedgerows—are nurtured, contributing to biodiversity and climate resilience across the UK.
 

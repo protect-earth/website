@@ -12,7 +12,7 @@ Michael Cunningham has joined Protect Earth as our Project Manager, bringing han
 
 I’m from Wales - Radnorshire, between Builth Wells & Hay-on-Wye. However I have lived in Yorkshire, Devon, West Wales, Dorset and have been in Bristol on and off for the last 15 years.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/e7342147-2a6b-46bc-8b53-12d5be7e6937/20220120_104500.jpg?format=original)
+![$2](/articles/squarespace/20220120_104500-b7f2df36a3.jpg)
 
 ## Have you been in the environmental sector, and for how long?
 
@@ -38,7 +38,7 @@ I also love coppicing and working in woodlands and the Hazel has so many uses!&n
 
 I love watching the first nuts appear on a 5-year-old tree and you can tell this species apart from others due to their iconic catkins - but did you know they also have flowers?!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/a3e9a41d-e50f-43ec-ab75-9db2662893c0/hazel+dormouse.jpg?format=original)
+![$2](/articles/squarespace/hazel-dormouse-ed9c19580a.jpg)
 
 ## Ancient woodland, temperate rainforest, or peat bog - where would we find Michael on a day off?
 
@@ -56,7 +56,7 @@ If this seems too radical then I want more protection for birds, habitat creatio
 
 My species of choice would be the Osprey - *Pandio halieatus *listed as Schedule 1 species in ‘The Wildlife and Countryside Act 1981’.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/426ab609-a89d-44d1-b6ba-44687431132d/osprey.jpg?format=original)
+![$2](/articles/squarespace/osprey-a3f278b74b.jpg)
 
 ## Biodiversity stabilisation is multifaceted (as in, there is no single solution to solve this crisis); what is the one thing we can do in the UK for the biggest win?
 

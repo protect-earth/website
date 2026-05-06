@@ -8,7 +8,7 @@ thumbnail: '/articles/climate-crisis-heatwaves-vs-tree-planting.jpg'
 
 The heatwave to hit the U.K. and all of Europe through-out July and a good chunk of August was horrendous, and proved a real challenge for our team as we scrambled to water sites across the country. Thankfully survival rates are within expected bounds at most projects, with one a handful of smaller sites suffering enough losses that saplings will need replacing.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469848-6DEW62T1VT3T5SNWQZS0/IMG_9092.jpg?format=original)
+![$2](/articles/squarespace/img_9092-56c10a525c.jpg)
 
 A little bit of context for those of us not thinking about reforestation all day every day: a standard practice for woodland creation is "overstocking", where trees are planted more closely together than you need, expecting some to be lost to critters, or unexpected circumstances like prolonged drought. It is simple to thin out the surviving trees after a few years, but the inverse is not true: you cannot magic a mature tree out of nowhere. If you only plant the number of trees you want for the woodland at the end, you need a 100% survival rate to establish a canopy. Instead of a successful woodland ecosystem, you just have a field with some trees, which would have some value as a woodland pasture for grazing cattle but that’s not the goal.
 
@@ -28,13 +28,13 @@ For this reason, the largest environmental services companies do not water their
 
 The exception to this, is an extreme heatwave, and what happened in July definitely fell into that category. Thankfully the team scrambled, prioritising sites based on the weather they'd been getting. Some of our sites had a bit of a shower at least, but some had absolutely no water for four weeks, and needed the big guns brought out.
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469888-O3BQWE92W2RQ79912QTS/IMG_9121.jpg?format=original)
+![](/articles/squarespace/img_9121-1cb981e05c.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469879-PEM6D0MRF3ZIPHD1NJOL/IMG_9124.jpg?format=original)
+![](/articles/squarespace/img_9124-e48684f405.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469872-UW75DV9ZEYJV0TN4AQWS/IMG_9134.jpg?format=original)
+![](/articles/squarespace/img_9134-505188c8a0.jpg)
 
-![](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469866-Q40QC4OARMC39GT6B5OS/9C15F8FC-40DE-4326-A603-FE2A52372686.JPG?format=original)
+![](/articles/squarespace/9c15f8fc-40de-4326-a603-fe2a52372686-148c15eddd.jpg)
 
 The effect on our future woodlands has been incredibly mixed, and different terrain, species, and planting conditions have lead to start differences.
 
@@ -42,10 +42,10 @@ The effect on our future woodlands has been incredibly mixed, and different terr
 
 All the sites where we've used [hemp mulch matts](https://www.green-tech.co.uk/tree-planting-products/weed-mats-mulch-and-tree-spats/ecomatt-bio-weed-mats) or thick woodchip are showing far better survival rates. The government grants for woodland creation (English Woodland Creation Offer) are not always available for our tree planting, and when they are available they do not cover mulch matts anyway. We find the cost of buying matts, or the extra work of finding woodchip mulch, to be really worthwhile in keeping saplings alive.
 
-       [caption id="" align="alignnone" width="2400"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469902-HL6K6B1ATUF7FP6DWYU4/IMG_9149.jpg?format=original)
-At one site the clay soil dried so much its cracked open deep channels around the roots, and the mulch matts are at least providing shade. This sapling isn’t dead yet, but even after pouring 15 liters of water into the hole there was no sign of it filling up, so the chances are not great. [/caption]
+<figure>
+  <img src="/articles/squarespace/img_9149-56bcda92be.jpg" alt="" />
+  <figcaption>At one site the clay soil dried so much its cracked open deep channels around the roots, and the mulch matts are at least providing shade. This sapling isn’t dead yet, but even after pouring 15 liters of water into the hole there was no sign of it filling up, so the chances are not great.</figcaption>
+</figure>
 
 Proximity to water is unsurprisingly helpful. We have a few fields which are hills sloping down to a stream, and those at the top are doing far worse than those at the bottom. Watering future sites may focus on just the upper saplings and leave those closer to the stream to it.
 

@@ -22,7 +22,7 @@ Sam worked with his friend Mick van Hasselt, an agricultural consultant at[ Agri
 
 Sometimes, bringing to life what’s written on paper is difficult. After planning and successfully being awarded funding, the Tuke’s then faced the challenge of planting 2,050 saplings. Through conversations with friends, Protect Earth came up as a UK-based environmental charity with experience partnering with landowners like the Tukes, helping in whatever way necessary to create natural habitats.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/052e7cdf-2e42-49e8-921c-cd3d76d7fe75/PXL_20241212_145439478.PANO.jpg?format=original)
+![$2](/articles/squarespace/pxl_20241212_145439478.pano-a26be12f21.jpg)
 
 Sam and Mick laid out a viable plan and approach to the woodland expansion project. The only assistance needed was help to plant, which we agreed to do by getting some of the team to Honiton and raising the project profile, letting local enthusiasts know they were welcome to come.
 
@@ -48,7 +48,7 @@ Towards the end of the first day, a professional gardener turned up having come 
 
 Amongst all the soup and stories, everyone worked exceptionally well and quickly, wrapping up the planning to 2,050 saplings just after midday on the second day!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/cb4add60-3a4f-4331-8b8d-2f90f9d60a22/PXL_20241213_111806550.jpg?format=original)
+![$2](/articles/squarespace/pxl_20241213_111806550-0b67fde5f5.jpg)
 
 ## To sum up
 
@@ -58,4 +58,4 @@ Protect Earth was so happy to help the Tukes bring their plans to life and expan
 
 Protect Earth partners with landowners to bring habitat plans to life. Whether planting woodlands or enhancing biodiversity, we can help. Contact us today!
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/89a155a0-10d7-4be8-a0b9-e70dcd158816/PXL_20241212_145417622.jpg?format=original)
+![$2](/articles/squarespace/pxl_20241212_145417622-deb693fd9d.jpg)

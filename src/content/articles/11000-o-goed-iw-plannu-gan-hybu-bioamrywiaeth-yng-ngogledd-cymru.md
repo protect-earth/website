@@ -28,7 +28,7 @@ Wrth wneud cynllun datblygu ar gyfer y safle, ymgynghorodd Steve the Ecologist �
 
 Mae’r safle oddeutu 11 hectar, gyda Protect Earth yn plannu tua 11,000 o goed ar bron i 8 hectar gyda chymysgedd o rywogaethau llydanddail brodorol. Y prif goetir fydd yn cael ei greu fydd Derw dros Gollen, gydag ardaloedd Bedw, Aethnen a Cheirios Gwyllt. Ar gyrion y coetir bydd Criafolen, Ddraenen Wen ac Afalau Cranc. Yr amcan (fel gyda'r rhan fwyaf o'n prosiectau plannu) yw atafaelu carbon a datblygu cynefinoedd bywyd gwyllt.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469025-WQNRH7H23KM7N24SPD6V/IMG_1444.JPEG?format=original)
+![$2](/articles/squarespace/img_1444-2436477620.jpeg)
 
 Yn y pen draw, coetir fydd y safle’n bennaf tra hefyd yn cynnwys cymysgedd o gynefinoedd eraill – prysgwydd, glaswelltir agored, eithin a rhedyn – gan ddarparu cynefin ar gyfer amrywiaeth eang o fywyd gwyllt. Yn y pen draw, bydd y prif goetir yn darparu cynefin ar gyfer rhywogaethau adar gorllewinol y Coed Derw, gan gynnwys triawd hanfodol y cynefin hwn: Gwybedog Brith, Tingoch, a Thelor y Coed. Mae'r rhain i gyd yn ymfudwyr haf sy'n treulio eu gaeafau yn Affrica. Yn anffodus, mae eu niferoedd i gyd yn gostwng.
 

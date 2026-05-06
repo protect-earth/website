@@ -12,10 +12,10 @@ thumbnail: '/articles/wildlife-survey-at-highwood.jpg'
 
 Trackside flowers like Valerian and St. John’s Wort, hummed with insects during the hot days of mid-summer. Meadow Brown and Speckled Wood, the most common butterfly species, were occasionally joined by the spectacular Silver-washed Fritillary. Golden-ringed dragonflies – about the size of a pencil – patrolled the woodland edge, as Beautiful Demoiselles fluttered elegantly below. On one early morning wander I encountered a huge Toad the size of a tennis ball and even a Grass Snake.
 
-       [caption id="" align="alignnone" width="4000"]
-
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351470006-S3KEJ1OPGBTBUPP2KUH5/Silver-washed+Fritillary.jpg?format=original)
-Silver-washed Fritillary Butterfly, spotted at Highwood [/caption]
+<figure>
+  <img src="/articles/squarespace/silver-washed-fritillary-7b13513a36.jpg" alt="" />
+  <figcaption>Silver-washed Fritillary Butterfly, spotted at Highwood</figcaption>
+</figure>
 
 Highwood’s a pretty special place – but it could be better. Most of the wildlife I found was around the woodland edge. The interior of the conifer plantations – which make up the majority of the site – were rather dark and lifeless. All this great wildlife was just about hanging on at the periphery of the woodland – it had been pushed to the margins.
 

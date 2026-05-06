@@ -14,7 +14,7 @@ Invasive species are species that, to borrow a subtitle from Dan Eatherly, are t
 
 Below is a table of some of the most common invasive plant species in the UK.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/86168c2c-b635-4dc5-b18d-773d835c6faf/Invasive+species%27.jpg?format=original)
+![$2](/articles/squarespace/invasive-species-04545c8549.jpg)
 
 Invasive species cause harm above and below the ground. Below the soil, these plants can change the soil health making soil pH unsuitable for other plants - more specifically, native plants - to grow and support life.
 

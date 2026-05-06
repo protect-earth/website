@@ -38,7 +38,7 @@ A school local to the farm had contacted Protect Earth, saying some of their stu
 
 The farmer, school, and Protect Earth came together to make sure the site for planting was accessible, and everyone could contribute and enjoy their day.
 
-![$2](https://images.squarespace-cdn.com/content/v1/66f54aab97a2451c86736b2d/1727351469064-ZLQD8S82XEMQA7AMOPUH/IMG_0214.jpg?format=original)
+![$2](/articles/squarespace/img_0214-5b94b24c90.jpg)
 
 After 3.5 hours of planting, 450 hedge plants were planted - one of the first steps towards establishing the hedgerow and new habitat development.
 
