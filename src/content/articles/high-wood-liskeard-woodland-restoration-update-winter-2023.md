@@ -6,7 +6,7 @@ author: 'Phil Sturgeon'
 thumbnail: ../../articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg
 ---
 
-_Over 2023, Steve the Ecologist has been progressing _[_High Wood_](/articles/ozj1qcs0rlk9cvo84icen2vtrchwyi)_’s restoration. With this year’s activities completed, he gives us a summary of what was undertaken, why, and how the woodlands is already responding to the changes._
+_Over 2023, Steve the Ecologist has been progressing High Wood's restoration. With this year’s activities completed, he gives us a summary of what was undertaken, why, and how the woodlands is already responding to the changes._
 
 The long-term aim at High Wood is the eventual removal of almost all alien conifer and the establishment of a diversely structured, predominantly broadleaf woodland rich in [biodiversity](/articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve). The long restoration work to this end began in February 2023. Two phases of forestry thinning operations were conducted by the Brendan Stagg Consultancy. The first phase lasted from the 13th of February until the 31st of March; the second phase from the 9th of October until the 18th of November.&nbsp;
 
