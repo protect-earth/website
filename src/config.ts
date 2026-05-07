@@ -21,6 +21,10 @@ export const siteConfig = {
 		acresUnderManagement: 248,
 	},
 
+	analytics: {
+		fathomSiteId: 'OHKWVQNB',
+	},
+
 	// Sites to ignore from API data
 	ignoredSites: ['Burnsall', 'Donkeywell Farm', 'Newcastle Emlyn', 'Wraxall'],
 } as const;
