@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import ContentHero from '../components/ContentHero.astro';
 import ContentBlock from '../components/ContentBlock.astro';
+import RestorEmbed from '../components/RestorEmbed.astro';
 import SiteSignup from '../components/SiteSignup.astro';
 import TakeAction from '../components/TakeAction.astro';
 import highWoodHero from '../assets/pages/high-wood/hero.jpg';
@@ -76,8 +77,8 @@ import highWoodFunding from '../assets/pages/high-wood/summer-fair.jpg';
 		>
 			<p>
 				Not only does High Wood hold important ecological value, but it also has a rich history. The
-				woodland is located on the site of part of a UNESCO World Heritage Site. It may not have been
-				as famous as the Taj Mahal, but it holds real interest for historians.
+				woodland is located on the site of part of a UNESCO World Heritage Site. It may not have
+				been as famous as the Taj Mahal, but it holds real interest for historians.
 			</p>
 			<p>
 				In February 2026, the President of the Federation of Old Cornwall Societies, joint sponsors
@@ -98,13 +99,12 @@ import highWoodFunding from '../assets/pages/high-wood/summer-fair.jpg';
 		>
 			<p>
 				The land was purchased with donations to our Land Fund, and a large philanthropic donation
-				which covered 80% of the £480,000. Since then we have received a small amount of income
-				from felling 30% of the non-native conifers for timber, but that only covered two years of
-				costs.
+				which covered 80% of the £480,000. Since then we have received a small amount of income from
+				felling 30% of the non-native conifers for timber, but that only covered two years of costs.
 			</p>
 			<p>
-				Our main cost is hiring local site managers part time to do all the work to keep the trails
-				clear and wildlife happy.
+				Our main cost is our local site managers who do all the work to keep the trails clear and
+				keep the wildlife happy.
 			</p>
 			<p>
 				We do not sell carbon credits, and there are no government grants for ancient woodland
@@ -153,7 +153,7 @@ import highWoodFunding from '../assets/pages/high-wood/summer-fair.jpg';
 				</p>
 			</div>
 			<h4>High Wood Work Party Dates 2026</h4>
-			<ul class="high-wood-dates">
+			<ul>
 				<li>Sunday, 17th May</li>
 				<li>Saturday, 20th June</li>
 				<li>Sunday, 19th July</li>
@@ -163,6 +163,14 @@ import highWoodFunding from '../assets/pages/high-wood/summer-fair.jpg';
 				<li>Sunday, 15th November</li>
 			</ul>
 		</ContentBlock>
+	</section>
+
+	<section class="high-wood-location stack">
+		<h2>Location</h2>
+		<RestorEmbed
+			url="https://restor.eco/embed/sites/7fd580c0-10c3-4b13-ab6f-2a3325014269/"
+			siteName="High Wood, Liskeard"
+		/>
 	</section>
 
 	<SiteSignup
@@ -193,22 +201,24 @@ import highWoodFunding from '../assets/pages/high-wood/summer-fair.jpg';
 		background: var(--link-hover) !important;
 	}
 
+	.high-wood-location {
+		padding-block: var(--space-xl);
+	}
+
+	.high-wood-location h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin: 0;
+	}
+
 	.high-wood-note {
 		background: var(--grey-light);
 		padding: var(--space-s);
 		border-radius: var(--radius-s);
 	}
-
 	.high-wood-note h3,
 	.high-wood-note h4,
 	.high-wood-dates {
 		margin: 0;
-	}
-
-	.high-wood-dates {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
-		gap: var(--space-2xs) var(--space-s);
-		padding-inline-start: var(--space-m);
 	}
 </style>

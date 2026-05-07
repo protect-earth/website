@@ -3,14 +3,15 @@ import '@fontsource-variable/lexend/wght.css';
 import '../styles/global.scss';
 import '../styles/global.css';
 
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import Fathom from '../components/Fathom.astro';
+import Footer from '../components/Footer.astro';
 import Head from '../components/Head.astro';
 import Navigation from '../components/Navigation.astro';
-import Breadcrumbs from '../components/Breadcrumbs.astro';
 import PageHeader from '../components/PageHeader.astro';
-import Footer from '../components/Footer.astro';
 import { siteConfig } from '../config';
-const { tagline } = siteConfig;
 
+const { tagline } = siteConfig;
 interface Props {
 	title: string;
 	description?: string;
@@ -24,6 +25,7 @@ const { title, description = tagline, breadcrumb = '', className = '' } = Astro.
 <!doctype html>
 <html lang="en">
 	<head>
+		<Fathom />
 		<meta charset="UTF-8" />
 		<Head title={title} description={description} />
 	</head>

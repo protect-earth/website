@@ -1,0 +1,150 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ContentHero from '../components/ContentHero.astro';
+import ContentBlock from '../components/ContentBlock.astro';
+import RestorEmbed from '../components/RestorEmbed.astro';
+import SiteSignup from '../components/SiteSignup.astro';
+import TakeAction from '../components/TakeAction.astro';
+import warleighHero from '../assets/pages/warleigh-nature-reserve/hero.jpg';
+import warleighOne from '../assets/pages/warleigh-nature-reserve/warleigh-1.jpg';
+import warleighTwo from '../assets/pages/warleigh-nature-reserve/warleigh-2.jpg';
+import warleighThree from '../assets/pages/warleigh-nature-reserve/warleigh-3.jpg';
+import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg';
+---
+
+<Layout
+	title="Warleigh Nature Reserve"
+	description="Restoring an 81-acre mosaic of wetland, woodland, and grassland between Bath and Bradford-on-Avon."
+>
+	<ContentHero
+		title="Warleigh Nature Reserve"
+		imgSrc={warleighHero}
+		imgAlt="Warleigh Nature Reserve landscape by the River Avon"
+	>
+		<p>Warleigh Lane, Bathford, Bath</p>
+		<p>
+			Warleigh Nature Reserve is Protect Earth&apos;s 81-acre restoration site between Warleigh Wood
+			and the River Avon. Together with volunteers and neighbours, we are restoring a rich mosaic of
+			habitats for wildlife and people.
+		</p>
+	</ContentHero>
+
+	<section class="page-sections wrap">
+		<ContentBlock
+			imgSrc={warleighOne}
+			imgAlt="Volunteers and habitat at Warleigh Nature Reserve"
+			title="From disused farmland to nature reserve"
+		>
+			<p>
+				After two years of fundraising, legal work, and determination, Protect Earth completed the
+				purchase of Warleigh in early 2026. The reserve now connects ancient woodland, wet meadow,
+				wet woodland, coppice, scrub, and calcareous grassland in one linked landscape.
+			</p>
+			<p>
+				Natural regeneration is already underway across the site, and the long-term vision is a more
+				resilient, species-rich ecosystem that supports both biodiversity and local community
+				access.
+			</p>
+		</ContentBlock>
+
+		<ContentBlock
+			imgSrc={warleighThree}
+			imgAlt="Wetland and riverside habitat at Warleigh"
+			title="What restoration work is happening now"
+			isReversed
+		>
+			<p>
+				The team and volunteers are already clearing old fencing, planting hedgerows to link up
+				future woodlands, opening up access paths, restoring hazel coppice, tackling Himalayan
+				balsam, and improving wet habitats with alder, willow, and leaky dams.
+			</p>
+			<p>
+				These first steps are focused on helping wildlife recover quickly while setting up decades
+				of care, including better conditions for species already seen on site like beavers and
+				otters.
+			</p>
+		</ContentBlock>
+
+		<ContentBlock
+			imgSrc={warleighFour}
+			imgAlt="Work party activity at Warleigh Nature Reserve"
+			title="Support Warleigh's future"
+		>
+			<p>
+				Buying the land was only the beginning. There is still a huge amount to fund, from practical
+				conservation work and habitat recovery to safer access and long-term site management.
+			</p>
+			<p>
+				If you want to help secure the future of this reserve, please donate to the crowdfunder.
+				Every contribution goes directly into restoration work on the ground.
+			</p>
+			<div class="cta">
+				<a
+					href="https://www.crowdfunder.co.uk/p/warleigh-nature-reserve"
+					target="_blank"
+					rel="noopener noreferrer"
+					class="button"
+				>
+					Donate to Warleigh Crowdfunder
+				</a>
+			</div>
+		</ContentBlock>
+
+		<ContentBlock
+			imgSrc={warleighTwo}
+			imgAlt="Volunteer activity and access path at Warleigh Nature Reserve"
+			title="Volunteer days at Warleigh"
+			isReversed
+		>
+			<p>
+				Warleigh runs regular volunteer work parties through spring and summer. We typically meet
+				from 10:00 and finish around 16:00.
+			</p>
+			<p>See upcoming sessions and details on the events page.</p>
+			<div class="cta">
+				<a class="button" href="/events/warleigh-summer-work-parties-2026-e6rw8">
+					View Warleigh volunteer days
+				</a>
+			</div>
+		</ContentBlock>
+
+		<section class="warleigh-location stack">
+			<h2>Location</h2>
+			<RestorEmbed
+				url="https://restor.eco/embed/sites/5777be4d-85d0-4abd-bcb2-17b748bd20f6/"
+				siteName="Warleigh Nature Reserve"
+			/>
+		</section>
+
+		<SiteSignup
+			title="Keep in the loop about Warleigh"
+			intro="Sign up for updates from Warleigh Nature Reserve, including future work parties and restoration progress."
+			site="warleigh_nature_reserve"
+		/>
+
+		<TakeAction />
+	</section>
+
+	<style>
+		.warleigh-location {
+			padding-block: var(--space-xl);
+		}
+
+		.warleigh-location h2 {
+			font-size: var(--font-2xl);
+			text-align: center;
+			margin: 0;
+		}
+
+		.video-embed {
+			overflow: hidden;
+			aspect-ratio: 16 / 9;
+		}
+
+		.video-embed iframe {
+			inline-size: 100%;
+			block-size: 100%;
+			border: 0;
+		}
+	</style>
+</Layout>

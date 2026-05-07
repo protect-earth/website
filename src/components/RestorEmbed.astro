@@ -1,0 +1,17 @@
+---
+interface Props {
+	url: string;
+	siteName: string;
+	height?: number | string;
+}
+
+const { url, siteName, height = 648 } = Astro.props;
+---
+
+<iframe
+	src={url}
+	title={siteName}
+	width="100%"
+	height={String(height)}
+	style="border: none"
+	frameborder="0"></iframe>
