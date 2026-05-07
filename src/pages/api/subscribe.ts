@@ -5,6 +5,7 @@ import mailchimp from '@mailchimp/mailchimp_marketing';
 export const prerender = false;
 
 const audienceId = import.meta.env.MAILCHIMP_AUDIENCE_ID;
+const workPartiesMergeFieldTag = 'MMERGE7';
 
 const groupIds: Record<string, string | undefined> = {
 	general: import.meta.env.MAILCHIMP_GROUP_ID_GENERAL,
@@ -35,7 +36,17 @@ mailchimp.setConfig({
 export const POST: APIRoute = async ({ request }) => {
 	try {
 		const body = await request.json();
-		const { email, firstName, lastName, list, region, honeyTrap } = body;
+		const {
+			email,
+			firstName,
+			lastName,
+			list,
+			region,
+			honeyTrap,
+			site,
+			workParties,
+			generalUpdates,
+		} = body;
 
 		// Spam protection
 		if (honeyTrap) {
@@ -49,15 +60,15 @@ export const POST: APIRoute = async ({ request }) => {
 		}
 
 		// Validate required fields
-		if (!email || !firstName || !list) {
+		if (!email || !firstName || (!list && !site)) {
 			return new Response(
 				JSON.stringify({ success: false, message: 'Please fill in all required fields.' }),
 				{ status: 400, headers: { 'Content-Type': 'application/json' } },
 			);
 		}
 
-		const groupId = groupIds[list];
-		if (!audienceId || !groupId) {
+		const groupId = typeof list === 'string' ? groupIds[list] : undefined;
+		if (!audienceId || (list && !groupId) || (generalUpdates && !groupIds.general)) {
 			return new Response(JSON.stringify({ success: false, message: 'Invalid mailing list.' }), {
 				status: 400,
 				headers: { 'Content-Type': 'application/json' },
@@ -68,19 +79,29 @@ export const POST: APIRoute = async ({ request }) => {
 			FNAME: firstName,
 		};
 		if (lastName) mergeFields.LNAME = lastName;
+		if (workParties) mergeFields[workPartiesMergeFieldTag] = 'Yes';
 
-		const interests: Record<string, boolean> = { [groupId]: true };
+		const interests: Record<string, boolean> = {};
+		if (groupId) interests[groupId] = true;
+		if (generalUpdates && groupIds.general) interests[groupIds.general] = true;
 		const regionInterestId = region ? regionInterestIds[region] : undefined;
 		if (regionInterestId) interests[regionInterestId] = true;
 
-		const subscriberHash = createHash('md5').update(email.toLowerCase()).digest('hex');
+		const normalizedEmail = email.toLowerCase().trim();
+		const subscriberHash = createHash('md5').update(normalizedEmail).digest('hex');
 
 		const result: any = await mailchimp.lists.setListMember(audienceId, subscriberHash, {
-			email_address: email,
+			email_address: normalizedEmail,
 			status_if_new: 'pending',
 			merge_fields: mergeFields,
-			interests,
+			...(Object.keys(interests).length > 0 ? { interests } : {}),
 		});
+
+		if (typeof site === 'string' && site.trim()) {
+			await mailchimp.lists.updateListMemberTags(audienceId, subscriberHash, {
+				tags: [{ name: site.trim(), status: 'active' }],
+			});
+		}
 
 		const message =
 			result.status === 'pending'

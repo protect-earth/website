@@ -4,20 +4,26 @@ interface Props {
 	intro?: string;
 	privacyPrefix?: string;
 	privacySuffix?: string;
+	site: string;
+	workPartiesLabel?: string;
+	generalUpdatesLabel?: string;
 }
 
 const {
 	title = 'Stay up to date',
-	intro = "Join our mailing list to keep up with what we're doing to restore natural habitats and boost biodiversity across the UK.",
+	intro = "Join our mailing list to keep up with what's happening at this site.",
 	privacyPrefix = "We don't email too often and you can unsubscribe any time. Your ",
 	privacySuffix = ' and your info will not be passed to third parties.',
+	site,
+	workPartiesLabel = 'Would you like to know about work parties?',
+	generalUpdatesLabel = 'Would you like to receive general updates from work Protect Earth is doing elsewhere?',
 } = Astro.props;
 ---
 
 <section class="wrap">
 	<h2>{title}</h2>
 
-	<form class="NewsletterSignup__form squircle stack">
+	<form class="SiteSignup__form squircle stack">
 		<p>{intro}</p>
 
 		<p>
@@ -26,36 +32,49 @@ const {
 
 		<p style="display: none;">
 			<label>Do not fill this in: <input name="honeyTrap" /></label>
+			<input type="hidden" name="site" value={site} />
 		</p>
 
 		<fieldset>
 			<legend class="visually-hidden">Your details</legend>
 			<div class="inline-group">
 				<div>
-					<label for="newsletter-first-name" class="visually-hidden">First Name</label>
+					<label for="site-signup-first-name" class="visually-hidden">First Name</label>
 					<input
 						type="text"
-						id="newsletter-first-name"
+						id="site-signup-first-name"
 						name="firstName"
 						placeholder="First Name"
 						required
 					/>
 				</div>
 				<div>
-					<label for="newsletter-last-name" class="visually-hidden">Last Name</label>
-					<input type="text" id="newsletter-last-name" name="lastName" placeholder="Last Name" />
+					<label for="site-signup-last-name" class="visually-hidden">Last Name</label>
+					<input type="text" id="site-signup-last-name" name="lastName" placeholder="Last Name" />
 				</div>
 			</div>
 			<div>
-				<label for="newsletter-email" class="visually-hidden">Email</label>
+				<label for="site-signup-email" class="visually-hidden">Email</label>
 				<input
 					type="email"
-					id="newsletter-email"
+					id="site-signup-email"
 					name="email"
 					placeholder="Email address"
 					required
 				/>
 			</div>
+		</fieldset>
+
+		<fieldset class="checkbox-group">
+			<legend>What would you like to hear about?</legend>
+			<label class="checkbox-option">
+				<input type="checkbox" name="workParties" />
+				<span>{workPartiesLabel}</span>
+			</label>
+			<label class="checkbox-option">
+				<input type="checkbox" name="generalUpdates" />
+				<span>{generalUpdatesLabel}</span>
+			</label>
 		</fieldset>
 
 		<button type="submit" class="button">Subscribe</button>
@@ -65,7 +84,7 @@ const {
 </section>
 
 <script>
-	document.querySelectorAll('.NewsletterSignup__form').forEach((form) => {
+	document.querySelectorAll('.SiteSignup__form').forEach((form) => {
 		form.addEventListener('submit', async (e) => {
 			e.preventDefault();
 			const formEl = e.currentTarget as HTMLFormElement;
@@ -87,7 +106,9 @@ const {
 						firstName: formData.get('firstName'),
 						lastName: formData.get('lastName'),
 						honeyTrap: formData.get('honeyTrap'),
-						list: 'general',
+						site: formData.get('site'),
+						workParties: formData.get('workParties') === 'on',
+						generalUpdates: formData.get('generalUpdates') === 'on',
 					}),
 				});
 
@@ -137,7 +158,6 @@ const {
 		font-size: var(--font-s);
 	}
 
-	/* This can go once all the styles are cleansed */
 	fieldset > * + * {
 		margin: 0;
 	}
@@ -152,5 +172,20 @@ const {
 
 	.inline-group div {
 		flex: 1;
+	}
+
+	.checkbox-group {
+		gap: var(--space-2xs);
+	}
+
+	.checkbox-option {
+		display: flex;
+		align-items: flex-start;
+		gap: var(--space-2xs);
+		font-size: var(--font-s);
+	}
+
+	.checkbox-option input {
+		margin-top: 0.2rem;
 	}
 </style>

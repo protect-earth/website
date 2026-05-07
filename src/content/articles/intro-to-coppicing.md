@@ -234,6 +234,6 @@ end up taking up more space than ocean life does.
 ## Learn even more about coppicing
 
 Once again, [Wood for the Trees](https://woodforthetrees.uk/) have created a
-brilliant short film all about coppicing, so you can see it in action.
+brilliant [short film all about coppicing](https://www.youtube.com/watch?v=l6UMLLj74BU), so you can see it in action.
 
 <YouTube id="https://youtu.be/l6UMLLj74BU" />
