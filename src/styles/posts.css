@@ -12,6 +12,8 @@
 			flex-flow: column;
 			justify-content: center;
 			align-items: center;
+			position: relative;
+			z-index: 1;
 		}
 
 		h1 {
@@ -31,7 +33,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		z-index: -1;
+		z-index: 0;
 
 		img {
 			block-size: 100%;
@@ -44,6 +46,14 @@
 	.prose {
 		margin: auto;
 		margin-block: var(--space-2xl);
+
+		lite-youtube {
+			display: block;
+			width: 100%;
+			aspect-ratio: 16 / 9;
+			background-color: #000;
+			margin-block: var(--space-l);
+		}
 
 		figure {
 			margin-block: var(--space-l);

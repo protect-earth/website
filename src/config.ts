@@ -16,9 +16,9 @@ export const siteConfig = {
 	},
 
 	achievements: {
-		treesPlanted: 157453,
+		treesPlanted: 158178,
 		acresRestored: 400,
-		acresUnderManagement: 180,
+		acresUnderManagement: 248,
 	},
 
 	// Sites to ignore from API data
