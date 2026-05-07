@@ -61,3 +61,16 @@
 		gap: var(--space-2xs);
 	}
 }
+
+.event-imagegroup {
+	display: grid;
+	gap: var(--space-s);
+	grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+
+	img {
+		width: 100%;
+		aspect-ratio: 1/1;
+		overflow: hidden;
+		object-fit: cover;
+	}
+}

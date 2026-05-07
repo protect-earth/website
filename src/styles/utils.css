@@ -14,7 +14,6 @@
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-start;
-	align-items: flex-start;
 }
 
 .stack > * {
@@ -23,6 +22,12 @@
 
 .stack > * + * {
 	margin-block-start: var(--space-s, 1.25rem);
+}
+
+.stack-3xs {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
 }
 
 .stack-3xs > * {

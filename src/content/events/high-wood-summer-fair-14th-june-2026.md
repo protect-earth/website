@@ -16,7 +16,7 @@ eventbriteLink: https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-co
 
 ## Come to the Summer Fair with a difference!
 
-<div class="Event__imagegroup">
+<div class="event-imagegroup">
 	<img src="/events/highwood-1.jpg" alt="Highwood Image 1">
 	<img src="/events/highwood-2.jpg" alt="Highwood Image 2">
 	<img src="/events/highwood-3.jpg" alt="Highwood Image 3">
