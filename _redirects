@@ -1,5 +1,9 @@
 /articles/deep-roots-ancient-woodlands-matter/ /articles/restoring-ancient-woodlands/
 /articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood/ /articles/restoring-ancient-woodlands/
+/articles/misconception-planting-in-straight-lines-is-lazy-or-bad/ /articles/misconceptions-about-tree-planting/
 
 /blog/*           /articles/:splat
 /projects/*       /sites/:splat
+
+/blog 						/articles
+/projects					/sites
