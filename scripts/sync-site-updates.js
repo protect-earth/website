@@ -31,6 +31,7 @@ if (!SITE_UPDATES_DATABASE_ID) {
 }
 
 const notion = new Client({ auth: NOTION_API_KEY });
+const warnedUnsupportedBlockTypes = new Set();
 
 function toKebabCase(str) {
 	return str
@@ -68,7 +69,18 @@ function isGoogleDriveLink(url) {
 }
 
 function isImageFileName(fileName = '') {
-	return /\.(avif|bmp|gif|heic|heif|jpe?g|png|tiff?|webp|svg)$/i.test(fileName);
+	return /\.(avif|bmp|gif|jpe?g|png|tiff?|svg)$/i.test(fileName);
+}
+
+function isUnsupportedImageFormatForConversion(photo) {
+	const mimeType = typeof photo?.mimeType === 'string' ? photo.mimeType.toLowerCase() : '';
+	const fileName = typeof photo?.name === 'string' ? photo.name.toLowerCase() : '';
+
+	if (mimeType === 'image/heic' || mimeType === 'image/heif' || mimeType === 'image/webp') {
+		return true;
+	}
+
+	return fileName.endsWith('.heic') || fileName.endsWith('.heif') || fileName.endsWith('.webp');
 }
 
 function getStableRemoteFileKey(url) {
@@ -90,6 +102,10 @@ function isDownloadableNotionPhoto(photo) {
 	}
 
 	if (!isRemoteUrl(photo.url) || isGoogleDriveLink(photo.url)) {
+		return false;
+	}
+
+	if (isUnsupportedImageFormatForConversion(photo)) {
 		return false;
 	}
 
@@ -229,29 +245,14 @@ function fetchRemoteChecksum(url) {
 }
 
 async function processImage(inputPath, outputPath, maxWidth = 1200) {
-	try {
-		await sharp(inputPath)
-			.rotate()
-			.resize(maxWidth, null, {
-				withoutEnlargement: true,
-				fit: 'inside',
-			})
-			.jpeg({ quality: 85, progressive: true })
-			.toFile(outputPath);
-	} catch (error) {
-		const message = error instanceof Error ? error.message : String(error);
-		const lowerPath = inputPath.toLowerCase();
-		const looksLikeHeic = lowerPath.endsWith('.heic') || lowerPath.endsWith('.heif');
-		const mentionsHeic = /heic|heif|unsupported|no decode delegate/i.test(message);
-
-		if (looksLikeHeic && mentionsHeic) {
-			throw new Error(
-				`HEIC conversion failed for ${path.basename(inputPath)}. This sharp/libvips build may not include HEIC/HEIF support. Original error: ${message}`,
-			);
-		}
-
-		throw error;
-	}
+	await sharp(inputPath)
+		.rotate()
+		.resize(maxWidth, null, {
+			withoutEnlargement: true,
+			fit: 'inside',
+		})
+		.jpeg({ quality: 85, progressive: true })
+		.toFile(outputPath);
 }
 
 function getTempImageExtension(mimeType, fileName = '') {
@@ -262,21 +263,22 @@ function getTempImageExtension(mimeType, fileName = '') {
 		return 'png';
 	}
 
-	if (
-		normalizedMimeType === 'image/heic' ||
-		normalizedMimeType === 'image/heif' ||
-		normalizedFileName.endsWith('.heic') ||
-		normalizedFileName.endsWith('.heif')
-	) {
-		return 'heic';
-	}
-
-	if (normalizedMimeType === 'image/webp' || normalizedFileName.endsWith('.webp')) {
-		return 'webp';
-	}
-
 	return 'jpg';
 }
+
+function getChecksumLocalImageName(checksum) {
+	if (typeof checksum !== 'string') {
+		return null;
+	}
+
+	const normalized = checksum.trim().toLowerCase();
+	if (!/^[a-f0-9]{64}$/.test(normalized)) {
+		return null;
+	}
+
+	return `${normalized}.jpg`;
+}
+
 async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 	const photoList = Array.isArray(photos) ? photos : [];
 	const notionPhotos = photoList.filter(isDownloadableNotionPhoto);
@@ -316,12 +318,11 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 		const sourceKey = `notion:${photo.sourceId || stableKey || photo.name}`;
 		const ext = getTempImageExtension(photo.mimeType, photo.name);
 		const tempPath = path.join(tempDir, `${slug}-${index}.${ext}`);
-		const localName = `${index}.jpg`;
-		const localPath = path.join(outputDir, localName);
-		const contentPath = `../../assets/site-updates/${slug}/${localName}`;
 		const previousEntry = previousManifest[sourceKey];
-		const previousPath = previousEntry?.localName
-			? path.join(outputDir, previousEntry.localName)
+		const previousLocalName = getChecksumLocalImageName(previousEntry?.checksum || null);
+		const previousPath = previousLocalName ? path.join(outputDir, previousLocalName) : null;
+		const contentPath = previousLocalName
+			? `../../assets/site-updates/${slug}/${previousLocalName}`
 			: null;
 		const remoteChecksum = previousEntry?.sourceChecksum
 			? await fetchRemoteChecksum(photo.url)
@@ -330,47 +331,56 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 		if (
 			previousPath &&
 			fs.existsSync(previousPath) &&
-			((previousEntry?.sourceChecksum && remoteChecksum === previousEntry.sourceChecksum) ||
-				(!previousEntry?.sourceChecksum && previousEntry))
+			contentPath &&
+			(!previousEntry?.sourceChecksum || remoteChecksum === previousEntry.sourceChecksum)
 		) {
-			if (previousPath !== localPath) {
-				if (fs.existsSync(localPath)) {
-					fs.unlinkSync(localPath);
-				}
-				fs.renameSync(previousPath, localPath);
-			}
-
-			console.log(`  Reusing existing localized image ${localName} for unchanged Notion file`);
+			console.log(
+				`  Reusing existing localized image ${previousLocalName} for unchanged Notion file`,
+			);
 			localized.push(contentPath);
 			nextManifest[sourceKey] = {
-				localName,
+				localName: previousLocalName,
 				checksum: previousEntry.checksum,
 				sourceChecksum: previousEntry.sourceChecksum || remoteChecksum,
 				fileName: photo.name,
 			};
-			usedFileNames.add(localName);
+			usedFileNames.add(previousLocalName);
 			index++;
 			continue;
 		}
 
 		try {
-			console.log(`  Downloading Notion image ${photo.name} -> ${localName}`);
+			console.log(`  Downloading Notion image ${photo.name}`);
 			await downloadImage(photo.url, tempPath);
-			await processImage(tempPath, localPath);
-			const checksum = await hashFile(localPath);
+			const processedPath = path.join(tempDir, `${slug}-${index}-processed.jpg`);
+			await processImage(tempPath, processedPath);
+			const checksum = await hashFile(processedPath);
+			const downloadedLocalName = getChecksumLocalImageName(checksum);
+			const downloadedLocalPath = path.join(outputDir, downloadedLocalName);
+			const downloadedContentPath = `../../assets/site-updates/${slug}/${downloadedLocalName}`;
+
+			if (fs.existsSync(downloadedLocalPath)) {
+				fs.unlinkSync(processedPath);
+			} else {
+				fs.renameSync(processedPath, downloadedLocalPath);
+			}
+
 			localized.push(contentPath);
 			nextManifest[sourceKey] = {
-				localName,
+				localName: downloadedLocalName,
 				checksum,
 				sourceChecksum: remoteChecksum,
 				fileName: photo.name,
 			};
-			usedFileNames.add(localName);
+			usedFileNames.add(downloadedLocalName);
 			index++;
-			console.log(`  Wrote ${contentPath}`);
+			console.log(`  Wrote ${downloadedContentPath}`);
 
 			if (fs.existsSync(tempPath)) {
 				fs.unlinkSync(tempPath);
+			}
+			if (fs.existsSync(processedPath)) {
+				fs.unlinkSync(processedPath);
 			}
 		} catch (error) {
 			console.warn(`Warning: Failed to localize Notion image ${photo.name}: ${error.message}`);
@@ -416,34 +426,97 @@ async function getPropertyValue(property) {
 	}
 }
 
-function convertBlockToMarkdown(block) {
+function getBlockRichText(block) {
+	if (!block || !block.type || !block[block.type]) {
+		return '';
+	}
+
+	const blockValue = block[block.type];
+	if (!Array.isArray(blockValue.rich_text)) {
+		return '';
+	}
+
+	return getRichText(blockValue.rich_text);
+}
+
+function getListIndent(depth) {
+	return '  '.repeat(Math.max(depth, 0));
+}
+
+function convertBlockToMarkdown(block, depth = 0) {
 	if (!block) return '';
+
+	const richText = getBlockRichText(block);
+	const listIndent = getListIndent(depth);
 
 	switch (block.type) {
 		case 'paragraph':
-			return getRichText(block.paragraph.rich_text) + '\n\n';
+			return richText ? richText + '\n\n' : '\n';
 		case 'heading_1':
-			return '# ' + getRichText(block.heading_1.rich_text) + '\n\n';
+			return richText ? '# ' + richText + '\n\n' : '';
 		case 'heading_2':
-			return '## ' + getRichText(block.heading_2.rich_text) + '\n\n';
+			return richText ? '## ' + richText + '\n\n' : '';
 		case 'heading_3':
-			return '### ' + getRichText(block.heading_3.rich_text) + '\n\n';
+			return richText ? '### ' + richText + '\n\n' : '';
 		case 'bulleted_list_item':
-			return '- ' + getRichText(block.bulleted_list_item.rich_text) + '\n';
+			return listIndent + '- ' + richText + '\n';
 		case 'numbered_list_item':
-			return '1. ' + getRichText(block.numbered_list_item.rich_text) + '\n';
+			return listIndent + '1. ' + richText + '\n';
+		case 'to_do':
+			return `${listIndent}- [${block.to_do.checked ? 'x' : ' '}] ${richText}\n`;
+		case 'toggle':
+			return richText ? `${listIndent}- ${richText}\n` : '';
 		case 'quote':
-			return '> ' + getRichText(block.quote.rich_text) + '\n\n';
+			return richText ? '> ' + richText + '\n\n' : '';
+		case 'callout':
+			return richText ? '> ' + richText + '\n\n' : '';
 		case 'code': {
-			const code = getRichText(block.code.rich_text);
+			const code = richText;
 			const lang = block.code.language || '';
 			return '```' + lang + '\n' + code + '\n```\n\n';
 		}
 		case 'divider':
 			return '---\n\n';
+		case 'image': {
+			const caption = getRichText(block.image.caption);
+			return caption ? `![${caption}]()\n\n` : '';
+		}
 		default:
+			if (richText) {
+				return richText + '\n\n';
+			}
+
+			if (!warnedUnsupportedBlockTypes.has(block.type)) {
+				warnedUnsupportedBlockTypes.add(block.type);
+				console.warn(`Warning: Unsupported Notion block type "${block.type}" will be flattened`);
+			}
+
 			return '';
 	}
+}
+
+async function renderBlocksToMarkdown(blocks, depth = 0) {
+	let markdown = '';
+
+	for (const block of blocks) {
+		markdown += convertBlockToMarkdown(block, depth);
+
+		if (block?.has_children) {
+			const childBlocks = await listAllBlocks(block.id);
+			markdown += await renderBlocksToMarkdown(childBlocks, depth + 1);
+
+			if (
+				block.type === 'bulleted_list_item' ||
+				block.type === 'numbered_list_item' ||
+				block.type === 'to_do' ||
+				block.type === 'toggle'
+			) {
+				markdown += '\n';
+			}
+		}
+	}
+
+	return markdown;
 }
 
 function normalizePageContent(content) {
@@ -461,8 +534,6 @@ function normalizePageContent(content) {
 			.replace(/[\t ]+$/gm, '')
 			// Collapse whitespace-only lines into plain blank lines.
 			.replace(/^[\t ]+$/gm, '')
-			// Prevent large runs of blank lines in the middle of content.
-			.replace(/\n{3,}/g, '\n\n')
 			// Remove leading/trailing whitespace/newlines for the full body.
 			.replace(/^[\t \n]+|[\t \n]+$/g, '')
 	);
@@ -520,7 +591,7 @@ function getExistingLocalPhotos(filePath) {
 async function getPageContent(pageId) {
 	try {
 		const blocks = await listAllBlocks(pageId);
-		const rawContent = blocks.map((block) => convertBlockToMarkdown(block)).join('');
+		const rawContent = await renderBlocksToMarkdown(blocks);
 		return normalizePageContent(rawContent);
 	} catch (error) {
 		console.warn(`Warning: Could not fetch content for page ${pageId}: ${error.message}`);

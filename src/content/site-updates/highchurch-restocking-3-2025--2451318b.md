@@ -5,8 +5,12 @@ type: "Restocking"
 date: "2025-09-20T00:00:00.000Z"
 siteNotionId: "87927819-fff7-4f8f-88cd-6f7525aa434a"
 treesRestocked: 60
+photos:
+  - "../../assets/site-updates/highchurch-restocking-3-2025--2451318b/ed15b22eb351de017ea3b5a353ee32c78d11d543e5578302dc0f249ae9586c93.jpg"
+  - "../../assets/site-updates/highchurch-restocking-3-2025--2451318b/c5b2aee49ae508e9a1bfe33eedaf82fc828c810597e8411e5428ca9dddf9945f.jpg"
+  - "../../assets/site-updates/highchurch-restocking-3-2025--2451318b/88f56f9a208ed5bacaac1cc31652f6420d3c12d812094e4f64560f3753226f8a.jpg"
+  - "../../assets/site-updates/highchurch-restocking-3-2025--2451318b/4937a3d0ded45ed3414008eb148130da7dd25563473a2bb59139b56d39d0d276.jpg"
 ---
-
 
 We had 16 volunteers arrive throughout the morning, which was fantastic. We were also joined by the landowner, his daughter, and his farmhand.
 
@@ -21,4 +25,3 @@ Overall, the day went well and we made solid progress. It was a shame the volunt
 In terms of tree survival, the survival rate was 75%.
 
 Encouragingly, the poplars are thriving. The oaks, while still small, are looking healthy, and the hawthorn and downy birch are also doing well. Considering the weather conditions and the heavy clay soil, which is prone to cracking and breaking, the site is looking positive overall.
-

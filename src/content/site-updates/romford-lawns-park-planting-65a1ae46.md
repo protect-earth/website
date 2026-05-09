@@ -7,7 +7,8 @@ siteNotionId: "e59189e4-625f-4087-88c0-0abd66d3edc7"
 treesPlanted: 14000
 ---
 
+Havering Council enjoyed our support on the last site, and wanted to plant a massive 14,000 trees to create a few miniforests in a nearby park that was otherwise devoid of shade and wildlife.
 
-tCO2 after 50 years: 4,772
-Species planted: Common Oak, Downy Birch, Goat Willow, Small-leaved Lime, Hawthorn, Aspen, Grey Willow, Hornbeam, Bird Cherry, Crab Apple, Alder Buckthorn
+These miniforests will encourage quick growth from all the saplings as they jostle for light, creating a dense thicket of habitat for all sorts of birds and hedgehogs.
 
+As the trees grow they will cool the air passing through it which will benefit the nearby homes in intense summers.

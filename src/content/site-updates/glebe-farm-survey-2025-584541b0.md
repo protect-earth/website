@@ -6,7 +6,7 @@ date: "2025-08-27T00:00:00.000Z"
 siteNotionId: "e560ba39-f481-4e85-bcb3-2dec0646d297"
 survivalRate: 0.65
 photos:
-  - "../../assets/site-updates/glebe-farm-survey-2025-584541b0/1.jpg"
+  - "../../assets/site-updates/glebe-farm-survey-2025-584541b0/6af5522e2693b30c628d00683d4d83a92aa3e5160032fa4da92244124dfdce9f.jpg"
 ---
 
 August 2025’s survival rate survey at Glebe Farm shows encouraging establishment overall, with some variation between planting areas. Parcel 1 recorded a 62% survival rate, while Parcel 2 performed more strongly at 72%, giving an overall survival rate of 65%.

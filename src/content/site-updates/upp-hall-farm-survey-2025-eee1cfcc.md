@@ -6,11 +6,11 @@ date: "2025-07-23T00:00:00.000Z"
 siteNotionId: "72b4afd1-7f32-4dce-8621-04b94b8cdf09"
 survivalRate: 0.8
 photos:
-  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/1.jpg"
-  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/2.jpg"
-  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/3.jpg"
-  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/4.jpg"
-  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/5.jpg"
+  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/4442bbe4729783d664aae15366e8b9944a99a1400f5138fdc3a22ca74d04a096.jpg"
+  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/26c282d15dbbcacdd74ad2d08eba093d37476c3df3b2a594164e0fee19ef2bfb.jpg"
+  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/2f6ae4688a349381949439c4261905ef2a5f5284e5a86a59cd62c7d50db4aee9.jpg"
+  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/202b59e1476125c142e2a64408e63674636399aa7f2b829c1659fc61e8d03b21.jpg"
+  - "../../assets/site-updates/upp-hall-farm-survey-2025-eee1cfcc/1fdb9be98646f8356953babaa491e56b6c02cb4ff7237d767321d3e763d5249c.jpg"
 ---
 
 Mike visited to conduct a survival survey, and he found an overall 80% survival rate! The whole area was buzzing with bees, butterflies, crickets and other insects.

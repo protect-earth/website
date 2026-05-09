@@ -6,13 +6,13 @@ date: "2025-09-22T00:00:00.000Z"
 siteNotionId: "434153c2-4272-48f7-9826-077adbf87b0f"
 survivalRate: 0.73
 photos:
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/1.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/2.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/3.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/4.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/5.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/6.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/7.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/38c5ccc1c9b6ac5d94d56bcb80988cc2f84d4ec5dea81dde2318919659160224.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/4caefed427f69c7b623fd5ee83ffb3b7294b1d578b17e18045926d6f44b8fc7e.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/e7ca9201b121cd145ad2d6fa2be00a640a07ee343854976ddcde95c752bd552f.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/04a0c07e1bedf0a879bc9256b6d9e89c8fae7816e0f600481c013d3490ad5b45.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/3b2f9282eb84ed63cc0767107c2764a34516b08fc69d1e7efaf870b567995346.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/6782ca87bbf0631176eae5ddda8a438e8415afae7b0906dc9be90d92390fa9e8.jpg"
+  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/e9f559f96bc4bcee2d81039f083a6f6689c25cdcb7d438676e638a7d9ddd4823.jpg"
 ---
 
 Normally, we wouldn’t be checking survivals the first summer after a late winter planting, as there’s usually not much that’s going to have changed other than a bit of rabbit nibbling, but with an intense summer drought and a difficult group of contractors, we wanted to see how things were going.
