@@ -5,18 +5,18 @@ type Props = CollectionEntry<'press'>['data'][0];
 const { title, source, url, image, imageAlt, description, date } = Astro.props;
 ---
 
-<article class="PressArticle">
-	<img class="PressArticle__image" src={image} alt={imageAlt} />
+<article class="press-article">
+	<img class="squircle" src={image} alt={imageAlt} />
 
 	<div class="PressArticle__content">
-		<header class="PressArticle__header">
-			<h2 class="PressArticle__title">{title}</h2>
-			<dl class="PressArticle__meta">
-				<dt class="PressArticle__metaTitle visually-hidden">Source</dt>
-				<dd class="PressArticle__metaValue">{source}</dd>
+		<header>
+			<h2>{title}</h2>
+			<dl>
+				<dt class="visually-hidden">Source</dt>
+				<dd>{source}</dd>
 
-				<dt class="PressArticle__metaTitle visually-hidden">Posted</dt>
-				<dd class="PressArticle__metaValue">
+				<dt class="visually-hidden">Posted</dt>
+				<dd>
 					<time datetime={date.toISOString()}>
 						{date.toLocaleDateString('en-GB', { month: 'short', day: 'numeric', year: 'numeric' })}
 					</time>
@@ -24,10 +24,8 @@ const { title, source, url, image, imageAlt, description, date } = Astro.props;
 			</dl>
 		</header>
 
-		<p class="PressArticle__description">{description}</p>
+		<p class="prose">{description}</p>
 
-		<a class="PressArticle__link block-link" href={url} target="_blank" rel="noopener">
-			Read article
-		</a>
+		<a class="button" href={url} target="_blank" rel="noopener"> Read article </a>
 	</div>
 </article>

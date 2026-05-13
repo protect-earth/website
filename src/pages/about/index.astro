@@ -13,27 +13,23 @@ import SectionCard from '../../components/SectionCard.astro';
 		<p>Our mission and values</p>
 	</ContentHero>
 
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<nav aria-label="About sections">
-				<ul class="SectionCards">
-					<SectionCard
-						href="/about/our-purpose"
-						title="Our Purpose"
-						description="Our mission and what drives us"
-					/>
-					<SectionCard
-						href="/about/meet-the-team"
-						title="Meet the Team"
-						description="The people behind Protect Earth"
-					/>
-					<SectionCard
-						href="/about/in-the-press"
-						title="In the Press"
-						description="Media coverage and press releases"
-					/>
-				</ul>
-			</nav>
-		</div>
+	<section class="page-sections wrap">
+		<nav class="section-cards grid">
+			<SectionCard
+				href="/about/our-purpose"
+				title="Our Purpose"
+				description="Our mission and what drives us"
+			/>
+			<SectionCard
+				href="/about/meet-the-team"
+				title="Meet the Team"
+				description="The people behind Protect Earth"
+			/>
+			<SectionCard
+				href="/about/in-the-press"
+				title="In the Press"
+				description="Media coverage and press releases"
+			/>
+		</nav>
 	</section>
 </Layout>

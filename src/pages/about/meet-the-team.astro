@@ -18,13 +18,19 @@ const members = memberCollection.data ?? [];
 	/>
 
 	<!-- Team Members -->
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<div class="TeamMembers">
-				{members.map((member) => <TeamMember {...member} />)}
-			</div>
+	<div class="page-sections wrap">
+		<div class="team-members">
+			{members.map((member) => <TeamMember {...member} />)}
 		</div>
-	</section>
+	</div>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.team-members {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-2xl);
+	}
+</style>

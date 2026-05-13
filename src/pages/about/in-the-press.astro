@@ -19,11 +19,14 @@ const articles = pressArticles.data ?? [];
 	</ContentHero>
 
 	<!-- Press Articles Grid -->
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<div class="PressArticles">
-				{articles.map((article) => <PressArticle {...article} />)}
-			</div>
+	<section class="page-sections wrap">
+		<div class="press-articles grid">
+			{articles.map((article) => <PressArticle {...article} />)}
 		</div>
 	</section>
 </Layout>
+
+<style>
+	.grid {
+	}
+</style>

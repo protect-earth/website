@@ -1,21 +1,51 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { Image } from 'astro:assets';
 type Props = CollectionEntry<'members'>['data'][0];
 
 const { name, role, image, imageAlt, bio } = Astro.props;
 ---
 
-<article class="TeamMember">
-	<img class="TeamMember__image" src={image} alt={imageAlt} />
+<article class="team-member">
+	<Image src={image} alt={imageAlt} inferSize class="squircle" />
 
-	<div class="TeamMember__content">
-		<header class="TeamMember__header">
-			<h2 class="TeamMember__name">{name}</h2>
-			<p class="TeamMember__role" aria-label="Role:">{role}</p>
+	<div class="content">
+		<header>
+			<h2>{name}</h2>
+			<p aria-label="Role:">{role}</p>
 		</header>
 
-		<div class="TeamMember__bio">
+		<div class="prose stack">
 			{bio.split('\n\n').map((paragraph: string) => <p>{paragraph}</p>)}
 		</div>
 	</div>
 </article>
+
+<style>
+	.team-member {
+		display: grid;
+		grid-template-columns: 350px 1fr;
+		gap: var(--space-2xl);
+	}
+
+	h2 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-3xs);
+	}
+
+	header {
+		margin-block-end: var(--space-m);
+	}
+
+	header p {
+		color: var(--accent);
+		font-size: var(--font-xs);
+	}
+
+	img {
+		aspect-ratio: 1/1;
+		max-size: 24rem;
+		overflow: hidden;
+		object-fit: cover;
+	}
+</style>
