@@ -5,6 +5,11 @@
 	padding-block: var(--space-xl);
 }
 
+.page-sections>header:has(h2, h3) {
+	text-align: center;
+	font-size: var(--font-l);
+}
+
 .tags {
 	display: inline-flex;
 	gap: var(--space-3xs);
@@ -28,7 +33,7 @@
 	gap: var(--space-xs);
 }
 
-.meta > .tag {
+.meta>.tag {
 	padding: var(--space-2xs) var(--space-s);
 	font-size: var(--font-xs);
 }

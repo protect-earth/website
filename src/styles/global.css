@@ -17,7 +17,7 @@ body {
 }
 
 ::selection {
-	background: var(--orange);
+	background: var(--link);
 	color: var(--offwhite);
 }
 
@@ -69,6 +69,10 @@ h2:has(svg) {
 	font-size: var(--font-m);
 }
 
+time {
+	font-size: var(--font-xs);
+}
+
 /* Shapes */
 
 .squircle {
@@ -77,22 +81,19 @@ h2:has(svg) {
 	--_r: clamp(0%, var(--r) / 2, 21%);
 	--_v: calc(var(--_r) * (1 - sqrt(2) / 4));
 	--_p: calc(var(--_v) - var(--_r) / 2);
-	clip-path: shape(
-		from var(--_v) var(--_p),
-		curve to 50% 0 with var(--_r) 0,
-		curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
-		curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
-		curve to 100% 50% with 100% var(--_r),
-		curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
-		curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p))
-			calc(100% - 2 * var(--_p)),
-		curve to 50% 100% with calc(100% - var(--_r)) 100%,
-		curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
-		curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
-		curve to 0 50% with 0 calc(100% - var(--_r)),
-		curve to var(--_p) var(--_v) with 0 var(--_r),
-		curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p))
-	);
+	clip-path: shape(from var(--_v) var(--_p),
+			curve to 50% 0 with var(--_r) 0,
+			curve to calc(100% - var(--_v)) var(--_p) with calc(100% - var(--_r)) 0,
+			curve to calc(100% - var(--_p)) var(--_v) with calc(100% - 2 * var(--_p)) calc(2 * var(--_p)),
+			curve to 100% 50% with 100% var(--_r),
+			curve to calc(100% - var(--_p)) calc(100% - var(--_v)) with 100% calc(100% - var(--_r)),
+			curve to calc(100% - var(--_v)) calc(100% - var(--_p)) with calc(100% - 2 * var(--_p)) calc(100% - 2 * var(--_p)),
+			curve to 50% 100% with calc(100% - var(--_r)) 100%,
+			curve to var(--_v) calc(100% - var(--_p)) with var(--_r) 100%,
+			curve to var(--_p) calc(100% - var(--_v)) with calc(2 * var(--_p)) calc(100% - 2 * var(--_p)),
+			curve to 0 50% with 0 calc(100% - var(--_r)),
+			curve to var(--_p) var(--_v) with 0 var(--_r),
+			curve to var(--_v) var(--_p) with calc(2 * var(--_p)) calc(2 * var(--_p)));
 }
 
 /* Breadcrumbs */
@@ -102,7 +103,8 @@ h2:has(svg) {
 	display: flex;
 	gap: var(--space-2xs);
 	font-size: var(--font-xs);
-	padding-block: var(--space-xs);
+	padding-block-end: var(--space-xs);
+	margin: 0;
 }
 
 .breadcrumbs li {
@@ -122,4 +124,38 @@ h2:has(svg) {
 
 .breadcrumbs a[aria-current='page'] {
 	color: var(--current);
+}
+
+.section-card {
+	background: var(--card);
+	border-radius: var(--radius-l);
+	border: 1px solid var(--border-color);
+	text-align: center;
+	transition: box-shadow var(--transition);
+}
+
+.section-card:hover {
+	box-shadow: var(--shadow-lite);
+}
+
+.section-card:hover h2,
+.section-card:hover h3 {
+	color: var(--link-hover);
+}
+
+.section-card h2,
+.section-card h3 {
+	font-size: var(--font-l);
+	margin-block: 0 var(--space-s);
+	color: var(--link);
+}
+
+.section-card p {
+	font-size: var(--font-s);
+}
+
+.section-card a {
+	text-decoration: none;
+	display: block;
+	padding: var(--space-l) var(--space-s);
 }

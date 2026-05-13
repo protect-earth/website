@@ -140,16 +140,12 @@ const fundingPartnerInfos = fundingPartners
 	</ContentHero>
 
 	<section class="page-sections wrap">
-		<!-- Image Gallery -->
-		<ImageGallery images={images} siteName={siteName} />
-
 		{
-			fundingPartnerInfos.length > 0 && (
+			fundingPartnerInfos.length > 0 ? (
 				<div class="intro">
 					{descriptionHtml && (
 						<div class="stack prose" data-readable-width="larger" set:html={descriptionHtml} />
 					)}
-
 					<div class="partnerships">
 						<h3>In partnership with</h3>
 
@@ -167,8 +163,17 @@ const fundingPartnerInfos = fundingPartners
 						</div>
 					</div>
 				</div>
+			) : (
+				<div class="intro">
+					{descriptionHtml && (
+						<div class="stack prose" data-readable-width="larger" set:html={descriptionHtml} />
+					)}
+				</div>
 			)
 		}
+
+		<!-- Image Gallery -->
+		<ImageGallery images={images} siteName={siteName} />
 
 		<!-- Species Section -->
 		{

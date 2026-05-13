@@ -1,14 +1,55 @@
 /* Forms, Inputs and Button */
 
+form {
+	padding: var(--space-l);
+	border-radius: var(--radius-l);
+	background: var(--white);
+	max-width: 44rem;
+	margin: auto;
+}
+
+fieldset {
+	border: none;
+	padding: 0;
+	display: flex;
+	flex-flow: column;
+	gap: var(--space-3xs);
+	font-size: var(--font-s);
+}
+
+fieldset>div:not(.inline-group) {
+	display: flex;
+	flex-flow: column;
+}
+
+.inline-group {
+	display: flex;
+	gap: var(--space-s);
+
+	@media screen and (max-width: 540px) {
+		flex-flow: column;
+	}
+}
+
+.inline-group div {
+	flex: 1;
+}
+
+form p {
+	font-size: var(--font-s);
+}
+
+form small {
+	font-size: var(--font-xs);
+}
+
 textarea,
-input:not(
-	button,
+input:not(button,
 	[type='button'],
 	[type='sumbit'],
 	[type='reset'],
 	[type='checkbox'],
-	[type='radio']
-) {
+	[type='radio']) {
 	appearance: none;
 	border: 2px solid var(--border-color);
 	padding: var(--space-2xs);
@@ -17,6 +58,8 @@ input:not(
 	font-family: inherit;
 	outline: none;
 	background: var(--input);
+	width: 100%;
+	border-radius: var(--radius-m);
 
 	&:focus {
 		border-color: var(--border-focus);
@@ -92,6 +135,7 @@ input[type='reset'] {
 	transition: all var(--trans-time) ease-in-out;
 	justify-content: center;
 	color: currentcolor !important;
+	align-items: center;
 
 	&:hover {
 		transform: translateY(var(--space-3xs));
