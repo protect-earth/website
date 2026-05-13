@@ -6,26 +6,77 @@ const { title, source, url, image, imageAlt, description, date } = Astro.props;
 ---
 
 <article class="press-article">
-	<img class="squircle" src={image} alt={imageAlt} />
+	<figure>
+		<img class="squircle" src={image} alt={imageAlt} />
+	</figure>
 
-	<div class="PressArticle__content">
-		<header>
-			<h2>{title}</h2>
-			<dl>
-				<dt class="visually-hidden">Source</dt>
-				<dd>{source}</dd>
+	<header>
+		<h2>{title}</h2>
+		<ul>
+			<li><strong>{source}</strong></li>
 
-				<dt class="visually-hidden">Posted</dt>
-				<dd>
-					<time datetime={date.toISOString()}>
-						{date.toLocaleDateString('en-GB', { month: 'short', day: 'numeric', year: 'numeric' })}
-					</time>
-				</dd>
-			</dl>
-		</header>
+			<li>
+				<time datetime={date.toISOString()}>
+					{
+						date.toLocaleDateString('en-GB', {
+							day: 'numeric',
+							month: 'long',
+							year: 'numeric',
+						})
+					}
+				</time>
+			</li>
+		</ul>
+	</header>
 
+	<div class="desc">
 		<p class="prose">{description}</p>
-
-		<a class="button" href={url} target="_blank" rel="noopener"> Read article </a>
 	</div>
+
+	<a class="button" href={url} target="_blank" rel="noopener"> Read article </a>
 </article>
+
+<style>
+	.press-article {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-xs);
+	}
+
+	.desc {
+		flex: 1;
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-2xs);
+		margin-block-end: var(--space-xs);
+	}
+
+	dl {
+		margin: 0;
+	}
+
+	dd {
+		margin: 0;
+	}
+
+	h2 {
+		margin-block: 0 var(--space-xs);
+		font-size: var(--font-s);
+		font-weight: 700;
+	}
+
+	.prose {
+		margin-block: 0;
+		font-size: var(--font-xs);
+	}
+
+	img {
+		aspect-ratio: 3/2;
+		width: 100%;
+		object-fit: cover;
+	}
+
+	.button {
+		align-self: flex-start;
+	}
+</style>

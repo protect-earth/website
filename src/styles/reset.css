@@ -96,3 +96,15 @@ textarea:not([rows]) {
 figure {
 	margin: 0;
 }
+
+p,
+ul,
+ol {
+	margin: 0;
+}
+
+dl,
+dt,
+dd {
+	margin: 0;
+}

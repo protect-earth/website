@@ -144,9 +144,11 @@ const { Content } = await render(event);
 			</div>
 			{
 				eventbriteLink && (
-					<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
-						Sign up to volunteer
-					</a>
+					<div class="event-cta">
+						<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
+							Sign up to volunteer
+						</a>
+					</div>
 				)
 			}
 		</div>
@@ -164,5 +166,10 @@ const { Content } = await render(event);
 		display: grid;
 		grid-template-columns: min-content 1fr;
 		gap: var(--space-2xs);
+	}
+
+	.event-cta {
+		display: grid;
+		place-content: center;
 	}
 </style>

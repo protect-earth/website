@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import PressArticle from '../../components/PressArticle.astro';
+import TakeAction from '../../components/TakeAction.astro';
 
 const [pressArticles] = await getCollection('press');
 const articles = pressArticles.data ?? [];
@@ -24,9 +25,12 @@ const articles = pressArticles.data ?? [];
 			{articles.map((article) => <PressArticle {...article} />)}
 		</div>
 	</section>
+
+	<TakeAction />
 </Layout>
 
 <style>
 	.grid {
+		grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
 	}
 </style>

@@ -73,7 +73,7 @@ import TakeAction from '../../components/TakeAction.astro';
 
 		<!-- Application Form Section -->
 
-		<section class="apply squircle stack" data-variant="call-to-action">
+		<section class="apply squircle" data-variant="call-to-action">
 			<header>
 				<h2>Apply for Biodiversity Assistance & Funding</h2>
 			</header>
@@ -96,6 +96,10 @@ import TakeAction from '../../components/TakeAction.astro';
 	.apply {
 		background: var(--white);
 		padding: var(--space-xl);
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-s);
+		align-items: flex-start;
 	}
 
 	.apply h2 {
