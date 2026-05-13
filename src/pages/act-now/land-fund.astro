@@ -13,72 +13,92 @@ import TakeAction from '../../components/TakeAction.astro';
 	/>
 
 	<!-- Main Content with Donorbox Widget -->
-	<section class="PageSection" data-layout="sidebar-right">
-		<div class="PageSection__content">
-			<!-- Left: Main Content (67%) -->
-			<div>
-				<div class="prose">
-					<p>
-						Protect Earth does a lot more than just plant trees - we create lasting, thriving
-						woodlands, wetlands, and ecosystems. This fund was set up to provide confidence that
-						every penny was going to purchasing land, and not admin costs or CEO bonuses.
-					</p>
-					<p>
-						We love collaborating with landowners and farmers - so far, we've helped over 60 farms,
-						hotels, local councils, schools, parks, and even wedding venues bring more trees to
-						their land. But some of our most exciting work happens when we create whole new diverse
-						nature reserves, linking up multiple types of habitat.
-					</p>
-					<p>Thanks to generous donations, we've purchased three amazing sites:</p>
-					<ul>
-						<li>
-							<a href="/sites/high-wood">High Wood</a> - A flourishing ancient woodland where wildlife
-							is returning thanks to your support.
-						</li>
-						<li>
-							<a href="/sites/goytre-wood">Goytre Wood</a> - Ex grazing upland in Powys that's being returned
-							to a thriving woodland, with skylards protected on the grassland.
-						</li>
-						<li>
-							<a href="https://warleighnaturereserve.org/" target="_blank"
-								>Warleigh Nature Reserve</a
-							> - An 84 acre mixture of wetlands, ancient woodland, grassland, and beaver habitat that
-							you helped us purchase for £630,000, with £250,000 in debt which needs to be paid off through
-							future Land Fund donations.
-						</li>
-					</ul>
-					<p>
-						With your support, we can buy more land, create more forests, and begin landscape-scale
-						restoration with our new neighbours, and protect more nature - permanently.
-					</p>
-					<p>
-						<strong>
-							Every pound donated to the Land Fund goes directly toward securing and restoring new
-							woodlands and ecosystems.
-						</strong>
-					</p>
-				</div>
-			</div>
+	<section class="page-sections wrap">
+		<!-- Left: Main Content (67%) -->
 
-			<!-- Right: Donorbox Widget (33%) -->
-			<div>
-				<div class="sticky">
-					<script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
-					<iframe
-						src="https://donorbox.org/embed/protect-earth?language=en"
-						name="donorbox"
-						allowpaymentrequest="allowpaymentrequest"
-						seamless="seamless"
-						frameborder="0"
-						scrolling="no"
-						height="700px"
-						class="w-full"
-						style="min-width: 250px; max-height:none!important"
-						allow="payment"></iframe>
-				</div>
+		<div class="prose stack">
+			<p>
+				Protect Earth does a lot more than just plant trees - we create lasting, thriving woodlands,
+				wetlands, and ecosystems. This fund was set up to provide confidence that every penny was
+				going to purchasing land, and not admin costs or CEO bonuses.
+			</p>
+			<p>
+				We love collaborating with landowners and farmers - so far, we've helped over 60 farms,
+				hotels, local councils, schools, parks, and even wedding venues bring more trees to their
+				land. But some of our most exciting work happens when we create whole new diverse nature
+				reserves, linking up multiple types of habitat.
+			</p>
+			<p>Thanks to generous donations, we've purchased three amazing sites:</p>
+			<ul>
+				<li>
+					<a href="/sites/high-wood">High Wood</a> - A flourishing ancient woodland where wildlife is
+					returning thanks to your support.
+				</li>
+				<li>
+					<a href="/sites/goytre-wood">Goytre Wood</a> - Ex grazing upland in Powys that's being returned
+					to a thriving woodland, with skylards protected on the grassland.
+				</li>
+				<li>
+					<a href="https://warleighnaturereserve.org/" target="_blank">Warleigh Nature Reserve</a> -
+					An 84 acre mixture of wetlands, ancient woodland, grassland, and beaver habitat that you helped
+					us purchase for £630,000, with £250,000 in debt which needs to be paid off through future Land
+					Fund donations.
+				</li>
+			</ul>
+			<p>
+				With your support, we can buy more land, create more forests, and begin landscape-scale
+				restoration with our new neighbours, and protect more nature - permanently.
+			</p>
+			<p>
+				<strong>
+					Every pound donated to the Land Fund goes directly toward securing and restoring new
+					woodlands and ecosystems.
+				</strong>
+			</p>
+		</div>
+
+		<!-- Right: Donorbox Widget (33%) -->
+		<div class="widget">
+			<div class="sticky" data-sticky-gap="8">
+				<script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
+				<iframe
+					src="https://donorbox.org/embed/protect-earth?language=en"
+					name="donorbox"
+					allowpaymentrequest="allowpaymentrequest"
+					seamless="seamless"
+					frameborder="0"
+					scrolling="no"
+					height="1150px"
+					allow="payment"></iframe>
 			</div>
 		</div>
 	</section>
 
 	<TakeAction />
 </Layout>
+
+<style>
+	.wrap {
+		display: grid;
+		grid-template-columns: 1fr 30%;
+		gap: var(--space-2xl);
+		@media screen and (max-width: 844px) {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.widget {
+		padding: var(--space-m);
+		background: var(--white);
+		border-radius: var(--radius-l);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.bank-transfer {
+		padding: var(--space-m);
+		background: var(--white);
+		border-radius: var(--radius-l);
+	}
+</style>

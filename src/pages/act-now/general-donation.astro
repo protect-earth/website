@@ -18,74 +18,83 @@ import TakeAction from '../../components/TakeAction.astro';
 	</ContentHero>
 
 	<!-- Main Content with Donorbox Widget -->
-	<section class="PageSection" data-layout="sidebar-right">
-		<div class="PageSection__content">
-			<!-- Left: Main Content (67%) -->
-			<div>
-				<div class="prose">
-					<p>
-						Support us as we scale reforestation and rewilding across the country, creating and
-						restoring woodlands in England, Scotland, and Wales.
-					</p>
-					<p>
-						Donations mean we can buy more land, hire more staff to get more work done, buy more
-						equipment, and make sure everyone has appropriate and current training.
-					</p>
-					<p>
-						We are especially grateful to our regular donors, who sign up to make monthly
-						contributions. Much of our funding is tied to specific projects. Between projects, when
-						we are searching for land and commissioning surveys to make sure sites are suitable for
-						tree planting, it is harder to pay these costs. Our generous monthly donors allow us to
-						plan and to search to make sure we can find our next woodland, and help work with
-						landowners who are struggling to find their way through the complicated government
-						processes for tree planting.
-					</p>
-					<p>
-						The bigger our team, and the more cash we have on hand, the more work we can do, so help
-						us focus on getting work done instead of trying to find money to get each tree planted.
-					</p>
-				</div>
-			</div>
+	<section class="page-sections wrap">
+		<!-- Left: Main Content -->
 
-			<!-- Right: Donorbox Widget (33%) -->
-			<div>
-				<div class="sticky" data-sticky-gap="8">
-					<script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
-					<iframe
-						src="https://donorbox.org/embed/protect-earth?language=en"
-						name="donorbox"
-						allowpaymentrequest="allowpaymentrequest"
-						seamless="seamless"
-						frameborder="0"
-						scrolling="no"
-						height="700px"
-						class="w-full"
-						style="min-width: 250px; max-height:none!important"
-						allow="payment"></iframe>
-				</div>
-			</div>
-		</div>
-	</section>
+		<div class="prose stack">
+			<p>
+				Support us as we scale reforestation and rewilding across the country, creating and
+				restoring woodlands in England, Scotland, and Wales.
+			</p>
+			<p>
+				Donations mean we can buy more land, hire more staff to get more work done, buy more
+				equipment, and make sure everyone has appropriate and current training.
+			</p>
+			<p>
+				We are especially grateful to our regular donors, who sign up to make monthly contributions.
+				Much of our funding is tied to specific projects. Between projects, when we are searching
+				for land and commissioning surveys to make sure sites are suitable for tree planting, it is
+				harder to pay these costs. Our generous monthly donors allow us to plan and to search to
+				make sure we can find our next woodland, and help work with landowners who are struggling to
+				find their way through the complicated government processes for tree planting.
+			</p>
+			<p>
+				The bigger our team, and the more cash we have on hand, the more work we can do, so help us
+				focus on getting work done instead of trying to find money to get each tree planted.
+			</p>
 
-	<!-- Bank Transfer Section -->
-	<section class="PageSection">
-		<header class="PageSection__header">
-			<h2 class="PageSection__title">Donate via Bank Transfer</h2>
-		</header>
-		<div class="PageSection__content">
-			<div class="BankDetails">
-				<dl>
-					<div><dt>Bank Name:</dt> <dd>The Co-operative Bank Plc</dd></div>
-					<div>
-						<dt>Name on Account:</dt>
-						<dd>Protect Earth</dd>
-					</div>
-					<div><dt>Sort Code:</dt> <dd>08-92-99M</dd></div>
-					<div><dt>Account Number:</dt> <dd>67387863</dd></div>
-				</dl>
+			<div class="bank-transfer">
+				<h2>Donate via Bank Transfer</h2>
+
+				<p><strong>Bank Name:</strong> The Co-operative Bank Plc</p>
+				<p><strong>Name on Account:</strong> Protect Earth</p>
+				<p><strong>Sort Code:</strong> 08-92-99</p>
+				<p><strong>Account Number:</strong> 67387863</p>
 				<p>Please include your name in the reference so we know who the donation has come from.</p>
 			</div>
 		</div>
+		<!-- Right: Donorbox Widget (33%) -->
+		<div class="widget">
+			<div class="sticky" data-sticky-gap="8">
+				<script src="https://donorbox.org/widget.js" paypalExpress="true"></script>
+				<iframe
+					src="https://donorbox.org/embed/protect-earth?language=en"
+					name="donorbox"
+					allowpaymentrequest="allowpaymentrequest"
+					seamless="seamless"
+					frameborder="0"
+					scrolling="no"
+					height="1150px"
+					allow="payment"></iframe>
+			</div>
+		</div>
 	</section>
+
 	<TakeAction />
 </Layout>
+
+<style>
+	.wrap:first-of-type {
+		display: grid;
+		grid-template-columns: 1fr 30%;
+		gap: var(--space-2xl);
+		@media screen and (max-width: 844px) {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.widget {
+		padding: var(--space-m);
+		background: var(--white);
+		border-radius: var(--radius-l);
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.bank-transfer {
+		padding: var(--space-m);
+		background: var(--white);
+		border-radius: var(--radius-l);
+	}
+</style>
