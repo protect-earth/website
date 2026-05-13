@@ -12,144 +12,145 @@ const desc =
 		title="Contact Us"
 		imgSrc="/hero-people-families.jpg"
 		imgAlt="Group of people outdoors planting trees on a hillside"
-	>
-		<p>
-			We'd love to hear from you. Whether you're interested in volunteering, have land to offer, or
-			want to support our work, please get in touch.
-		</p>
-	</ContentHero>
+	/>
 
-	<div class="PageSection">
-		<div class="container readable-width" data-readable-width="larger">
-			<div class="Contact__mainLayout">
-				<div class="Contact__infoSection">
-					<div>
-						<div class="Contact__list">
-							<address>
-								<div>
-									<strong>Email</strong>
+	<section class="page-sections wrap">
+		<div class="columns">
+			<form
+				name="contact"
+				method="POST"
+				data-netlify="true"
+				netlify-honeypot="bot-field"
+				class="squircle stack"
+			>
+				<input type="hidden" name="form-name" value="contact" />
 
-									<a href={`mailto:${siteConfig.contact.email}`}>{siteConfig.contact.email}</a>
-								</div>
+				<p>
+					We'd love to hear from you. Whether you're interested in volunteering, have land to offer,
+					or want to support our work, please get in touch.
+				</p>
 
-								<div>
-									<strong>Phone</strong>
+				<!-- Hidden honeypot field for spam protection -->
+				<p style="display: none;">
+					<label>
+						Don't fill this out if you're human: <input name="bot-field" />
+					</label>
+				</p>
 
-									<a href={siteConfig.contact.phone.link}>{siteConfig.contact.phone.label}</a>
-								</div>
-							</address>
+				<div class="form-message" data-message-container></div>
 
-							<div>
-								<strong>Charity Number</strong>
-								<span>{siteConfig.charityNumber}</span>
-							</div>
-						</div>
-					</div>
-
-					<div>
-						<h2 class="Contact__subTitle">Follow Us</h2>
-						<div class="Contact__list">
-							<div>
-								<a href={siteConfig.social.threads} target="_blank" rel="noopener noreferrer">
-									Threads →
-								</a>
-							</div>
-							<div>
-								<a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer">
-									Instagram →
-								</a>
-							</div>
-							<div>
-								<a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer">
-									Facebook →
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="Contact__formSection">
-					<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-						<input type="hidden" name="form-name" value="contact" />
-
-						<!-- Hidden honeypot field for spam protection -->
-						<p style="display: none;">
-							<label>
-								Don't fill this out if you're human: <input name="bot-field" />
+				<fieldset>
+					<div class="inline-group">
+						<div>
+							<label for="name">
+								Name <span class="field-required">*</span>
 							</label>
-						</p>
-
-						<div class="form-message" data-message-container></div>
-
-						<div class="inline-group">
-							<div>
-								<label for="name">
-									Name <span class="field-required">*</span>
-								</label>
-								<input type="text" id="name" name="name" required />
-							</div>
-
-							<div>
-								<label for="email">
-									Email <span class="field-required">*</span>
-								</label>
-								<input type="email" id="email" name="email" required />
-							</div>
+							<input type="text" id="name" name="name" required />
 						</div>
 
 						<div>
-							<label for="topic">
-								What would you like to discuss with us? <span class="field-required">*</span>
+							<label for="email">
+								Email <span class="field-required">*</span>
 							</label>
-							<select id="topic" name="topic" required>
-								<option value="">Please select...</option>
-								<option value="planting">Planting</option>
-								<option value="financing">Financing</option>
-								<option value="land">Land</option>
-								<option value="other">Other</option>
-							</select>
+							<input type="email" id="email" name="email" required />
 						</div>
+					</div>
+				</fieldset>
 
-						<div>
-							<label for="message">
-								Message <span class="field-required">*</span>
-							</label>
-							<textarea id="message" name="message" rows="6" required></textarea>
-						</div>
+				<fieldset>
+					<label for="topic">
+						What would you like to discuss with us? <span class="field-required">*</span>
+					</label>
+					<select id="topic" name="topic" required>
+						<option value="">Please select...</option>
+						<option value="planting">Planting</option>
+						<option value="financing">Financing</option>
+						<option value="land">Land</option>
+						<option value="other">Other</option>
+					</select>
+				</fieldset>
 
-						<button type="submit">Send Message</button>
+				<fieldset>
+					<label for="message">
+						Message <span class="field-required">*</span>
+					</label>
+					<textarea id="message" name="message" rows="6" required></textarea>
+				</fieldset>
 
-						<footer>
-							<small>
-								We'll get back to you as soon as possible. All fields marked with <span
-									class="field-required">*</span
-								> are required.
-							</small>
-						</footer>
-					</form>
-				</div>
+				<fieldset>
+					<button type="submit" class="button">Send Message</button>
+				</fieldset>
+
+				<small>
+					We'll get back to you as soon as possible. All fields marked with <span
+						class="field-required">*</span
+					> are required.
+				</small>
+			</form>
+
+			<div class="contact-info squircle prose stack">
+				<h3>Email</h3>
+				<p><a href={`mailto:${siteConfig.contact.email}`}>{siteConfig.contact.email}</a></p>
+
+				<h3>Phone</h3>
+				<p>
+					<a href={siteConfig.contact.phone.link} ref="tel">{siteConfig.contact.phone.label}</a>
+				</p>
+
+				<p>
+					<strong>Charity Number</strong>
+					<span>{siteConfig.charityNumber}</span>
+				</p>
+
+				<h2>Follow Us</h2>
+				<ul>
+					<li>
+						<a href={siteConfig.social.threads} target="_blank" rel="noopener noreferrer">
+							Threads
+						</a>
+					</li>
+					<li>
+						<a href={siteConfig.social.instagram} target="_blank" rel="noopener noreferrer">
+							Instagram
+						</a>
+					</li>
+					<li>
+						<a href={siteConfig.social.facebook} target="_blank" rel="noopener noreferrer">
+							Facebook
+						</a>
+					</li>
+				</ul>
 			</div>
 		</div>
-	</div>
+	</section>
 
-	<section class="PageSection" data-variant="muted">
-		<h2 class="PageSection__title">Ways to Get Involved</h2>
-		<div class="PageSection__content">
-			<nav class="PanelLinks">
-				<a href="/get-involved/people-families" class="PanelLinks__link">
-					<strong class="font-bold mb-2">Volunteer</strong>
-					<span>Join us at tree planting events and woodland maintenance days</span>
+	<section class="page-sections wrap">
+		<header>
+			<h2>Ways to Get Involved</h2>
+		</header>
+
+		<nav class="grid">
+			<div class="section-card">
+				<a href="/get-involved/people-families">
+					<h3>Volunteer</h3>
+					<p>Join us at tree planting events and woodland maintenance days</p>
 				</a>
-				<a href="/act-now/general-donation" class="PanelLinks__link">
-					<strong class="font-bold mb-2">Donate</strong>
-					<span> Support our work creating and restoring woodlands across the UK </span>
+			</div>
+
+			<div class="section-card">
+				<a href="/act-now/general-donation">
+					<h3>Donate</h3>
+					<p>Support our work creating and restoring woodlands across the UK</p>
 				</a>
-				<a href="/get-involved/landowners" class="PanelLinks__link">
-					<strong class="font-bold mb-2">Landowners</strong>
-					<span>Have land you'd like to see transformed into woodland?</span>
+			</div>
+
+			<div class="section-card">
+				<a href="/get-involved/landowners">
+					<h3>Landowners</h3>
+					<p>Have land you'd like to see transformed into woodland?</p>
 				</a>
-			</nav>
-		</div>
+			</div>
+		</nav>
 	</section>
 </Layout>
 
@@ -211,3 +212,25 @@ const desc =
 		});
 	});
 </script>
+
+<style>
+	.contact-info {
+		background: var(--white);
+		padding: var(--space-l);
+	}
+
+	form {
+		max-width: auto;
+	}
+
+	.columns {
+		display: grid;
+		grid-template-columns: 44rem 1fr;
+		gap: var(--space-xl);
+
+		@media screen and (max-width: 844px) {
+			grid-template-columns: 1fr;
+			gap: var(--space-l);
+		}
+	}
+</style>
