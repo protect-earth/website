@@ -24,6 +24,7 @@ const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
 		color: var(--body-text-light);
 		clip-path: var(--wavy-line-top-bottom);
 		position: relative;
+		isolation: isolate;
 		padding-block: var(--space-3xl);
 		overflow: hidden;
 	}
@@ -38,6 +39,8 @@ const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
 		flex-flow: column;
 		justify-content: center;
 		align-items: center;
+		position: relative;
+		z-index: 1;
 		font-size: var(--font-m);
 
 		p {
@@ -54,7 +57,7 @@ const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		z-index: -1;
+		z-index: 0;
 
 		img {
 			block-size: 100%;

@@ -1,16 +1,27 @@
+---
+interface Props {
+	title?: string;
+	intro?: string;
+	privacyPrefix?: string;
+	privacySuffix?: string;
+}
+
+const {
+	title = 'Stay up to date',
+	intro = "Join our mailing list to keep up with what we're doing to restore natural habitats and boost biodiversity across the UK.",
+	privacyPrefix = "We don't email too often and you can unsubscribe any time. Your ",
+	privacySuffix = ' and your info will not be passed to third parties.',
+} = Astro.props;
+---
+
 <section class="wrap">
-	<h2>Stay up to date</h2>
+	<h2>{title}</h2>
 
-	<form class="squircle stack">
-		<p>
-			Join our mailing list to keep up with what we're doing to restore natural habitats and boost
-			biodiversity across the UK.
-		</p>
+	<form class="NewsletterSignup__form squircle stack">
+		<p>{intro}</p>
 
 		<p>
-			We don't email too often and you can unsubscribe any time. Your <a href="/privacy-policy"
-				>privacy is important to us</a
-			> and your info will not be passed to third parties.
+			{privacyPrefix}<a href="/privacy-policy">privacy is important to us</a>{privacySuffix}
 		</p>
 
 		<p style="display: none;">

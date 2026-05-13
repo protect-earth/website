@@ -2,7 +2,7 @@
 title: 'Labour’s Attack On Nature'
 description: 'At the beginning Labour seemed to fulfill that promise, bringing eNGOs into Downing Street and listening. However, Labour didn’t seem to hear what they were saying, and the excitement of a new governm'
 pubDate: 2025-12-23T13:23:27.000Z
-author: 'grice.elena.k@gmail.com'
+author: 'Elena Tornberg-Lennox'
 thumbnail: ../../articles/labours-attack-on-nature.jpg
 ---
 

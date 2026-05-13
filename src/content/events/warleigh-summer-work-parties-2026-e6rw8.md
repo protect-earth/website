@@ -15,7 +15,7 @@ thumbnail: /events/warleigh-cover.jpg
 
 ## Drop-in volunteer work parties every Saturday
 
-<div class="Event__imagegroup">
+<div class="event-imagegroup">
 	<img src="/events/warleigh-1.jpg" alt="Warleigh Image 1">
 	<img src="/events/warleigh-2.jpg" alt="Warleigh Image 2">
 	<img src="/events/warleigh-3.jpg" alt="Warleigh Image 3">
