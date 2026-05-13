@@ -8,9 +8,9 @@ type Props = {
 const { href, title, description } = Astro.props;
 ---
 
-<li class="SectionCard">
-	<a class="SectionCard__link" href={href}>
-		<h2 class="SectionCard__title">{title}</h2>
-		<p class="SectionCard__description">{description}</p>
+<div class="section-card">
+	<a href={href}>
+		<h2>{title}</h2>
+		<p>{description}</p>
 	</a>
-</li>
+</div>

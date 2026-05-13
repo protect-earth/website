@@ -13,27 +13,23 @@ import SectionCard from '../../components/SectionCard.astro';
 		<p>Take action to protect the Earth</p>
 	</ContentHero>
 
-	<section class="PageSection">
-		<div class="PageSection__content">
-			<nav aria-label="Ways to take action">
-				<ul class="SectionCards">
-					<SectionCard
-						href="/act-now/sponsor-trees"
-						title="Sponsor Trees"
-						description="Fund tree planting and maintenance"
-					/>
-					<SectionCard
-						href="/act-now/general-donation"
-						title="General Donation"
-						description="Support our work"
-					/>
-					<SectionCard
-						href="/act-now/land-fund"
-						title="Land Fund"
-						description="Help us acquire land for conservation"
-					/>
-				</ul>
-			</nav>
-		</div>
+	<section class="page-sections wrap">
+		<nav class="section-cards grid">
+			<SectionCard
+				href="/act-now/sponsor-trees"
+				title="Sponsor Trees"
+				description="Fund tree planting and maintenance"
+			/>
+			<SectionCard
+				href="/act-now/general-donation"
+				title="General Donation"
+				description="Support our work"
+			/>
+			<SectionCard
+				href="/act-now/land-fund"
+				title="Land Fund"
+				description="Help us acquire land for conservation"
+			/>
+		</nav>
 	</section>
 </Layout>
