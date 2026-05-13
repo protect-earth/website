@@ -7,7 +7,7 @@ type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
 const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = Astro.props;
 ---
 
-<article class="article stack">
+<article class="article">
 	<figure>
 		<a href={`/articles/${slug}`}>
 			{
@@ -22,7 +22,7 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 		</a>
 	</figure>
 
-	<header class="stack">
+	<header>
 		<Tag><a href={`/articles/${slug}`}>{title}</a></Tag>
 		<time datetime={pubDate.toISOString()}>
 			{
@@ -48,7 +48,8 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 
 <style>
 	article {
-		text-align: left;
+		display: flex;
+		flex-flow: column;
 	}
 
 	figure {
@@ -77,7 +78,7 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 	}
 
 	.desc {
-		flex: 1;
+		margin-block-end: var(--space-m);
 	}
 
 	a:not(.button) {
@@ -87,11 +88,16 @@ const { description, pubDate, slug, thumbnail, title, titleAs: Tag = 'h2' } = As
 
 	h2,
 	h3 {
+		margin-block: var(--space-xs);
 		font-size: var(--font-s);
 		font-weight: 700;
 	}
 
 	p {
 		font-size: var(--font-xs);
+	}
+
+	.button {
+		align-self: flex-start;
 	}
 </style>

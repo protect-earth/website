@@ -20,7 +20,7 @@ if (!images || images.length === 0) {
 }
 ---
 
-<aside class="site-image-gallery">
+<aside class="site-image-gallery squircle">
 	<div class="grid image-gallery-grid">
 		{
 			images.map((image, index) => (
@@ -68,7 +68,6 @@ if (!images || images.length === 0) {
 <style>
 	.site-image-gallery {
 		background: var(--grey-light);
-		border-radius: var(--radius-m);
 		padding: var(--space-m);
 	}
 
@@ -113,6 +112,9 @@ if (!images || images.length === 0) {
 		border-radius: 500px;
 		transition: all var(--transition);
 		border: 2px solid var(--border-color);
+		aspect-ratio: 1/1;
+		display: inline-flex;
+		align-items: center;
 	}
 
 	.view-button:hover {
@@ -165,6 +167,8 @@ if (!images || images.length === 0) {
 		border-radius: 500px;
 		transition: all var(--transition);
 		z-index: 10001;
+		aspect-ratio: 1/1;
+		display: inline-flex;
 	}
 
 	.lightbox-close:hover {
@@ -181,6 +185,8 @@ if (!images || images.length === 0) {
 		border-radius: 500px;
 		transition: all var(--transition);
 		z-index: 10001;
+		aspect-ratio: 1/1;
+		display: inline-flex;
 	}
 
 	.lightbox-nav:hover {

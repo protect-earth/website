@@ -35,6 +35,8 @@
 					<input type="text" id="newsletter-last-name" name="lastName" placeholder="Last Name" />
 				</div>
 			</div>
+		</fieldset>
+		<fieldset>
 			<div>
 				<label for="newsletter-email" class="visually-hidden">Email</label>
 				<input
@@ -106,40 +108,5 @@
 
 	section {
 		padding-block-end: var(--space-xl);
-	}
-
-	p {
-		font-size: var(--font-s);
-	}
-
-	form {
-		background: var(--white);
-		max-width: 44rem;
-		margin: auto;
-		align-items: unset;
-	}
-
-	fieldset {
-		display: flex;
-		flex-flow: column;
-		gap: var(--space-s);
-		font-size: var(--font-s);
-	}
-
-	/* This can go once all the styles are cleansed */
-	fieldset > * + * {
-		margin: 0;
-	}
-
-	.inline-group {
-		display: flex;
-		gap: var(--space-s);
-		@media screen and (max-width: 540px) {
-			flex-flow: column;
-		}
-	}
-
-	.inline-group div {
-		flex: 1;
 	}
 </style>
