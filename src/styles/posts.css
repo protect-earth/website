@@ -80,7 +80,7 @@
 			border-inline-start: var(--space-xs) solid var(--accent);
 		}
 
-		ul li>p {
+		ul li > p {
 			font-size: var(--font-s) !important;
 		}
 	}

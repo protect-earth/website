@@ -17,7 +17,7 @@ fieldset {
 	font-size: var(--font-s);
 }
 
-fieldset>div:not(.inline-group) {
+fieldset > div:not(.inline-group) {
 	display: flex;
 	flex-flow: column;
 }
@@ -44,12 +44,14 @@ form small {
 }
 
 textarea,
-input:not(button,
+input:not(
+	button,
 	[type='button'],
 	[type='sumbit'],
 	[type='reset'],
 	[type='checkbox'],
-	[type='radio']) {
+	[type='radio']
+) {
 	appearance: none;
 	border: 2px solid var(--border-color);
 	padding: var(--space-2xs);
