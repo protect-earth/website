@@ -1,3 +1,5 @@
+import { siteConfig } from './config';
+
 export const toKebabCase = (str: string): string =>
 	str
 		.toLowerCase()
@@ -6,6 +8,14 @@ export const toKebabCase = (str: string): string =>
 		.replace(/--+/g, '-')
 		.trim();
 
+// Article categories
+export type CategorySlug = keyof typeof siteConfig.categories;
+
+export function getCategoryName(slug: CategorySlug): string {
+	return siteConfig.categories[slug];
+}
+
+// Site API fetching
 const SITES_API_URL = 'https://api.protect.earth/sites';
 const SITES_FETCH_TIMEOUT_MS = 10_000;
 

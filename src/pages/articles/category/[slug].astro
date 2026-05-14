@@ -1,0 +1,63 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import Layout from '../../../layouts/Layout.astro';
+import ContentHero from '../../../components/ContentHero.astro';
+import ArticleSummary from '../../../components/ArticleSummary.astro';
+import TakeAction from '../../../components/TakeAction.astro';
+import { siteConfig } from '../../../config';
+import { getCategoryName } from '../../../helpers';
+import type { CategorySlug } from '../../../helpers';
+
+export const getStaticPaths = (async () => {
+	const articles = await getCollection('articles');
+	const categoryPaths: Array<{ params: { slug: string }; props: { articles: any[]; categorySlug: CategorySlug } }> = [];
+
+	// Create a path for each category
+	Object.keys(siteConfig.categories).forEach((categorySlug) => {
+		const categoryArticles = articles
+			.filter((article) => article.data.categories?.includes(categorySlug as CategorySlug))
+			.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+			.map((post) => ({ slug: post.id, data: post.data }));
+
+		if (categoryArticles.length > 0) {
+			categoryPaths.push({
+				params: { slug: categorySlug },
+				props: { articles: categoryArticles, categorySlug: categorySlug as CategorySlug },
+			});
+		}
+	});
+
+	return categoryPaths;
+}) satisfies GetStaticPaths;
+
+const { articles, categorySlug } = Astro.props;
+const categoryName = getCategoryName(categorySlug);
+const articleCount = articles.length;
+---
+
+<Layout title={`${categoryName} Articles`} breadcrumb={categoryName}>
+	<!-- Hero Section -->
+	<ContentHero
+		imgSrc="/hero-articles.jpg"
+		imgAlt="People planting trees in an open field."
+		title={categoryName}
+	>
+		<p>{articleCount} article{articleCount !== 1 ? 's' : ''} in this category</p>
+	</ContentHero>
+
+	<!-- Articles List -->
+	<section class="page-sections wrap">
+		<div class="grid">
+			{articles.map(({ slug, data: article }) => <ArticleSummary {...{ ...article, slug }} />)}
+		</div>
+	</section>
+
+	<TakeAction />
+</Layout>
+
+<style>
+	.grid {
+		grid-template-columns: var(--grid-fill);
+	}
+</style>

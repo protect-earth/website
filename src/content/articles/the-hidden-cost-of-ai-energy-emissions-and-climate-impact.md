@@ -2,8 +2,10 @@
 title: 'The Hidden Cost of AI: Energy, Emissions, and Climate Impact'
 description: 'AI has been everywhere since ChatGPT dropped in late 2022. Behind all that whirring and chugging is some high energy consumption.'
 pubDate: 2024-11-11T15:11:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/the-hidden-cost-of-ai-energy-emissions-and-climate-impact.jpg
+categories:
+  - climate-environment
 ---
 
 Artificial Intelligence has been everywhere since ChatGPT first dropped in late 2022. Want an imaginative image? Want a technical drawing to show your architect how you want a kitchen refurbished or a new conservatory to look? Want to write a bedtime story based on your child’s day? AI will do it all without breaking a sweat. Or, so we thought. We input a command into the field, and the interface whistles, whirrs, and pops, and then we get something close or far from what we had in mind, depending on the strength of the prompt. Behind all that whirring and chugging is some high energy consumption.

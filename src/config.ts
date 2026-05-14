@@ -27,4 +27,17 @@ export const siteConfig = {
 
 	// Sites to ignore from API data
 	ignoredSites: ['Burnsall', 'Donkeywell Farm', 'Newcastle Emlyn', 'Wraxall'],
+
+	categories: {
+		'woodland-management': 'Woodland Management',
+		'woodland-creation': 'Woodland Creation',
+		'conservation-biodiversity': 'Conservation & Biodiversity',
+		'invasive-species': 'Invasive Species',
+		'updates-progress': 'Updates & Progress',
+		'community-volunteering': 'Community & Volunteering',
+		'sustainable-farming': 'Sustainable Farming',
+		'climate-environment': 'Climate & Environment',
+		'policy-funding': 'Policy & Funding',
+		'wildlife-habitats': 'Wildlife & Habitats',
+	},
 } as const;

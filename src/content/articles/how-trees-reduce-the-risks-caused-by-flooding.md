@@ -2,7 +2,7 @@
 title: 'How trees reduce the risks caused by flooding'
 description: 'Flooding in the UK is increasing! Trees serve as a natural flood defence and, if enough are planted, can even prevent flooding. Read on for more!'
 pubDate: 2023-10-30T08:01:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/how-trees-reduce-the-risks-caused-by-flooding.jpg
 ---
 

@@ -19,6 +19,18 @@ const articles = defineCollection({
 			pubDate: z.date(),
 			author: z.string(),
 			thumbnail: image().optional(),
+			categories: z.array(z.enum([
+				'woodland-management',
+				'woodland-creation',
+				'conservation-biodiversity',
+				'invasive-species',
+				'updates-progress',
+				'community-volunteering',
+				'sustainable-farming',
+				'climate-environment',
+				'policy-funding',
+				'wildlife-habitats',
+			])).optional(),
 		}),
 });
 

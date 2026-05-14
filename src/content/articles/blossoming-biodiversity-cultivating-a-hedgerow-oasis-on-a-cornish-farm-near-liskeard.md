@@ -2,7 +2,7 @@
 title: 'Blossoming biodiversity: Cultivating a hedgerow oasis on a Cornish farm near Liskeard'
 description: 'After hearing about our habitat restoration project at High Wood, a local farmer reached out to develop their farm.'
 pubDate: 2023-12-20T21:54:56.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: "A Year of Care: Andrew Gifford's Mission to Nurture Saplings for Protect Earth"
 description: 'Help and support from the Protect Earth community comes in many forms at different times. Andrew Gifford lent support in an urgent time of need!'
 pubDate: 2024-03-04T07:38:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-year-of-care-andrew-giffords-mission-to-nurture-saplings-for-protect-earth.jpg
 ---
 

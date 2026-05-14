@@ -4,6 +4,9 @@ description: 'Learn what coppicing is, why it matters for biodiversity, and how 
 pubDate: 2026-05-07T12:57:00.000Z
 author: 'Elena Tornberg-Lennox'
 thumbnail: ../../articles/intro-to-coppicing.jpg
+categories:
+  - woodland-management
+  - conservation-biodiversity
 ---
 
 Coppicing has been reintroduced at Warleigh Nature Reserve, after a long history of neglect, returning this woodland to a haven for insects, birds and rodents. Coppicing is making a comeback, but this time mainly as a conservation tool, as it has been shown to improve biodiversity. Before its recent return though, coppicing was a history of the people and the land, a symbiotic, sustainable relationship that created its own language, tools and culture.

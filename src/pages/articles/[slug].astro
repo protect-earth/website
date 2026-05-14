@@ -5,6 +5,8 @@ import TakeAction from '../../components/TakeAction.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
 import { Image } from 'astro:assets';
 import { render } from 'astro:content';
+import { getCategoryName } from '../../helpers';
+import type { CategorySlug } from '../../helpers';
 
 export async function getStaticPaths() {
 	const articles = await getCollection('articles');
@@ -23,7 +25,7 @@ if (!article) {
 }
 
 const {
-	data: { author, description, pubDate, title, thumbnail },
+	data: { author, description, pubDate, title, thumbnail, categories },
 } = article;
 const { Content } = await render(article);
 ---
@@ -34,6 +36,13 @@ const { Content } = await render(article);
 		<header>
 			<div class="wrap">
 				<h1>{title}</h1>
+				{categories && categories.length > 0 && (
+					<div class="categories">
+						{categories.map((category: CategorySlug) => (
+							<a href={`/articles/category/${category}`} class="category-badge">{getCategoryName(category)}</a>
+						))}
+					</div>
+				)}
 				<dl class="meta">
 					<dt class="visually-hidden">Posted at</dt>
 					<dd>

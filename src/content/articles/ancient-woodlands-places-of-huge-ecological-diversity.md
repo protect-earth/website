@@ -2,8 +2,11 @@
 title: 'Ancient woodlands - places of huge ecological diversity'
 description: 'Ancient woodlands are irreplaceable ecosystems that have existed for centuries, supporting unique biodiversity and ecological complexity.'
 pubDate: 2023-02-20T09:44:23.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/ancient-woodlands-places-of-huge-ecological-diversity.jpg
+categories:
+  - conservation-biodiversity
+  - wildlife-habitats
 ---
 
 <figure>
@@ -85,45 +88,28 @@ The following lists rattle through the plants and animals in ancient woodlands.
 
 #### **Plants found in ancient woodlands**
 
-Bluebell
-
-Wood anemone
-
-Primrose
-
-Lichens
-
-Lily-of-the-valley
-
-Wild garlic
-
-Dog’s mercury
-
-Red campion
-
-Barnacle lichen
-
-Lungwort lichens
-
-Guelder rose
-
-Lime
-
-Spindle
-
-Fern (Scaley male fern, hard fern, hart’s tongue fern)
-
-Hazel gloves fungus
-
-Pendulous Sedge
+- Bluebell
+- Wood anemone
+- Primrose
+- Lichens
+- Lily-of-the-valley
+- Wild garlic
+- Dog’s mercury
+- Red campion
+- Barnacle lichen
+- Lungwort lichens
+- Guelder rose
+- Lime
+- Spindle
+- Fern (Scaley male fern, hard fern, hart’s tongue fern)
+- Hazel gloves fungus
+- Pendulous Sedge
 
 #### **Insects found in ancient woodlands**
 
-Lemon slug
-
-Violet click beetle
-
-Molluscs (slugs and snails)
+- Lemon slug
+- Violet click beetle
+- Molluscs (slugs and snails)
 
 ### Conclusion
 

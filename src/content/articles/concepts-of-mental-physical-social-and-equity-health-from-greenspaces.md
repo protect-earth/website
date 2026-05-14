@@ -2,7 +2,7 @@
 title: 'Concepts of Mental, Physical, Social, and Equity Health from Greenspaces'
 description: "Examining the research on green space's impact on health - mental, physical, social, and social equity. Not everyone understands the benefits of being outdoors."
 pubDate: 2024-07-25T14:41:46.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/concepts-of-mental-physical-social-and-equity-health-from-greenspaces.jpg
 ---
 

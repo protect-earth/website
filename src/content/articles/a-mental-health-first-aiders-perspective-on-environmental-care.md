@@ -2,7 +2,7 @@
 title: "A Mental Health First Aider's Perspective on Environmental Care"
 description: 'Safeguarding the environment goes hand in hand with fostering mental well-being. Daisy White from Park Avenue Recruitment shares her insights.'
 pubDate: 2024-06-05T13:28:34.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-mental-health-first-aiders-perspective-on-environmental-care.jpg
 ---
 

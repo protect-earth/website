@@ -2,7 +2,7 @@
 title: 'Hoofprint harmony: a smallholding and paddocks in North Devon develops sustainable woodlands to counteract equine impact'
 description: 'The owner of a paddocks and stables in North Devon wanted to convert their unused land by introducing small bursts of woodlands and hedging encouraging greater biodiversity on their site.'
 pubDate: 2023-12-29T13:14:49.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/hoofprint-harmony-a-smallholding-and-paddocks-in-north-devon-develops-sustainable-woodlands-to-counteract-equine-impact.jpg
 ---
 

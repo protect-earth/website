@@ -2,8 +2,10 @@
 title: 'Agroforestry: Our Favourite Examples'
 description: 'Agroforestry represents a small fraction of UK land use, however this novel approach to land management bears fruit in more ways than one.'
 pubDate: 2022-12-19T12:00:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/best-agroforestry-in-the-uk.jpeg
+categories:
+  - sustainable-farming
 ---
 
 ### Agroforestry currently represents a small fraction of UK land use, however, this novel approach to land management bares fruit in more ways than one. This article highlights a selection of our favourite organisations breaking new ground in Agroforestry.

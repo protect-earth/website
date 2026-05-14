@@ -1,14 +1,14 @@
 ---
 title: 'Invasive Aliens book review'
-description: 'In his book, "Invasive Aliens: The Plants and Animals From Over There That Are Over Here", Dan Eatherley investigates the movement of plants and animals and the consequences it’s had on different habi'
+description: 'In his book, "Invasive Aliens: The Plants and Animals From Over There That Are Over Here", Dan Eatherley investigates the movement of plants and animals and the consequences it’s had on habitats.'
 pubDate: 2023-10-09T06:30:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/dan-eatherley-invasive-aliens-the-plants-and-animals-from-over-there-that-are-over-here-book-review.jpg
 ---
 
 In his book, "Invasive Aliens: The Plants and Animals From Over There That Are Over Here", Dan Eatherley constructs a fairly complete story all about how humans have directly or indirectly assisted things that were once located in only one place to now be present in more than one place and the consequence of this propagation. That was a very long sentence. I hope you're still with me.
 
-Eatherley points out it's been humans at the apex with all other non-native species following or being dragged behind us. Non-native species have had so much success travelling because we brought them places. This simple distinction is often overlooked. We assume they move on their own or some historical or foreign figure brought these species purposefully. Nope.
+Eatherley points out it's been humans at the apex with all other non-native species following or being dragged behind us. Non-native species have had so much success traveling because we brought them places. This simple distinction is often overlooked. We assume they move on their own or some historical or foreign figure brought these species purposefully. Nope.
 
 There has been a lot gained from bringing one thing from way over there to way over here as humans moved - such as grains to eat and domesticated animals to, well, eat at first, and then we discovered we could exploit them in life, eat them, and then wear them.
 

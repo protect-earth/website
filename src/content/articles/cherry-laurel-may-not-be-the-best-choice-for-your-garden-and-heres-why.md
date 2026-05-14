@@ -2,7 +2,7 @@
 title: 'Cherry Laurel may not be the best choice for your garden and here’s why'
 description: 'Cherry Laurel is an all year long green shrub that grows easily everywhere. A lot of pros for low maintenance plants. But, it’s not all good with Cherry Laurel. Read on to discover the downsides…'
 pubDate: 2023-05-30T06:30:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why.jpg
 ---
 

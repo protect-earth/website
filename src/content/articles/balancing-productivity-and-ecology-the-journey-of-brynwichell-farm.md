@@ -2,7 +2,7 @@
 title: 'Balancing Productivity and Ecology: The Journey of Brynwichell Farm'
 description: 'Brynwichell Farm in West Wales is a modern working farm creating woodlands, shelterbelts and wild ponds. Repairing land increases yield without artifice.'
 pubDate: 2024-05-20T07:34:00.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/balancing-productivity-and-ecology-the-journey-of-brynwichell-farm.jpeg
 ---
 

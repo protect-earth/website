@@ -2,11 +2,11 @@
 title: 'Lessons from Pontbren: How Nature and Food Production Can Coexist in Farming'
 description: 'Examining Pontbren, a mould-breaking case study showing benefits of sustainable farming. Can biodiversity and food production coexist on Welsh farms?'
 pubDate: 2024-03-08T14:01:51.000Z
-author: 'Phil Sturgeon'
+author: 'Eoghan McHugh'
 thumbnail: ../../articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg
 ---
 
-Land use is always a complicated topic. This long-running debate between biodiversity/climate advocates and food production has been flaring up to historic proportions in Wales after the government's move towards its new Sustainable Farming Scheme. This new scheme replaces subsidies that were given purely based on the size of farmable land available with a scheme that rewards sustainable farming.&nbsp;
+Land use is always a complicated topic. This long-running debate between biodiversity/climate advocates and food production has been flaring up to historic proportions in Wales after the government's move towards its new Sustainable Farming Scheme. This new scheme replaces subsidies that were given purely based on the size of farmable land available with a scheme that rewards sustainable farming.
 
 There has been a lot of misunderstanding around the new requirements. Some interpreters suggest that 10% of farmland needs to be planted with trees; otherwise, farmers' incomes would drop by 10%. This is not quite the case, as the ask is to get tree/hedge cover "up to 10%," with the existing average already being 6-7%. Will adding 3-4% more tree/hedge cover to a farm wreck the potential for food production?
 
