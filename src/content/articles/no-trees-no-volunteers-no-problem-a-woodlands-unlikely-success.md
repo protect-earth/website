@@ -2,6 +2,7 @@
 title: 'No Trees, No Volunteers, No Problem: A Woodland’s Unlikely Success'
 description: "When saplings went to the wrong address and volunteers didn't show up, circumstances couldn't stop us. We still planted 800 trees in Mid-Wales."
 pubDate: 2025-02-02T19:39:50.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/no-trees-no-volunteers-no-problem-a-woodlands-unlikely-success.jpeg
 ---

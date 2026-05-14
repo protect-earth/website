@@ -2,6 +2,7 @@
 title: 'Warleigh Nature Reserve'
 description: 'Protect Earth has completed the purchase of an 81-acre site in Bath, between Warleigh Wood and the River Avon, creating a new nature reserve with huge potential for long-term ecosystem restoration.'
 pubDate: 2026-03-28T00:00:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Elena Tornberg-Lennox'
 thumbnail: ../../articles/warleigh-reserve.webp
 ---

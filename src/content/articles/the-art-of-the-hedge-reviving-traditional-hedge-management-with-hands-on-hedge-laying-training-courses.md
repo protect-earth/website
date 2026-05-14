@@ -2,6 +2,7 @@
 title: 'The Art of the Hedge: Reviving Traditional Hedge Management with Hands-On Hedge Laying Training Courses'
 description: "Picture the countryside and there's likely a hedge—marking roadsides, giving dappled views. Hedgerows are ingrained in our countryside, yet they're disappearing."
 pubDate: 2025-04-28T19:17:15.000Z
+categories: ['woodland-management']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/the-art-of-the-hedge-reviving-traditional-hedge-management-with-hands-on-hedge-laying-training-courses.jpg
 ---

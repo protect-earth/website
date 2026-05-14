@@ -2,6 +2,7 @@
 title: 'Invasive Aliens book review'
 description: 'In his book, "Invasive Aliens: The Plants and Animals From Over There That Are Over Here", Dan Eatherley investigates the movement of plants and animals and the consequences it’s had on habitats.'
 pubDate: 2023-10-09T06:30:00.000Z
+categories: ['invasive-species']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/dan-eatherley-invasive-aliens-the-plants-and-animals-from-over-there-that-are-over-here-book-review.jpg
 ---

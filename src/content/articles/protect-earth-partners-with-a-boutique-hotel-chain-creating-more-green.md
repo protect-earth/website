@@ -2,6 +2,7 @@
 title: 'Protect Earth Partners with Exclusive Collection to Create Greener Hotel Grounds'
 description: 'Protect Earth partnered with boutique hotel group Exclusive Collection to plant 3,985 saplings across three properties, creating greener, healthier landscapes.'
 pubDate: 2024-02-12T08:05:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg
 ---

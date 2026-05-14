@@ -2,6 +2,7 @@
 title: "Highlights from Protect Earth's Second Annual Open Day"
 description: 'On June 8th, Protect Earth hosted its second annual Open Day at High Wood, bringing together enthusiastic attendees to celebrate the woodland transformation.'
 pubDate: 2024-08-06T13:23:44.000Z
+categories: ['community-volunteering']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/highlights-from-protect-earths-second-annual-open-day.jpg
 ---

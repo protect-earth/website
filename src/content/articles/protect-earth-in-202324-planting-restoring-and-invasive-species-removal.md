@@ -2,6 +2,7 @@
 title: 'Protect Earth in 2023/24 - planting, restoring, and invasive species removal'
 description: 'We unveil our plans for this coming season - what is to be done! We have an exciting year ahead of us.'
 pubDate: 2023-11-27T23:03:18.000Z
+categories: ['invasive-species']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal.jpg
 ---

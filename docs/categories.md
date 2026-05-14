@@ -6,18 +6,18 @@ Category configuration is defined in `/src/config.ts` in the `CATEGORY_MAP` cons
 
 ## Available Categories
 
-| Slug | Display Name | Description |
-|------|--------------|-------------|
-| `woodland-management` | **Woodland Management** | Articles about coppicing, hedge laying, thinning, maintenance techniques, traditional woodland practices, and how-to guides for woodland care |
-| `woodland-creation` | **Woodland Creation** | Tree planting guides, restoration projects, planting techniques, best practices, and establishing new woodlands |
+| Slug                        | Display Name                    | Description                                                                                                                                                          |
+| --------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `woodland-management`       | **Woodland Management**         | Articles about coppicing, hedge laying, thinning, maintenance techniques, traditional woodland practices, and how-to guides for woodland care                        |
+| `woodland-creation`         | **Woodland Creation**           | Tree planting guides, restoration projects, planting techniques, best practices, and establishing new woodlands                                                      |
 | `conservation-biodiversity` | **Conservation & Biodiversity** | Biodiversity importance, habitat creation, ancient woodlands, hedgerows, species protection, ecological topics, educational explainers, and misconceptions addressed |
-| `invasive-species` | **Invasive Species** | Articles about tackling invasive plants (Japanese knotweed, bamboo, rhododendrons, balsam, etc.), their impact, and practical removal guides |
-| `updates-progress` | **Updates & Progress** | Annual reports, site-specific updates (High Wood, Goytre Wood, Nannerch), seasonal summaries, and achievements |
-| `community-volunteering` | **Community & Volunteering** | Corporate volunteering, volunteer experiences, community courses, events, team building, and personal stories |
-| `sustainable-farming` | **Sustainable Farming** | Agroforestry, regenerative farming, case studies (like Pontbren), and balancing food production with nature |
-| `climate-environment` | **Climate & Environment** | Climate crisis impacts, flooding, droughts, storms, carbon sequestration, environmental challenges, thought pieces, and book reviews |
-| `policy-funding` | **Policy & Funding** | Government schemes, regulations, funding challenges, land management policies, and policy analysis |
-| `wildlife-habitats` | **Wildlife & Habitats** | Specific species (red squirrels, beavers, birds), wildlife habitats, ecosystem relationships, and species guides |
+| `invasive-species`          | **Invasive Species**            | Articles about tackling invasive plants (Japanese knotweed, bamboo, rhododendrons, balsam, etc.), their impact, and practical removal guides                         |
+| `updates-progress`          | **Updates & Progress**          | Annual reports, site-specific updates (High Wood, Goytre Wood, Nannerch), seasonal summaries, and achievements                                                       |
+| `community-volunteering`    | **Community & Volunteering**    | Corporate volunteering, volunteer experiences, community courses, events, team building, and personal stories                                                        |
+| `sustainable-farming`       | **Sustainable Farming**         | Agroforestry, regenerative farming, case studies (like Pontbren), and balancing food production with nature                                                          |
+| `climate-environment`       | **Climate & Environment**       | Climate crisis impacts, flooding, droughts, storms, carbon sequestration, environmental challenges, thought pieces, and book reviews                                 |
+| `policy-funding`            | **Policy & Funding**            | Government schemes, regulations, funding challenges, land management policies, and policy analysis                                                                   |
+| `wildlife-habitats`         | **Wildlife & Habitats**         | Specific species (red squirrels, beavers, birds), wildlife habitats, ecosystem relationships, and species guides                                                     |
 
 ## Usage
 

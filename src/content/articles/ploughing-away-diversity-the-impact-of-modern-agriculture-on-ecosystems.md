@@ -2,6 +2,7 @@
 title: 'Ploughing Away Diversity: The Impact of Modern Agriculture on Ecosystems'
 description: "Wildflower meadows have disappeared. Tragically, we have lost 97% of the UK's wildflower meadows since the 1930s, displacing natural inhabitants."
 pubDate: 2024-03-24T19:15:15.000Z
+categories: ['sustainable-farming']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/ploughing-away-diversity-the-impact-of-modern-agriculture-on-ecosystems.jpeg
 ---

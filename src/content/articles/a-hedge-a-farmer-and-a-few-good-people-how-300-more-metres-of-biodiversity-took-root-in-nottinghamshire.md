@@ -2,6 +2,7 @@
 title: 'A Hedge, a Farmer, and a Few Good People: How 300 More Metres of Biodiversity Took Root in Nottinghamshire'
 description: 'Working with Reuseabox and a Nottinghamshire farmer to plant 1,000 saplings. Grassroots action and collaboration in action.'
 pubDate: 2025-06-16T07:00:00.000Z
+categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-hedge-a-farmer-and-a-few-good-people-how-300-more-metres-of-biodiversity-took-root-in-nottinghamshire.jpg
 ---

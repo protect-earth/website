@@ -2,6 +2,7 @@
 title: 'Restoring West Field Wood: A Shared Vision for Biodiversity'
 description: 'When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration,...'
 pubDate: 2025-02-16T17:09:26.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg
 ---

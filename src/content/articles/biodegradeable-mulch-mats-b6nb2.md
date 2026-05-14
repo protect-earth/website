@@ -2,6 +2,7 @@
 title: 'Keeping Saplings Alive with Mulch Mats'
 description: 'A forester joked "Planting a tree is step 42 of forestry", and it is by no means the last step. Now that spring is here, these young saplings need all the water and nutrients they can get, but grass a'
 pubDate: 2021-05-19T20:42:19.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 ---
 

@@ -2,6 +2,7 @@
 title: 'The importance of national parks to the UK'
 description: 'Now celebrating their seventieth year in the UK, national parks offer substantial benefits. The approach of setting aside land to just be is a fantastic model, and what national parks have achieved fo'
 pubDate: 2023-10-16T06:29:00.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-importance-of-national-parks-to-the-uk.jpg
 ---

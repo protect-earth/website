@@ -2,6 +2,7 @@
 title: 'Introducing Steve Wiltshire, ecologist at Protect Earth'
 description: 'Joey from marketing agency TMD interviews Steve about his life in conservation, skills required, impact of climate change, and wildlife at Protect Earth sites.'
 pubDate: 2022-09-21T13:46:05.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/introducing-steve-wiltshire.jpg
 ---

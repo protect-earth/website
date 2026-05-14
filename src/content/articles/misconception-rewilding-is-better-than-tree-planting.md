@@ -2,6 +2,7 @@
 title: 'Misconception: "Rewilding" is better than tree planting'
 description: 'Natural colonisation or tree-planting? They’re not mutually exclusive, but are friends in the same tool kit to grow and create green spaces.'
 pubDate: 2023-07-09T19:02:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
 ---

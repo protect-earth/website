@@ -2,6 +2,7 @@
 title: 'The Lost Rainforests of Britain'
 description: 'Guy Shrubsole - researcher, writer, and environmentalist - has just released *The Lost Rainforests of Britain*, his account of discovering Britain’s rainforests. Take a look at the book with us!'
 pubDate: 2023-05-01T06:30:00.000Z
+categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-lost-rainforests-of-britain.jpg
 ---

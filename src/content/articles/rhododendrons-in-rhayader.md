@@ -2,6 +2,7 @@
 title: 'Rescuing Ancient Woodlands from Rhododendron'
 description: "It interests us how many things we do are connected. Often it's one landowner recommending us to a neighbour, but this story links several services we offer."
 pubDate: 2025-10-29T09:56:13.000Z
+categories: ['conservation-biodiversity']
 author: 'kathy@protect.earth'
 thumbnail: ../../articles/rhododendrons-in-rhayader.jpg
 ---

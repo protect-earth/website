@@ -2,6 +2,7 @@
 title: 'High Wood, Liskeard – Woodland Restoration – Update Winter 2023'
 description: 'Habitat restoration on Protect Earth’s High Wood continues. Steve the Ecologist updates us on this year’s activities.'
 pubDate: 2023-12-13T14:05:18.000Z
+categories: ['policy-funding']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg
 ---

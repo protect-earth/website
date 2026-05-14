@@ -2,6 +2,7 @@
 title: 'How Small Changes in Your Garden and Community Can Enhance Biodiversity'
 description: 'Many ways to support biodiversity in the UK, even at home. Planting more things and thinking about what insects and animals to attract will increase biodiversity.'
 pubDate: 2024-11-05T21:47:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/how-small-changes-in-your-garden-and-community-can-enhance-biodiversity.jpg
 ---

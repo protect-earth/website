@@ -2,6 +2,7 @@
 title: 'Protecting Your Saplings: Tips for Thriving Young Woodlands'
 description: 'Your young woodlands are raring to go—pushing out of their guards, stretching skyward, and ready to boost biodiversity. Now, how do you care for them, from saplings to thriving woodland members?'
 pubDate: 2025-02-03T07:30:00.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/protecting-your-saplings-tips-for-thriving-young-woodlands.jpg
 ---

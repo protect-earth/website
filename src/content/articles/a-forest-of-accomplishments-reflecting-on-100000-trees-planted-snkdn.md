@@ -2,6 +2,7 @@
 title: 'A Forest of Accomplishments: Reflecting on 100,000 Trees Planted'
 description: "As a member of the Protect Earth community, you've contributed to planting 100,000 native, broad-leaf trees in just three short years!"
 pubDate: 2024-05-06T11:15:13.000Z
+categories: ['updates-progress']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted-snkdn.jpg
 ---

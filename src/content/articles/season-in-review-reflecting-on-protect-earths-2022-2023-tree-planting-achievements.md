@@ -2,6 +2,7 @@
 title: "A Season in Review: Reflecting on Protect Earth's Tree Planting Achievements in 2022/23"
 description: 'Protect Earth’s goal is to do more for the planet. We’ve put boots to ground to do so and now we’re coming clean with how much habitat we’ve restored and where. Dive in and enjoy!'
 pubDate: 2023-09-19T06:29:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'Tree Guards: Do we need Plastic Tubes?'
 description: 'A look at the different kinds of tubes to protect young saplings'
 pubDate: 2021-05-20T10:18:53.000Z
+categories: ['policy-funding']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protecting-saplings.png
 ---

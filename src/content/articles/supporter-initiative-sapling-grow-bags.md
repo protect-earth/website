@@ -2,6 +2,7 @@
 title: 'Supporter initiative - sapling grow bags'
 description: 'A supporter initiative creating sapling grow bags to help young trees establish and thrive.'
 pubDate: 2023-03-27T07:30:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/supporter-initiative-sapling-grow-bags.jpg
 ---

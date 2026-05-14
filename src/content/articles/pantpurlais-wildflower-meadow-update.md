@@ -2,6 +2,7 @@
 title: 'Pantpurlais wildflower meadow update'
 description: 'Wildflower meadows are beautiful - many a poem has been written about and in these places. Beautiful as they are, they are hives of life! Any number of vital species of insects can claim home in these'
 pubDate: 2023-08-07T06:34:00.000Z
+categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/pantpurlais-wildflower-meadow-update.jpg
 ---

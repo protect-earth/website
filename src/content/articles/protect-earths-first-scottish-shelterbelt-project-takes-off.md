@@ -2,6 +2,7 @@
 title: "Protect Earth's first Scottish shelterbelt project takes off"
 description: 'Marking our first planting north of the border, Protect Earth planted 2,675 native saplings across 1.5 acres of East Ayrshire farmland to create shelterbelts and woodlands.'
 pubDate: 2024-11-18T07:26:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earths-first-scottish-shelterbelt-project-takes-off.jpg
 ---

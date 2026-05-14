@@ -2,6 +2,7 @@
 title: 'The difficulties and benefits of wildflower meadow creation'
 description: 'Wildflower meadows develop into incredibly diverse ecosystems that are incredibly fulfilling to manage. But, they are also time consuming to develop. Learn more and how you can develop a wildflower me'
 pubDate: 2023-07-10T06:34:00.000Z
+categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-difficulties-and-benefits-of-wildflower-meadow-creation.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'Wildflower Meadows, Summer Planting, and Gift Aid'
 description: "While hunting for land to buy, we've been busy planning 100,000 trees for the 2021/22 season through site visits, contracts and grant applications."
 pubDate: 2021-09-14T12:35:53.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/september-2021-update.jpg
 ---

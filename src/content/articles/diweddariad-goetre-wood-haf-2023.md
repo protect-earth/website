@@ -2,6 +2,7 @@
 title: 'Diweddariad Goetre Wood – Haf 2023'
 description: "Yn ddiweddar bu Steve yr Ecolegydd ar ychydig o ymweliadau â Goetre Wood ym Mhowys. Roedd llawer o adar y coetir wrth law i'w groesawu. Darllenwch fwy am ba adar oedd yno ac adar newydd yn ymweld â Ch"
 pubDate: 2023-08-14T12:03:59.000Z
+categories: ['policy-funding']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/diweddariad-goetre-wood-haf-2023.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'Protecting River Roding from Japanese Knotweed'
 description: 'Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various...'
 pubDate: 2025-12-11T17:46:21.000Z
+categories: ['invasive-species']
 author: 'phil@protect.earth'
 thumbnail: ../../articles/protecting-river-roding-from-japanese-knotweed.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'Where do our saplings come from?'
 description: 'We plant saplings because they’re small but mighty. They’ve gone through the tough process of germination, and unlike trees you’ll find at garden centres they’re not huge and expensive. If we had to...'
 pubDate: 2023-02-03T21:58:11.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/where-do-our-saplings-come-from.jpg
 ---

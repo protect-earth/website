@@ -2,6 +2,7 @@
 title: 'The disappearance of biodiversity in the UK'
 description: 'The UK’s natural space has been battered and abused for centuries. Despite attempts to improve the situation, it’s continuing to decline with additional issues creeping in that will further worsen the'
 pubDate: 2024-01-12T00:24:37.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-disappearance-of-biodiversity-in-the-uk.jpg
 ---

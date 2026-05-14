@@ -2,6 +2,7 @@
 title: 'Join us in planting trees all over the country this winter'
 description: 'Fancy getting your hands dirty and doing your bit to put a dent in the climate crisis? Come and help us plant a whole load of trees.'
 pubDate: 2022-10-12T09:16:59.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/tree-planting-events-2022-23.jpg
 ---

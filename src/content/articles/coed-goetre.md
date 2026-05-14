@@ -2,6 +2,7 @@
 title: 'Coed Goetre: ein cymuned goedwig newydd yng Nghymru!'
 description: 'Wedi caffael 70 erw o dir ym Mhowys, Cymru, yn cynnwys 20 erw o goedwig a 50 erw o borfa fynydd mewn ardal coedwig law dymherus.'
 pubDate: 2023-02-24T12:31:05.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/goytre-wood.jpg
 ---

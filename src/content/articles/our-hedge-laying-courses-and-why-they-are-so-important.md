@@ -2,6 +2,7 @@
 title: 'Our Hedge-Laying Courses and Why They Are Important.'
 description: 'Protect Earth’s hedge-laying courses are helping revive a practical countryside skill that strengthens hedgerows for wildlife, farming resilience, and long-term landscape health.'
 pubDate: 2026-01-20T00:00:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Kathy Sturgeon'
 thumbnail: ../../articles/our-hedge-laying-courses-and-why-they-are-so-important.jpeg
 ---

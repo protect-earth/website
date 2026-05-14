@@ -2,6 +2,7 @@
 title: 'From Wild Swimmer to Woodland Guardian – Michael Joins the Team'
 description: 'Michael Cunningham joins Protect Earth as Project Manager, bringing BSc in Conservation, chainsaw certification, and dedication to support all our projects.'
 pubDate: 2025-06-25T18:25:18.000Z
+categories: ['woodland-management']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/from-wild-swimmer-to-woodland-guardian-michael-joins-the-team.jpg
 ---

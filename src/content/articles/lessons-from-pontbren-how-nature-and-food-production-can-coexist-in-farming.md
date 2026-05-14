@@ -2,6 +2,7 @@
 title: 'Lessons from Pontbren: How Nature and Food Production Can Coexist in Farming'
 description: 'Examining Pontbren, a mould-breaking case study showing benefits of sustainable farming. Can biodiversity and food production coexist on Welsh farms?'
 pubDate: 2024-03-08T14:01:51.000Z
+categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/lessons-from-pontbren-how-nature-and-food-production-can-coexist-in-farming.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'Removing Invasive Bamboo to Improve Biodiversity'
 description: 'Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown...'
 pubDate: 2022-08-03T20:24:37.000Z
+categories: ['invasive-species']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/removing-invasive-bamboo.jpg
 ---

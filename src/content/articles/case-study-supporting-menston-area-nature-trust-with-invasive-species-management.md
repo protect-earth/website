@@ -2,6 +2,7 @@
 title: 'Case Study: Supporting Menston Area Nature Trust with Invasive Species Management'
 description: 'Protect Earth partners with Menston Area Nature Trust to manage invasive rhododendron species damaging native wildlife habitat in East Wood, West Yorkshire.'
 pubDate: 2025-04-14T07:00:00.000Z
+categories: ['invasive-species']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/case-study-supporting-menston-area-nature-trust-with-invasive-species-management.jpeg
 ---

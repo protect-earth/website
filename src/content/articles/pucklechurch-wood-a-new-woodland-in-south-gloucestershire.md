@@ -2,6 +2,7 @@
 title: 'Pucklechurch Wood - A New Council-Created Woodland in South Gloucestershire'
 description: 'Protect Earth helps landowners across the UK by offering expert advice, finding volunteers, planting trees, and checking on them annually to ensure good progress.'
 pubDate: 2025-12-15T09:00:00.000Z
+categories: ['woodland-creation']
 author: 'kathy@protect.earth'
 thumbnail: ../../articles/pucklechurch-wood-a-new-woodland-in-south-gloucestershire.jpg
 ---

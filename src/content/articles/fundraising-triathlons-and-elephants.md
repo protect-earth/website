@@ -2,6 +2,7 @@
 title: 'Fundraising: Triathlons and Elephants!'
 description: 'Riding from Slovakia to Croatia to complete the Zadar Half Ironman. Completed in 6hr9min, raising funds for tree planting.'
 pubDate: 2020-10-15T13:21:00.000Z
+categories: ['community-volunteering']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/fundraising-triathlons-and-elephants.jpg
 ---

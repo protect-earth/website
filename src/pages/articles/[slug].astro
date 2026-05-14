@@ -36,13 +36,17 @@ const { Content } = await render(article);
 		<header>
 			<div class="wrap">
 				<h1>{title}</h1>
-				{categories && categories.length > 0 && (
-					<div class="categories">
-						{categories.map((category: CategorySlug) => (
-							<a href={`/articles/category/${category}`} class="category-badge">{getCategoryName(category)}</a>
-						))}
-					</div>
-				)}
+				{
+					categories && categories.length > 0 && (
+						<div class="categories">
+							{categories.map((category: CategorySlug) => (
+								<a href={`/articles/category/${category}`} class="category-badge">
+									{getCategoryName(category)}
+								</a>
+							))}
+						</div>
+					)
+				}
 				<dl class="meta">
 					<dt class="visually-hidden">Posted at</dt>
 					<dd>

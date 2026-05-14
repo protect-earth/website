@@ -2,6 +2,7 @@
 title: 'Planting Trees, Making Friends, and Laughing in the Mud: A Wild Weekend with Screech Owl Sanctuary'
 description: 'Screech Owl Sanctuary secured woodland creation funding and invited Protect Earth for a bit of tree planting. Our response was somewhere between gleeful and muddy.'
 pubDate: 2025-05-16T23:05:20.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/planting-trees-making-friends-and-laughing-in-the-mud-a-wild-weekend-with-screech-owl-sanctuary.jpg
 ---

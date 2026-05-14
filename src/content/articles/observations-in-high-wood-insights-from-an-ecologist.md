@@ -2,6 +2,7 @@
 title: 'Observations in High Wood: Insights from an Ecologist'
 description: 'Steve, a keen birder, along with local naturalists, has been documenting the wildlife found at High Wood. His approach is unassuming yet deeply insightful.'
 pubDate: 2024-08-19T13:54:31.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/observations-in-high-wood-insights-from-an-ecologist.jpg
 ---

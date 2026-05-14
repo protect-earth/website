@@ -2,6 +2,7 @@
 title: "Revitalising High Wood's mountain biking trails"
 description: 'High Wood is an ancient woodland that is accessible to the public. So everyone can enjoy it, we’re working on making it a place for walkers, horse riders, and cyclists to come. Recently, we have resto'
 pubDate: 2023-09-11T21:04:32.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/revitalising-high-woods-mountain-biking-trails.jpg
 ---

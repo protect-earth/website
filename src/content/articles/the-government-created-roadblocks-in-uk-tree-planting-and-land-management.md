@@ -2,6 +2,7 @@
 title: 'The Government Created Roadblocks in UK Tree Planting and Land Management'
 description: "UK's environmental industry criticizes slow tree planting progress. Government targets aren't met, grant applications are too complex, and landowners lack knowledge."
 pubDate: 2024-10-07T08:04:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-government-created-roadblocks-in-uk-tree-planting-and-land-management.jpg
 ---

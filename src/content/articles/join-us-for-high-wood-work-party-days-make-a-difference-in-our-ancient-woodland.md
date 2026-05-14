@@ -2,6 +2,7 @@
 title: 'Join Us for High Wood Work Party Days: Make a Difference in Our Ancient Woodland!'
 description: 'High Wood Work Parties are monthly volunteer sessions restoring 64 acres of ancient woodland near Liskeard, making it accessible and enchanting for all.'
 pubDate: 2024-06-10T06:35:00.000Z
+categories: ['community-volunteering']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/join-us-for-high-wood-work-party-days-make-a-difference-in-our-ancient-woodland.jpg
 ---

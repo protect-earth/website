@@ -2,6 +2,7 @@
 title: 'Which species of trees have we planted?'
 description: 'All projects have at least 8 species, some have 16. Overall Protect Earth has planted 46 different species, making up 38,580 saplings between 2020-2022.'
 pubDate: 2022-10-28T11:00:00.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/which-species-of-trees-have-we-planted.jpg
 ---

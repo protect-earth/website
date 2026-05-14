@@ -2,6 +2,7 @@
 title: "In the Shadow of Europe's Trees: Looking at the UK's Struggling Forests"
 description: "With a mere 13% tree coverage, the UK is one of Europe's least densely forested countries, compared to the EU average of 38% and global average of 31%."
 pubDate: 2024-04-15T06:59:00.000Z
+categories: ['climate-environment']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests.jpg
 ---

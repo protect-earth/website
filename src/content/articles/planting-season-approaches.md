@@ -2,6 +2,7 @@
 title: 'Planting Season Approaches'
 description: 'After the fundraising adventure to Croatia, getting everything ready for planting season. First land-owner planting project in Dyrham ready for 3,000 trees.'
 pubDate: 2020-11-13T12:18:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/planting-season-approaches.jpg
 ---

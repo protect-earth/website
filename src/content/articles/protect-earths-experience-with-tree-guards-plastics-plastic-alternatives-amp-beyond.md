@@ -2,6 +2,7 @@
 title: "Protect Earth's experience with tree guards - plastics, plastic alternatives, &amp;amp; beyond"
 description: "Green plastic square tubes stand thigh-high on every tree-planting project. Let's examine these guards, their purpose, materials, and what happens when they're no longer needed."
 pubDate: 2024-08-26T13:24:04.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earths-experience-with-tree-guards-plastics-plastic-alternatives-amp-beyond.jpg
 ---

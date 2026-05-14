@@ -2,6 +2,7 @@
 title: 'Wildflower Planting in Llandrindod Wells'
 description: 'Another spring day spent planting wildflowers in Llandrindod Wells. We spread hundreds of thousands of wildflower seeds for the bee hives at the bottom of the field.'
 pubDate: 2022-06-17T20:31:15.000Z
+categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/wildflower-planting-in-llandrindod-wells.jpeg
 ---

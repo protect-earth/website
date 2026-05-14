@@ -2,6 +2,7 @@
 title: 'A case study in planting small holdings'
 description: 'This is a case study about Peter - a smallholder in rural west Wales - and how Protect Earth was able to help Peter bring his goal of increasing biodiversity on his seven acres to life.'
 pubDate: 2023-09-04T06:28:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-case-study-in-planting-small-holdings.jpg
 ---

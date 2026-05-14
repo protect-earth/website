@@ -2,6 +2,7 @@
 title: 'The Best Possible Quality Tree Planting'
 description: 'Tree planting versus natural regeneration discussions regularly pop up online. Some say tree planting is bad, when they mean bad tree planting is bad.'
 pubDate: 2024-07-08T06:29:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-best-possible-quality-tree-planting.jpg
 ---

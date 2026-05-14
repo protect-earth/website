@@ -2,6 +2,7 @@
 title: 'A Forest for the Future: Oxford Students Take Climate Action into Their Hands'
 description: 'As Storm Bert swept the UK, Oxford Year 5 and 6 students planted 980 saplings, creating a mini-forest and learning about tackling climate change.'
 pubDate: 2024-11-27T20:16:00.000Z
+categories: ['climate-environment']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-forest-for-the-future-oxford-students-take-climate-action-into-their-hands.jpg
 ---

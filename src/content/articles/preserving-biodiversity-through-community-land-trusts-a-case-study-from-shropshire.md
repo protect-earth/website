@@ -2,6 +2,7 @@
 title: 'Preserving Biodiversity Through Community Land Trusts: A Case Study from Shropshire'
 description: 'Discovering the beauty of Community Land Trusts—nonprofit organisations ensuring lasting neighbourhood benefits through sustainable land use and shared ownership.'
 pubDate: 2024-07-15T15:04:08.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/preserving-biodiversity-through-community-land-trusts-a-case-study-from-shropshire.jpg
 ---

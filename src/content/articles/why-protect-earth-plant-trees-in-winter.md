@@ -2,6 +2,7 @@
 title: 'Why Protect Earth plant trees in winter'
 description: 'The autumn and winter are some of the best times to plant trees. Especially for us, where we plant thousands of trees.'
 pubDate: 2022-10-10T18:07:36.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/why-protect-earth-plant-trees-in-winter.jpg
 ---

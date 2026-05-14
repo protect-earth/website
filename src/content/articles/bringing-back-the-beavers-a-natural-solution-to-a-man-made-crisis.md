@@ -2,6 +2,7 @@
 title: 'Bringing Back the Beavers: A Natural Solution to a Man-Made Crisis'
 description: 'Beavers, absent from UK since the 1500s, are returning. These keystone species boost biodiversity, help defend against floods, and purify water - for free.'
 pubDate: 2025-04-22T17:41:21.000Z
+categories: ['wildlife-habitats']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/bringing-back-the-beavers-a-natural-solution-to-a-man-made-crisis.jpg
 ---

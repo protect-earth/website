@@ -2,6 +2,7 @@
 title: "Rooted in Green: Park Avenue Recruitment's Journey to Sustainable Team Building"
 description: "Greenery and green space impact our mental and physical health. We examine Park Avenue Recruitment's team outing and the benefits of green spaces."
 pubDate: 2024-04-28T21:49:07.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg
 ---

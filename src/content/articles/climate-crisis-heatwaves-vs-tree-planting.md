@@ -2,6 +2,7 @@
 title: 'Climate Crisis: Heatwaves vs Tree Planting'
 description: 'The heatwave last summer took its toll on reforestation projects all over the UK, with loses exceeding usual for a young woodland.'
 pubDate: 2022-10-17T10:49:48.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/climate-crisis-heatwaves-vs-tree-planting.jpg
 ---

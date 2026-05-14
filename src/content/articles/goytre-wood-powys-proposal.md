@@ -2,6 +2,7 @@
 title: 'Goytre Wood, Powys proposal'
 description: 'Goytre Wood is a 70 acre woodland Protect Earth have acquired in Powys, Wales. This is tremendously exciting for us to set out a plan bringing real, beneficial change to this woodland. In this piece, '
 pubDate: 2023-05-08T07:30:00.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/goytre-wood-powys-proposal.jpg
 ---

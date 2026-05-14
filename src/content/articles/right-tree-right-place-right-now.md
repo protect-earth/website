@@ -2,6 +2,7 @@
 title: 'The Right Tree in the Right Place… for this point in the Climate Crisis'
 description: "Plant the right tree in the right place: Sessile Oak on Welsh hillsides, Beech in Cotswold valleys, Scot's Pines in the Highlands. But what about climate change?"
 pubDate: 2022-09-06T15:12:39.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/right-tree-right-place-right-now.jpg
 ---

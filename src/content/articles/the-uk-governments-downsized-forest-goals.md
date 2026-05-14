@@ -2,6 +2,7 @@
 title: "The UK government's downsized forest goals"
 description: 'The climate crisis is upon us. We’re told daily of this fact everywhere we look. And one solution we see to fight climate change is to plant trees. Yet, the UK government has reduced its tree planting'
 pubDate: 2023-04-17T06:26:00.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-uk-governments-downsized-forest-goals.png
 ---

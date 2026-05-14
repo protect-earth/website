@@ -2,6 +2,7 @@
 title: 'The Decline of Black Poplar Trees in the UK'
 description: "Trees in the UK have long been marginalised. Habitat destruction for agriculture, living space, wood for energy has ravished UK's woodlands."
 pubDate: 2024-02-26T07:29:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-decline-of-black-poplar-trees-in-the-uk.jpg
 ---

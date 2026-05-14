@@ -2,6 +2,7 @@
 title: 'The Enduring Significance of Trees: From Ancient Myths to Modern UK'
 description: 'Trees have held cultural and religious importance for millennia. This piece looks at the historical cultural influences on trees in the UK and perceptions towards them in modern society.'
 pubDate: 2023-11-06T07:29:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-enduring-significance-of-trees-from-ancient-myths-to-modern-uk.jpg
 ---

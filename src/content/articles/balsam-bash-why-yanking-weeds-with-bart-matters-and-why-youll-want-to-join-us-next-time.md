@@ -2,6 +2,7 @@
 title: 'Balsam Bash: Why Yanking Weeds with BART Matters (and Why You’ll Want to Join Us Next Time)'
 description: 'Join Bristol Avon River Trust for a day-long effort restoring riverbanks by removing invasive Himalayan balsam from the River Frome.'
 pubDate: 2025-06-07T19:36:07.000Z
+categories: ['invasive-species']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/balsam-bash-why-yanking-weeds-with-bart-matters-and-why-youll-want-to-join-us-next-time.jpg
 ---

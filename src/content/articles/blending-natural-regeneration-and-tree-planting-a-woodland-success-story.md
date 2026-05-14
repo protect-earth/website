@@ -2,6 +2,7 @@
 title: 'Blending Natural Regeneration and Tree Planting: A Woodland Success Story'
 description: 'Many are divided on natural habitat restoration methods: natural regeneration versus the interventionist approach of planning species and creating woodlands.'
 pubDate: 2025-03-03T08:04:00.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg
 ---

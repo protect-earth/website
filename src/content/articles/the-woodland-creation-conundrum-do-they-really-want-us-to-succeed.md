@@ -2,6 +2,7 @@
 title: 'The Woodland Creation Conundrum: Do They Really Want Us to Succeed?'
 description: 'Many people, concerned citizens with good intentions to plant trees and tackle the climate crisis, often encounter problems when attempting to access available government funding to help them fund...'
 pubDate: 2024-09-04T09:05:45.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-woodland-creation-conundrum-do-they-really-want-us-to-succeed.jpeg
 ---

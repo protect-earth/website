@@ -2,6 +2,7 @@
 title: "Protect Earth's Summer Fair Hits Its Stride at High Wood"
 description: "What do Ninja Granny, willow sculptures, and a human fruit machine have in common? No, it's not the start of a fever dream—it's Protect Earth's third annual Summer Fair at High Wood, near Liskeard...."
 pubDate: 2025-07-01T12:51:39.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/protect-earths-summer-fair-hits-its-stride-at-high-wood.jpg
 ---

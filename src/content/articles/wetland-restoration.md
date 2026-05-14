@@ -2,6 +2,7 @@
 title: 'Wetland Restoration'
 description: 'Wetlands are one of the UK’s most overlooked ecological superpowers, vital for biodiversity, flood resilience, water quality, carbon storage, and long-term public wellbeing.'
 pubDate: 2026-03-12T00:00:00.000Z
+categories: ['climate-environment']
 author: 'Elena Tornberg-Lennox'
 thumbnail: ../../articles/wetland-restoration.webp
 ---

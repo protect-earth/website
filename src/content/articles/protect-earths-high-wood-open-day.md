@@ -2,6 +2,7 @@
 title: "Protect Earth's High Wood Open Day"
 description: 'A big part of our success is seeing local communities embrace our woodland restoration projects. High Wood Family Fun Day was a huge success where we proudly showed what’s been done and what’s to come'
 pubDate: 2023-07-24T06:30:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earths-high-wood-open-day.jpg
 ---

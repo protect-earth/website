@@ -2,6 +2,7 @@
 title: 'A Small Woodland Boasts Impressive 95% Survival Rate After Two Years'
 description: 'In Yorkshire and the Humber, a transformative project took root in 2021 as Protect Earth joined forces with a dedicated landholder for sustainable growth.'
 pubDate: 2024-02-23T17:03:00.000Z
+categories: ['updates-progress']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/a-small-woodland-boasts-impressive-95-survival-rate-after-two-years.jpg
 ---

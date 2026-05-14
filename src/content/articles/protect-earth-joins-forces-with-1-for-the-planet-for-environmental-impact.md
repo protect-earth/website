@@ -2,6 +2,7 @@
 title: 'Protect Earth Joins Forces with 1% for the Planet for Environmental Impact'
 description: '1% for the Planet sees companies tithe one percent of annual sales to environmental activities. Protect Earth is now an approved environmental partner.'
 pubDate: 2024-02-05T08:16:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earth-joins-forces-with-1-for-the-planet-for-environmental-impact.jpg
 ---

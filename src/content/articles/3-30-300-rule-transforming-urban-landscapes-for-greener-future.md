@@ -2,6 +2,7 @@
 title: 'The 3/30/300 Rule: Transforming Urban Landscapes for a Greener Future'
 description: 'As biodiversity decreases in the UK, looking at where and how it can be recovered is essential. The 3/30/300 model proposes increased urban green space, boosting biodiversity and communal wellbeing.'
 pubDate: 2023-11-20T07:29:00.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future.jpg
 ---

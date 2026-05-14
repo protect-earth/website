@@ -2,6 +2,7 @@
 title: "11,000 o goed i'w plannu gan hybu bioamrywiaeth yng Ngogledd Cymru"
 description: 'Mae Nannerch yn safle 27 erw mewn Ardal o Harddwch Naturiol Eithriadol (AHNE) yng Ngogledd Cymru. Mae Protect Earth wedi atgyfnerthu ein cynlluniau ar gynyddu bioamrywiaeth o fewn y safle hwn, er budd'
 pubDate: 2024-01-04T11:15:28.000Z
+categories: ['climate-environment']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/11000-o-goed-iw-plannu-gan-hybu-bioamrywiaeth-yng-ngogledd-cymru.jpeg
 ---

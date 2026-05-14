@@ -11,7 +11,10 @@ import type { CategorySlug } from '../../../helpers';
 
 export const getStaticPaths = (async () => {
 	const articles = await getCollection('articles');
-	const categoryPaths: Array<{ params: { slug: string }; props: { articles: any[]; categorySlug: CategorySlug } }> = [];
+	const categoryPaths: Array<{
+		params: { slug: string };
+		props: { articles: any[]; categorySlug: CategorySlug };
+	}> = [];
 
 	// Create a path for each category
 	Object.keys(siteConfig.categories).forEach((categorySlug) => {

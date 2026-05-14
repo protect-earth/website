@@ -2,6 +2,7 @@
 title: '2025 Annual Report - Looking Back At 2025'
 description: 'In the midst of the fifth planting season, Protect Earth is looking back at the 2024/25 season, to take a look at all our sites. With 60 sites across the UK, Protect Earth has been pushing forward its'
 pubDate: 2026-01-07T15:47:58.000Z
+categories: ['updates-progress']
 author: 'Elena Tornberg-Lennox'
 thumbnail: ../../articles/2025-annual-report-looking-back-at-2025.jpg
 ---

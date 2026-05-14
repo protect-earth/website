@@ -2,6 +2,7 @@
 title: 'Winter 2021 Update'
 description: 'Here’s what we’ve been up to lately.'
 pubDate: 2021-12-19T18:18:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/winter-2021-update.png
 ---

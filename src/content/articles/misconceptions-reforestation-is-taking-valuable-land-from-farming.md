@@ -2,6 +2,7 @@
 title: 'Misconceptions: Reforestation is taking valuable land from farming'
 description: 'The media is perpetuating a story of greed and resultant loss of vital food growing resources in the UK. The latest is from our Chair who tackles this misconception. Read on!'
 pubDate: 2023-09-11T06:30:00.000Z
+categories: ['sustainable-farming']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/misconceptions-reforestation-is-taking-valuable-land-from-farming.jpg
 ---

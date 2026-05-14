@@ -2,6 +2,7 @@
 title: 'New Milestone Reached: 2,000 Trees Planted'
 description: 'Despite snow storms hitting two the two farms we were planting, we managed to plant 1,915 trees over a single weekend! Learn more about the amazing work from loads of individuals and organizations.'
 pubDate: 2021-01-27T12:39:00.000Z
+categories: ['sustainable-farming']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/2000-trees-planted.jpg
 ---

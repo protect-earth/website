@@ -2,6 +2,7 @@
 title: "What Lies Beneath: A Citizen Science Peek into High Wood's Soil Life"
 description: "At Protect Earth, we tend to focus our energy on what's growing *above* ground—native trees, bursting buds, and woodlands full of potential. But at this year's High Wood Summer Fair, we had an..."
 pubDate: 2025-07-21T06:02:00.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/what-lies-beneath-a-citizen-science-peek-into-high-woods-soil-life.jpg
 ---

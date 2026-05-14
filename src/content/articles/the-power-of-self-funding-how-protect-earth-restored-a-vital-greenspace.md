@@ -2,6 +2,7 @@
 title: 'The Power of Self-Funding: How Protect Earth Restored a Vital Greenspace'
 description: 'After trees were mistakenly cut down in a community project, Protect Earth self-funded rapid restoration to revitalise the greenspace and restore community spirit.'
 pubDate: 2024-08-14T17:14:42.000Z
+categories: ['policy-funding']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/the-power-of-self-funding-how-protect-earth-restored-a-vital-greenspace.jpg
 ---

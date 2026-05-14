@@ -2,6 +2,7 @@
 title: "Protect Earth's Essential Tips for Protecting New Plants"
 description: 'Newly planted trees are vulnerable to all seasonal elements. Protect Earth nurses saplings through spring and summer to ensure they thrive in UK weather extremes.'
 pubDate: 2024-04-02T06:32:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earths-essential-tips-for-protecting-new-plants.jpg
 ---

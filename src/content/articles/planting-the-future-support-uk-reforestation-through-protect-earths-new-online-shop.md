@@ -2,6 +2,7 @@
 title: "Planting the Future: Support UK Reforestation through Protect Earth's New Online Shop"
 description: "Protect Earth's new online shop offers a simple way to make a direct difference—supporting greener spaces, improving local ecosystems, or finding meaningful gifts."
 pubDate: 2024-09-23T11:50:49.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/planting-the-future-support-uk-reforestation-through-protect-earths-new-online-shop.jpeg
 ---

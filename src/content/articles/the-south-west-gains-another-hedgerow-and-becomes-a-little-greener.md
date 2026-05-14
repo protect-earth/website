@@ -2,6 +2,7 @@
 title: 'The South West Gains Another Hedgerow and Becomes a Little Greener'
 description: 'This February, we returned to South Molton at the request of a brilliant landowner whose smallholding has become a little greener every time we visit. Our [previous...'
 pubDate: 2025-05-16T21:22:56.000Z
+categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/the-south-west-gains-another-hedgerow-and-becomes-a-little-greener.jpeg
 ---

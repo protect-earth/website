@@ -2,6 +2,7 @@
 title: 'Goytre Wood Update – Summer 2023'
 description: 'Steve the Ecologist recently undertook a few visitations to Goytre Wood in Powys. Many woodland birds were on hand to welcome him. Read more about which birds were there and new birds visiting Goytre '
 pubDate: 2023-08-14T12:23:36.000Z
+categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/goytre-wood-update-summer-2023.jpg
 ---

@@ -2,6 +2,7 @@
 title: 'We’ve Started Planting!'
 description: 'The day we got to start planting felt like it would never come, but our first batch of trees arrived on Sands Farm! We picked up 100 Oak saplings on Friday, which were part of a few thousand that...'
 pubDate: 2020-12-01T16:45:55.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/we-started-planting.jpg
 ---

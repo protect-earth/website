@@ -2,6 +2,7 @@
 title: '11,000 Saplings in North Wales'
 description: 'Protect Earth completed planting 11,000 saplings in Nannerch, North Wales—one of our most significant projects to restore habitats and boost biodiversity.'
 pubDate: 2025-02-24T08:54:00.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/11000-saplings-in-north-wales.jpg
 ---

@@ -2,6 +2,7 @@
 title: "How to Lay a Hedge: Protect Earth's Free Community Course at Goytre Wood"
 description: 'Protect Earth welcomed the community to Goytre Wood for a free one-day hedge-laying course. Led by local green man John, participants learned practical skills.'
 pubDate: 2025-03-24T21:27:19.000Z
+categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/how-to-lay-a-hedge-protect-earths-free-community-course-at-goytre-wood.jpg
 ---

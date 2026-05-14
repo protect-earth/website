@@ -2,6 +2,7 @@
 title: 'Goytre Wood update: A Welsh woodland in progress'
 description: "Creating a woodland on once overgrazed slopes near Knighton in Mid-Wales. The first woodland we're creating on land we own, biodiversity is already on the uptick."
 pubDate: 2025-10-12T11:31:24.000Z
+categories: ['climate-environment']
 author: 'KatieWickens'
 thumbnail: ../../articles/goytre-wood-2025-survival.jpg
 ---

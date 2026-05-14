@@ -2,6 +2,7 @@
 title: 'Protect Earth’s Maturing Success Metrics'
 description: 'When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting...'
 pubDate: 2024-01-22T07:41:00.000Z
+categories: ['climate-environment']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/protect-earths-maturing-success-metrics.jpg
 ---

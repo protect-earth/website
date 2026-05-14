@@ -2,6 +2,7 @@
 title: 'Counting the Cost: Funding the UK’s Environmental Future'
 description: "Putting Labour's budget to the test: Are environmental promises adding up? Exploring whether financial plans support nature-friendly farming and habitat restoration."
 pubDate: 2024-12-31T13:53:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/counting-the-cost-funding-the-uks-environmental-future.jpg
 ---

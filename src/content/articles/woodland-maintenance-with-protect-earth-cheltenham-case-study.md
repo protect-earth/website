@@ -2,6 +2,7 @@
 title: 'Woodland Maintenance with Protect Earth: Cheltenham Case Study'
 description: 'Protect Earth recently returned to a project we planted with a farmer near Cheltenham in 2022 for essential woodland maintenance, including restocking dead saplings. This work exemplifies our...'
 pubDate: 2025-04-07T07:00:00.000Z
+categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/woodland-maintenance-with-protect-earth-cheltenham-case-study.jpg
 ---

@@ -2,6 +2,7 @@
 title: "The Impact of Storms on the UK's Trees: A Closer Look"
 description: 'After the December storms that battered the UK, walking through favourite trails in West Wales revealed stark aftermath—fallen trees littered the landscape.'
 pubDate: 2025-01-20T09:01:00.000Z
+categories: ['woodland-creation']
 author: 'Eoghan McHugh'
 thumbnail: ../../articles/the-impact-of-storms-on-the-uks-trees-a-closer-look.jpg
 ---

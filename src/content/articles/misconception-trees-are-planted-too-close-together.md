@@ -2,6 +2,7 @@
 title: 'Misconception: Trees are planted "too close together"'
 description: 'How closely together should trees be planted? What’s the optimal balance between guaranteeing a healthy forest and a healthy return (if planting for profit)? While there are some general guides, as us'
 pubDate: 2023-04-24T06:29:00.000Z
+categories: ['woodland-creation']
 author: 'Phil Sturgeon'
 thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
 ---
