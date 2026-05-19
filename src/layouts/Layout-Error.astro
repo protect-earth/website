@@ -1,0 +1,31 @@
+---
+import '@fontsource-variable/lexend/wght.css';
+import '../styles/global.css';
+
+import Fathom from '../components/Fathom.astro';
+import Head from '../components/Head.astro';
+import { siteConfig } from '../config';
+
+const { tagline } = siteConfig;
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description = tagline } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<Fathom />
+		<meta charset="UTF-8" />
+		<Head title={title} description={description} />
+		<link rel="sitemap" href="/sitemap-index.xml" />
+	</head>
+	<body class="error">
+		<main id="content">
+			<slot />
+		</main>
+	</body>
+</html>

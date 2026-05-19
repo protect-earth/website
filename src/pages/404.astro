@@ -1,0 +1,94 @@
+---
+import Layout from '../layouts/Layout-Error.astro';
+---
+
+<Layout title="Error - Page not found">
+	<section class="video-container">
+		<video id="hero-video" preload="auto" autoplay loop muted playsinline>
+			<source src="/hero-video.mp4" type="video/mp4" />
+		</video>
+		<div class="video-mask"></div>
+		<div class="video-content">
+			<h1>404</h1>
+			<p>Page not found. If you entered a web address, check it is correct.</p>
+			<p>
+				Try browsing from the <a href="/">homepage</a> to find the information you need.
+			</p>
+		</div>
+	</section>
+</Layout>
+
+<style>
+	.video-container {
+		position: relative;
+		min-height: 100vh;
+		width: 100vw;
+		overflow: hidden;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+		background: var(--green-dark);
+	}
+
+	.video-container video {
+		position: absolute;
+		width: auto;
+		height: auto;
+		min-width: 100%;
+		min-height: 100%;
+		max-inline-size: unset !important;
+		block-size: unset !important;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		z-index: 1;
+	}
+
+	.video-mask {
+		position: absolute;
+		width: 100vw;
+		min-height: 100%;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		background: var(--green-mid);
+		filter: opacity(0.75);
+		z-index: 2;
+	}
+
+	.video-content {
+		color: var(--body-text-light);
+		gap: var(--space-m);
+		padding-inline: var(--space-s);
+		padding-block: var(--space-s);
+		z-index: 3;
+
+		h1 {
+			font-size: calc(var(--font-5xl) * 2);
+			margin-block-end: var(--space-m);
+			text-shadow: 8px 8px 0px var(--orange);
+		}
+
+		p {
+			max-inline-size: var(--measure);
+			font-size: var(--font-s);
+		}
+
+		p:not(:first-of-type) {
+			margin-block-start: var(--space-xs);
+		}
+	}
+</style>
+
+<script>
+	document.addEventListener('DOMContentLoaded', () => {
+		const video = document.getElementById('hero-video') as HTMLVideoElement | null;
+		if (video) {
+			video.play().catch((err) => console.error('Video play error:', err));
+			video.addEventListener('error', (e) => {
+				console.error('Video error:', e);
+				console.error('Video error details:', video.error);
+			});
+		}
+	});
+</script>
