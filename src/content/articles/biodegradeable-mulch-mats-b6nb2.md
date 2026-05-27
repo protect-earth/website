@@ -4,6 +4,7 @@ description: 'A forester joked "Planting a tree is step 42 of forestry", and it 
 pubDate: 2021-05-19T20:42:19.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
+thumbnail: ../../articles/spring-maintenance-volunteering/tidy.jpg
 ---
 
 Tree planting season is October/November to March/April, depending on where you are, what the weather is doing. and what trees you're trying to plant. Basically, the tree saplings at the nurseries go dormant when it gets cold enough in Winter, and they sprout in Spring, so you have that amount of time to get them all planted. This makes life rather hectic in winter, but there is still plenty to do the rest of the year.
