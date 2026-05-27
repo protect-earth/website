@@ -12,3 +12,4 @@ photos:
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/2cc2b6eb2bb7569ca5e36db772b9a3f94c31073c6399b47a1225dc736201ae56.jpg"
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/8609e7fd4d442c7fcc279377a4bd7322684b87c82bccfa7220f56482022a1f29.jpg"
 ---
+

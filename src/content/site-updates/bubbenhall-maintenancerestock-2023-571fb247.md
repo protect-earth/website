@@ -11,3 +11,4 @@ photos:
   - "../../assets/site-updates/bubbenhall-maintenancerestock-2023-571fb247/ae5d3388f21f97e55c49e5bab7584d38c2459a526731e4c3c4fd52702b792daa.jpg"
   - "../../assets/site-updates/bubbenhall-maintenancerestock-2023-571fb247/a38b03330187563baf6ccb17defb65108b015990c109b93de8639ecf4348f1dd.jpg"
 ---
+

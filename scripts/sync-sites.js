@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import crypto from 'crypto';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -11,8 +12,7 @@ const __dirname = path.dirname(__filename);
 
 // Site configuration - keep in sync with src/config.ts
 const ignoredSites = ['Burnsall', 'Donkeywell Farm', 'Newcastle Emlyn', 'Wraxall'];
-
-const replaceImages = process.argv.includes('--replace-images');
+const PHOTO_MANIFEST_FILENAME = '.manifest.json';
 
 function isRemoteUrl(value) {
 	return typeof value === 'string' && /^https?:\/\//.test(value);
@@ -24,6 +24,125 @@ function sanitizeLocalImagePaths(images) {
 	}
 
 	return images.filter((img) => typeof img === 'string' && !isRemoteUrl(img));
+}
+
+function getStableRemoteFileKey(url) {
+	if (!isRemoteUrl(url)) {
+		return null;
+	}
+
+	try {
+		const parsedUrl = new URL(url);
+		return `${parsedUrl.origin}${parsedUrl.pathname}`;
+	} catch {
+		return null;
+	}
+}
+
+function ensureParentDirectory(filePath) {
+	const parentDir = path.dirname(filePath);
+	if (!fs.existsSync(parentDir)) {
+		fs.mkdirSync(parentDir, { recursive: true });
+	}
+}
+
+function loadPhotoManifest(outputDir) {
+	const manifestPath = path.join(outputDir, PHOTO_MANIFEST_FILENAME);
+	if (!fs.existsSync(manifestPath)) {
+		return {};
+	}
+
+	try {
+		return JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+	} catch (error) {
+		console.warn(`⚠️  Could not parse photo manifest at ${manifestPath}: ${error.message}`);
+		return {};
+	}
+}
+
+function savePhotoManifest(outputDir, manifest) {
+	if (!fs.existsSync(outputDir)) {
+		fs.mkdirSync(outputDir, { recursive: true });
+	}
+
+	const manifestPath = path.join(outputDir, PHOTO_MANIFEST_FILENAME);
+	fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n', 'utf8');
+}
+
+function pruneUnusedLocalizedImages(outputDir, usedFileNames) {
+	if (!fs.existsSync(outputDir)) {
+		return;
+	}
+
+	const allowed = new Set([...usedFileNames, PHOTO_MANIFEST_FILENAME]);
+	for (const entry of fs.readdirSync(outputDir)) {
+		if (allowed.has(entry)) {
+			continue;
+		}
+
+		const entryPath = path.join(outputDir, entry);
+		if (fs.statSync(entryPath).isFile()) {
+			fs.unlinkSync(entryPath);
+		}
+	}
+}
+
+async function hashFile(filePath) {
+	return await new Promise((resolve, reject) => {
+		const hash = crypto.createHash('sha256');
+		const stream = fs.createReadStream(filePath);
+		stream.on('error', reject);
+		stream.on('data', (chunk) => hash.update(chunk));
+		stream.on('end', () => resolve(hash.digest('hex')));
+	});
+}
+
+function normalizeChecksum(value) {
+	if (typeof value !== 'string') {
+		return null;
+	}
+
+	return value.replace(/^W\//, '').replace(/"/g, '').trim() || null;
+}
+
+function fetchRemoteChecksum(url) {
+	return new Promise((resolve) => {
+		const request = https.request(url, { method: 'HEAD' }, (response) => {
+			if ([301, 302, 307, 308].includes(response.statusCode || 0)) {
+				const redirectUrl = response.headers.location;
+				if (!redirectUrl) {
+					resolve(null);
+					return;
+				}
+
+				resolve(fetchRemoteChecksum(redirectUrl));
+				return;
+			}
+
+			if (response.statusCode && response.statusCode >= 400) {
+				resolve(null);
+				return;
+			}
+
+			resolve(normalizeChecksum(response.headers.etag));
+		});
+
+		request.on('error', () => resolve(null));
+		request.end();
+	});
+}
+
+function getChecksumLocalImageName(checksum) {
+	if (typeof checksum !== 'string') {
+		return null;
+	}
+
+	const normalized = checksum.trim().toLowerCase();
+	if (!/^[a-f0-9]{64}$/.test(normalized)) {
+		return null;
+	}
+
+	return `${normalized}.jpg`;
 }
 
 // Helper to convert to kebab-case
@@ -38,6 +157,7 @@ function toKebabCase(str) {
 
 function downloadImage(url, filepath) {
 	return new Promise((resolve, reject) => {
+		ensureParentDirectory(filepath);
 		const file = fs.createWriteStream(filepath);
 
 		const handleResponse = (response) => {
@@ -77,37 +197,88 @@ async function processImage(inputPath, outputPath, maxWidth = 1200) {
 }
 
 async function localizeSiteImages(site, slug, imagesDir, tempDir) {
-	if (!site.images || !Array.isArray(site.images) || site.images.length === 0) {
+	const siteImagesDir = path.join(imagesDir, slug);
+	const imageUrls = Array.isArray(site.images)
+		? site.images.filter((imageUrl) => isRemoteUrl(imageUrl))
+		: [];
+	const previousManifest = loadPhotoManifest(siteImagesDir);
+	const nextManifest = {};
+	const usedFileNames = new Set();
+
+	if (imageUrls.length === 0) {
+		if (fs.existsSync(siteImagesDir)) {
+			fs.rmSync(siteImagesDir, { recursive: true, force: true });
+		}
 		return [];
 	}
 
-	const siteImagesDir = path.join(imagesDir, slug);
-	if (fs.existsSync(siteImagesDir)) {
-		// Replace mode should produce a fresh local image set.
-		fs.rmSync(siteImagesDir, { recursive: true, force: true });
-	}
-
-	if (!fs.existsSync(siteImagesDir)) {
+	if (!fs.existsSync(siteImagesDir) && imageUrls.length > 0) {
 		fs.mkdirSync(siteImagesDir, { recursive: true });
 	}
 
 	const localImages = [];
 
-	for (let i = 0; i < site.images.length; i++) {
-		const imageUrl = site.images[i];
+	for (let i = 0; i < imageUrls.length; i++) {
+		const imageUrl = imageUrls[i];
 		const imageNum = i + 1;
 		const tempPath = path.join(tempDir, `${slug}-${imageNum}.jpg`);
-		const localFileName = `${imageNum}.jpg`;
-		const localPath = path.join(siteImagesDir, localFileName);
-		const contentPath = `../../assets/sites/${slug}/${localFileName}`;
+		const sourceKey = `site:${getStableRemoteFileKey(imageUrl) || imageUrl}`;
+		const previousEntry = previousManifest[sourceKey];
+		const previousLocalName = getChecksumLocalImageName(previousEntry?.checksum || null);
+		const previousPath = previousLocalName ? path.join(siteImagesDir, previousLocalName) : null;
+		const previousContentPath = previousLocalName
+			? `../../assets/sites/${slug}/${previousLocalName}`
+			: null;
+		const remoteChecksum = previousEntry?.sourceChecksum
+			? await fetchRemoteChecksum(imageUrl)
+			: null;
+
+		if (
+			previousPath &&
+			fs.existsSync(previousPath) &&
+			previousContentPath &&
+			(!previousEntry?.sourceChecksum || remoteChecksum === previousEntry.sourceChecksum)
+		) {
+			console.log(`   ♻️  Reusing existing localized image ${previousLocalName}`);
+			localImages.push(previousContentPath);
+			nextManifest[sourceKey] = {
+				localName: previousLocalName,
+				checksum: previousEntry.checksum,
+				sourceChecksum: previousEntry.sourceChecksum || remoteChecksum,
+			};
+			usedFileNames.add(previousLocalName);
+			continue;
+		}
 
 		try {
 			await downloadImage(imageUrl, tempPath);
-			await processImage(tempPath, localPath, 1200);
+			const processedPath = path.join(tempDir, `${slug}-${imageNum}-processed.jpg`);
+			await processImage(tempPath, processedPath, 1200);
+			const checksum = await hashFile(processedPath);
+			const localFileName = getChecksumLocalImageName(checksum);
+			const localPath = path.join(siteImagesDir, localFileName);
+			const contentPath = `../../assets/sites/${slug}/${localFileName}`;
+
+			if (fs.existsSync(localPath)) {
+				fs.unlinkSync(processedPath);
+			} else {
+				fs.renameSync(processedPath, localPath);
+			}
+
 			localImages.push(contentPath);
+			nextManifest[sourceKey] = {
+				localName: localFileName,
+				checksum,
+				sourceChecksum: remoteChecksum,
+			};
+			usedFileNames.add(localFileName);
+			console.log(`   🖼️  Wrote ${contentPath}`);
 
 			if (fs.existsSync(tempPath)) {
 				fs.unlinkSync(tempPath);
+			}
+			if (fs.existsSync(processedPath)) {
+				fs.unlinkSync(processedPath);
 			}
 		} catch (error) {
 			console.warn(`⚠️  Failed to localize image for ${slug}: ${imageUrl}`);
@@ -116,14 +287,15 @@ async function localizeSiteImages(site, slug, imagesDir, tempDir) {
 		}
 	}
 
+	pruneUnusedLocalizedImages(siteImagesDir, usedFileNames);
+	savePhotoManifest(siteImagesDir, nextManifest);
+
 	return localImages;
 }
 
 async function syncSites() {
 	console.log('🌳 Syncing sites from API...');
-	if (replaceImages) {
-		console.log('🖼️  Image replacement enabled (--replace-images)');
-	}
+	console.log('🖼️  Image localization enabled (manifest-backed)');
 
 	try {
 		// Fetch sites from API
@@ -149,13 +321,11 @@ async function syncSites() {
 			fs.mkdirSync(sitesDir, { recursive: true });
 		}
 
-		if (replaceImages) {
-			[imagesDir, tempDir].forEach((dir) => {
-				if (!fs.existsSync(dir)) {
-					fs.mkdirSync(dir, { recursive: true });
-				}
-			});
-		}
+		[imagesDir, tempDir].forEach((dir) => {
+			if (!fs.existsSync(dir)) {
+				fs.mkdirSync(dir, { recursive: true });
+			}
+		});
 
 		// Get existing site files
 		const existingFiles = new Set(
@@ -203,13 +373,11 @@ async function syncSites() {
 				delete frontmatter.images;
 			}
 
-			if (replaceImages) {
-				const localImages = await localizeSiteImages(site, slug, imagesDir, tempDir);
-				if (localImages.length > 0) {
-					frontmatter.images = localImages;
-				} else {
-					delete frontmatter.images;
-				}
+			const localImages = await localizeSiteImages(site, slug, imagesDir, tempDir);
+			if (localImages.length > 0) {
+				frontmatter.images = localImages;
+			} else {
+				delete frontmatter.images;
 			}
 
 			// Write the file
@@ -230,7 +398,7 @@ async function syncSites() {
 		console.log(`   Updated: ${updatedCount} existing file(s)`);
 		console.log(`   Skipped: ${skippedCount} site(s)`);
 
-		if (replaceImages && fs.existsSync(tempDir)) {
+		if (fs.existsSync(tempDir)) {
 			fs.rmSync(tempDir, { recursive: true, force: true });
 		}
 	} catch (error) {

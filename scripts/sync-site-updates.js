@@ -625,7 +625,7 @@ async function syncSiteUpdates() {
 			if (!title) continue;
 
 			const type = await getPropertyValue(properties['Update Type']);
-			const photos = await getPropertyValue(properties.Photos || properties.Images);
+			const photos = await getPropertyValue(properties.Photos);
 			const siteRelation = await getPropertyValue(
 				properties['Sites'] || properties['🏝️ Sites'] || properties.Site,
 			);
@@ -685,9 +685,7 @@ async function syncSiteUpdates() {
 			content += '\n---\n\n';
 
 			const hasDescription = description && description.trim().length > 0;
-			const bodyToWrite = hasDescription
-				? description
-				: normalizePageContent(existingBody);
+			const bodyToWrite = hasDescription ? description : normalizePageContent(existingBody);
 			if (!hasDescription && existingBody.trim().length > 0) {
 				console.warn(
 					`Warning: Preserving existing body for ${slug}.md because Notion body was empty`,
@@ -709,7 +707,7 @@ async function syncSiteUpdates() {
 			}
 		}
 
-		if (replaceImages && fs.existsSync(tempDir)) {
+		if (fs.existsSync(tempDir)) {
 			fs.rmSync(tempDir, { recursive: true, force: true });
 		}
 

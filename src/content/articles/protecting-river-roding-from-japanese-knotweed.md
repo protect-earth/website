@@ -13,11 +13,11 @@ Every habitat in the UK is at risk of being destroyed by invasive species. Woodl
 
 Japanese Knotweed is the one that specifically pops up on surveys when buying or selling a house, because the rhizomes (root structures) can push straight through foundations and come up through floors, causing subsidence and potentially destroying a building. Out in the wild it's just as problematic, creating huge dense clusters that shade out every other single species decimating biodiversity! The only plant I've ever seen successfully growing through Japanese Knotweed is Himalayan Balsam, another invasive species…
 
-These species both easily proliferate through river systems and then outwardly into nature and peoples gardens. Some say even a few centimetres of Knotweed breaking off can regrow, which is why there are such stringent rules and regulations about its management, as well as massive penalties and fines and even court proceedings for just ripping it out. Especially if you take it to your local recycling centre or put it in your green waste bin!&nbsp;
+These species both easily proliferate through river systems and then outwardly into nature and peoples gardens. Some say even a few centimetres of Knotweed breaking off can regrow, which is why there are such stringent rules and regulations about its management, as well as massive penalties and fines and even court proceedings for just ripping it out. Especially if you take it to your local recycling centre or put it in your green waste bin! 
 
 ### River Roding Trust
 
-Paul Powlesland from the River Roding Trust got in touch with a problem.&nbsp;
+Paul Powlesland from the River Roding Trust got in touch with a problem. 
 
 The River Roding is a tidal marsh, which is a particularly rare habitat nationwide, but especially in London. The river and its banks of reedbeds are already in a poor condition. There is all sorts of pollution, illegal sewage overflow, and mind boggling levels of litter. All of this is being dealt with by the River Roding Trust through a combination of direct action, community science, and hassling the council. The marsh is doing what it can, with its reeds helping filter the water as much as it can, but that's where the Japanese knotweed comes in.
 
@@ -31,7 +31,7 @@ The River Roding team were applying for various river restoration grants, but as
 
 ### Map the Problem
 
-The first step to anything is finding out exactly how much of a problem you have. Paul and the team had done an amazing job of finding and mapping most of it, with a combination of ground truthing and satellite imagery.&nbsp;
+The first step to anything is finding out exactly how much of a problem you have. Paul and the team had done an amazing job of finding and mapping most of it, with a combination of ground truthing and satellite imagery. 
 
 At first this was popped onto a Google Maps list, and we quickly moved it over to The Land App to get a much more accurate calculation of the extent of the task & a bit more control over things.
 
@@ -39,21 +39,21 @@ At first this was popped onto a Google Maps list, and we quickly moved it over t
 
 ### Get Environment Agency Approval
 
-Pretty much anything done near any river needs approval from the Environment Agency, especially when it comes to Japanese Knotweed.&nbsp;
+Pretty much anything done near any river needs approval from the Environment Agency, especially when it comes to Japanese Knotweed. 
 
 We discussed the approach, and with it being directly on the river banks the mechanical approach of digging 10 meters down to remove it was completely out of the question for countless reasons. The approach chosen was chemical control, using the industry standard option for this sort of work: glyphosate.
 
-This is a controversial topic, and many councils are starting to ban the use of this stuff because of concerns about health & environmental impacts. I am overjoyed that councils are moving away from spraying down bus stops, play areas, benches, and every sidewalk regardless of if there's a single blade of grass out of place or not, that was always silly and it should absolutely be banned. Garden centers should not be selling this stuff to anyone who fancies doing whatever they want with it either.&nbsp;
+This is a controversial topic, and many councils are starting to ban the use of this stuff because of concerns about health & environmental impacts. I am overjoyed that councils are moving away from spraying down bus stops, play areas, benches, and every sidewalk regardless of if there's a single blade of grass out of place or not, that was always silly and it should absolutely be banned. Garden centers should not be selling this stuff to anyone who fancies doing whatever they want with it either. 
 
 None of us at Protect Earth take using glyphosate lightly. With careful usage of herbicides, we can effectively remove invasive species that would otherwise cause far more damage to the environment left unchecked. For best results we focus on cautious methodology like injection, and targeted spraying, following every best practice in the book, and stick to chemical free options for any species we can, like Himilayan Balsam.
 
 ### Ground Preparation
 
-The most important thing to do is to prepare all the ground before you go. Carefully cutting access paths in spring, so that when you come back in late summer / early autumn it's not a nightmare to get in there.&nbsp;Then you can bag up the cut pieces, stick them in heavy duty bin bags, and let it all "cook" in the sun.
+The most important thing to do is to prepare all the ground before you go. Carefully cutting access paths in spring, so that when you come back in late summer / early autumn it's not a nightmare to get in there. Then you can bag up the cut pieces, stick them in heavy duty bin bags, and let it all "cook" in the sun.
 
 With this being a tidal marsh, those bags would have been picked up, dragged up and down river, torn to pieces, and the plastic and knotweed both spread all over the area.
 
-One key thing to know about Japanese Knotweed is that it can regrow from a piece as small as the nail on your little finger. The goal was to not cut a single piece. Don't rip any out, or snap anything either.&nbsp;
+One key thing to know about Japanese Knotweed is that it can regrow from a piece as small as the nail on your little finger. The goal was to not cut a single piece. Don't rip any out, or snap anything either. 
 
 ### Getting Stuck In
 
@@ -61,13 +61,13 @@ If all of that was different and we had infinite time and infinite money we coul
 
 ![](/articles/squarespace/3-getting-stuck-in-373e478662.jpeg)
 
-We scheduled two weeks to handle the mapped areas, with the expectation being four days in the field with four more days in case of adverse weather. Good thing we did, as this job needed all eight days thanks to us discovering more stands of knotweed than was known about previously. One hectare, or two and a half acres. Eeep!&nbsp;
+We scheduled two weeks to handle the mapped areas, with the expectation being four days in the field with four more days in case of adverse weather. Good thing we did, as this job needed all eight days thanks to us discovering more stands of knotweed than was known about previously. One hectare, or two and a half acres. Eeep! 
 
-The work took us all over Ilford and Barking, from Aldersbrook to Cuckolds Haven, we covered 15 different areas completely covered in knotweed. Huge patches, with stumps so old they looked like ancient hazel stools.&nbsp;
+The work took us all over Ilford and Barking, from Aldersbrook to Cuckolds Haven, we covered 15 different areas completely covered in knotweed. Huge patches, with stumps so old they looked like ancient hazel stools. 
 
 ![](/articles/squarespace/4-big-one-ae6c18718f.jpeg)
 
-There was no chance for injection to get anywhere, most of this was hard as wood. We had to get into the leaves, and that meant a big long boom on our knapsacks. Two meters was enough to get onto the leaves. We'd treat smaller patches from the outside, but the larger patches needed access paths, and without cutting the best I could think of was bending. The long handle rake came in super handy here. We could push our way through smaller growth between the mega stools, creating these corridors that were easily navigable.&nbsp;
+There was no chance for injection to get anywhere, most of this was hard as wood. We had to get into the leaves, and that meant a big long boom on our knapsacks. Two meters was enough to get onto the leaves. We'd treat smaller patches from the outside, but the larger patches needed access paths, and without cutting the best I could think of was bending. The long handle rake came in super handy here. We could push our way through smaller growth between the mega stools, creating these corridors that were easily navigable. 
 
 ![](/articles/squarespace/5-photo-of-corridor-48af20e8c0.jpeg)
 
@@ -87,7 +87,7 @@ This photo not only shows the knotweed is dying, but I think more importantly it
 
 ### Next steps
 
-The River Roding team however will be on the case. Revisiting all 15 spots, keeping an eye on things, removing rubbish to help make access safer, and we'll be trying to cut and safely remove as much as we can where we can so it's easier to spray next September.&nbsp;
+The River Roding team however will be on the case. Revisiting all 15 spots, keeping an eye on things, removing rubbish to help make access safer, and we'll be trying to cut and safely remove as much as we can where we can so it's easier to spray next September. 
 
 The goal is to kill as much as we can reach each year, and based on this year's work that was well over 80%. If we keep doing that, it'll be gone entirely in no time, and each year the reeds will recolonise their old turf until they are thriving undisrupted, working full time to improve water quality even if the water companies don’t bother.
 

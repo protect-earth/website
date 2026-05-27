@@ -13,3 +13,4 @@ photos:
   - "../../assets/site-updates/highchurch-restocking-4-2026-070c063e/91fd2835689de2c8354e9be773c6500decb047da256e58ab3a118d35d0cacf85.jpg"
   - "../../assets/site-updates/highchurch-restocking-4-2026-070c063e/88d18bbcfe103d98468445b306b9f854be370c124fc308179c3ed77ec978c068.jpg"
 ---
+
