@@ -6,8 +6,6 @@ startDate: 2026-06-17T09:00:00.000Z
 endDate: 2026-06-17T15:00:00.000Z
 address: 'Liskeard, PL14 3NH'
 map: 'https://maps.google.com/?q=50.461331%2C-4.423454'
-ics: /events/volunteers-wanted-to-give-our-trees-some-tlc-near-liskeard-cornwall-1990483691303.ics
-googleCal: 'https://www.google.com/calendar/event?action=TEMPLATE&text=Volunteers%20wanted%20to%20give%20our%20trees%20some%20TLC%20near%20Liskeard%2C%20Cornwall&dates=20260617T090000Z%2F20260617T150000Z&location=Liskeard%2C%20PL14%203NH'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/volunteers-wanted-to-give-our-trees-some-tlc-near-liskeard-cornwall-tickets-1990483691303'
 thumbnail: ../../assets/events/volunteers-wanted-to-give-our-trees-some-tlc-near-liskeard-cornwall-1990483691303/63ed5d712b97.jpg
 images:

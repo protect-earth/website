@@ -52,8 +52,6 @@ const eventsCollection = defineCollection({
 		endDate: z.date(),
 		address: z.string(),
 		map: z.string(),
-		ics: z.string(),
-		googleCal: z.string(),
 		thumbnail: z.string().optional(),
 		eventbriteLink: z.string().optional(),
 		customCta: z.string().optional(),

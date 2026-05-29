@@ -22,8 +22,6 @@ const {
 		description,
 		endDate,
 		eventbriteLink,
-		googleCal,
-		ics,
 		images,
 		map,
 		startDate,
@@ -135,34 +133,24 @@ const { Content } = await render(event);
 									)}
 									{address && address !== 'Online event' && (
 										<>
-											<br />
-											Full address will be provided after signup.
+											{' '}
+											<span
+												class="tooltip-trigger"
+												role="button"
+												tabindex="0"
+												title="Full address will be provided after signup"
+												aria-label="Full address will be provided after signup"
+												data-tooltip="Full address will be provided after signup"
+											>
+												i
+											</span>
 										</>
 									)}
 								</dd>
 							</>
 						)
 					}
-					{
-						ics && googleCal && (
-							<>
-								<dt>Add to</dt>
-								<dd>
-									{ics && (
-										<a href={ics} class="cal-link">
-											iCal
-										</a>
-									)}
-									or
-									{googleCal && (
-										<a href={googleCal} class="cal-link">
-											Google Calendar
-										</a>
-									)}
-								</dd>
-							</>
-						)
-					}
+
 				</dl>
 			</div>
 
@@ -219,5 +207,46 @@ const { Content } = await render(event);
 	.event-cta {
 		display: grid;
 		place-content: center;
+	}
+
+	.tooltip-trigger {
+		display: inline-grid;
+		place-items: center;
+		inline-size: 1.1rem;
+		block-size: 1.1rem;
+		font-size: 0.75rem;
+		font-weight: 700;
+		line-height: 1;
+		border: 1px solid currentColor;
+		border-radius: 999px;
+		cursor: help;
+		position: relative;
+		vertical-align: middle;
+	}
+
+	.tooltip-trigger::after {
+		content: attr(data-tooltip);
+		position: absolute;
+		left: 50%;
+		bottom: calc(100% + 0.4rem);
+		transform: translateX(-50%);
+		min-inline-size: 14rem;
+		max-inline-size: 18rem;
+		padding: 0.45rem 0.55rem;
+		border-radius: 0.35rem;
+		background: var(--green-dark);
+		color: var(--white);
+		font-size: 0.75rem;
+		line-height: 1.3;
+		text-align: left;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.15s ease;
+		z-index: 5;
+	}
+
+	.tooltip-trigger:hover::after,
+	.tooltip-trigger:focus-visible::after {
+		opacity: 1;
 	}
 </style>

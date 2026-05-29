@@ -49,11 +49,10 @@ const events = defineCollection({
 			endDate: z.date(),
 			address: z.string(),
 			map: z.string(),
-			ics: z.string(),
-			googleCal: z.string(),
 			thumbnail: image().optional(),
 			images: z.array(image()).optional(),
 			eventbriteLink: z.string().optional(),
+			customCta: z.string().optional(),
 		}),
 });
 

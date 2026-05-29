@@ -6,8 +6,6 @@ startDate: 2026-04-04T10:00:00.000Z
 endDate: 2026-10-31T16:00:00.000Z
 address: Warleigh Nature Reserve, Warleigh Lane, Bathford
 map: https://maps.google.com/?q=Warleigh%20Lane%20Bathford,%20%20England%20United%20Kingdom
-ics: /events/warleigh-summer-work-parties-2026-e6rw8.ics
-googleCal: https://www.google.com/calendar/event?action=TEMPLATE&text=Warleigh%20Nature%20Reserve%2C%20Bath%20Volunteer%20Days%20Every%20Saturday&dates=20260404T090000Z/20260404T150000Z&location=Warleigh%20Nature%20Reserve%2C%20Warleigh%20Lane%2C%20Bathford%2C%20England%20United%20Kingdom&recur=RRULE%3AFREQ%3DWEEKLY%3BBYDAY%3DSA%3BUNTIL%3D20261031T160000Z
 thumbnail: ../../assets/events/warleigh-summer-work-parties-2026-e6rw8/warleigh-cover.jpg
 images:
   - ../../assets/events/warleigh-summer-work-parties-2026-e6rw8/warleigh-1.jpg

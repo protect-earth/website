@@ -6,8 +6,6 @@ startDate: 2026-06-13T09:00:00.000Z
 endDate: 2026-06-13T12:00:00.000Z
 address: 'Bath, BA1 8EE'
 map: 'https://maps.google.com/?q=51.3845283%2C-2.3866048'
-ics: /events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989662147042.ics
-googleCal: 'https://www.google.com/calendar/event?action=TEMPLATE&text=Ecology%20Tour%20of%20Warleigh%20Nature%20Reserve%2C%20Bath%2C%20Somerset&dates=20260613T090000Z%2F20260613T120000Z&location=Bath%2C%20BA1%208EE'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/ecology-tour-of-warleigh-nature-reserve-bath-somerset-tickets-1989662147042'
 thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989662147042/46b267eb74a0.jpg
 images:

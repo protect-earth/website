@@ -122,64 +122,6 @@ function asDate(value, fallbackDate = new Date()) {
 	return parsed;
 }
 
-function formatGoogleCalDate(date) {
-	const year = date.getUTCFullYear();
-	const month = String(date.getUTCMonth() + 1).padStart(2, '0');
-	const day = String(date.getUTCDate()).padStart(2, '0');
-	const hours = String(date.getUTCHours()).padStart(2, '0');
-	const mins = String(date.getUTCMinutes()).padStart(2, '0');
-	const secs = String(date.getUTCSeconds()).padStart(2, '0');
-	return `${year}${month}${day}T${hours}${mins}${secs}Z`;
-}
-
-function decodeHtmlEntities(value) {
-	if (typeof value !== 'string') {
-		return '';
-	}
-
-	return value
-		.replace(/&nbsp;/gi, ' ')
-		.replace(/&amp;/gi, '&')
-		.replace(/&lt;/gi, '<')
-		.replace(/&gt;/gi, '>')
-		.replace(/&#39;/gi, "'")
-		.replace(/&quot;/gi, '"');
-}
-
-function stripHtmlTags(value) {
-	if (typeof value !== 'string') {
-		return '';
-	}
-
-	return decodeHtmlEntities(value.replace(/<[^>]+>/g, ' '))
-		.replace(/\s+/g, ' ')
-		.trim();
-}
-
-function icsEscape(value) {
-	return value
-		.replace(/\\/g, '\\\\')
-		.replace(/\n/g, '\\n')
-		.replace(/,/g, '\\,')
-		.replace(/;/g, '\\;');
-}
-
-function foldIcsLine(line) {
-	const maxLineLength = 75;
-	if (line.length <= maxLineLength) {
-		return line;
-	}
-
-	let result = '';
-	let remaining = line;
-	while (remaining.length > maxLineLength) {
-		result += `${remaining.slice(0, maxLineLength)}\r\n `;
-		remaining = remaining.slice(maxLineLength);
-	}
-
-	return `${result}${remaining}`;
-}
-
 function normalizeAddress(address = {}) {
 	const locality = cleanText(address.city || address.region || '');
 	const postcode = cleanText(address.postal_code || '');
@@ -203,40 +145,6 @@ function buildMapUrl(address, latitude, longitude) {
 	return `https://maps.google.com/?q=${encodeURIComponent(address)}`;
 }
 
-function buildGoogleCalUrl({ title, startDate, endDate, location }) {
-	const start = formatGoogleCalDate(startDate);
-	const end = formatGoogleCalDate(endDate);
-	const text = encodeURIComponent(title);
-	const dates = encodeURIComponent(`${start}/${end}`);
-	const encodedLocation = encodeURIComponent(location || '');
-	return `https://www.google.com/calendar/event?action=TEMPLATE&text=${text}&dates=${dates}&location=${encodedLocation}`;
-}
-
-function normalizeOverviewHtml(html, summary) {
-	if (!html) {
-		return '';
-	}
-
-	let result = cleanText(html)
-		.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, '')
-		.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
-		.replace(/\s*class="[^"]*"/gi, '')
-		.replace(/\s*style="[^"]*"/gi, '');
-
-	if (summary) {
-		const summaryNormalized = cleanText(summary).toLowerCase();
-		result = result.replace(/<p>([\s\S]*?)<\/p>/i, (match, content) => {
-			const firstParagraph = stripHtmlTags(content).toLowerCase();
-			if (firstParagraph === summaryNormalized) {
-				return '';
-			}
-			return match;
-		});
-	}
-
-	return result.trim();
-}
-
 function htmlDescriptionToMarkdown(html, summary) {
 	if (!html) {
 		return '';
@@ -246,21 +154,6 @@ function htmlDescriptionToMarkdown(html, summary) {
 	const trimmedMarkdown = trimLeadingSummaryFromText(markdown, summary);
 	return trimmedMarkdown || markdown;
 }
-
-async function fetchEventDescriptionHtml(eventId, summary) {
-	if (!eventId) {
-		return '';
-	}
-
-	try {
-		const payload = await fetchJson(`/events/${eventId}/description/`);
-		const descriptionHtml = cleanText(payload?.description || '');
-		return normalizeOverviewHtml(descriptionHtml, summary);
-	} catch {
-		return '';
-	}
-}
-
 function extractMediaIdsFromWidgets(widgets) {
 	const mediaIds = new Set();
 	const mediaUrls = new Set();
@@ -375,29 +268,6 @@ function trimLeadingSummaryFromText(descriptionText, summary) {
 	}
 
 	return bodyText;
-}
-
-function createIcs({ uid, title, description, startDate, endDate, address, eventUrl }) {
-	const lines = [
-		'BEGIN:VCALENDAR',
-		'PRODID:-//Protect Earth//Eventbrite Sync//EN',
-		'VERSION:2.0',
-		'CALSCALE:GREGORIAN',
-		'METHOD:PUBLISH',
-		'BEGIN:VEVENT',
-		`UID:${icsEscape(uid)}`,
-		`DTSTAMP:${formatGoogleCalDate(new Date())}`,
-		`DTSTART:${formatGoogleCalDate(startDate)}`,
-		`DTEND:${formatGoogleCalDate(endDate)}`,
-		`SUMMARY:${icsEscape(title)}`,
-		description ? `DESCRIPTION:${icsEscape(description)}` : '',
-		address ? `LOCATION:${icsEscape(address)}` : '',
-		eventUrl ? `URL:${icsEscape(eventUrl)}` : '',
-		'END:VEVENT',
-		'END:VCALENDAR',
-	].filter(Boolean);
-
-	return `${lines.map(foldIcsLine).join('\r\n')}\r\n`;
 }
 
 function loadManifest() {
@@ -637,9 +507,9 @@ function readExistingFrontmatter(markdownPath) {
 	}
 }
 
-function markdownBody({ descriptionText, summary, structuredContentHtml, overviewHtml }) {
+function markdownBody({ descriptionText, summary, structuredContentHtml }) {
 	const lines = [];
-	const primaryHtml = cleanText(structuredContentHtml) || cleanText(overviewHtml);
+	const primaryHtml = cleanText(structuredContentHtml);
 
 	if (primaryHtml) {
 		const overviewMarkdown = htmlDescriptionToMarkdown(primaryHtml, summary);
@@ -698,7 +568,6 @@ async function syncEvents() {
 
 		const slug = eventSlug(event);
 		const markdownPath = path.join(EVENTS_CONTENT_DIR, `${slug}.md`);
-		const icsPath = path.join(EVENTS_PUBLIC_DIR, `${slug}.ics`);
 		const previousEntry = previousManifest[eventId];
 
 		const venue = event.venue || (await fetchVenue(event.venue_id));
@@ -716,7 +585,6 @@ async function syncEvents() {
 		const structuredContent = await fetchEventStructuredContentData(eventId);
 		const mediaIds = getEventMediaIds(event, structuredContent.html);
 		const mediaUrls = structuredContent.mediaUrls;
-		const overviewHtml = await fetchEventDescriptionHtml(eventId, description);
 		const mediaImages = await localizeEventMediaUrls({
 			eventId,
 			slug,
@@ -733,24 +601,6 @@ async function syncEvents() {
 		const thumbnail = allMediaImages[0] || '';
 		const existingFrontmatter = readExistingFrontmatter(markdownPath);
 
-		const icsBody = createIcs({
-			uid: `eventbrite-${eventId}@protect.earth`,
-			title,
-			description,
-			startDate,
-			endDate,
-			address,
-			eventUrl: event.url || '',
-		});
-		fs.writeFileSync(icsPath, icsBody, 'utf8');
-
-		const googleCal = buildGoogleCalUrl({
-			title,
-			startDate,
-			endDate,
-			location: address,
-		});
-
 		const frontmatter = {
 			title,
 			description,
@@ -759,8 +609,6 @@ async function syncEvents() {
 			endDate,
 			address: address || 'TBC',
 			map,
-			ics: `/events/${slug}.ics`,
-			googleCal,
 			eventbriteLink: event.url || '',
 		};
 
@@ -779,7 +627,6 @@ async function syncEvents() {
 			descriptionText,
 			summary: description,
 			structuredContentHtml: structuredContent.html,
-			overviewHtml,
 		});
 		const markdown = matter.stringify(body, frontmatter, {
 			lineWidth: 10000,
@@ -793,11 +640,6 @@ async function syncEvents() {
 			: '';
 		if (previousMarkdownPath && previousMarkdownPath !== markdownPath) {
 			removeFileIfExists(previousMarkdownPath);
-		}
-
-		const previousIcsPath = previousEntry?.ics ? path.join(__dirname, '..', previousEntry.ics) : '';
-		if (previousIcsPath && previousIcsPath !== icsPath) {
-			removeFileIfExists(previousIcsPath);
 		}
 
 		const previousImages = new Set([
@@ -816,7 +658,6 @@ async function syncEvents() {
 		nextManifest[eventId] = {
 			slug,
 			markdown: `src/content/events/${slug}.md`,
-			ics: `public/events/${slug}.ics`,
 			thumbnail,
 			mediaIds,
 			galleryImages: allMediaImages,
@@ -839,14 +680,12 @@ async function syncEvents() {
 		const markdownPath = previousEntry?.markdown
 			? path.join(__dirname, '..', previousEntry.markdown)
 			: '';
-		const icsPath = previousEntry?.ics ? path.join(__dirname, '..', previousEntry.ics) : '';
 		const galleryImages = Array.isArray(previousEntry?.galleryImages)
 			? previousEntry.galleryImages
 			: [];
 		const thumbnailPath = resolveThumbnailAbsolutePath(previousEntry?.thumbnail || '');
 
 		removeFileIfExists(markdownPath);
-		removeFileIfExists(icsPath);
 		removeFileIfExists(thumbnailPath);
 		for (const imagePath of galleryImages) {
 			removeFileIfExists(resolveThumbnailAbsolutePath(imagePath));
