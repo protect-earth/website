@@ -3,8 +3,8 @@ import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
-import VolunteerSignup from '../../components/VolunteerSignup.astro';
 import { render } from 'astro:content';
+import { Image } from 'astro:assets';
 
 export async function getStaticPaths() {
 	const events = await getCollection('events');
@@ -18,24 +18,32 @@ const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
 	data: {
-		description,
-		title,
-		startDate,
-		endDate,
 		address,
-		map,
-		ics,
-		googleCal,
+		description,
+		endDate,
 		eventbriteLink,
+		googleCal,
+		ics,
+		images,
+		map,
+		startDate,
+		title,
 		thumbnail,
 	},
 } = event;
+const customCta = (event.data as { customCta?: string }).customCta;
 const startDateValue = startDate as Date | undefined;
 const endDateValue = endDate as Date | undefined;
+const isSingleDayEvent =
+	startDateValue &&
+	endDateValue &&
+	startDateValue.getUTCFullYear() === endDateValue.getUTCFullYear() &&
+	startDateValue.getUTCMonth() === endDateValue.getUTCMonth() &&
+	startDateValue.getUTCDate() === endDateValue.getUTCDate();
 const { Content } = await render(event);
 ---
 
-<Layout {title} {description} breadcrumb={title}>
+<Layout {title} {description} breadcrumb={title} image={thumbnail}>
 	<!-- Hero Section -->
 	<div class="post">
 		<header>
@@ -43,12 +51,12 @@ const { Content } = await render(event);
 				<h1>{title}</h1>
 				<dl class="meta">
 					{
-						startDateValue && (
+						isSingleDayEvent ? (
 							<>
-								<dt>Starts</dt>
+								<dt>Date</dt>
 								<dd>
 									<time datetime={startDateValue.toISOString()}>
-										{startDateValue.toLocaleString('en-GB', {
+										{startDateValue.toLocaleDateString('en-GB', {
 											day: 'numeric',
 											month: 'long',
 											year: 'numeric',
@@ -56,21 +64,40 @@ const { Content } = await render(event);
 									</time>
 								</dd>
 							</>
-						)
-					}
-					{
-						endDateValue && (
+						) : (
 							<>
-								<dt>Ends</dt>
-								<dd>
-									<time datetime={endDateValue.toISOString()}>
-										{endDateValue.toLocaleDateString('en-GB', {
-											day: 'numeric',
-											month: 'long',
-											year: 'numeric',
-										})}
-									</time>
-								</dd>
+								{
+									startDateValue && (
+										<>
+											<dt>Starts</dt>
+											<dd>
+												<time datetime={startDateValue.toISOString()}>
+													{startDateValue.toLocaleDateString('en-GB', {
+														day: 'numeric',
+														month: 'long',
+														year: 'numeric',
+													})}
+												</time>
+											</dd>
+										</>
+									)
+								}
+								{
+									endDateValue && (
+										<>
+											<dt>Ends</dt>
+											<dd>
+												<time datetime={endDateValue.toISOString()}>
+													{endDateValue.toLocaleDateString('en-GB', {
+														day: 'numeric',
+														month: 'long',
+														year: 'numeric',
+													})}
+												</time>
+											</dd>
+										</>
+									)
+								}
 							</>
 						)
 					}
@@ -110,6 +137,12 @@ const { Content } = await render(event);
 											<a href={map}>(Map)</a>
 										</>
 									)}
+									{address && address !== 'Online event' && (
+										<>
+											<br />
+											Full address will be provided after signup.
+										</>
+									)}
 								</dd>
 							</>
 						)
@@ -136,25 +169,51 @@ const { Content } = await render(event);
 					}
 				</dl>
 			</div>
+
+			{
+				thumbnail && (
+					<div class="background-canvas">
+						<Image src={thumbnail} loading="eager" alt={title} inferSize={true} />
+					</div>
+				)
+			}
 		</header>
 
 		<div class="wrap">
 			<div class="prose stack">
+				{
+					images &&
+						images.length > 0 && (
+							<div class="event-imagegroup">
+								{images.map((image, index) => (
+									<Image
+										src={image}
+										loading="lazy"
+										alt=""
+									/>
+								))}
+							</div>
+						)
+				}
+
 				<Content />
+
+				{
+					eventbriteLink && (
+						<div class="event-cta">
+							<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
+									{customCta || 'Sign up to volunteer'}
+							</a>
+						</div>
+					)
+				}
 			</div>
-			{
-				eventbriteLink && (
-					<div class="event-cta">
-						<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
-							Sign up to volunteer
-						</a>
-					</div>
-				)
-			}
+
 		</div>
 	</div>
-	<VolunteerSignup />
+
 	<TakeAction />
+
 </Layout>
 
 <style>

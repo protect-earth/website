@@ -85,3 +85,33 @@ Purpose:
 Primary output location:
 
 - src/content/site-updates
+
+### sync-events.js
+
+Command:
+
+```bash
+pnpm sync-events
+```
+
+Required env vars:
+
+- EVENTBRITE_PRIVATE_TOKEN
+
+Optional env vars:
+
+- EVENTBRITE_ORGANIZATION_ID
+- EVENTBRITE_EVENT_STATUSES (default: `live,started`)
+
+Purpose:
+
+- Reads events from Eventbrite (owned events, or organization events when configured)
+- Creates/updates one markdown file per active Eventbrite event in the same frontmatter shape as existing events
+- Generates local ICS calendar files in `public/events`
+- Downloads and localizes event images into `src/assets/events`
+- Tracks generated files in a manifest and removes stale synced events/assets no longer returned by Eventbrite
+
+Primary output locations:
+
+- src/content/events
+- public/events

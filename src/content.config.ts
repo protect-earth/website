@@ -40,19 +40,21 @@ const articles = defineCollection({
 
 const events = defineCollection({
 	loader: glob({ base: './src/content/events', pattern: '**/*.{md, mdx}' }),
-	schema: z.object({
-		title: z.string(),
-		description: z.string().optional(),
-		pubDate: z.date(),
-		startDate: z.date(),
-		endDate: z.date(),
-		address: z.string(),
-		map: z.string(),
-		ics: z.string(),
-		googleCal: z.string(),
-		thumbnail: z.string().optional(),
-		eventbriteLink: z.string().optional(),
-	}),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string(),
+			description: z.string().optional(),
+			pubDate: z.date(),
+			startDate: z.date(),
+			endDate: z.date(),
+			address: z.string(),
+			map: z.string(),
+			ics: z.string(),
+			googleCal: z.string(),
+			thumbnail: image().optional(),
+			images: z.array(image()).optional(),
+			eventbriteLink: z.string().optional(),
+		}),
 });
 
 const members = defineCollection({

@@ -1,12 +1,15 @@
-/articles/deep-roots-ancient-woodlands-matter/ /articles/restoring-ancient-woodlands/
-/articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood/ /articles/restoring-ancient-woodlands/
-/articles/misconception-planting-in-straight-lines-is-lazy-or-bad/ /articles/misconceptions-about-tree-planting/
+/articles/deep-roots-ancient-woodlands-matter/	/articles/restoring-ancient-woodlands/
+/articles/restoring-ancient-woodlands-a-practical-guide-from-high-wood/	/articles/restoring-ancient-woodlands/
+/articles/misconception-planting-in-straight-lines-is-lazy-or-bad/	/articles/misconceptions-about-tree-planting/
+
+/events/high-wood-summer-fair-14th-june-2026	/events/high-wood-summer-fair-liskeard-cornwall-1986120946215.md
+
 
 /bath 						/warleigh-nature-reserve
 
-/blog 						/articles
-/donate           /act-now/general-donation
-/projects					/sites
+/blog/*						/articles/:splat
+/projects/*				/sites/:splat
 
-/blog/*           /articles/:splat
-/projects/*       /sites/:splat
+/blog 						/articles
+/donate						/act-now/general-donation
+/projects					/sites

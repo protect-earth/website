@@ -23,13 +23,12 @@ const {
 	type = 'website',
 	author,
 	pubDate,
-} = Astro.props;
+} = Astro.props as Props;
 
 // OpenGraph recommended dimensions
 const OG_IMAGE_WIDTH = 1200;
 const OG_IMAGE_HEIGHT = 630;
 
-// Optimize image for OpenGraph (1200x630px recommended)
 const optimizedImage = await getImage({
 	src: image,
 	width: OG_IMAGE_WIDTH,

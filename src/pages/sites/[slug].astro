@@ -82,7 +82,7 @@ const treeCount = apiData?.allocatedUnits || 0;
 const coordinates = apiData?.coordinates;
 // Use images directly from content collection
 const images = site.data.images || [];
-const heroImage = images[0]?.src || null;
+const heroImage = images[0] || null;
 const fundingPartners = site.data.fundingPartners || [];
 const siteDescription = apiData?.description;
 const descriptionHtml = siteDescription ? await marked.parse(siteDescription) : '';
@@ -116,15 +116,12 @@ const fundingPartnerLogos = {
 const fundingPartnerInfos = fundingPartners
 	.map((partner) => fundingPartnerLogos[partner])
 	.filter(Boolean);
-
-// Get absolute URL for hero image
-const siteImageUrl = heroImage ? heroImage : undefined;
 ---
 
-<Layout 
-	title={siteName} 
+<Layout
+	title={siteName}
 	description={siteLocation}
-	image={siteImageUrl}
+	image={heroImage || undefined}
 	type="website"
 >
 	<!-- Hero Section -->

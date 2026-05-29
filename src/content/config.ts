@@ -56,6 +56,7 @@ const eventsCollection = defineCollection({
 		googleCal: z.string(),
 		thumbnail: z.string().optional(),
 		eventbriteLink: z.string().optional(),
+		customCta: z.string().optional(),
 	}),
 });
 
