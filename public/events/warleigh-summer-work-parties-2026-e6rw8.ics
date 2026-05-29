@@ -1,14 +1,18 @@
 BEGIN:VCALENDAR
+PRODID:-//Protect Earth//Manual Event//EN
 VERSION:2.0
-PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
-UID:69cfad4a56da856ef137e625@squarespace.com
-DTSTAMP:20260403T132947Z
+UID:warleigh-summer-work-parties-2026-e6rw8@protect.earth
+DTSTAMP:20260529T000000Z
 DTSTART:20260404T090000Z
-DTEND:20261031T160000Z
+DTEND:20260404T150000Z
+RRULE:FREQ=WEEKLY;BYDAY=SA;UNTIL=20261031T160000Z
 SUMMARY:Warleigh Nature Reserve\, Bath Volunteer Days Every Saturday
-GEO:51.404667;-2.290332
-LOCATION:Warleigh Nature Reserve\, Warleigh Lane\, Bathford\,  England\, Un
- ited Kingdom
+DESCRIPTION:Drop-in volunteer work parties every Saturday
+LOCATION:Warleigh Nature Reserve\, Warleigh Lane\, Bathford\, England Uni
+ ted Kingdom
+URL:https://www.protect.earth/events/warleigh-summer-work-parties-2026-e6rw8
 END:VEVENT
 END:VCALENDAR

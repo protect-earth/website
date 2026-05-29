@@ -66,38 +66,34 @@ const { Content } = await render(event);
 							</>
 						) : (
 							<>
-								{
-									startDateValue && (
-										<>
-											<dt>Starts</dt>
-											<dd>
-												<time datetime={startDateValue.toISOString()}>
-													{startDateValue.toLocaleDateString('en-GB', {
-														day: 'numeric',
-														month: 'long',
-														year: 'numeric',
-													})}
-												</time>
-											</dd>
-										</>
-									)
-								}
-								{
-									endDateValue && (
-										<>
-											<dt>Ends</dt>
-											<dd>
-												<time datetime={endDateValue.toISOString()}>
-													{endDateValue.toLocaleDateString('en-GB', {
-														day: 'numeric',
-														month: 'long',
-														year: 'numeric',
-													})}
-												</time>
-											</dd>
-										</>
-									)
-								}
+								{startDateValue && (
+									<>
+										<dt>Starts</dt>
+										<dd>
+											<time datetime={startDateValue.toISOString()}>
+												{startDateValue.toLocaleDateString('en-GB', {
+													day: 'numeric',
+													month: 'long',
+													year: 'numeric',
+												})}
+											</time>
+										</dd>
+									</>
+								)}
+								{endDateValue && (
+									<>
+										<dt>Ends</dt>
+										<dd>
+											<time datetime={endDateValue.toISOString()}>
+												{endDateValue.toLocaleDateString('en-GB', {
+													day: 'numeric',
+													month: 'long',
+													year: 'numeric',
+												})}
+											</time>
+										</dd>
+									</>
+								)}
 							</>
 						)
 					}
@@ -182,18 +178,13 @@ const { Content } = await render(event);
 		<div class="wrap">
 			<div class="prose stack">
 				{
-					images &&
-						images.length > 0 && (
-							<div class="event-imagegroup">
-								{images.map((image, index) => (
-									<Image
-										src={image}
-										loading="lazy"
-										alt=""
-									/>
-								))}
-							</div>
-						)
+					images && images.length > 0 && (
+						<div class="event-imagegroup">
+							{images.map((image, index) => (
+								<Image src={image} loading="lazy" alt="" />
+							))}
+						</div>
+					)
 				}
 
 				<Content />
@@ -202,18 +193,16 @@ const { Content } = await render(event);
 					eventbriteLink && (
 						<div class="event-cta">
 							<a href={eventbriteLink} class="button" target="_blank" rel="noopener noreferrer">
-									{customCta || 'Sign up to volunteer'}
+								{customCta || 'Sign up to volunteer'}
 							</a>
 						</div>
 					)
 				}
 			</div>
-
 		</div>
 	</div>
 
 	<TakeAction />
-
 </Layout>
 
 <style>
