@@ -48,6 +48,7 @@ const events = defineCollection({
 			startDate: z.date(),
 			endDate: z.date(),
 			address: z.string(),
+			coordinates: z.tuple([z.number(), z.number()]).optional(),
 			thumbnail: image().optional(),
 			images: z.array(image()).optional(),
 			eventbriteLink: z.string().optional(),

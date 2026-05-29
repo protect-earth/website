@@ -17,7 +17,7 @@ const {
 	titleAs: Tag = 'h2',
 } = Astro.props;
 
-const EVENT_TIMEZONE = siteConfig.timezone;
+const eventTimezone = siteConfig.timezone;
 ---
 
 <article class="card">
@@ -35,7 +35,7 @@ const EVENT_TIMEZONE = siteConfig.timezone;
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
-								timeZone: EVENT_TIMEZONE,
+								timeZone: eventTimezone,
 							})}
 						</time>
 					</li>
@@ -46,7 +46,7 @@ const EVENT_TIMEZONE = siteConfig.timezone;
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
-								timeZone: EVENT_TIMEZONE,
+								timeZone: eventTimezone,
 							})}
 						</time>
 						&mdash;
@@ -55,7 +55,7 @@ const EVENT_TIMEZONE = siteConfig.timezone;
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
-								timeZone: EVENT_TIMEZONE,
+								timeZone: eventTimezone,
 							})}
 						</time>
 					</li>
@@ -68,7 +68,7 @@ const EVENT_TIMEZONE = siteConfig.timezone;
 							{startDate.toLocaleTimeString('en-GB', {
 								hour: '2-digit',
 								minute: '2-digit',
-								timeZone: EVENT_TIMEZONE,
+								timeZone: eventTimezone,
 							})}
 						</time>
 					)
@@ -80,7 +80,7 @@ const EVENT_TIMEZONE = siteConfig.timezone;
 							{endDate.toLocaleTimeString('en-GB', {
 								hour: '2-digit',
 								minute: '2-digit',
-								timeZone: EVENT_TIMEZONE,
+								timeZone: eventTimezone,
 							})}
 						</time>
 					)

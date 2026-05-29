@@ -34,7 +34,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const EVENTS_CONTENT_DIR = path.join(__dirname, '../src/content/events');
-const EVENTS_PUBLIC_DIR = path.join(__dirname, '../public/events');
 const LOCAL_IMAGES_DIR = path.join(__dirname, '../src/assets/events');
 const TEMP_DIR = path.join(__dirname, '../.temp-eventbrite-images');
 const MANIFEST_PATH = path.join(LOCAL_IMAGES_DIR, MANIFEST_FILENAME);
@@ -132,16 +131,15 @@ function normalizeAddress(address = {}) {
 	return locality || postcode;
 }
 
-function buildMapUrl(address, latitude, longitude) {
-	if (latitude && longitude) {
-		return `https://maps.google.com/?q=${encodeURIComponent(`${latitude},${longitude}`)}`;
+function buildGeoJsonCoordinates(latitude, longitude) {
+	const lat = Number(latitude);
+	const lon = Number(longitude);
+
+	if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+		return null;
 	}
 
-	if (!address) {
-		return '';
-	}
-
-	return `https://maps.google.com/?q=${encodeURIComponent(address)}`;
+	return [lon, lat];
 }
 
 function htmlDescriptionToMarkdown(html, summary) {
@@ -543,7 +541,6 @@ async function syncEvents() {
 	console.log('Syncing events from Eventbrite...');
 
 	ensureDirectory(EVENTS_CONTENT_DIR);
-	ensureDirectory(EVENTS_PUBLIC_DIR);
 	ensureDirectory(LOCAL_IMAGES_DIR);
 	ensureDirectory(TEMP_DIR);
 
@@ -570,9 +567,9 @@ async function syncEvents() {
 
 		const venue = event.venue || (await fetchVenue(event.venue_id));
 		const address = event.online_event ? 'Online event' : normalizeAddress(venue?.address);
-		const map = event.online_event
-			? ''
-			: buildMapUrl(address, venue?.address?.latitude, venue?.address?.longitude);
+		const coordinates = event.online_event
+			? null
+			: buildGeoJsonCoordinates(venue?.address?.latitude, venue?.address?.longitude);
 
 		const startDate = asDate(event.start?.utc, new Date());
 		const endDate = asDate(event.end?.utc, startDate);
@@ -608,6 +605,10 @@ async function syncEvents() {
 			address: address || 'TBC',
 			eventbriteLink: event.url || '',
 		};
+
+		if (coordinates) {
+			frontmatter.coordinates = coordinates;
+		}
 
 		if (typeof existingFrontmatter.customCta === 'string' && existingFrontmatter.customCta.trim()) {
 			frontmatter.customCta = existingFrontmatter.customCta.trim();

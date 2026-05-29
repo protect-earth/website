@@ -6,6 +6,9 @@ startDate: 2026-07-04T09:00:00.000Z
 endDate: 2026-07-04T15:00:00.000Z
 address: 'Radstock, BA3'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/tree-loving-volunteers-needed-near-radstock-somerset-tickets-1991280568785'
+coordinates:
+  - -2.446092
+  - 51.29201699999999
 thumbnail: ../../assets/events/tree-loving-volunteers-needed-near-radstock-somerset-1991280568785/1c580058ff0d.jpg
 images:
   - ../../assets/events/tree-loving-volunteers-needed-near-radstock-somerset-1991280568785/1c580058ff0d.jpg

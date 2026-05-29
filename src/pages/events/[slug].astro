@@ -18,12 +18,28 @@ export async function getStaticPaths() {
 const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
-	data: { address, description, endDate, eventbriteLink, images, startDate, title, thumbnail },
+	data: {
+		address,
+		coordinates,
+		description,
+		endDate,
+		eventbriteLink,
+		images,
+		startDate,
+		title,
+		thumbnail,
+	},
 } = event;
+const eventTimezone = siteConfig.timezone;
 const customCta = (event.data as { customCta?: string }).customCta;
-const EVENT_TIMEZONE = siteConfig.timezone;
+const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 const startDateValue = startDate as Date | undefined;
 const endDateValue = endDate as Date | undefined;
+const coordinatesValue =
+	Array.isArray(coordinates) && coordinates.length === 2 ? coordinates : null;
+const showMapPreview = Boolean(
+	coordinatesValue && mapboxToken && address && address !== 'Online event',
+);
 const isSingleDayEvent =
 	startDateValue &&
 	endDateValue &&
@@ -39,109 +55,119 @@ const { Content } = await render(event);
 		<header>
 			<div class="wrap">
 				<h1>{title}</h1>
-				<dl class="meta">
-					{
-						isSingleDayEvent ? (
-							<>
-								<dt>Date</dt>
-								<dd>
-									<time datetime={startDateValue.toISOString()}>
-										{startDateValue.toLocaleDateString('en-GB', {
-											day: 'numeric',
-											month: 'long',
-											year: 'numeric',
-											timeZone: EVENT_TIMEZONE,
-										})}
-									</time>
-								</dd>
-							</>
-						) : (
-							<>
-								{startDateValue && (
-									<>
-										<dt>Starts</dt>
-										<dd>
-											<time datetime={startDateValue.toISOString()}>
-												{startDateValue.toLocaleDateString('en-GB', {
-													day: 'numeric',
-													month: 'long',
-													year: 'numeric',
-													timeZone: EVENT_TIMEZONE,
-												})}
-											</time>
-										</dd>
-									</>
-								)}
-								{endDateValue && (
-									<>
-										<dt>Ends</dt>
-										<dd>
-											<time datetime={endDateValue.toISOString()}>
-												{endDateValue.toLocaleDateString('en-GB', {
-													day: 'numeric',
-													month: 'long',
-													year: 'numeric',
-													timeZone: EVENT_TIMEZONE,
-												})}
-											</time>
-										</dd>
-									</>
-								)}
-							</>
-						)
-					}
-					<dt>Time</dt>
-					<dd>
+				<div class="event-header-columns">
+					<dl class="meta">
 						{
-							startDateValue && (
-								<time>
-									{startDateValue.toLocaleTimeString('en-GB', {
-										hour: '2-digit',
-										minute: '2-digit',
-										timeZone: EVENT_TIMEZONE,
-									})}
-								</time>
-							)
-						}
-						{startDateValue && endDateValue && <>&mdash;</>}
-						{
-							endDateValue && (
-								<time>
-									{endDateValue.toLocaleTimeString('en-GB', {
-										hour: '2-digit',
-										minute: '2-digit',
-										timeZone: EVENT_TIMEZONE,
-									})}
-								</time>
-							)
-						}
-					</dd>
-					{
-						address && (
-							<>
-								<dt>Where</dt>
-								<dd>
-									{address}
-									{address && address !== 'Online event' && (
+							isSingleDayEvent ? (
+								<>
+									<dt>Date</dt>
+									<dd>
+										<time datetime={startDateValue.toISOString()}>
+											{startDateValue.toLocaleDateString('en-GB', {
+												day: 'numeric',
+												month: 'long',
+												year: 'numeric',
+												timeZone: eventTimezone,
+											})}
+										</time>
+									</dd>
+								</>
+							) : (
+								<>
+									{startDateValue && (
 										<>
-											{' '}
-											<span
-												class="tooltip-trigger"
-												role="button"
-												tabindex="0"
-												title="Full address will be provided after signup"
-												aria-label="Full address will be provided after signup"
-												data-tooltip="Full address will be provided after signup"
-											>
-												i
-											</span>
+											<dt>Starts</dt>
+											<dd>
+												<time datetime={startDateValue.toISOString()}>
+													{startDateValue.toLocaleDateString('en-GB', {
+														day: 'numeric',
+														month: 'long',
+														year: 'numeric',
+														timeZone: eventTimezone,
+													})}
+												</time>
+											</dd>
 										</>
 									)}
-								</dd>
-							</>
+									{endDateValue && (
+										<>
+											<dt>Ends</dt>
+											<dd>
+												<time datetime={endDateValue.toISOString()}>
+													{endDateValue.toLocaleDateString('en-GB', {
+														day: 'numeric',
+														month: 'long',
+														year: 'numeric',
+														timeZone: eventTimezone,
+													})}
+												</time>
+											</dd>
+										</>
+									)}
+								</>
+							)
+						}
+						<dt>Time</dt>
+						<dd>
+							{
+								startDateValue && (
+									<time>
+										{startDateValue.toLocaleTimeString('en-GB', {
+											hour: '2-digit',
+											minute: '2-digit',
+											timeZone: eventTimezone,
+										})}
+									</time>
+								)
+							}
+							{startDateValue && endDateValue && <>&mdash;</>}
+							{
+								endDateValue && (
+									<time>
+										{endDateValue.toLocaleTimeString('en-GB', {
+											hour: '2-digit',
+											minute: '2-digit',
+											timeZone: eventTimezone,
+										})}
+									</time>
+								)
+							}
+						</dd>
+						{
+							address && (
+								<>
+									<dt>Where</dt>
+									<dd>
+										{address}
+										{address && address !== 'Online event' && (
+											<>
+												{' '}
+												<span
+													class="tooltip-trigger"
+													role="button"
+													tabindex="0"
+													title="Full address will be provided after signup"
+													aria-label="Full address will be provided after signup"
+													data-tooltip="Full address will be provided after signup"
+												>
+													i
+												</span>
+											</>
+										)}
+									</dd>
+								</>
+							)
+						}
+					</dl>
+					{
+						showMapPreview && (
+							<aside class="event-map-preview" aria-label="Approximate event location map">
+								<div id="event-map" class="event-map-canvas" />
+								<p class="event-map-caption">Approximate location</p>
+							</aside>
 						)
 					}
-				</dl>
+				</div>
 			</div>
 
 			{
@@ -239,4 +265,65 @@ const { Content } = await render(event);
 	.tooltip-trigger:focus-visible::after {
 		opacity: 1;
 	}
+
+	.event-header-columns {
+		display: grid;
+		gap: var(--space-m);
+		align-items: stretch;
+	}
+
+	.meta,
+	.event-map-preview {
+		padding: var(--space-s);
+		border-radius: var(--radius-s);
+	}
+
+	.event-map-preview {
+		display: grid;
+		gap: var(--space-3xs);
+	}
+
+	.event-map-canvas {
+		inline-size: 100%;
+		min-block-size: 200px;
+		border-radius: var(--radius-s);
+		overflow: hidden;
+		box-shadow: var(--shadow-lite);
+	}
+
+	.event-map-caption {
+		font-size: var(--font-2xs);
+		opacity: 0.9;
+	}
+
+	@media (min-width: 48rem) {
+		.event-header-columns {
+			grid-template-columns: minmax(260px, 1fr) minmax(240px, 300px);
+		}
+	}
 </style>
+
+<link href="https://api.mapbox.com/mapbox-gl-js/v3.5.2/mapbox-gl.css" rel="stylesheet" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.5.2/mapbox-gl.js"></script>
+<script is:inline define:vars={{ mapCoordinates: coordinatesValue, mapboxToken, title }}>
+	if (mapCoordinates && mapboxToken) {
+		document.addEventListener('DOMContentLoaded', () => {
+			mapboxgl.accessToken = mapboxToken;
+
+			const map = new mapboxgl.Map({
+				container: 'event-map',
+				style: 'mapbox://styles/mapbox/standard',
+				center: mapCoordinates,
+				zoom: 8,
+				attributionControl: false,
+			});
+
+			map.addControl(new mapboxgl.NavigationControl());
+
+			new mapboxgl.Marker({ color: '#15803d' })
+				.setLngLat(mapCoordinates)
+				.setPopup(new mapboxgl.Popup({ offset: 20 }).setText(title))
+				.addTo(map);
+		});
+	}
+</script>

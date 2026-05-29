@@ -6,6 +6,9 @@ startDate: 2026-07-08T09:00:00.000Z
 endDate: 2026-07-08T12:00:00.000Z
 address: 'Bath, BA1 8EE'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/ecology-tour-of-warleigh-nature-reserve-bath-tickets-1990794724612'
+coordinates:
+  - -2.3866048
+  - 51.3845283
 customCta: Grab a ticket from Eventbrite
 thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/7d11eb9db6d6.jpg
 images:

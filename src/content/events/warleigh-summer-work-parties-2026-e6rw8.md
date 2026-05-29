@@ -5,6 +5,7 @@ pubDate: 2026-04-02T10:00:00.000Z
 startDate: 2026-04-04T10:00:00.000Z
 endDate: 2026-10-31T16:00:00.000Z
 address: Warleigh Nature Reserve, Warleigh Lane, Bathford
+coordinates: [-2.3866048, 51.3845283]
 thumbnail: ../../assets/events/warleigh-summer-work-parties-2026-e6rw8/warleigh-cover.jpg
 images:
   - ../../assets/events/warleigh-summer-work-parties-2026-e6rw8/warleigh-1.jpg
