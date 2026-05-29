@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//Protect Earth//Eventbrite Sync//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eventbrite-1989660205234@protect.earth
+DTSTAMP:20260529T203016Z
+DTSTART:20260530T090000Z
+DTEND:20260530T120000Z
+SUMMARY:Ecology Tour of Warleigh Nature Reserve\, Bath\, Somerset
+DESCRIPTION:Join our Ecologist for a guided tour of our exciting new nature
+  reserve\, learning about local habitats and species\, and our future plans
+ .
+LOCATION:Bath\, BA1 8EE
+URL:https://www.eventbrite.co.uk/e/ecology-tour-of-warleigh-nature-reserve-
+ bath-somerset-tickets-1989660205234
+END:VEVENT
+END:VCALENDAR

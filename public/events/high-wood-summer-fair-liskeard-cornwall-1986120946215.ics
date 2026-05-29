@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//Protect Earth//Eventbrite Sync//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eventbrite-1986120946215@protect.earth
+DTSTAMP:20260529T203024Z
+DTSTART:20260614T100000Z
+DTEND:20260614T150000Z
+SUMMARY:High Wood Summer Fair\, Liskeard\, Cornwall
+DESCRIPTION:Summer Fair in the woods\, including owls\,  qigong\, scavenger
+  hunts\, history walk. workshops\, foraging .  Crafts\, food\, eco-friendly
+  stalls.
+LOCATION:Moorswater\, PL14 4LA
+URL:https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-
+ tickets-1986120946215
+END:VEVENT
+END:VCALENDAR

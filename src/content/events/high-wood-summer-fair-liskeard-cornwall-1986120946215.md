@@ -6,7 +6,6 @@ startDate: 2026-06-14T10:00:00.000Z
 endDate: 2026-06-14T15:00:00.000Z
 address: 'Moorswater, PL14 4LA'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-tickets-1986120946215'
-customCta: Reserve a free ticket
 thumbnail: ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/b1dd0fe82650.jpg
 images:
   - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/b1dd0fe82650.jpg
