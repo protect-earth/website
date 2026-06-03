@@ -17,17 +17,7 @@ export async function getStaticPaths() {
 const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
-	data: {
-		address,
-		description,
-		endDate,
-		eventbriteLink,
-		images,
-		map,
-		startDate,
-		title,
-		thumbnail,
-	},
+	data: { address, description, endDate, eventbriteLink, images, map, startDate, title, thumbnail },
 } = event;
 const customCta = (event.data as { customCta?: string }).customCta;
 const startDateValue = startDate as Date | undefined;
@@ -150,7 +140,6 @@ const { Content } = await render(event);
 							</>
 						)
 					}
-
 				</dl>
 			</div>
 

@@ -81,6 +81,7 @@ const siteLocation = apiData?.location || '';
 const treeCount = apiData?.allocatedUnits || 0;
 const coordinates = apiData?.coordinates;
 const siteId = site.data.siteId;
+const flagShowArea = site.data.flagShowArea;
 // Use images directly from content collection
 const images = site.data.images || [];
 const heroImage = images[0] || null;
@@ -90,7 +91,7 @@ const descriptionHtml = siteDescription ? await marked.parse(siteDescription) : 
 const species = apiData?.species || [];
 
 let siteMapGeoJson: any = null;
-if (siteId) {
+if (flagShowArea && siteId) {
 	try {
 		const mapResponse = await fetch(`https://api.protect.earth/maps/sites/${siteId}`);
 		if (mapResponse.ok) {
@@ -424,22 +425,23 @@ const fundingPartnerInfos = fundingPartners
 						data: siteMapGeoJson,
 					});
 
-					map.addLayer({
-						id: 'site-boundary-fill',
-						type: 'fill',
-						source: 'site-boundary',
-						paint: {
-							'fill-color': '#16a34a',
-							'fill-opacity': 0.3,
-						},
-					});
+					// No fill for now
+					// map.addLayer({
+					// 	id: 'site-boundary-fill',
+					// 	type: 'fill',
+					// 	source: 'site-boundary',
+					// 	paint: {
+					// 		'fill-color': '#166534',
+					// 		'fill-opacity': 0.3,
+					// 	},
+					// });
 
 					map.addLayer({
 						id: 'site-boundary-line',
 						type: 'line',
 						source: 'site-boundary',
 						paint: {
-							'line-color': '#166534',
+							'line-color': '#4400a9',
 							'line-width': 2,
 						},
 					});
@@ -454,9 +456,7 @@ const fundingPartnerInfos = fundingPartners
 						}
 
 						if (geometry.type === 'MultiPolygon') {
-							geometry.coordinates
-								.flat(2)
-								.forEach((coordinate) => bounds.extend(coordinate));
+							geometry.coordinates.flat(2).forEach((coordinate) => bounds.extend(coordinate));
 						}
 					});
 

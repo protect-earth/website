@@ -15,5 +15,5 @@ images:
   - >-
     ../../assets/sites/dolberthog-wood/3b4318788abb23eaed56882e53982682fe760b6100804ac0e6b5333855536365.jpg
 siteId: 019ab72d-40a0-728d-a560-52c1f67d6bf6
+flagShowArea: true
 ---
-
