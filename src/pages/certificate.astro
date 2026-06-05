@@ -1,0 +1,134 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const description =
+	'View your Protect Earth certificate to learn more about your impact.';
+const certificateApiUrl = 'https://api.protect.earth/certificates';
+---
+
+<Layout title="Certificate" className="page-certificate" description={description}>
+	<section class="certificate wrap stack">
+		<div class="certificate__intro stack">
+			<p class="eyebrow">Protect Earth</p>
+			<h1>Your certificate</h1>
+			<p>
+				Use the full link from your email, or add <strong>?id=your-certificate-id</strong> to this
+				page URL to load your certificate image.
+			</p>
+		</div>
+
+		<div class="certificate__card squircle stack">
+			<p class="certificate__status" data-status>
+				Looking for your certificate...
+			</p>
+
+			<img
+				class="certificate__image"
+				data-image
+				alt="Your Protect Earth certificate"
+				hidden
+			/>
+
+			<noscript>
+				<p>
+					This page needs JavaScript enabled so it can read the certificate ID from the URL.
+				</p>
+			</noscript>
+		</div>
+	</section>
+</Layout>
+
+<script define:vars={{ certificateApiUrl }}>
+	const statusEl = document.querySelector('[data-status]');
+	const imageEl = document.querySelector('[data-image]');
+
+	const setStatus = (message) => {
+		if (statusEl) {
+			statusEl.textContent = message;
+		}
+	};
+
+	if (!(statusEl instanceof HTMLElement) || !(imageEl instanceof HTMLImageElement)) {
+		throw new Error('Certificate page is missing required elements.');
+	}
+
+	const certificateId = new URL(window.location.href).searchParams.get('id')?.trim() ?? '';
+	const uuidPattern = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+	if (!certificateId) {
+		setStatus('Add your certificate ID to the URL, for example /certificate?id=your-uuid.');
+	} else if (!uuidPattern.test(certificateId)) {
+		setStatus('That certificate ID does not look valid. Please check the link and try again.');
+	} else {
+		const imageUrl = `${certificateApiUrl}/${encodeURIComponent(certificateId)}/image`;
+
+		imageEl.addEventListener(
+			'load',
+			() => {
+				imageEl.hidden = false;
+				setStatus('Screenshot your certificate or save the image to keep a copy.');
+			},
+			{ once: true },
+		);
+
+		imageEl.addEventListener(
+			'error',
+			() => {
+				imageEl.hidden = true;
+				setStatus('We could not find a certificate for that ID. Please check the link and try again.');
+			},
+			{ once: true },
+		);
+
+		imageEl.src = imageUrl;
+	}
+</script>
+
+<style>
+	.certificate {
+		padding-block: var(--space-2xl);
+		max-width: 70rem;
+	}
+
+	.certificate__intro {
+		max-width: 42rem;
+	}
+
+	.eyebrow {
+		font-size: 0.875rem;
+		font-weight: 700;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: var(--green-700, #2f5f3d);
+		margin: 0;
+	}
+
+	.certificate__card {
+		background: var(--white);
+		padding: var(--space-l);
+		box-shadow: 0 24px 80px rgb(0 0 0 / 0.08);
+	}
+
+	.certificate__status {
+		margin: 0;
+		font-weight: 600;
+	}
+
+	.certificate__image {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 1.25rem;
+		background: var(--neutral-100, #f4f2eb);
+	}
+
+	@media (max-width: 48rem) {
+		.certificate {
+			padding-block: var(--space-xl);
+		}
+
+		.certificate__card {
+			padding: var(--space-m);
+		}
+	}
+</style>
