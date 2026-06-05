@@ -5,15 +5,16 @@ pubDate: 2026-07-08T09:00:00.000Z
 startDate: 2026-07-08T09:00:00.000Z
 endDate: 2026-07-08T12:00:00.000Z
 address: 'Bath, BA1 8EE'
-map: 'https://maps.google.com/?q=51.3845283%2C-2.3866048'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/ecology-tour-of-warleigh-nature-reserve-bath-tickets-1990794724612'
-thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/af051a55d369.jpg
+customCta: Grab a ticket from Eventbrite
+thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/7d11eb9db6d6.jpg
 images:
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/af051a55d369.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/7d11eb9db6d6.jpg
   - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/bf5e33c41f48.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/e3f1d3a3b441.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/a9a873608ad6.jpg
   - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/0f381c2e144f.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/1d57e6a00329.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/5b5c341aeb6d.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/3ca071ea0bf8.jpg
 ---
 Protect Earth purchased this site at Warleigh at the end of January this year with the intention of creating a new nature reserve.
 

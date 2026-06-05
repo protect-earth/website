@@ -5,16 +5,15 @@ pubDate: 2026-06-14T10:00:00.000Z
 startDate: 2026-06-14T10:00:00.000Z
 endDate: 2026-06-14T15:00:00.000Z
 address: 'Moorswater, PL14 4LA'
-map: 'https://maps.google.com/?q=50.4641211%2C-4.4870614'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/high-wood-summer-fair-liskeard-cornwall-tickets-1986120946215'
 customCta: Reserve a free ticket
 thumbnail: ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/b1dd0fe82650.jpg
 images:
   - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/b1dd0fe82650.jpg
-  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/8f03c81649ab.jpg
+  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/687836d18671.jpg
   - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/8b56d5b5f8d4.jpg
-  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/bc0a969d1f39.jpg
-  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/553e93dc1a0d.jpg
+  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/14d8183047c4.jpg
+  - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/1a0f9b2912e2.jpg
   - ../../assets/events/high-wood-summer-fair-liskeard-cornwall-1986120946215/7f6c329f162b.jpg
 ---
 ### WE ARE HOLDING OUR FOURTH ANNUAL SUMMER FAIR IN THE MIDDLE OF HIGH WOOD, LISKEARD, CORNWALL- See below for location details.

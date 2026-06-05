@@ -5,12 +5,11 @@ pubDate: 2026-06-27T09:00:00.000Z
 startDate: 2026-06-27T09:00:00.000Z
 endDate: 2026-06-27T15:00:00.000Z
 address: 'Newbury, RG20 9DY'
-map: 'https://maps.google.com/?q=51.3581486%2C-1.3329306'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/tree-loving-volunteers-wanted-near-newbury-west-berkshire-tickets-1990686753668'
 thumbnail: ../../assets/events/tree-loving-volunteers-wanted-near-newbury-west-berkshire-1990686753668/26222950d233.jpg
 images:
   - ../../assets/events/tree-loving-volunteers-wanted-near-newbury-west-berkshire-1990686753668/26222950d233.jpg
-  - ../../assets/events/tree-loving-volunteers-wanted-near-newbury-west-berkshire-1990686753668/d6ad04652c45.jpg
+  - ../../assets/events/tree-loving-volunteers-wanted-near-newbury-west-berkshire-1990686753668/065020dda2a5.jpg
   - ../../assets/events/tree-loving-volunteers-wanted-near-newbury-west-berkshire-1990686753668/767d5a450062.jpg
 ---
 Come and have a fun time with Protect Earth!

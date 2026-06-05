@@ -40,4 +40,6 @@ export const siteConfig = {
 		'policy-funding': 'Policy & Funding',
 		'wildlife-habitats': 'Wildlife & Habitats',
 	},
+
+	timezone: 'Europe/London',
 } as const;

@@ -10,7 +10,7 @@ import VolunteerSignup from '../../components/VolunteerSignup.astro';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const events = (await getCollection('events'))
-		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+		.sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
 		.map((post) => ({ slug: post.id, data: post.data }));
 
 	return paginate(events, { pageSize: 20 });
@@ -22,7 +22,7 @@ const { page } = Astro.props as { page: Page };
 <Layout title="Events" breadcrumb={page.currentPage > 1 ? `Page ${page.currentPage}` : ''}>
 	<ContentHero title="Events">
 		<p>
-			Join us at one of our upcoming events. From tree planting to meadow maintenance, there's
+			Join us at one of our upcoming events. From tree planting to invasive species removal, there's
 			something for everyone.
 		</p>
 	</ContentHero>

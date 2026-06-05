@@ -3,6 +3,7 @@ import { isSameDay } from '../helpers';
 import type { HTMLTag, Polymorphic } from 'astro/types';
 import { Image } from 'astro:assets';
 import NoImage from './../assets/icons/image.svg';
+import { siteConfig } from '../config';
 
 type Props<Tag extends HTMLTag> = Polymorphic<{ as: Tag }>;
 const {
@@ -15,6 +16,8 @@ const {
 	title,
 	titleAs: Tag = 'h2',
 } = Astro.props;
+
+const EVENT_TIMEZONE = siteConfig.timezone;
 ---
 
 <article class="card">
@@ -32,6 +35,7 @@ const {
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
+								timeZone: EVENT_TIMEZONE,
 							})}
 						</time>
 					</li>
@@ -42,6 +46,7 @@ const {
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
+								timeZone: EVENT_TIMEZONE,
 							})}
 						</time>
 						&mdash;
@@ -50,6 +55,7 @@ const {
 								day: 'numeric',
 								month: 'long',
 								year: 'numeric',
+								timeZone: EVENT_TIMEZONE,
 							})}
 						</time>
 					</li>
@@ -62,6 +68,7 @@ const {
 							{startDate.toLocaleTimeString('en-GB', {
 								hour: '2-digit',
 								minute: '2-digit',
+								timeZone: EVENT_TIMEZONE,
 							})}
 						</time>
 					)
@@ -73,6 +80,7 @@ const {
 							{endDate.toLocaleTimeString('en-GB', {
 								hour: '2-digit',
 								minute: '2-digit',
+								timeZone: EVENT_TIMEZONE,
 							})}
 						</time>
 					)

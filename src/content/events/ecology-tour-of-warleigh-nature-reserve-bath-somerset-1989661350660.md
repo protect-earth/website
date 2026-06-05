@@ -5,15 +5,14 @@ pubDate: 2026-06-06T09:00:00.000Z
 startDate: 2026-06-06T09:00:00.000Z
 endDate: 2026-06-06T12:00:00.000Z
 address: 'Bath, BA1 8EE'
-map: 'https://maps.google.com/?q=51.3845283%2C-2.3866048'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/ecology-tour-of-warleigh-nature-reserve-bath-somerset-tickets-1989661350660'
-thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/4e992985de1f.jpg
+customCta: Grab a ticket from Eventbrite
+thumbnail: ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/c38be685875a.jpg
 images:
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/4e992985de1f.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/090f608bb7c6.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/7e0f5c117191.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/6c9433007d0f.jpg
-  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/161500ece5c3.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/c38be685875a.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/9152b446f870.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/af051a55d369.jpg
+  - ../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-somerset-1989661350660/3ca071ea0bf8.jpg
 ---
 Protect Earth purchased this site at Warleigh at the end of January this year with the intention of creating a new nature reserve.
 
