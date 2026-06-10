@@ -17,10 +17,11 @@ export const siteConfig = {
 
 	achievements: {
 		treesPlanted: 161028,
+		survivalRate: 79.9,
 		hedgerowsMeters: 5180,
 		acresRestored: 400,
 		acresUnderManagement: 248,
-		survivalRate: 79.9,
+		volunteerHours: 14236,
 	},
 
 	analytics: {
