@@ -8,6 +8,7 @@ import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import MapPin from '../../assets/icons/map-pin.svg';
 import NoImage from '../../assets/icons/image.svg';
+import siteHero from '../../assets/pages/sites/hero.jpg';
 
 const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 
@@ -59,7 +60,7 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 
 <Layout title="Sites">
 	<!-- Hero Section -->
-	<ContentHero title="Our Sites">
+	<ContentHero title="Our Sites" imgSrc={siteHero} imgAlt="Aerial view of a rewilding site with trees and grassland">
 		<p>Discover the woodlands, rewilding, and rewetting projects we've created across the UK.</p>
 	</ContentHero>
 
