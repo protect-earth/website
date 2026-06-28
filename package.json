@@ -6,6 +6,7 @@
 		"sync-sites": "node scripts/sync-sites.js",
 		"sync-site-updates": "node scripts/sync-site-updates.js",
 		"sync-events": "node scripts/sync-events.js",
+		"sync-newsletters": "node scripts/sync-newsletters.js",
 		"dev": "astro dev",
 		"build": "astro build",
 		"preview": "astro preview",

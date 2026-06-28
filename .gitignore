@@ -21,6 +21,7 @@ pnpm-debug.log*
 .DS_Store
 
 .temp-images
+.temp-mailchimp-images/
 
 # Local Netlify folder
 .netlify

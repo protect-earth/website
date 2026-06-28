@@ -115,3 +115,40 @@ Primary output locations:
 
 - src/content/events
 - public/events
+
+### sync-newsletters.js
+
+Command:
+
+```bash
+pnpm sync-newsletters
+```
+
+Required env vars:
+
+- MAILCHIMP_API_KEY
+- MAILCHIMP_SERVER_PREFIX
+
+Optional env vars:
+
+- MAILCHIMP_NEWSLETTER_FETCH_COUNT (default: `200`)
+- MAILCHIMP_NEWSLETTER_SYNC_MONTHS (default: `3`)
+- MAILCHIMP_SKIP_REGIONAL_NEWSLETTERS (default: `true`)
+
+Purpose:
+
+- Reads sent campaign newsletters from Mailchimp
+- Only syncs campaigns from the most recent N months (default: 3)
+- Pulls full campaign HTML content via Mailchimp API
+- Skips campaigns whose Mailchimp recipients metadata includes `Region:` (configurable)
+- Downloads and localizes newsletter images to `src/assets/articles/newsletters`
+- Converts localized HTML to markdown and writes one article per campaign
+- Preserves existing article files as-is on reruns; delete a synced article first if you want it regenerated
+- Adds article `tags` for `high-wood` and `warleigh-nature-reserve` when detected in campaign metadata/content
+- Preserves local frontmatter overrides when files already exist
+- Tracks generated files/assets in a manifest and removes stale synced newsletters and images
+
+Primary output locations:
+
+- src/content/articles
+- src/assets/articles/newsletters

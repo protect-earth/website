@@ -35,6 +35,7 @@ const articles = defineCollection({
 					]),
 				)
 				.optional(),
+			tags: z.array(z.string()).optional(),
 		}),
 });
 
