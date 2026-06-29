@@ -13,4 +13,6 @@ photos:
   - "../../assets/site-updates/hawling-windrush-survey-2025-c88013ae/b411aa3980c91efebbc27629b462e3a060c95b9297c2387c1b4f72e0ee7eb63a.jpg"
 ---
 
-A wonderful area for wildlife with corn buntings and skylarks still occurring on the farmland roundabout, with lots of exciting chalkland butterfly and plant species in the meadows. The planting here was intended to increase the size and improve the quality of the hedge-line that runs through this farmland and meadow area. We have planted lots of species with berries which are eaten by winter thrushes, while in summer, bullfinches and linnets will use them as nesting habitat.
+A wonderful area for wildlife with corn buntings and skylarks still occurring on the farmland roundabout, with lots of exciting chalkland butterfly and plant species in the meadows.
+
+Unfortunately sheep got into the young woodland due to insufficient fencing which has lost us a fair few saplings. The landowners have agreed to get some proper fencing up, so we’ll be back to restock these saplings and straighten and weed those that are still with us.

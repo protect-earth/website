@@ -13,3 +13,4 @@ photos:
   - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/5cb3dda0e57599f63aae091d6b557872986ae4249f0e2b986c4dc847656be7be.jpg"
 ---
 
+The landowner carried out the survival rate survey, giving some very positive feedback: “Our survey of the trees showed the survival percentage was 94%, and given the hot, dry conditions we have had, we were very happy with this, particularly as a high number of the trees were not just surviving but thriving…There were also a very large number of self-seeded regeneration trees – several hundred.  Mainly but not exclusively oaks. We protected about 30 or 40 of those…”

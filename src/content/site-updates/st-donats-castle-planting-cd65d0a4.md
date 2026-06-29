@@ -13,3 +13,6 @@ photos:
   - "../../assets/site-updates/st-donats-castle-planting-cd65d0a4/8b9d7c549400b93a7ccc7922ab77c3c92409d6c3e7190689f231e41e0bf9b49f.jpg"
 ---
 
+The Miyawaki Method was used here, which involves planting the saplings at a higher density than standard practice. With the hopes that they either compete and/or help one another to grow faster, denser and stronger. This was chosen due to the small size of the planting, only 300 square metres. It is somewhat of an experimental approach in the UK, but has been tested by Protect Earth previously in the southeast with very encouraging results.
+
+The planting included 250 English Oak, 200 Silver Birch, 200 Scots Pine, 200 Rowan, 50 Common Hawthorn, 50 Blackthorn and 50 Dog Rose, a resilient native mix chosen to establish well and provide long-term habitat for local wildlife.

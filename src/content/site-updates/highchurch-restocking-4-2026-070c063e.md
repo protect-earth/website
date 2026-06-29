@@ -14,3 +14,5 @@ photos:
   - "../../assets/site-updates/highchurch-restocking-4-2026-070c063e/88d18bbcfe103d98468445b306b9f854be370c124fc308179c3ed77ec978c068.jpg"
 ---
 
+What a perfect day! Morale was buzzing during this restocking day. Restocking 600 trees, pulling grass out of guards, and replacing broken stakes were made light work by this energetic group of volunteers. During a week of inclement weather, we were worried this day was going to be a washout, but the clouds parted to give us perfect planting weather!
+Special thanks to the landowner and the local newspaper photographer for their support on the day.

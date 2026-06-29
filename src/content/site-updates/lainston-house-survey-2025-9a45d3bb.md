@@ -13,3 +13,4 @@ photos:
   - "../../assets/site-updates/lainston-house-survey-2025-9a45d3bb/8609e7fd4d442c7fcc279377a4bd7322684b87c82bccfa7220f56482022a1f29.jpg"
 ---
 
+During a surveying trip to our partner sites in the south-east, Angus our site inspector, visited the planting on the grounds of Lainston House. Here we planted lots of Oak and Goat Willows, there are populations of Purple Emperor butterflies in the surrounding woodland, which we hope will colonise the new planting over time. Something immediately obvious during the visit was how much grass and nettles were dominating during the summer, which is not unusual, but this does present a challenge which we will take into consideration when planning restocking efforts here. This site is well shielded from wind, and there was no sign of cattle, and all the stakes and guards were in perfect condition, which is reassuring.

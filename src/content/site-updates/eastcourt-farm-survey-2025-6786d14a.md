@@ -17,3 +17,4 @@ photos:
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/dfbdcab8da9863e3a88fe08a57331b5d1fdae9d5142ad4c6de12c8824dabd215.jpg"
 ---
 
+On a rainy day in September, Angus our site inspector, was in the area on his way to visit Cirencester, taking a short detour to check in on these little aspiring hedgerows and trees.
