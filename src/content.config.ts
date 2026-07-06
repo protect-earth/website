@@ -19,6 +19,13 @@ const articles = defineCollection({
 			pubDate: z.date(),
 			author: z.string(),
 			thumbnail: image().optional(),
+				thumbnailAttribution: z
+					.object({
+						text: z.string(),
+						url: z.string().url().optional(),
+						license: z.string().optional(),
+					})
+					.optional(),
 			categories: z
 				.array(
 					z.enum([

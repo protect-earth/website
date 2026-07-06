@@ -54,6 +54,32 @@ If you change collections, schemas, or sync script output:
 2. Update page usage of getCollection(...), where required.
 3. Update docs in [docs/concepts.md](docs/concepts.md), [docs/scripts.md](docs/scripts.md), and [docs/architecture.md](docs/architecture.md).
 
+## Article Images
+
+Use local files for article images. Do not hotlink external images in markdown.
+
+For hero thumbnails, add attribution in article frontmatter when needed:
+
+```yaml
+thumbnail: ../../articles/example.jpg
+thumbnailAttribution:
+	text: NOAA Photo Library
+	url: https://example.com/source
+	license: Public domain
+```
+
+For inline article images, wrap the image in a `figure` and include attribution inside `figcaption` using an `image-attribution` line:
+
+```html
+<figure>
+	<img src="/articles/example/photo.jpg" alt="Describe the image" />
+	<figcaption>
+		Short caption if useful.
+		<span class="image-attribution">Image: NOAA Photo Library · Public domain</span>
+	</figcaption>
+</figure>
+```
+
 ## Security and Secrets
 
 1. Never commit `.env`.

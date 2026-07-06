@@ -13,14 +13,14 @@
   "1990794724612": {
     "slug": "ecology-tour-of-warleigh-nature-reserve-bath-1990794724612",
     "markdown": "src/content/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612.md",
-    "thumbnail": "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/af051a55d369.jpg",
+    "thumbnail": "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/7d11eb9db6d6.jpg",
     "mediaIds": [],
     "galleryImages": [
-      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/af051a55d369.jpg",
+      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/7d11eb9db6d6.jpg",
       "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/bf5e33c41f48.jpg",
-      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/161500ece5c3.jpg",
+      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/0f381c2e144f.jpg",
       "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/9152b446f870.jpg",
-      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/c38be685875a.jpg",
+      "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/5b5c341aeb6d.jpg",
       "../../assets/events/ecology-tour-of-warleigh-nature-reserve-bath-1990794724612/3ca071ea0bf8.jpg"
     ]
   },
@@ -38,10 +38,10 @@
   "1992699560026": {
     "slug": "guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026",
     "markdown": "src/content/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026.md",
-    "thumbnail": "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/7d11eb9db6d6.jpg",
+    "thumbnail": "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/af051a55d369.jpg",
     "mediaIds": [],
     "galleryImages": [
-      "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/7d11eb9db6d6.jpg",
+      "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/af051a55d369.jpg",
       "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/cf1b802c7fca.jpg",
       "../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/5b5c341aeb6d.jpg"
     ]
@@ -55,6 +55,17 @@
       "../../assets/events/guided-nature-tour-of-the-new-warleigh-nature-reserve-near-bath-2-hours-1992700116691/9152b446f870.jpg",
       "../../assets/events/guided-nature-tour-of-the-new-warleigh-nature-reserve-near-bath-2-hours-1992700116691/cf1b802c7fca.jpg",
       "../../assets/events/guided-nature-tour-of-the-new-warleigh-nature-reserve-near-bath-2-hours-1992700116691/090f608bb7c6.jpg"
+    ]
+  },
+  "1992834859711": {
+    "slug": "volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711",
+    "markdown": "src/content/events/volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711.md",
+    "thumbnail": "../../assets/events/volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711/3d94f4bccbf9.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711/3d94f4bccbf9.jpg",
+      "../../assets/events/volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711/5695115559da.jpg",
+      "../../assets/events/volunteers-needed-to-help-saplings-flourish-at-hawling-near-cheltenham-1992834859711/85792f0caeed.jpg"
     ]
   }
 }

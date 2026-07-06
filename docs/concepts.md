@@ -51,6 +51,12 @@ Current collections include:
 - siteMeta
 - siteUpdates
 
+## Article Image Attribution
+
+Articles can include a local `thumbnail` and an optional `thumbnailAttribution` object in frontmatter for the hero image credit.
+
+Inline article images should use `figure` and `figcaption` markup so attribution is visible on the page. The convention is to keep the credit inside a `span.image-attribution` line within the caption.
+
 When adding or changing a content type, update both:
 
 - the collection schema in src/content.config.ts

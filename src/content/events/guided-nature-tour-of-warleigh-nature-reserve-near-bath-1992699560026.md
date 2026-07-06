@@ -6,9 +6,9 @@ startDate: 2026-07-15T09:00:00.000Z
 endDate: 2026-07-15T12:00:00.000Z
 address: 'Bath, BA1 8EE'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/guided-nature-tour-of-warleigh-nature-reserve-near-bath-tickets-1992699560026'
-thumbnail: ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/7d11eb9db6d6.jpg
+thumbnail: ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/af051a55d369.jpg
 images:
-  - ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/7d11eb9db6d6.jpg
+  - ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/af051a55d369.jpg
   - ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/cf1b802c7fca.jpg
   - ../../assets/events/guided-nature-tour-of-warleigh-nature-reserve-near-bath-1992699560026/5b5c341aeb6d.jpg
 ---
