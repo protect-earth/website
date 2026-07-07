@@ -12,7 +12,7 @@ photos:
   - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/f2c4051d1ef7fd82293ac263e58155f11b8356c4a96cb6b0da474dd412718241.jpg"
 ---
 
-Planting this one was such a big job we had to call in the cavalry: a professional team of local tree planters helping out our local community volunteers. We week kicked off on Wednesday 4th December with some press from The Times coming to see how it all works, and learn the multiple benefits of woodland creation like flood protection. On Thursday 5th, with all the supplies delivered, Steve, Andy and Phil from Protect Earth got to work, moving tonnes of wooden stakes and countless bags of saplings from the neighbouring farm to the planting site.
+Planting this one was such a big job we had to call in the cavalry: a professional team of local tree planters helping out our local community volunteers. The week kicked off on Wednesday 4th December with some press from The Times coming to see how it all works, and learn the multiple benefits of woodland creation like flood protection. On Thursday 5th, with all the supplies delivered, Steve, Andy and Phil from Protect Earth got to work, moving tonnes of wooden stakes and countless bags of saplings from the neighbouring farm to the planting site.
 
 Friday 6th brought one of the highlights of the week: 18 local secondary school students, from Severndale Academy at Mary Webb (Pontesbury), working towards their bronze Duke of Edinburgh forestry award, joined us with their teachers for a planting day. It’s very special providing young people with an opportunity to connect with the land around them, each sapling carefully placed, each student walking away knowing they've left something lasting on this hill.
 

@@ -13,4 +13,6 @@ photos:
   - "../../assets/site-updates/high-wood-tree-survey-de8add88/467d235813a10686a4659d906000e470fd697e2cf0ca2f6b08b6f133b6a0b8b7.jpg"
 ---
 
-It seems only half of the trees had survived - the Bramble was over head height, so they did not survey the middle of the plots. However, for every dead tree, 3 willows have naturally regenerated, so no need to replant here.
+Site Update - Kathy
+
+The survey was carried out by our site managers, Ian and Shane.  Unfortunately, the brambles have flourished rather too well and were over head height in places so it was impossible to survey the central area of each plot. Ian and Shane estimate that around 50% of the trees we planted have survived. However, there was some good news.  It seems that for every dead tree, around three  willows have naturally regenerated, so we have decided that there is no need to replant here for now.  Will will keep a close eye on the situation in case things change and we need to restock in the future.

@@ -12,8 +12,10 @@ photos:
   - "../../assets/site-updates/high-wood-conifer-clearing-sep-2023-66c4d0ca/877a9d330e753f665f59306a595cea97456420a4ba7bf690364d84298d28412f.jpg"
 ---
 
+Site Update - Angus?
+
 In order to return High Wood to an ancient temperate rainforest, a lot of these non-native conifers need to go. It’s a 40 year management plan, and it’s a complicated process in general, but some of this is easy.
 
 In areas that have recently been clearfelled (everything cut down) and restocked (a bunch of young conifers have been replanted), we haver a lot of “Christmas trees” which are easy to handle.
 
-With a group of volunteers and Sam the Site Manager, we got started on the first compartment. For every three of four small conifers we removed, a native oak, willow, birch, rowan, or beech tree was hiding, struggling for light and clearly happy to have been rescued before it perished. These will grow on to mature now that the competition has been removed.
+With a group of volunteers and Sam? the Site Manager, we got started on the first compartment. For every three of four small conifers we removed, a native oak, willow, birch, rowan, or beech tree was hiding, struggling for light and clearly happy to have been rescued before it perished. These will grow on to mature now that the competition has been removed.

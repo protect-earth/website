@@ -16,4 +16,4 @@ photos:
 
 Since the planting we have endeavored to visit after strong wings, armed with a mallet to adjust and make good any wonky stakes.
 
-The number of butterflies is amazing. This year the trees are surrounded by thistles and nettles being so close to the river the ground is very fertile. The landowners had the entire area mown about a year ago, but with some of the trees out the top of the tubes it was decided not to worry about it this year.
+The number of butterflies are amazing. This year the trees are surrounded by thistles and nettles being so close to the river the ground is very fertile. The landowners had the entire area mown about a year ago, but with some of the trees out the top of the tubes it was decided not to worry about it this year.

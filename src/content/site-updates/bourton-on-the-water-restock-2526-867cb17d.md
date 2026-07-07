@@ -13,4 +13,11 @@ photos:
   - "../../assets/site-updates/bourton-on-the-water-restock-2526-867cb17d/7764b0be58720ae9db9292620409575894078d1656f7d89bbaa46511a9f4eec6.jpg"
 ---
 
-Seven delightful corporate volunteers got involved with the restock, which meant we could get most of the trees in the ground to replace tree losses here. During a restock, when short on guards or stakes, we focused on what we could re-use from the trees which had not survived. Great teamwork and a convivial atmosphere helped us along; some were first-time tree planters, some had joined us before, some needed a refresher - there’s no shame if you need a little coaching! Everyone dug holes, planted trees, hammered stakes and placed guards - naturally, we were provided with tea and biscuits – a must – (thanks Peter). By the end, everyone left with a spring in their step!
+On our visit in March 2026 we teamed up with seven corporate volunteers from Sozo Design, a company from Cheltenham who had volunteered with us before, to restock, planting 150 trees across the site. We recycled the stakes and guards from trees that had to be replaced, and everyone showed great teamwork throughout.
+
+Work included digging holes for new trees, planting, and putting up stakes and guards, with all the volunteers getting trained up and refreshed on tree-planting techniques. A big thank you to everyone who came out, and to Peter for the very appreciated tea and biscuits!
+
+When we return for our next survey, we’ll check how these new saplings are getting on, as well as looking at how the site is progressing as a whole.
+
+
+Seven delightful corporate volunteers from Sozo Design, a company from Cheltenham who had volunteered with us before, got involved with the restock, which meant we could get most of the trees in the ground to replace tree losses here. During a restock, when short on guards or stakes, we focused on what we could re-use from the trees which had not survived. Great teamwork and a convivial atmosphere helped us along; some were first-time tree planters, some had joined us before, some needed a refresher - there’s no shame if you need a little coaching! Everyone planted trees, hammered stakes and placed guards - naturally, we were provided with tea and biscuits – a must – (thanks Peter). By the end, everyone left with a spring in their step!

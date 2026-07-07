@@ -18,3 +18,11 @@ photos:
 ---
 
 On a rainy day in September, Angus our site inspector, was in the area on his way to visit Cirencester, taking a short detour to check in on these little aspiring hedgerows and trees.
+
+Site update September 2025 - Becca
+
+Angus visited Eastcourt Farm to carry out a scheduled survey, checking up on the health of our saplings and deciding the maintenance needs of the site. Possibly due to the hot weather over the summer, only 51% of our trees thrived, and 77% of the shrubs. We found long grass outgrowing the saplings in some places, which would also hinder growth.
+
+As we care about the success of our projects and guarantee healthy trees that can provide the habitat needed for the area, we have scheduled a restock for the 25/26 season. We will be returning to the site to plant replacement saplings and maintain the area, ensuring all the trees have the best possible environment to grow.
+
+Photos  - see above

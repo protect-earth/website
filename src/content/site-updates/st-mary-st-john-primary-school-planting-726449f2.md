@@ -1,7 +1,6 @@
 ---
 title: "St Mary & St John Primary School Planting"
 notionId: "2f1e7dc6-657c-8072-b4cb-ced9726449f2"
-type: "Tree Planting"
 date: "2024-11-20T00:00:00.000Z"
 siteNotionId: "e5103731-0c73-464d-9808-44406eaada7a"
 treesPlanted: 1000
