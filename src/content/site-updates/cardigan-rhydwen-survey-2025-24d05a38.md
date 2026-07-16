@@ -13,4 +13,4 @@ photos:
   - "../../assets/site-updates/cardigan-rhydwen-survey-2025-24d05a38/21f1901207a2bc08dafe49fbcff0c87e75a2c365dc7eda10dc8bd706ac4a2fb6.jpg"
 ---
 
-We surveyed the 3 separate fields and the hedgerow. On 2 of the fields, there was a slight bramble encroachment; however, 95% of trees are in great health, although some are showing signs of powdery mildew. The Hedgerow was a bit gappy - 70% survival rate, so we will arrange a restock for the hedgerow.
+We originally planted a mix of native broad-leaved trees over three fields and also a hedgerow. Eoghan, surveyed the whole site. On two of the fields he noticed that there was a slight bramble encroachment; however, 95% of trees are in great health. A few were  showing signs of powdery mildew so we will need to keep an eye on that, but it has been a particularly wet year. The hedgerow was more disappointing with a few gaps and only a 70% survival rate. Hopefully, there will be some natural regeneration here, but we will monitor it to make sure, and restock if necessary.

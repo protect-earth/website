@@ -17,6 +17,7 @@ photos:
   - "../../assets/site-updates/haydon-bridge-survey-2025-83ca1bc7/b000320ae79b99000b40d619efa547e3da1acfee0bd8cca4f621ac4bc4342201.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2025-83ca1bc7/ddf94c14d7ec9d8b7778dbeec6b98d5194434f4015b043201044743510751e49.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2025-83ca1bc7/ea99ba41a35fa1b1d8c42afc1ef1514384e3a87e61cf38e71432e891d0d27117.jpg"
+  - "../../assets/site-updates/haydon-bridge-survey-2025-83ca1bc7/21b885f97eff5628fbd2789cb41ffc1504226b40c1e1563f6e38f9146c0a023c.jpg"
 ---
 
 To keep mileage down, we sent local friend of the charity Oli Wood over to check out the state of things. Despite the long hot summer, we only lost 10% of the saplings this year. That’s 45 out of 470 in the top field and 25 from 250 in lower field.

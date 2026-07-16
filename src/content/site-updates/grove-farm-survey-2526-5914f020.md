@@ -1,7 +1,7 @@
 ---
 title: "Grove Farm Survey 25/26"
 notionId: "238e7dc6-657c-806f-9d30-c9595914f020"
-type: "Restocking"
+type: "Survival Survey"
 date: "2025-09-15T00:00:00.000Z"
 siteNotionId: "3de56ec0-7e3c-46b8-bda4-e1e13eea5044"
 survivalRate: 0.7
@@ -20,4 +20,4 @@ photos:
   - "../../assets/site-updates/grove-farm-survey-2526-5914f020/6dee1df1b86504673cb6b874cf71475588a077d72fbcfa91dadfdd7707e6a7d5.jpg"
 ---
 
-The trees at Grove Farm had a 70% survival rate, they were surrounded by grasses, a little bit of thistle, but with no other shrub encroachment. All trees seem to be doing really well, lovely sunny side overlooking Box, with a lovely footpath running right alongside. The species are predominantly Beech and Field Maple, with small-leaved Lime and Cherry, Hornbeam, as well as Crab Apple. This site has beautiful views, albeit on the day I visited, with rainy and level yellow wind warning!
+Michael visited Grove Farm to carry out this survey on a very wet day in September, just before a yellow weather warning came into force, so he wasn’t able to appreciate the beautiful views from this site. The species are predominantly Beech and Field Maple, with small-leaved Lime and Cherry, Hornbeam, and Crab Apple. All trees seem to be doing really well. They were surrounded by grasses and some thistle, but with no other shrub encroachment. Overall, the trees on this site had a 70% survival rate

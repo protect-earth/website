@@ -16,3 +16,5 @@ photos:
 The Miyawaki Method was used here, which involves planting the saplings at a higher density than standard practice. With the hopes that they either compete and/or help one another to grow faster, denser and stronger. This was chosen due to the small size of the planting, only 300 square metres. It is somewhat of an experimental approach in the UK, but has been tested by Protect Earth previously in the southeast with very encouraging results.
 
 The planting included 250 English Oak, 200 Silver Birch, 200 Scots Pine, 200 Rowan, 50 Common Hawthorn, 50 Blackthorn and 50 Dog Rose, a resilient native mix chosen to establish well and provide long-term habitat for local wildlife.
+
+The trees were planted by 80 students from the college working for two hours each on a rota system. Although it was rather breezy, the weather was kind and stayed dry for the day.

@@ -6,18 +6,15 @@ date: "2025-07-22T00:00:00.000Z"
 siteNotionId: "b78e8b59-6204-4f86-b858-00d0c20fee7c"
 survivalRate: 0.75
 photos:
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/3de3f29a4b0446989d8b980600d3fef071caf34f622663b1976dac36b3809b04.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/935c62a73b764ba13bbf692324da122cc8c49be1aa310c46e840e8b31002dc3d.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/0773a57822374a46481485b3603ca6e8396bb1cc19362e004ff366e1225e5bce.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/86e08dfa44b005ce27ee6c7cf0f8237fedd80ba37c672f720ca51cf6b9006bd0.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/f02da40ff087439c97b37c28e7c4ea6164e30bca2876df829b0eed13edb8839a.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/64bd3c611b52646a00b6d983500117425897fecc2dddf010d99f96423910933c.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/4746c8064340b971c6b4d4cee5cec154f7dffe6ba22e265da5347187dc61bdf3.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/77c0dff88d9bbb830f83d37fc247ab2726c93177e06e17713fb55c89acee7561.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/5301f2b94b2dd5fbe2494346446edbd3fe03ea2f5165efb7d897bd3bcc544a1a.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/73dfbfb8474f828671bd9bf350cfa788cf0e4d05dfce9d4af3fc8bb022f44145.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/cd1357277937383a4f363573e4a4da5a8e301deeff14ebd44c78ea368399dbd3.jpg"
-  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/edfb6cea2614dcea7a758f07bac9172bdf9fe79c22d17aa71197a7be9c7b265d.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/912ee6d052117020851d0c7cfc72ab756effa1ccfa5053257dd8b87803a589e8.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/702bb1e5fe2d1f74b458205da05380ef616e72ff64f1dfeb6a4534521185cb9a.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/87aeefbe0185a684cbcf7897fbb7d6e21e9b31b25f2c78d53800041dda70083f.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/865ee67f56c5294c0423d4ac6e03270dcea2556c58428b8f2c5fb316240ec2ce.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/6cf6f8162f4f7f6f9c504c70c13ec497cd336f96aac8a31518ff1be090b77fe7.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/fcec1f5a67e63215fc70819e1b9ec592ce9b519e8bfea027b2b7fdbc825fb7b2.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/ffa6a00672a8a5e14efb0a46f0f2045a78de807a36278173c4bbcb1122e1e5a1.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/1c21dd4ba069ea12dbf110d51cb7c45e5636eaa91c0a382f3b297e1484a552d2.jpg"
+  - "../../assets/site-updates/shillingford-tiverton-survey-2025-2f376d54/50b8d759760f8892cd3fbfdd56f319dd105060afee54af41bee8bfc673aeedd6.jpg"
 ---
 
 The Trees are utterly glorious - 75% survival rate, and they are really thriving. Although the hedgerow hasn't been quite so successful, with more like a 60% survival rate, as it's much more exposed.

@@ -13,7 +13,7 @@ photos:
 
 Getting into this woodland for the first time, Phil was impressed to see how much work had been done to restore this ancient woodland. This 40 acre family owned woodland is surrounded by grazing and commercial forestry, these landowners have a teachers salary and a lot of commitment to doing the right thing by nature.
 
-We got stuck in for just one day, removing roughly 1 acre (3,500 square meters) of rhododendron. Volunteers attacked each plant in waves: the first batch using loppers to cut through the outer layer of foliage and get to the main trunk where possible. The next lot were using machetes and brush hooks to knock back as many smaller branches as possible, exposing larger branches. Then come the bow saws to take those branches down as low as possible. When only the stumps remain, they can be treated, with herbicide injected directly into the stump - only once volunteers are away.
+We got stuck in for just one day, removing roughly 1 acre (3,500 square meters) of rhododendron. Volunteers attacked each plant in waves: the first batch using loppers to cut through the outer layer of foliage and get to the main trunk where possible. The next group were using machetes and brush hooks to knock back as many smaller branches as possible, exposing larger branches. Then come the bow saws to take those branches down as low as possible. When only the stumps remain, they can be treated, with herbicide injected directly into the stump - only once volunteers are away.
 
 It was a really fun day, with volunteers joining from the local area, Radnorshire in Nature, and further afield Protect Earth regulars.
 
@@ -31,4 +31,4 @@ A few words from one of the volunteers that made us smile.
 
 There were some amazing foodie treats, (sausage rolls with the best filling ever and cheese and onion marmalade swirls) and wonderful cake and more cake.. We all worked hard, drank plenty of tea/coffee, shared skills, enjoyed great teamwork on a dry and mild day. A happy chatty group, nice to meet volunteers from different lives.
 
-We’ll be back next year, because rhododeonderon doesn’t go first time around even when treated. It’ll be another two years or so of effort, and there’s likely a bit more work to be done that just removing these invasives.
+We’ll be back next year, because rhododenderon doesn’t go first time around even when treated. It’ll be another two years or so of effort, and there’s likely to be a bit more work to be done than just removing these invasives.

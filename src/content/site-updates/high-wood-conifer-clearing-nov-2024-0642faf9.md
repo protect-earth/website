@@ -2,6 +2,7 @@
 title: "High Wood Conifer Clearing Nov 2024"
 notionId: "394e7dc6-657c-80e6-a6ef-ca790642faf9"
 type: "Woodland Restoration"
+date: "2024-11-17T00:00:00.000Z"
 siteNotionId: "dac1d6aa-8ec5-4021-81ee-c4fab70946b7"
 photos:
   - "../../assets/site-updates/high-wood-conifer-clearing-nov-2024-0642faf9/4646a72cdbc4d6d426b601a1a7bfacccc542936698d202446c4317c5f4ee1931.jpg"
@@ -12,9 +13,7 @@ photos:
   - "../../assets/site-updates/high-wood-conifer-clearing-nov-2024-0642faf9/d4a4372695633abcb8c396fba6e45d17cc6f4cc5a2e5ee8c2dad074eb191afa9.jpg"
 ---
 
-Site Update - Kathy
-
-This was our third time removing conifers at High Wood and once again we allocated three days to the task. More students and their lecturers came from Cornwall College to lend a hand as well as work party members and other local people.
+This was our third time removing conifers at High Wood and once again we allocated three days to the task. More students and their lecturers came from Cornwall College to lend a hand as well as work party members and other local people. Some volunteers had helped before: “I was able to use what I had learned on a previous day to cut down some small conifers.  Everyone was friendly and I felt supported.”
 
 Again we found evidence of young oaks doing their best to survive beneath the understorey as we cleared a further two acres.
 

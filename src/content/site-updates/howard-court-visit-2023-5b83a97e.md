@@ -8,4 +8,4 @@ photos:
   - "../../assets/site-updates/howard-court-visit-2023-5b83a97e/0ae824a59a99a1f47a4a42be292018c1225033e571597ac885a7840e6df9c031.jpg"
 ---
 
-Phil visited in August 2023, look how much they have grown! Taller than their dad already!
+Phil visited in August 2023, to check on our trees progress and he was very excited to see how well they were doing. Look how much they have grown! Taller than their dad already! Survival rate was surprisingly good, considering the extreme weather over the last couple of years.

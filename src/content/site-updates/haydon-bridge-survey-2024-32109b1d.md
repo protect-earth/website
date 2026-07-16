@@ -12,9 +12,10 @@ photos:
   - "../../assets/site-updates/haydon-bridge-survey-2024-32109b1d/655baa50bf2c9ce94ff634f9fab974d45f3d80d972f224082e67258233d44f05.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2024-32109b1d/60671a0d2111c1e716caee857c70aa11fc458392b6cd5a8ac7e5a8a3ca4e94c6.jpg"
   - "../../assets/site-updates/haydon-bridge-survey-2024-32109b1d/6ef9146e02733e19660421420b10c88acd0ffd56a6311143156ec69d22c63bf7.jpg"
+  - "../../assets/site-updates/haydon-bridge-survey-2024-32109b1d/b9cfb1d34ebbb9a8a730d25993c2d2068037eb3adb476b46ce7d9fa4ec2e82f4.jpg"
 ---
 
-Phil took the excuse to cycle out from Newcastle along the River Tyne, a ride he would have regularly done living up in Gateshead for a bit. The weather was beautiful and the River was stunning, if not quite overrun with Himalayan Balsam.
+Phil took the excuse to cycle out from Newcastle along the River Tyne, a ride he would have done regularly when living up in Gateshead for a bit. The weather was beautiful and the river was stunning, if not quite overrun with Himalayan Balsam.
 
 Our planting site in Haydon Bridge was right up top of the hill, where Phil got to work counting and recording notes on the state of things.
 

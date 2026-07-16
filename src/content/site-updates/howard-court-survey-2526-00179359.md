@@ -20,6 +20,6 @@ photos:
   - "../../assets/site-updates/howard-court-survey-2526-00179359/13ea685f76f41fb1f6df9976def211da4bf9a3f592f384d4d222b25c2ef3e22c.jpg"
 ---
 
-A survival survey carried out in August 2025 at Howard Court recorded strong establishment overall, with a survival rate of 78%.
+A survival survey carried out in August 2025 at Howard Court recorded strong establishment overall, with a survival rate of 78%. This is a little below our target of 80% over 5 years but we have had some extreme weather since these saplings were planted, especially the Summer of 2022 which was exceptionally hot and dry.
 
-The results indicate good early success across the site, with the majority of trees establishing well following planting. Continued routine maintenance will help support further establishment and improve long-term resilience of the planting scheme.
+The results indicate good early success across the site, with the majority of trees establishing well following planting. The maintenance we carried out last September will have helped enormously, and continued routine maintenance will help support further establishment and improve long-term resilience of the planting scheme.

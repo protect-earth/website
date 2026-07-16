@@ -13,4 +13,8 @@ photos:
   - "../../assets/site-updates/river-roding-first-treatment-120b6e37/8de8e9cd57cef9db867991c537646ac9b5349b56caf94cc48924c1c74c883648.jpg"
 ---
 
-Over 8 days of intensive fieldwork using boats and long-handled spray booms, the team achieved 80% foliage coverage despite difficult terrain and access challenges. One month later, follow-up photos showed the treated knotweed dying (turning yellow) while surrounding vegetation remained healthy. The River Roding Trust will continue annual monitoring and Protect Earth will continue to help with removal efforts, allowing native reeds to gradually reclaim the habitat and restore the river's ecological health.
+The River Roding has a severe problem with Japanese Knotweed so the the River Roding Trust got in touch with Protect Earth. After a pre-work visit and full consultation with the Environment Agency to obtain their agreement, Phil and Michael, both fully qualified in Japanese Knotweed removal, returned to Barking to deal with the problem. Over 8 days of intensive fieldwork using boats and long-handled spray booms, they achieved 80% foliage coverage despite difficult terrain and access challenges.
+
+One month later, follow-up photos showed the treated knotweed dying (turning yellow) while surrounding vegetation remained healthy. The River Roding Trust will continue annual monitoring and Protect Earth will continue to help with removal efforts, allowing native reeds to gradually reclaim the habitat and restore the river's ecological health.
+
+Find out more about it here Protecting River Roding from Japanese Knotweed.

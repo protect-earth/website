@@ -10,7 +10,7 @@ photos:
   - "../../assets/site-updates/stawley-bullock-hill-ancient-woodland-restoration-2-38b18509/0d04d3c76f4777508f91d783bccffd73aa638fdd2e48bcd8aa1445cc7fbc581a.jpg"
 ---
 
-We had a couple of brilliant, cool, and sunny days on the Bullock Hill site near Storley in Devon, where Phil, Angus and I continued the gradual restoration of this PAWS (Plantation on Ancient Woodland Site) area. It was encouraging to see the young broadleaf trees planted over the past few years showing strong signs of life, and the conifer plantation beginning to open up into a more diverse habitat.
+We had a couple of brilliant, cool, and sunny days on the Bullock Hill site near Storley in Devon, where Phil, Angus and Michael continued the gradual restoration of this PAWS (Plantation on Ancient Woodland Site) area. It was encouraging to see the young broadleaf trees planted over the past few years showing strong signs of life, and the conifer plantation beginning to open up into a more diverse habitat.
 
 Our main task for this visit focused on sympathetic thinning. Previous light felling had been carried out, and we continued this work by removing select conifers to open the canopy and allow more light to reach the woodland floor. This approach supports natural regeneration, encourages biodiversity, and moves the site toward continuous cover forestry under a long-term conservation management plan.
 
@@ -27,4 +27,4 @@ As we worked, we ensured that biodiversity benefitted from our activity:
 
 In total, we removed approximately 5 cubic metres (m³) of timber, most of which is now neatly stacked and ready for future use. The site may look a little untidy at first glance, but it has been left in a safe and manageable condition, and everything has been done with biodiversity and long-term woodland recovery in mind.
 
-Overall, it was a productive and safe visit. The winch only came out once, and we all left with limbs, and spirits, intact. We look forward to returning, sharing more images soon, and continuing the slow transformation of this conifer block back into a thriving broadleaf woodland ecosystem.
+Overall, it was a productive visit and the winch only came out once. We look forward to returning, sharing more images soon, and continuing the slow transformation of this conifer block back into a thriving broadleaf woodland ecosystem.

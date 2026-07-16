@@ -12,6 +12,8 @@ photos:
   - "../../assets/site-updates/bethania-trefaes-uchaf-survey-2025-c27ba392/35ec8c0abc0f5af8b2dc9ef6c662c886210d564853582e6cb06ecf48d168a1e0.jpg"
 ---
 
-Our local teammate Eoghan popped out to see how the trees are doing, and we were happy to be met with healthy trees and an approximately 85% survival rate.
+Our local teammate Eoghan popped out to see how the trees are doing, and he was happy to be met with healthy trees and an approximately 85% survival rate.
+
+There were no dead trees found in the hedgerow at all. A 100% survival rate is always hoped for, but rarely found.
 
 The landowner has also planted a few additional trees on the south-west periphery, expanding the impact of our work further. These trees are performing very well, supported by regularly maintained short grass.

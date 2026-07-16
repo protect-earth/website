@@ -21,9 +21,3 @@ Some of the fast-growing species are already above the protective guard level (i
 The field is doing great, and some saplings are shooting up from their guards.
 
 However, the grass is also benefiting from these conditions, overgrowing the mulch mats.
-
-
-Site owner Update May 2025
-
-Just to update you, I did a thorough check on all the trees over the Bank Holiday weekend and removed ~80 dead. I think we planted 450 so that would be just over 17%.
-Mortality seems to be the highest in the wettest areas where rushes are the densest in the field. - Jean-Francois
