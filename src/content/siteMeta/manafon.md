@@ -16,5 +16,6 @@ images:
     ../../assets/sites/manafon/91ccc198a83d42c43640ba31bf00de03efaa40b5afe51de34e96bab89a17d32e.jpg
   - >-
     ../../assets/sites/manafon/694b65c642d65e391ec5efc65877915b0b09bf274f0e13d127588f87edbedb49.jpg
+siteId: 9b7df47f-8f7a-43a5-a64e-6bfcad985205
 ---
 

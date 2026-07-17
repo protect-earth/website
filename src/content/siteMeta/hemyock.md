@@ -14,5 +14,6 @@ images:
     ../../assets/sites/hemyock/e8d093ebdeaa233752eb97a38030fbc2be1fd899af3542b6f053bc74074a55ab.jpg
   - >-
     ../../assets/sites/hemyock/ba360f3896aa73843f8c30d873de36e8196baf3782ac20fc1bf1183920b18c2c.jpg
+siteId: 98d661e2-ded6-42f0-a5aa-a9333c19e8e3
 ---
 

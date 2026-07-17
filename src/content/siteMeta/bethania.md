@@ -15,5 +15,6 @@ images:
     ../../assets/sites/bethania/a43d918a129ec65f82a2495d3c40813422ca70ffc3b3d3f2e05fd8bc1989a65c.jpg
   - >-
     ../../assets/sites/bethania/d2afb2d76d205710321f5efadf2b652534eeb83611831c4d947b64a85f4ce656.jpg
+siteId: 019855f4-b9b6-7178-a7e2-95afd8ffd9eb
 ---
 

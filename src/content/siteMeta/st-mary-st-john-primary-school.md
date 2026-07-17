@@ -13,5 +13,6 @@ images:
     ../../assets/sites/st-mary-st-john-primary-school/42f1ae9133845e14ae1e3065254b9dc2bbbbcb1c4f1a694b9e5d55f882ce2aff.jpg
   - >-
     ../../assets/sites/st-mary-st-john-primary-school/69af4ddc98c9bfc920832ada9794aab09582ea4733f6048509ab09e15dcc0e58.jpg
+siteId: 019bd169-8c5d-7116-aede-55e04b232510
 ---
 

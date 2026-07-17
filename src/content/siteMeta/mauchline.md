@@ -12,5 +12,6 @@ images:
     ../../assets/sites/mauchline/7c17e4151e93aa1dd8cb3e39cc8e0e2e211a6e921224b528e57159b0ffebf509.jpg
   - >-
     ../../assets/sites/mauchline/4e555e3409781ec8b5e476ae556303e8d53f41e35712afdd214c5fcde045bfb7.jpg
+siteId: 9db36f87-0c40-49ff-b7ce-b821a846b2ca
 ---
 

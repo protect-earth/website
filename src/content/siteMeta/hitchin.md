@@ -21,5 +21,6 @@ images:
     ../../assets/sites/hitchin/d288374d3024ca6a48b6bf6ad1beb161de4a67be2565a099c77010fba4c492d4.jpg
   - >-
     ../../assets/sites/hitchin/671897967c8ec12219ab92278ea710435f17027411720dffaa05608946965f34.jpg
+siteId: 019836a0-422f-7182-8117-74211918446f
 ---
 

@@ -14,5 +14,6 @@ images:
     ../../assets/sites/st-donats-castle/de95a5cd70f1eac89bbe7b8d39694083cc31bb7b7a09eb37dcc9056184ac5df7.jpg
   - >-
     ../../assets/sites/st-donats-castle/7f3611c9def65a69e22dcf3bf7a073046620e29862637068851008d74768c4e2.jpg
+siteId: 9ba036df-950f-416b-aefe-36746d1ae328
 ---
 

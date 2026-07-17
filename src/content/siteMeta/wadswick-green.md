@@ -14,5 +14,6 @@ images:
     ../../assets/sites/wadswick-green/ae764e382f9814d2997564e29acb8752ba373435f2dfd63af54d15288c9f972f.jpg
   - >-
     ../../assets/sites/wadswick-green/8a81bec18bc053605aca4ab1af724bbedf17ca9dd12dc9572fa7138267fe51fd.jpg
+siteId: be5fd21e-fdad-45f7-9f78-a474d0174e5c
 ---
 

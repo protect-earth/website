@@ -14,5 +14,6 @@ images:
     ../../assets/sites/shillingford/64382865a72a4e4feb70061ecad4ffece4184143606319d6e8fb5b1d9bc802d3.jpg
   - >-
     ../../assets/sites/shillingford/6727b36e3c3a1b74bd7683dda96d4286abaa9069b16480e3751f7ac2ba917db9.jpg
+siteId: 97f8a2f6-b31b-4f6d-84f8-53940f72d1a8
 ---
 

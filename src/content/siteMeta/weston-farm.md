@@ -12,5 +12,6 @@ images:
     ../../assets/sites/weston-farm/636cd5c7e2a72bacace456d7eaeb3415fe5c5b93917fd38d3440800f7b0e5406.jpg
   - >-
     ../../assets/sites/weston-farm/8d075d1c5beb2be5160c78250a6ada1c3aa67123c386f85fa2de3f4b79980f49.jpg
+siteId: d509e14a-49fb-4875-a173-498288c24dd3
 ---
 

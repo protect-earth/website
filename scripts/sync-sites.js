@@ -380,6 +380,13 @@ async function syncSites() {
 				delete frontmatter.images;
 			}
 
+			// Persist API UUID for stable matching with external certificate/site payloads.
+			if (typeof site.id === 'string' && site.id.trim()) {
+				frontmatter.siteId = site.id;
+			} else {
+				delete frontmatter.siteId;
+			}
+
 			// Write the file
 			const newContent = matter.stringify(content, frontmatter);
 			fs.writeFileSync(filePath, newContent, 'utf8');
