@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import { siteConfig } from '../config';
 import ContentHero from '../components/ContentHero.astro';
+import { heroPeopleFamilies } from '../assets/hero-images';
 
 const desc =
 	"Contact Us. We'd love to hear from you. Whether you're interested in volunteering, have land to offer, or want to support our work, please get in touch.";
@@ -10,7 +11,7 @@ const desc =
 <Layout title="Contact" className="page-contact" description={desc}>
 	<ContentHero
 		title="Contact Us"
-		imgSrc="/hero-people-families.jpg"
+		imgSrc={heroPeopleFamilies}
 		imgAlt="Group of people outdoors planting trees on a hillside"
 	/>
 

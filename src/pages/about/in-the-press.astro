@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import PressArticle from '../../components/PressArticle.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroPress } from '../../assets/hero-images';
 
 const [pressArticles] = await getCollection('press');
 const articles = pressArticles.data ?? [];
@@ -11,11 +12,7 @@ const articles = pressArticles.data ?? [];
 
 <Layout title="In the Press">
 	<!-- Hero Section with Background Image -->
-	<ContentHero
-		imgSrc="/hero-press.jpg"
-		imgAlt="Forest path through pine trees"
-		title="In the Press"
-	>
+	<ContentHero imgSrc={heroPress} imgAlt="Forest path through pine trees" title="In the Press">
 		<p>Coverage of Protect Earth's mission to rewild Britain and protect our natural heritage</p>
 	</ContentHero>
 

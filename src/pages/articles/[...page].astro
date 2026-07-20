@@ -6,6 +6,7 @@ import ContentHero from '../../components/ContentHero.astro';
 import ArticleSummary from '../../components/ArticleSummary.astro';
 import Pagination from '../../components/Pagination.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroArticles } from '../../assets/hero-images';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const articles = (await getCollection('articles'))
@@ -21,7 +22,7 @@ const { page } = Astro.props as { page: Page };
 <Layout title="Articles" breadcrumb={page.currentPage > 1 ? `Page ${page.currentPage}` : ''}>
 	<!-- Hero Section -->
 	<ContentHero
-		imgSrc="/hero-articles.jpg"
+		imgSrc={heroArticles}
 		imgAlt="People planting trees in an open field."
 		title="Articles"
 	/>

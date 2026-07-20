@@ -2,11 +2,12 @@
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import SectionCard from '../../components/SectionCard.astro';
+import { heroDonate } from '../../assets/hero-images';
 ---
 
 <Layout title="Act Now">
 	<ContentHero
-		imgSrc="/hero-donate.jpg"
+		imgSrc={heroDonate}
 		imgAlt="Group of people planting young trees in a row in a field"
 		title="Act Now"
 	>

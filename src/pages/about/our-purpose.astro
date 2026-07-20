@@ -2,13 +2,14 @@
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroOurPurpose } from '../../assets/hero-images';
 ---
 
 <Layout title="Our Purpose">
 	<!-- Hero Section -->
 	<ContentHero
 		imgAlt="Two women smile and work together outdoors to plant a tree"
-		imgSrc="/hero-our-purpose.jpg"
+		imgSrc={heroOurPurpose}
 		title="Our Purpose"
 	/>
 

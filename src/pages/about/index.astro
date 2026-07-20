@@ -3,11 +3,12 @@ import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import SectionCard from '../../components/SectionCard.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroPress } from '../../assets/hero-images';
 ---
 
 <Layout title="About">
 	<ContentHero
-		imgSrc="/hero-press.jpg"
+		imgSrc={heroPress}
 		imgAlt="Forest path through pine trees"
 		title="About Protect Earth"
 	>
