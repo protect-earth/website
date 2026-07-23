@@ -4,7 +4,7 @@ description: 'Now celebrating their seventieth year in the UK, national parks of
 pubDate: 2023-10-16T06:29:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-importance-of-national-parks-to-the-uk.jpg
+thumbnail: ../../assets/articles/the-importance-of-national-parks-to-the-uk.jpg
 ---
 
 Across the four areas of the United Kingdom, there are 15 national parks - two in Scotland, three in Wales, and nine in England. All but five, so ten, national parks were created during the 1950s!

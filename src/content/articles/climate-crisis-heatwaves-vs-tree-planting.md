@@ -4,7 +4,7 @@ description: 'The heatwave last summer took its toll on reforestation projects a
 pubDate: 2022-10-17T10:49:48.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/climate-crisis-heatwaves-vs-tree-planting.jpg
+thumbnail: ../../assets/articles/climate-crisis-heatwaves-vs-tree-planting.jpg
 ---
 
 The heatwave to hit the U.K. and all of Europe through-out July and a good chunk of August was horrendous, and proved a real challenge for our team as we scrambled to water sites across the country. Thankfully survival rates are within expected bounds at most projects, with one a handful of smaller sites suffering enough losses that saplings will need replacing.

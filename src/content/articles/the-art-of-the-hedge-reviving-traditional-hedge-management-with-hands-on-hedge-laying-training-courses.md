@@ -4,7 +4,7 @@ description: "Picture the countryside and there's likely a hedge—marking roads
 pubDate: 2025-04-28T19:17:15.000Z
 categories: ['woodland-management']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/the-art-of-the-hedge-reviving-traditional-hedge-management-with-hands-on-hedge-laying-training-courses.jpg
+thumbnail: ../../assets/articles/the-art-of-the-hedge-reviving-traditional-hedge-management-with-hands-on-hedge-laying-training-courses.jpg
 ---
 
 Take a moment to picture the countryside. Odds are, there's a hedge in that scene – maybe not the show's star, but present, marking the roadside or being that thing giving a dappled view into fields beyond with their wonders. Hedgerows are ingrained into our countryside portraits and yet, they're disappearing.

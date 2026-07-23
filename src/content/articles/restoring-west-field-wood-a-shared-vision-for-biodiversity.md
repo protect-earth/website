@@ -4,7 +4,7 @@ description: 'When [Wood Could Should](https://woodcouldshould.org/) set out to 
 pubDate: 2025-02-16T17:09:26.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg
+thumbnail: ../../assets/articles/restoring-west-field-wood-a-shared-vision-for-biodiversity.jpg
 ---
 
 When [Wood Could Should](https://woodcouldshould.org/) set out to transform 8.5 acres of low-grade pastureland in Somerset into a thriving woodland, they knew it would take dedication, collaboration, and time. As a Community Interest Company founded in 2022 by three friends concerned about the biodiversity crisis, their story closely mirrors that of Protect Earth. Naturally, our paths crossed. With aligned goals and a shared commitment to ecological restoration, Protect Earth has been proud to support Wood Could Should in bringing West Field Wood to life.

@@ -4,7 +4,7 @@ description: 'Joey from marketing agency TMD interviews Steve about his life in 
 pubDate: 2022-09-21T13:46:05.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/introducing-steve-wiltshire.jpg
+thumbnail: ../../assets/articles/introducing-steve-wiltshire.jpg
 ---
 
 _Joey from marketing agency TMD interviews Steve about his life in conservation. They discuss the skills required to be a conservationist, the impact of climate change on the work of Protect Earth, as well as the wildlife you might find at a Protect Earth site. _

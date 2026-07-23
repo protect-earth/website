@@ -4,7 +4,7 @@ description: 'Protect Earth are more than enthusiastic to share natural spaces w
 pubDate: 2024-01-29T08:28:00.000Z
 categories: ['sustainable-farming']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting.jpg
+thumbnail: ../../assets/articles/from-classroom-to-countryside-oakwood-specialist-college-students-and-protect-earth-unite-for-hedgerow-planting.jpg
 ---
 
 Protect Earth are more than enthusiastic to share natural spaces with the communities around our managed sites all over the UK. To say we were overjoyed when Oakwood Specialist College contacted us to spend some time with us planting hedgerows is an understatement.

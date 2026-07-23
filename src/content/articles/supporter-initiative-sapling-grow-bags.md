@@ -4,7 +4,7 @@ description: 'A supporter initiative creating sapling grow bags to help young tr
 pubDate: 2023-03-27T07:30:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/supporter-initiative-sapling-grow-bags.jpg
+thumbnail: ../../assets/articles/supporter-initiative-sapling-grow-bags.jpg
 ---
 
 ![](/articles/squarespace/img_1267-083e6ad509.jpg)

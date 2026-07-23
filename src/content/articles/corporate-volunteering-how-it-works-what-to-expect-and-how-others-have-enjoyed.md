@@ -3,7 +3,7 @@ title: 'Corporate volunteering - how it works, what to expect, and how others ha
 description: 'Sharing what we do with everyone is very rewarding. We love having volunteers come out with us for a day and help out. Here is an account of the fun that companies can have when they come plant with P'
 pubDate: 2023-10-02T06:29:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/corporate-volunteering-how-it-works-what-to-expect-and-how-others-have-enjoyed.jpeg
+thumbnail: ../../assets/articles/corporate-volunteering-how-it-works-what-to-expect-and-how-others-have-enjoyed.jpeg
 categories:
   - community-volunteering
 ---

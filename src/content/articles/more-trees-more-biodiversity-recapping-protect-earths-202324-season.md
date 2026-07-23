@@ -4,7 +4,7 @@ description: "The 2023/24 planting season has ended. Let's recap our intentions 
 pubDate: 2024-06-24T15:06:43.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg
+thumbnail: ../../assets/articles/more-trees-more-biodiversity-recapping-protect-earths-202324-season.jpg
 ---
 
 Close to the beginning of the 2023/24 planting season, we shared with you what we expected to achieve over the season. [Remember](/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal)?

@@ -4,7 +4,7 @@ description: 'As biodiversity decreases in the UK, looking at where and how it c
 pubDate: 2023-11-20T07:29:00.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future.jpg
+thumbnail: ../../assets/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future.jpg
 ---
 
 The 3/30/300 rule promises urban areas a greener, healthier, and more vibrant future.

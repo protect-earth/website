@@ -4,7 +4,7 @@ description: 'Safeguarding the environment goes hand in hand with fostering ment
 pubDate: 2024-06-05T13:28:34.000Z
 categories: ['community-volunteering']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-mental-health-first-aiders-perspective-on-environmental-care.jpg
+thumbnail: ../../assets/articles/a-mental-health-first-aiders-perspective-on-environmental-care.jpg
 ---
 
 At Protect Earth, we understand that safeguarding the environment goes hand in hand with fostering mental well-being.

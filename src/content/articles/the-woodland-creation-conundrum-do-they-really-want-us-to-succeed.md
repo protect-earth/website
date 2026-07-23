@@ -4,7 +4,7 @@ description: 'Many people, concerned citizens with good intentions to plant tree
 pubDate: 2024-09-04T09:05:45.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-woodland-creation-conundrum-do-they-really-want-us-to-succeed.jpeg
+thumbnail: ../../assets/articles/the-woodland-creation-conundrum-do-they-really-want-us-to-succeed.jpeg
 ---
 
 Many people, concerned citizens with good intentions to plant trees and tackle the climate crisis, often encounter problems when attempting to access available government funding to help them fund their green goals. These problems vary from significant, seemingly insurmountable bureaucracy to frustrating, overly complicated application processes. Both can lead people with very good intentions to forget the whole thing or to look for other ways to make a difference in significantly smaller ways as they haven’t managed to secure funding.

@@ -4,7 +4,7 @@ description: 'January is fleeting past as quickly as a pianist tickles the ivori
 pubDate: 2024-01-16T23:06:05.000Z
 categories: ['updates-progress']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/empower-your-milestones-fundraising-for-protect-earth-and-celebrating-achievements-with-purpose.jpg
+thumbnail: ../../assets/articles/empower-your-milestones-fundraising-for-protect-earth-and-celebrating-achievements-with-purpose.jpg
 ---
 
 January is fleeting past as quickly as a pianist tickles the ivories beneath their fingers. Blink, and it may be summer when you open your eyes!

@@ -4,7 +4,7 @@ description: "Yn ddiweddar bu Steve yr Ecolegydd ar ychydig o ymweliadau â Goet
 pubDate: 2023-08-14T12:03:59.000Z
 categories: ['policy-funding']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/diweddariad-goetre-wood-haf-2023.jpg
+thumbnail: ../../assets/articles/diweddariad-goetre-wood-haf-2023.jpg
 ---
 
 Mae Goytre Hill (yngenir Goy-tree) bron yn 70 erw o borfa arw, prysgwydd llethrau a choetir yng Nghanolbarth Cymru y mae Protect Earth wedi bod yn berchen arno yn ddiweddar.

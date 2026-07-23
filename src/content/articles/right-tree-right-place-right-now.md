@@ -4,7 +4,7 @@ description: "Plant the right tree in the right place: Sessile Oak on Welsh hill
 pubDate: 2022-09-06T15:12:39.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/right-tree-right-place-right-now.jpg
+thumbnail: ../../assets/articles/right-tree-right-place-right-now.jpg
 ---
 
 The mantra is: ‘Plant the right tree in the right place.’ OK – we’ll plant Sessile Oak trees on Welsh hillsides, Beech trees in Cotswold valleys, and Scot’s Pines in the Highlands. What’s more, we’ll plant a belt of Alders and Black Poplars in the waterlogged area near the river, and a cluster of Silver Birch on that sandy ridge.

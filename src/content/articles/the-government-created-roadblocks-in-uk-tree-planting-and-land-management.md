@@ -4,7 +4,7 @@ description: "UK's environmental industry criticizes slow tree planting progress
 pubDate: 2024-10-07T08:04:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-government-created-roadblocks-in-uk-tree-planting-and-land-management.jpg
+thumbnail: ../../assets/articles/the-government-created-roadblocks-in-uk-tree-planting-and-land-management.jpg
 ---
 
 Resoundingly, the UK's environmental industry is joining together, forming a choir of criticism. The hymn we're all singing is, "Tree planting and better land management practices aren't happening fast enough in the UK". Sadly, we've been singing this same song for so long that we could be mistaken for a broken record.

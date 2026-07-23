@@ -4,7 +4,7 @@ description: "Creating a woodland on once overgrazed slopes near Knighton in Mid
 pubDate: 2025-10-12T11:31:24.000Z
 categories: ['climate-environment']
 author: 'KatieWickens'
-thumbnail: ../../articles/goytre-wood-2025-survival.jpg
+thumbnail: ../../assets/articles/goytre-wood-2025-survival.jpg
 ---
 
 Over the past few years, Protect Earth has been working on creating a woodland in Powys, Wales. Overlooking the Radnorshire hills sits the once overgrazed slopes of [Goytre Hill](/projects/goytrewood), near Knighton in Mid-Wales. You'll know the area if you've ever trotted along the eastern end of the Trans Cambrian Way. For us this is an important site for not only flood mitigation and the carbon and biodiversity benefits that come with restoring woodland that historically covered most of this valley, but also as it's the first woodland we're creating on land we actually own.

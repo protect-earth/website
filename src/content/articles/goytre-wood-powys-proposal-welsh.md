@@ -4,7 +4,7 @@ description: "Mae Goetre Wood yn goetir 70 erw y mae Protect Earth wedi'i gaffae
 pubDate: 2023-05-08T07:30:00.000Z
 categories: ['policy-funding']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/goytre-wood-powys-proposal.jpg
+thumbnail: ../../assets/articles/goytre-wood-powys-proposal.jpg
 ---
 
 Mae Gwarchod y Ddaear y tu hwnt i falchder a chyffro am ein coetir [cymunedol newydd](/articles/coed-goetre) ym Mhowys. Fe'i lleolir mewn ardal fforest law dymherus ar ochr Gymreig y ffin rhwng Cymru a Lloegr, yn edrych dros Fryniau Sir Amwythig.

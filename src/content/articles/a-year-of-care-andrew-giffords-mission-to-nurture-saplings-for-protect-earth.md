@@ -4,7 +4,7 @@ description: 'Help and support from the Protect Earth community comes in many fo
 pubDate: 2024-03-04T07:38:00.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-year-of-care-andrew-giffords-mission-to-nurture-saplings-for-protect-earth.jpg
+thumbnail: ../../assets/articles/a-year-of-care-andrew-giffords-mission-to-nurture-saplings-for-protect-earth.jpg
 ---
 
 Help and support from the Protect Earth community comes in many forms at different times. Andrew Gifford lent support in what came to be an urgent time of need!

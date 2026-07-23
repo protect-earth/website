@@ -4,7 +4,7 @@ description: 'Goytre Wood is a 70 acre woodland Protect Earth have acquired in P
 pubDate: 2023-05-08T07:30:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/goytre-wood-powys-proposal.jpg
+thumbnail: ../../assets/articles/goytre-wood-powys-proposal.jpg
 ---
 
 Protect Earth are beyond proud and excited about our new [community woodland](/articles/goytre-wood) in Powys. It is located in an Atlantic Oak Woodland region on the Welsh side of the Wales-England border, overlooking the beautiful Shropshire Hills.

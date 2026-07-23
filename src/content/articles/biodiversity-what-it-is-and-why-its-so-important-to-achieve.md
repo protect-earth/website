@@ -3,7 +3,7 @@ title: "Biodiversity - what it is and why it's so important to achieve"
 description: 'Trees do great things. But, with 36% of the UK’s wooded areas being non-native conifer trees - the benefits of these trees is very limited. Biodiverse woodlands and areas are homes that bring a range '
 pubDate: 2023-07-17T06:33:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg
+thumbnail: ../../assets/articles/biodiversity-what-it-is-and-why-its-so-important-to-achieve.jpg
 categories:
   - conservation-biodiversity
   - woodland-creation

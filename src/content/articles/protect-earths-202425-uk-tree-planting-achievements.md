@@ -3,7 +3,7 @@ title: "Protect Earth's 2024/25 UK Tree Planting Achievements"
 description: 'The 2024/25 season wrapped up with 37,417 saplings planted across 55.85 acres - a 14% increase on last season despite government funding delays.'
 pubDate: 2025-03-31T07:00:00.000Z
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/protect-earths-202425-uk-tree-planting-achievements.jpg
+thumbnail: ../../assets/articles/protect-earths-202425-uk-tree-planting-achievements.jpg
 categories:
   - updates-progress
   - woodland-creation

@@ -4,7 +4,7 @@ description: "At Protect Earth, we've always cherished the incredible support of
 pubDate: 2024-07-01T06:56:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/quick-action-for-a-greener-future-buy-trees-and-hedgerows-with-protect-earth.jpg
+thumbnail: ../../assets/articles/quick-action-for-a-greener-future-buy-trees-and-hedgerows-with-protect-earth.jpg
 ---
 
 At Protect Earth, we've always cherished the incredible support of our community in planting projects across the UK. However, we have always understood that not everyone can join us on the ground to help increase the UK's biodiversity.

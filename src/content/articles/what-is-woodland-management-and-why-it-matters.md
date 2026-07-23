@@ -4,7 +4,7 @@ description: 'Woodlands nurture plants, wildlife, communities and the planet. Wo
 pubDate: 2024-10-29T07:54:00.000Z
 categories: ['woodland-management']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/what-is-woodland-management-and-why-it-matters.jpg
+thumbnail: ../../assets/articles/what-is-woodland-management-and-why-it-matters.jpg
 ---
 
 Woodlands are invaluable landscapes in the UK, nurturing plants, diverse wildlife, human communities, and the planet. Through woodland management, organisations like Protect Earth help sustain these natural spaces so they thrive, combatting the effects of climate change.

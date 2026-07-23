@@ -4,7 +4,7 @@ description: 'Despite snow storms hitting two the two farms we were planting, we
 pubDate: 2021-01-27T12:39:00.000Z
 categories: ['sustainable-farming']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/2000-trees-planted.jpg
+thumbnail: ../../assets/articles/2000-trees-planted.jpg
 ---
 
 Back in December our tree counter was on 92 trees and two months later we’re up to 2,000 trees. 1900 of those were planted in a single weekend! Let’s have a look at some of those photographs and talk about what’s coming next here at Protect Earth as we continue our mission to plant as many of the right trees in the right places as we possibly can.

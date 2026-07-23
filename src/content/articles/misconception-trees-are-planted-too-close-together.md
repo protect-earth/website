@@ -4,7 +4,7 @@ description: 'How closely together should trees be planted? What’s the optimal
 pubDate: 2023-04-24T06:29:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
+thumbnail: ../../assets/articles/misconceptions-about-tree-planting.jpg
 ---
 
 ## **Reality: Overstocking helps a woodland establish even when there are losses.**

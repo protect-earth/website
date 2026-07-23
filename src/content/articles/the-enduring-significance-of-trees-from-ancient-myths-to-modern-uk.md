@@ -4,7 +4,7 @@ description: 'Trees have held cultural and religious importance for millennia. T
 pubDate: 2023-11-06T07:29:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-enduring-significance-of-trees-from-ancient-myths-to-modern-uk.jpg
+thumbnail: ../../assets/articles/the-enduring-significance-of-trees-from-ancient-myths-to-modern-uk.jpg
 ---
 
 A few weeks back, the world was shaken by the sudden fall and possible death of a venerable tree, which garnered international headlines.

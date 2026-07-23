@@ -4,7 +4,7 @@ description: 'Bamboo is an amazing thing. Some species of bamboo in their native
 pubDate: 2022-08-03T20:24:37.000Z
 categories: ['invasive-species']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/removing-invasive-bamboo.jpg
+thumbnail: ../../assets/articles/removing-invasive-bamboo.jpg
 ---
 
 Bamboo is an amazing thing. Some species of bamboo in their native habitat can grow almost one meter a day, can be used to make everything from toilet paper to clothes, and its [CO2 drawdown potential is 10X larger than that of trees](https://onetreeplanted.org/blogs/stories/bamboo). People also love the look of bamboo, leading to its explosion across the United Kingdom, being available in every local garden center and B&Q around.

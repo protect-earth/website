@@ -4,7 +4,7 @@ description: 'Another spring day spent planting wildflowers in Llandrindod Wells
 pubDate: 2022-06-17T20:31:15.000Z
 categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/wildflower-planting-in-llandrindod-wells.jpeg
+thumbnail: ../../assets/articles/wildflower-planting-in-llandrindod-wells.jpeg
 ---
 
 ![](/articles/squarespace/fspviz-xoaikkcx-3-245dc125d4.jpeg)

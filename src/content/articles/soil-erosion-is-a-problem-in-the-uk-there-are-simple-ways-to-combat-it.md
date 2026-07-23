@@ -4,7 +4,7 @@ description: 'Soil degradation and erosion is impacting the UK. Food supply, bui
 pubDate: 2023-09-25T07:30:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg
+thumbnail: ../../assets/articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg
 ---
 
 ![Soil erosion in an arable field](/articles/soil-erosion-is-a-problem-in-the-uk-there-are-simple-ways-to-combat-it.jpg)

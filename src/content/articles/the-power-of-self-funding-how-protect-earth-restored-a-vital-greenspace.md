@@ -4,7 +4,7 @@ description: 'After trees were mistakenly cut down in a community project, Prote
 pubDate: 2024-08-14T17:14:42.000Z
 categories: ['policy-funding']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-power-of-self-funding-how-protect-earth-restored-a-vital-greenspace.jpg
+thumbnail: ../../assets/articles/the-power-of-self-funding-how-protect-earth-restored-a-vital-greenspace.jpg
 ---
 
 A recent community-led reforestation initiative caught the attention of Protect Earth, but not for the reasons we might have hoped. Unfortunately, due to a miscommunication, several trees that had been painstakingly planted by local residents were inadvertently cut down. This affected the development of much-needed greenspace and threatened to undermine the community's morale and dedication to the project.

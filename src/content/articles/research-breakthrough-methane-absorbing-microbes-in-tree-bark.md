@@ -4,7 +4,7 @@ description: 'Trees have long been recognised for their role in improving the cl
 pubDate: 2024-07-29T09:42:15.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/research-breakthrough-methane-absorbing-microbes-in-tree-bark.jpeg
+thumbnail: ../../assets/articles/research-breakthrough-methane-absorbing-microbes-in-tree-bark.jpeg
 ---
 
 Trees have long been recognised for their role in improving the climate by removing carbon dioxide from the atmosphere. Recent research, however, has unveiled an unexpected additional benefit. Microbes residing within tree bark have been found to absorb methane, a potent greenhouse gas, from the atmosphere.

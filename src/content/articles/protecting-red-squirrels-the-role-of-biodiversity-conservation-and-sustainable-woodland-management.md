@@ -4,7 +4,7 @@ description: 'Red Squirrel Awareness Week highlights the urgent need for biodive
 pubDate: 2024-10-20T06:48:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protecting-red-squirrels-the-role-of-biodiversity-conservation-and-sustainable-woodland-management.jpg
+thumbnail: ../../assets/articles/protecting-red-squirrels-the-role-of-biodiversity-conservation-and-sustainable-woodland-management.jpg
 ---
 
 Red Squirrel Awareness Week highlights the urgent need for biodiversity conservation as habitat loss and grey squirrel competition drive red squirrel populations into decline. Effective woodland management and ecosystem restoration are crucial to their survival, offering hope for a much-loved species in the UK.

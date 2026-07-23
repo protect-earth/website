@@ -4,7 +4,7 @@ description: "Examining the research on green space's impact on health - mental,
 pubDate: 2024-07-25T14:41:46.000Z
 categories: ['wildlife-habitats']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/concepts-of-mental-physical-social-and-equity-health-from-greenspaces.jpg
+thumbnail: ../../assets/articles/concepts-of-mental-physical-social-and-equity-health-from-greenspaces.jpg
 ---
 
 We're all told of the benefits that green spaces bring.

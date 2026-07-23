@@ -4,7 +4,7 @@ description: "Walking through a mature woodland full of gnarled trees and moss, 
 pubDate: 2025-02-17T09:08:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/woodland-thinning-in-an-ancient-woodland-what.jpg
+thumbnail: ../../assets/articles/woodland-thinning-in-an-ancient-woodland-what.jpg
 ---
 
 Imagine yourself walking through a clearly mature woodland- smatterings of majestic, large, gnarled trees, branches, and trunks crashed over, decomposing back into the ground and moss everywhere. If you are in a woodland like this in the UK, you're probably in an ancient woodland. And, you may be surprised to hear that despite the health, greenness, and health of woodlands like these, they still need management.

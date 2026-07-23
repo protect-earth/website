@@ -4,7 +4,7 @@ description: 'In the midst of the fifth planting season, Protect Earth is lookin
 pubDate: 2026-01-07T15:47:58.000Z
 categories: ['updates-progress']
 author: 'Elena Tornberg-Lennox'
-thumbnail: ../../articles/2025-annual-report-looking-back-at-2025.jpg
+thumbnail: ../../assets/articles/2025-annual-report-looking-back-at-2025.jpg
 ---
 
 **Introduction**

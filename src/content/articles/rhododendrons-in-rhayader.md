@@ -4,7 +4,7 @@ description: "It interests us how many things we do are connected. Often it's on
 pubDate: 2025-10-29T09:56:13.000Z
 categories: ['conservation-biodiversity']
 author: 'kathy@protect.earth'
-thumbnail: ../../articles/rhododendrons-in-rhayader.jpg
+thumbnail: ../../assets/articles/rhododendrons-in-rhayader.jpg
 ---
 
 It always interests us how many of the things we do are connected in some way. Often it is one landowner recommending us to a neighbour, so that we end up returning to plant more trees nearby. However, this story is a little different, linking several of the services we offer to help the environment.

@@ -4,7 +4,7 @@ description: 'Duncan Porter is a Protect Earth super volunteer, a volunteer extr
 pubDate: 2024-03-25T07:20:00.000Z
 categories: ['community-volunteering']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/in-the-spotlight-duncan-porter-deputy-protector-amp-supervolunteer-at-planet-earth.png
+thumbnail: ../../assets/articles/in-the-spotlight-duncan-porter-deputy-protector-amp-supervolunteer-at-planet-earth.png
 ---
 
 Duncan Porter is a Protect Earth super volunteer, a volunteer extraordinaire, or, as Phil refers to him, a Deputy to Protect Earth.

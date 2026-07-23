@@ -4,7 +4,7 @@ description: 'Getting ready to plant 500 trees near Llandrindod Wells at Pantpur
 pubDate: 2021-01-19T12:13:52.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/500-trees-in-wales.jpg
+thumbnail: ../../assets/articles/500-trees-in-wales.jpg
 ---
 
 Back at the start of December we planted our first ~100 trees and it was amazing to finally be done with all the red tape, paperwork, and emails. We finally got our hands dirty. We learned a lot, and now we are getting ready to plant another 500 trees near Llandrindod Wells in Wales. The farm is called [Pantpurlais](/sites/pantpurlais) and it is absolutely beautiful.

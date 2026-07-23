@@ -4,7 +4,7 @@ description: 'Brynwichell Farm in West Wales is a modern working farm creating w
 pubDate: 2024-05-20T07:34:00.000Z
 categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/balancing-productivity-and-ecology-the-journey-of-brynwichell-farm.jpeg
+thumbnail: ../../assets/articles/balancing-productivity-and-ecology-the-journey-of-brynwichell-farm.jpeg
 ---
 
 Brynwichell Farm, owned and operated by Ollie Evans, is a modern working farm in West Wales. This means they have diversified their farm's activities. They're also hedging their bets, creating patches of woodlands and shelterbelts and later developing wild ponds. Ollie knows that repairing the land is another way of increasing the yield without pumping artifice into the ground or livestock.

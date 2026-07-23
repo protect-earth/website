@@ -4,7 +4,7 @@ description: 'Tree planting versus natural regeneration discussions regularly po
 pubDate: 2024-07-08T06:29:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-best-possible-quality-tree-planting.jpg
+thumbnail: ../../assets/articles/the-best-possible-quality-tree-planting.jpg
 ---
 
 Discussions around “tree planting” versus “natural regeneration” regularly pop up online, and it’s amazing to see more people getting interested in this previously rather obscure conversation. Campaigners have done an amazing job of getting natural regeneration supported by government grant systems such as English Woodland Creation Offer, making this possible (and profitable) for more land owners, so we’ll see more of it happening across the country. At the same time some of the conversations are pretty unscientific, with suggestions of “tree planting is bad” when people are really just referring to problems that occur through “bad tree planting”, and natural regeneration is hailed a silver bullet by some activists when the vast majority of experts will explain it is far more complicated than that.

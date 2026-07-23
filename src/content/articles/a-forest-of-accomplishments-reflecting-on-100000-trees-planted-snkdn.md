@@ -4,7 +4,7 @@ description: "As a member of the Protect Earth community, you've contributed to 
 pubDate: 2024-05-06T11:15:13.000Z
 categories: ['updates-progress']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted-snkdn.jpg
+thumbnail: ../../assets/articles/a-forest-of-accomplishments-reflecting-on-100000-trees-planted-snkdn.jpg
 ---
 
 Have you patted yourself on the back recently for a job well done? Regardless of the answer, we're giving you a reason to congratulate yourself now.

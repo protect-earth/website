@@ -3,7 +3,7 @@ title: 'Rewilding the Sea'
 description: 'Seawilding shows how no-take zones, kelp forests, seagrass meadows, and oyster reefs can help restore biodiversity, store carbon, and protect coasts.'
 pubDate: 2026-06-30T12:00:00.000Z
 author: 'Elena Tornberg-Lennox'
-thumbnail: ../../articles/rewilding-the-sea.jpg
+thumbnail: ../../assets/articles/rewilding-the-sea.jpg
 thumbnailAttribution:
   text: National Marine Sanctuaries, photo by Douglas Croft
   url: https://commons.wikimedia.org/wiki/File:MBNMS_humpback_whale_surrounded_by_seabirds_(50199589581).jpg

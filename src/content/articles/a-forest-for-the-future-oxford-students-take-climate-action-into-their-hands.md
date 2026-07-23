@@ -4,7 +4,7 @@ description: 'As Storm Bert swept the UK, Oxford Year 5 and 6 students planted 9
 pubDate: 2024-11-27T20:16:00.000Z
 categories: ['climate-environment']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-forest-for-the-future-oxford-students-take-climate-action-into-their-hands.jpg
+thumbnail: ../../assets/articles/a-forest-for-the-future-oxford-students-take-climate-action-into-their-hands.jpg
 ---
 
 Last weekend, Storm Bert swept across the UK, leaving a trail of damage and chaos in its wake. As communities braced themselves for its arrival, a group of schoolchildren in Oxford showed how local action can offer hope amid the challenges of climate change. With support from their school and Oxford City Council, these Year 5 and 6 students planted a mini-forest on unused school grounds, creating a legacy of learning and resilience.

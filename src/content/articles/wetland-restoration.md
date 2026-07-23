@@ -4,7 +4,7 @@ description: 'Wetlands are one of the UK’s most overlooked ecological superpow
 pubDate: 2026-03-12T00:00:00.000Z
 categories: ['climate-environment']
 author: 'Elena Tornberg-Lennox'
-thumbnail: ../../articles/wetland-restoration.webp
+thumbnail: ../../assets/articles/wetland-restoration.webp
 ---
 
 Ever since a change in the climate in the middle of the Bronze Age, Britain has been an island shrouded in mists, rising from vast wetlands. Fens, marshes, bogs, swamps, floodplains, lakes, ponds, and rivers run through many of our myths and legends. Wetlands have shaped both us and the land.
