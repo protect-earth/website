@@ -4,6 +4,7 @@ description: 'The UK is baking. In successive rolling heatwaves, the number of r
 pubDate: 2026-07-27T00:00:00.000Z
 categories: ['climate-environment']
 author: 'Elena Tornberg-Lennox'
+thumbnail: ../../assets/articles/what-do-wildfires-mean-for-british-woodlands.webp
 ---
 
 The UK is baking. In successive rolling heatwaves, the number of recorded deaths is rising. Our nature is struggling, plants, fungi and animals are having to try to adapt to the ever-unprecedented temperatures. And all of this is only exacerbating a growing risk - wildfire. We have seen fires spark in [North Wales](https://www.thetimes.com/uk/weather/article/heatwave-deaths-uk-met-office-report-bprggjsqs), [Cumbria](https://www.bbc.com/news/articles/cq6jn89vgrgo), [Peak District](https://www.mirror.co.uk/news/uk-news/peak-district-flames-scorching-heatwave-37349778) and [Somerset](https://www.bbc.com/news/articles/ckg8regml00o), among other places, seeing rates soar above even last year’s.
