@@ -4,7 +4,7 @@ description: 'Husband and wife Dean and Tracey have a decades-long friendship wi
 pubDate: 2024-05-27T06:59:00.000Z
 categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg
+thumbnail: ../../assets/articles/transforming-a-welsh-smallholding-a-tale-of-friendship-restoration-and-biodiversity.jpg
 ---
 
 Husband and wife Dean and Tracey have a decades-long friendship with Emma and Frank. And, like any friendship so deep and so long, they consider each other and the extended collection of kids to be one family.

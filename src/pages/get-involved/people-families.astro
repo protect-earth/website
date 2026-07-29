@@ -3,13 +3,14 @@ import ContentBlock from '../../components/ContentBlock.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import Layout from '../../layouts/Layout.astro';
+import { heroPeopleFamilies } from '../../assets/hero-images';
 ---
 
 <Layout title="People & Families">
 	<!-- Hero Section -->
 	<ContentHero
 		title="People & Families"
-		imgSrc="/hero-people-families.jpg"
+		imgSrc={heroPeopleFamilies}
 		imgAlt="Group of people outdoors planting trees on a hillside"
 	>
 		<p>

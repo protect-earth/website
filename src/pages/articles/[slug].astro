@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import ArticleCategoryCta from '../../components/ArticleCategoryCta.astro';
 import { Image } from 'astro:assets';
 import { render } from 'astro:content';
 import { getCategoryName } from '../../helpers';
@@ -25,9 +26,18 @@ if (!article) {
 }
 
 const {
-	data: { author, description, pubDate, title, thumbnail, categories },
+	data: { author, description, pubDate, title, thumbnail, thumbnailAttribution, categories },
 } = article;
 const { Content } = await render(article);
+
+const categoryCtaTags: CategorySlug[] = [
+	'woodland-creation',
+	'woodland-management',
+	'conservation-biodiversity',
+	'community-volunteering',
+];
+
+const hasCategoryCta = (categories ?? []).some((category) => categoryCtaTags.includes(category));
 ---
 
 <Layout
@@ -35,6 +45,7 @@ const { Content } = await render(article);
 	{description}
 	breadcrumb={title}
 	image={thumbnail}
+	ogImagePath={`/og/articles/${slug}.webp`}
 	type="article"
 	{author}
 	{pubDate}
@@ -71,6 +82,21 @@ const { Content } = await render(article);
 					<dt class="visually-hidden">Posted By</dt>
 					<dd>{author}</dd>
 				</dl>
+				{
+					thumbnailAttribution && (
+						<p class="hero-image-attribution">
+							Image:{' '}
+							{thumbnailAttribution.url ? (
+								<a href={thumbnailAttribution.url} target="_blank" rel="noreferrer">
+									{thumbnailAttribution.text}
+								</a>
+							) : (
+								thumbnailAttribution.text
+							)}
+							{thumbnailAttribution.license && <> · {thumbnailAttribution.license}</>}
+						</p>
+					)
+				}
 			</div>
 
 			{
@@ -89,7 +115,7 @@ const { Content } = await render(article);
 		</div>
 	</article>
 
-	<NewsletterSignup />
+	{hasCategoryCta ? <ArticleCategoryCta categories={categories} /> : <NewsletterSignup />}
 
 	<TakeAction />
 </Layout>

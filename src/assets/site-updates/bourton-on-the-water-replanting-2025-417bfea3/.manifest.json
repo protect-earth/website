@@ -1,0 +1,20 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/5c080b28-71fc-428a-aedb-702f2822a290/Zenergi.jpg": {
+    "localName": "cf081503b073e80835574230f14da94ce13aabcf0e7c1a2e36fcd0eb4a4304ff.jpg",
+    "checksum": "cf081503b073e80835574230f14da94ce13aabcf0e7c1a2e36fcd0eb4a4304ff",
+    "sourceChecksum": null,
+    "fileName": "Zenergi.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/079fc5f6-5911-4fbf-98bb-759c0570bd4c/Zenergi_volunteers.jpg": {
+    "localName": "7764b0be58720ae9db9292620409575894078d1656f7d89bbaa46511a9f4eec6.jpg",
+    "checksum": "7764b0be58720ae9db9292620409575894078d1656f7d89bbaa46511a9f4eec6",
+    "sourceChecksum": null,
+    "fileName": "Zenergi volunteers.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/9bcdaf6b-a46e-487e-b176-5e49ec376505/0bd50c2c-9e33-4de8-883f-2a95be5a5132_2082x2776.jpg": {
+    "localName": "2d383c8550cf39df37ca9837443e59e5624b9ddbb9b0f4dbd4b5388ac2bf3dd4.jpg",
+    "checksum": "2d383c8550cf39df37ca9837443e59e5624b9ddbb9b0f4dbd4b5388ac2bf3dd4",
+    "sourceChecksum": null,
+    "fileName": "0bd50c2c-9e33-4de8-883f-2a95be5a5132_2082x2776.jpg"
+  }
+}

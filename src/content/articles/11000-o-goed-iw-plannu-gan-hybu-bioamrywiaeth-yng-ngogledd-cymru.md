@@ -4,7 +4,7 @@ description: 'Mae Nannerch yn safle 27 erw mewn Ardal o Harddwch Naturiol Eithri
 pubDate: 2024-01-04T11:15:28.000Z
 categories: ['climate-environment']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/11000-o-goed-iw-plannu-gan-hybu-bioamrywiaeth-yng-ngogledd-cymru.jpeg
+thumbnail: ../../assets/articles/11000-o-goed-iw-plannu-gan-hybu-bioamrywiaeth-yng-ngogledd-cymru.jpeg
 ---
 
 Mae Nannerch yn safle ochr bryn 11-hectar yn Ardal o Harddwch Naturiol Eithriadol Clwydian a Dyffryn Dyfrdwy. Ers blynyddoedd, mae’r safle wedi cael ei ddefnyddio ar gyfer pori da byw.

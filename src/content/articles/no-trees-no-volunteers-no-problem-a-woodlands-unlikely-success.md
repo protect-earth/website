@@ -4,7 +4,7 @@ description: "When saplings went to the wrong address and volunteers didn't show
 pubDate: 2025-02-02T19:39:50.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/no-trees-no-volunteers-no-problem-a-woodlands-unlikely-success.jpeg
+thumbnail: ../../assets/articles/no-trees-no-volunteers-no-problem-a-woodlands-unlikely-success.jpeg
 ---
 
 Imagine being a landowner, looking forward to the day your new woodland takes root, knowing you'll get to watch it grow for years to come. You've been told the saplings are on their way, and volunteers are signing up to help bring the planting to life.

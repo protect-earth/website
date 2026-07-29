@@ -39,7 +39,6 @@ const LOCAL_IMAGES_DIR = path.join(__dirname, '../src/assets/events');
 const TEMP_DIR = path.join(__dirname, '../.temp-eventbrite-images');
 const MANIFEST_PATH = path.join(LOCAL_IMAGES_DIR, MANIFEST_FILENAME);
 const EVENT_ASSET_PATH_PREFIX = '../../assets/events';
-const LEGACY_EVENT_ASSET_PATH_PREFIX = '../../assets/events/eventbrite';
 const turndown = new TurndownService({
 	headingStyle: 'atx',
 	bulletListMarker: '-',
@@ -368,7 +367,6 @@ async function localizeEventImage({ eventId, slug, imageUrl, previousEntry }) {
 		existingPath &&
 		fs.existsSync(existingPath) &&
 		previousEntry?.sourceImageUrl &&
-		!String(previousEntry?.thumbnail || '').startsWith(LEGACY_EVENT_ASSET_PATH_PREFIX) &&
 		previousEntry.sourceImageUrl === imageUrl
 	) {
 		return previousEntry.thumbnail;
@@ -608,7 +606,6 @@ async function syncEvents() {
 			startDate,
 			endDate,
 			address: address || 'TBC',
-			map,
 			eventbriteLink: event.url || '',
 		};
 

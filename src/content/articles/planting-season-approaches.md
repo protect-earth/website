@@ -4,7 +4,7 @@ description: 'After the fundraising adventure to Croatia, getting everything rea
 pubDate: 2020-11-13T12:18:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/planting-season-approaches.jpg
+thumbnail: ../../assets/articles/planting-season-approaches.jpg
 ---
 
 After the [fundraising adventure to Croatia](https://www.patreon.com/posts/fundraising-and-42486991), I'm back in the UK getting everything ready for planting season. Here in Dyrham (near Bristol and Bath), we're getting our first land-owner planting project ready for the day when 3,000 trees appear. We have yet to get a firm date, for a series of reasons:

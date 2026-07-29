@@ -13,6 +13,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const PHOTO_MANIFEST_FILENAME = '.manifest.json';
 const MAX_SITE_UPDATE_PHOTOS = 12;
+const isVerbose = process.argv.includes('--verbose');
 
 config();
 
@@ -289,8 +290,10 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 	const hadExistingLocalizedPhotos =
 		fs.existsSync(outputDir) || Object.keys(previousManifest).length > 0;
 
-	console.log(`  Localizing ${notionPhotos.length} Notion photo file(s) for ${slug}...`);
-	if (ignoredPhotos > 0) {
+	if (isVerbose) {
+		console.log(`  Localizing ${notionPhotos.length} Notion photo file(s) for ${slug}...`);
+	}
+	if (isVerbose && ignoredPhotos > 0) {
 		console.log(`  Ignoring ${ignoredPhotos} non-image or external photo reference(s)`);
 	}
 
@@ -333,9 +336,11 @@ async function localizeSiteUpdatePhotos(photos, slug, imagesDir, tempDir) {
 			contentPath &&
 			(!previousEntry?.sourceChecksum || remoteChecksum === previousEntry.sourceChecksum)
 		) {
-			console.log(
-				`  Reusing existing localized image ${previousLocalName} for unchanged Notion file`,
-			);
+			if (isVerbose) {
+				console.log(
+					`  Reusing existing localized image ${previousLocalName} for unchanged Notion file`,
+				);
+			}
 			localized.push(contentPath);
 			nextManifest[sourceKey] = {
 				localName: previousLocalName,
@@ -572,6 +577,53 @@ function getExistingBody(filePath) {
 	}
 }
 
+function getSiteNotionIdLookup(siteMetaDir) {
+	const notionIdLookup = new Map();
+
+	if (!fs.existsSync(siteMetaDir)) {
+		console.warn(`Warning: Site metadata directory not found at ${siteMetaDir}`);
+		return notionIdLookup;
+	}
+
+	const siteMetaFiles = fs
+		.readdirSync(siteMetaDir)
+		.filter((entry) => entry.toLowerCase().endsWith('.md'));
+
+	for (const siteMetaFile of siteMetaFiles) {
+		const siteMetaPath = path.join(siteMetaDir, siteMetaFile);
+
+		try {
+			const parsed = matter(fs.readFileSync(siteMetaPath, 'utf8'));
+			const notionIds = parsed?.data?.notionIds;
+
+			if (!Array.isArray(notionIds)) {
+				continue;
+			}
+
+			for (const notionId of notionIds) {
+				if (typeof notionId !== 'string') {
+					continue;
+				}
+
+				const normalizedNotionId = notionId.trim();
+				if (!normalizedNotionId) {
+					continue;
+				}
+
+				if (!notionIdLookup.has(normalizedNotionId)) {
+					notionIdLookup.set(normalizedNotionId, new Set());
+				}
+
+				notionIdLookup.get(normalizedNotionId).add(siteMetaFile);
+			}
+		} catch (error) {
+			console.warn(`Warning: Could not parse site metadata file ${siteMetaPath}: ${error.message}`);
+		}
+	}
+
+	return notionIdLookup;
+}
+
 async function getPageContent(pageId) {
 	try {
 		const blocks = await listAllBlocks(pageId);
@@ -588,8 +640,10 @@ async function syncSiteUpdates() {
 
 	try {
 		const siteUpdatesDir = path.join(__dirname, '../src/content/site-updates');
+		const siteMetaDir = path.join(__dirname, '../src/content/siteMeta');
 		const imagesDir = path.join(__dirname, '../src/assets/site-updates');
 		const tempDir = path.join(__dirname, '../.temp-images');
+		const siteNotionIdLookup = getSiteNotionIdLookup(siteMetaDir);
 
 		if (!fs.existsSync(siteUpdatesDir)) fs.mkdirSync(siteUpdatesDir, { recursive: true });
 		if (!fs.existsSync(imagesDir)) fs.mkdirSync(imagesDir, { recursive: true });
@@ -617,6 +671,7 @@ async function syncSiteUpdates() {
 
 		let createdCount = 0;
 		let updatedCount = 0;
+		let unmatchedSiteNotionIdWarnings = 0;
 
 		for (const [index, page] of allResults.entries()) {
 			const properties = page.properties;
@@ -629,6 +684,13 @@ async function syncSiteUpdates() {
 			const siteRelation = await getPropertyValue(
 				properties['Sites'] || properties['🏝️ Sites'] || properties.Site,
 			);
+			const siteNotionId = siteRelation?.length > 0 ? siteRelation[0] : null;
+			if (siteNotionId && !siteNotionIdLookup.has(siteNotionId)) {
+				console.warn(
+					`Warning: Site update "${title}" (${page.id}) references siteNotionId "${siteNotionId}" that does not exist in any site metadata notionIds`,
+				);
+				unmatchedSiteNotionIdWarnings++;
+			}
 			const date = await getPropertyValue(properties['Update Date']);
 			const treesPlanted = await getPropertyValue(properties['If new planting, how many trees?']);
 			const survivalRate = await getPropertyValue(properties['If survival survey, what % alive?']);
@@ -638,7 +700,9 @@ async function syncSiteUpdates() {
 			const baseSlug = toKebabCase(title);
 			const shortId = page.id.replace(/-/g, '').slice(-8);
 			const slug = `${baseSlug}-${shortId}`;
-			console.log(`[${index + 1}/${allResults.length}] ${title} -> ${slug}`);
+			if (isVerbose) {
+				console.log(`[${index + 1}/${allResults.length}] ${title} -> ${slug}`);
+			}
 			const filePath = path.join(siteUpdatesDir, `${slug}.md`);
 			const existingBody = getExistingBody(filePath);
 
@@ -663,7 +727,7 @@ async function syncSiteUpdates() {
 				notionId: page.id,
 				...(type && { type }),
 				...(date && { date: formatDate(date) }),
-				...(siteRelation?.length > 0 && { siteNotionId: siteRelation[0] }),
+				...(siteNotionId && { siteNotionId }),
 				...(treesPlanted != null && { treesPlanted }),
 				...(survivalRate != null && { survivalRate }),
 				...(treesRestocked != null && { treesRestocked }),
@@ -699,10 +763,14 @@ async function syncSiteUpdates() {
 			const existed = fs.existsSync(filePath);
 			fs.writeFileSync(filePath, content, 'utf8');
 			if (existed) {
-				console.log(`  Updated ${slug}.md`);
+				if (isVerbose) {
+					console.log(`  Updated ${slug}.md`);
+				}
 				updatedCount++;
 			} else {
-				console.log(`  Created ${slug}.md`);
+				if (isVerbose) {
+					console.log(`  Created ${slug}.md`);
+				}
 				createdCount++;
 			}
 		}
@@ -715,6 +783,11 @@ async function syncSiteUpdates() {
 		console.log(`Created: ${createdCount}`);
 		console.log(`Updated: ${updatedCount}`);
 		console.log(`Total: ${allResults.length}`);
+		if (unmatchedSiteNotionIdWarnings > 0) {
+			console.warn(
+				`Warnings: ${unmatchedSiteNotionIdWarnings} site update(s) had an unmapped siteNotionId`,
+			);
+		}
 	} catch (error) {
 		console.error(`Error syncing site updates: ${error.message}`);
 		process.exit(1);

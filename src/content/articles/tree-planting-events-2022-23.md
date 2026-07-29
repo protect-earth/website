@@ -4,7 +4,7 @@ description: 'Fancy getting your hands dirty and doing your bit to put a dent in
 pubDate: 2022-10-12T09:16:59.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/tree-planting-events-2022-23.jpg
+thumbnail: ../../assets/articles/tree-planting-events-2022-23.jpg
 ---
 
 All summer we’ve been mulching, watering, clearing, and getting a whole lot of paperwork and logistics sorted out for this planting season, and now it’s finally time for tree planting again. Many of you have been reaching out about [Volunteering](https://www.protect.earth/volunteering) oppertunities, so I thought I’d put together a quick summary of the planting events coming up.

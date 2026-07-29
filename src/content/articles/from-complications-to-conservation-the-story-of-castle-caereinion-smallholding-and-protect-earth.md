@@ -4,7 +4,7 @@ description: 'Where: close to Welshpool, mid-Wales'
 pubDate: 2024-03-11T08:05:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/from-complications-to-conservation-the-story-of-castle-caereinion-smallholding-and-protect-earth.jpeg
+thumbnail: ../../assets/articles/from-complications-to-conservation-the-story-of-castle-caereinion-smallholding-and-protect-earth.jpeg
 ---
 
 ### **Project at a glance**

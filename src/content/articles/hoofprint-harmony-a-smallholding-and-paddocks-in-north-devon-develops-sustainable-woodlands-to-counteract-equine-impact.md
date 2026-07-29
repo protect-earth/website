@@ -4,7 +4,7 @@ description: 'The owner of a paddocks and stables in North Devon wanted to conve
 pubDate: 2023-12-29T13:14:49.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/hoofprint-harmony-a-smallholding-and-paddocks-in-north-devon-develops-sustainable-woodlands-to-counteract-equine-impact.jpg
+thumbnail: ../../assets/articles/hoofprint-harmony-a-smallholding-and-paddocks-in-north-devon-develops-sustainable-woodlands-to-counteract-equine-impact.jpg
 ---
 
 Nestled within the picturesque landscapes of North Devon, where the rolling hills offer a breathtaking view of Exmoor, lies a smallholding and riding stables committed to harmonising equine care with environmental stewardship.

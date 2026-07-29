@@ -16,9 +16,12 @@ export const siteConfig = {
 	},
 
 	achievements: {
-		treesPlanted: 158178,
+		treesPlanted: 161028,
+		survivalRate: 79.9,
+		hedgerowsMeters: 5180,
 		acresRestored: 400,
 		acresUnderManagement: 248,
+		volunteerHours: 14236,
 	},
 
 	analytics: {
@@ -40,4 +43,6 @@ export const siteConfig = {
 		'policy-funding': 'Policy & Funding',
 		'wildlife-habitats': 'Wildlife & Habitats',
 	},
+
+	timezone: 'Europe/London',
 } as const;

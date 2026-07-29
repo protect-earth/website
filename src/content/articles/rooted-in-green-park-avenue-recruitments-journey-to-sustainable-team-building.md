@@ -4,7 +4,7 @@ description: "Greenery and green space impact our mental and physical health. We
 pubDate: 2024-04-28T21:49:07.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg
+thumbnail: ../../assets/articles/rooted-in-green-park-avenue-recruitments-journey-to-sustainable-team-building.jpg
 ---
 
 Greenery and green space are very important to our health.

@@ -19,6 +19,7 @@ interface Props {
 	breadcrumb?: string;
 	className?: string;
 	image?: ImageMetadata;
+	ogImagePath?: string;
 	type?: 'website' | 'article';
 	author?: string;
 	pubDate?: Date;
@@ -30,6 +31,7 @@ const {
 	breadcrumb = '',
 	className = '',
 	image,
+	ogImagePath,
 	type,
 	author,
 	pubDate,
@@ -45,6 +47,7 @@ const {
 			title={title}
 			description={description}
 			image={image}
+			ogImagePath={ogImagePath}
 			type={type}
 			author={author}
 			pubDate={pubDate}

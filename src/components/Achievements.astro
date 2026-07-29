@@ -11,6 +11,24 @@ import { siteConfig } from '../config';
 			</h3>
 			<span>Trees planted</span>
 		</div>
+		<div class="stat stat-hedgerows squircle">
+			<h3>
+				{siteConfig.achievements.hedgerowsMeters}
+			</h3>
+			<span>Hedgerows planted (meters)</span>
+		</div>
+		<div class="stat stat-volunteer squircle">
+			<h3>
+				{siteConfig.achievements.volunteerHours}
+			</h3>
+			<span>Volunteer hours</span>
+		</div>
+		<div class="stat stat-survival squircle">
+			<h3>
+				{siteConfig.achievements.survivalRate}
+			</h3>
+			<span>Survival rate (%) as of summer 2025</span>
+		</div>
 		<div class="stat stat-restored squircle">
 			<h3>
 				{siteConfig.achievements.acresRestored}
@@ -55,17 +73,21 @@ import { siteConfig } from '../config';
 
 <script>
 	import { gsap } from 'gsap';
-	import { SplitText } from 'gsap/SplitText';
 	import { TextPlugin } from 'gsap/TextPlugin';
 	import { ScrollTrigger } from 'gsap/ScrollTrigger';
-	gsap.registerPlugin(ScrollTrigger, SplitText, TextPlugin);
+	gsap.registerPlugin(ScrollTrigger, TextPlugin);
 
 	document.addEventListener('DOMContentLoaded', () => {
-		const trees = document.querySelector('.stat-trees h3') as HTMLElement;
-		const restored = document.querySelector('.stat-restored h3') as HTMLElement;
-		const management = document.querySelector('.stat-management h3') as HTMLElement;
+		const counters = [
+			['.stat-trees h3'],
+			['.stat-survival h3', '%'],
+			['.stat-hedgerows h3'],
+			['.stat-restored h3'],
+			['.stat-management h3'],
+			['.stat-volunteer h3'],
+		] as const;
 
-		let tl = gsap.timeline({
+		const timeline = gsap.timeline({
 			paused: true,
 			defaults: { duration: 3, textContent: 0 },
 			scrollTrigger: {
@@ -76,31 +98,22 @@ import { siteConfig } from '../config';
 			},
 		});
 
-		tl.from(
-			trees,
-			{
-				snap: { textContent: 1 },
-				onUpdate: function () {
-					trees.textContent = parseInt(trees.textContent).toLocaleString('en-GB');
+		for (const [selector, suffix] of counters) {
+			const counter = document.querySelector(selector) as HTMLElement;
+
+			timeline.from(
+				counter,
+				{
+					snap: { textContent: 1 },
+					...{
+						onUpdate: () => {
+							counter.textContent =
+								parseInt(counter.textContent).toLocaleString('en-GB') + (suffix || '');
+						},
+					},
 				},
-			},
-			0,
-		);
-
-		tl.from(
-			restored,
-			{
-				snap: { textContent: 1 },
-			},
-			0,
-		);
-
-		tl.from(
-			management,
-			{
-				snap: { textContent: 1 },
-			},
-			0,
-		);
+				0,
+			);
+		}
 	});
 </script>

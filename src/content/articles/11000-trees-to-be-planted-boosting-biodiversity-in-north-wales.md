@@ -4,7 +4,7 @@ description: 'Nannerch is a 27 acre site in an Area of Outstanding Natural Beaut
 pubDate: 2024-01-04T11:19:08.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/11000-trees-to-be-planted-boosting-biodiversity-in-north-wales.jpeg
+thumbnail: ../../assets/articles/11000-trees-to-be-planted-boosting-biodiversity-in-north-wales.jpeg
 ---
 
 Before we go any further, let's clear one thing up. To pronounce Nannerch is "Nannac".

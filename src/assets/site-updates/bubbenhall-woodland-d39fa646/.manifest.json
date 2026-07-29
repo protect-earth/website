@@ -1,0 +1,38 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/f2843f35-c626-4f15-935f-821f6762fec8/Untitled.png": {
+    "localName": "00cc46330b67119a48374cb4e88f259ccd983cdf772e56a97cf8c7236846b9cb.jpg",
+    "checksum": "00cc46330b67119a48374cb4e88f259ccd983cdf772e56a97cf8c7236846b9cb",
+    "sourceChecksum": null,
+    "fileName": "Untitled.png"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/e7a78128-908c-4676-b103-eda34b428cb5/IMG_3205.jpg": {
+    "localName": "c1eda6f8eddaee3cae79b0c59cb6c287f9798895c2c53e724fee564bea29c6bc.jpg",
+    "checksum": "c1eda6f8eddaee3cae79b0c59cb6c287f9798895c2c53e724fee564bea29c6bc",
+    "sourceChecksum": null,
+    "fileName": "IMG_3205.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/ff4f9cb1-d309-48e5-923b-97370e86487a/IMG_3199.jpg": {
+    "localName": "e370f1f9603b83217f978b3e279497bffc8b697459f142b991ee9b6457e22f43.jpg",
+    "checksum": "e370f1f9603b83217f978b3e279497bffc8b697459f142b991ee9b6457e22f43",
+    "sourceChecksum": null,
+    "fileName": "IMG_3199.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/985abdbc-7349-4f97-a662-a6fe7233bedf/IMG_3198.jpg": {
+    "localName": "4da724e2b7bcfa6102d39d4038e29be7d8d2e6458e57507c2ae657822c905484.jpg",
+    "checksum": "4da724e2b7bcfa6102d39d4038e29be7d8d2e6458e57507c2ae657822c905484",
+    "sourceChecksum": null,
+    "fileName": "IMG_3198.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/f4e19780-2ea0-499a-b06f-9e06976e3096/IMG_3182.jpg": {
+    "localName": "a6250b559842fe727f200c9db14785c6b6f9f523c057b2c68cbf1891abb968a0.jpg",
+    "checksum": "a6250b559842fe727f200c9db14785c6b6f9f523c057b2c68cbf1891abb968a0",
+    "sourceChecksum": null,
+    "fileName": "IMG_3182.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/e1acda85-a785-4f70-88f7-6574733a9af9/Screenshot_2026-06-22_190010.png": {
+    "localName": "2303d72399860a923163ad5593bc570670305bd0953450288935ab0a40b26063.jpg",
+    "checksum": "2303d72399860a923163ad5593bc570670305bd0953450288935ab0a40b26063",
+    "sourceChecksum": null,
+    "fileName": "Screenshot 2026-06-22 190010.png"
+  }
+}

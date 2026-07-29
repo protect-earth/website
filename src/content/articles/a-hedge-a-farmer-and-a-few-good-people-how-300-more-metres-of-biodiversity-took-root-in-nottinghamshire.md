@@ -4,7 +4,7 @@ description: 'Working with Reuseabox and a Nottinghamshire farmer to plant 1,000
 pubDate: 2025-06-16T07:00:00.000Z
 categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-hedge-a-farmer-and-a-few-good-people-how-300-more-metres-of-biodiversity-took-root-in-nottinghamshire.jpg
+thumbnail: ../../assets/articles/a-hedge-a-farmer-and-a-few-good-people-how-300-more-metres-of-biodiversity-took-root-in-nottinghamshire.jpg
 ---
 
 At Protect Earth, we often find our paths crossing with people and businesses who care deeply about the same things we do: biodiversity and the Planet. One of those people is Ellie from[ Reuseabox](https://www.reuseabox.co.uk/)—a company committed to[ 1% for the Planet](https://directories.onepercentfortheplanet.org/profile/protect-earth-cio). Ellie and her team have volunteered on several of our projects, and recently, we had the chance to work together again in a way that really demonstrates what can happen when you combine grassroots action with genuine collaboration.

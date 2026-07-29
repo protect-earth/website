@@ -4,7 +4,7 @@ description: 'Natural colonisation or tree-planting? They’re not mutually excl
 pubDate: 2023-07-09T19:02:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
+thumbnail: ../../assets/articles/misconceptions-about-tree-planting.jpg
 ---
 
 The term "rewilding" has received a lot of attention in the last few years, covering from letting your grass grow a few extra months supporting bees and insects, to reintroducing wolves.

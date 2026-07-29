@@ -4,7 +4,7 @@ description: 'Tree planting is a very effective and essential tool within all th
 pubDate: 2023-03-21T09:00:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/misconceptions-about-tree-planting.jpg
+thumbnail: ../../assets/articles/misconceptions-about-tree-planting.jpg
 ---
 
 As somebody relatively new to woodland creation and restoration, I have been learning quickly thanks to being surrounded by experts in various fields.

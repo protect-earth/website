@@ -1,0 +1,44 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/4485885f-fe38-41ac-ac85-d8bfee2594e1/IMG_20260719_134305869_HDR.jpg": {
+    "localName": "3f5969611e250a2060534dc797d81acddc2a0b22a73871c7af1922a33f206349.jpg",
+    "checksum": "3f5969611e250a2060534dc797d81acddc2a0b22a73871c7af1922a33f206349",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_134305869_HDR.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/f69daf48-2e77-4d23-8a4e-607247caed57/IMG_20260719_134036075_HDR.jpg": {
+    "localName": "feae44ad25f11b97375024c22fa0918e3e78bdad257d74caa217c8e3b8b0c583.jpg",
+    "checksum": "feae44ad25f11b97375024c22fa0918e3e78bdad257d74caa217c8e3b8b0c583",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_134036075_HDR.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/6280262d-ccbc-4881-9728-57fc35678106/IMG_20260719_134009215_HDR.jpg": {
+    "localName": "1d321099b57d4285a78bf77832ca752b4e294fe7bf82c34324def8f5045e853b.jpg",
+    "checksum": "1d321099b57d4285a78bf77832ca752b4e294fe7bf82c34324def8f5045e853b",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_134009215_HDR.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/3f5c0db6-7833-4b82-b828-d5c0434ab947/IMG_20260719_133707598.jpg": {
+    "localName": "6c405db30d12ee2a4d5d964ba1956f569d38a1ddff68803a5146f7b448d39962.jpg",
+    "checksum": "6c405db30d12ee2a4d5d964ba1956f569d38a1ddff68803a5146f7b448d39962",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_133707598.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/0a950fc5-f84e-496d-83ea-3420fe6e2960/IMG_20260719_132603716.jpg": {
+    "localName": "80429189b0bbc2eb0b54e8ecc559964d45ac919c9095c9452b2fce673d400e54.jpg",
+    "checksum": "80429189b0bbc2eb0b54e8ecc559964d45ac919c9095c9452b2fce673d400e54",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_132603716.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/5b95a3c4-6838-4069-9abc-43209af603f6/IMG_20260719_132544966_HDR.jpg": {
+    "localName": "256f542c955d3fd8c4d1c084e7c65788963332dad4476c23704a4c504f64d07c.jpg",
+    "checksum": "256f542c955d3fd8c4d1c084e7c65788963332dad4476c23704a4c504f64d07c",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_132544966_HDR.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/e267512c-d6f3-4f5f-b654-74073d36a343/IMG_20260719_132356716.jpg": {
+    "localName": "a611826fce36d0dd8673707223493193f332e0142452ebd5ee74b4a3a1ef8bf1.jpg",
+    "checksum": "a611826fce36d0dd8673707223493193f332e0142452ebd5ee74b4a3a1ef8bf1",
+    "sourceChecksum": null,
+    "fileName": "IMG_20260719_132356716.jpg"
+  }
+}

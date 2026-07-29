@@ -4,7 +4,7 @@ description: "With a mere 13% tree coverage, the UK is one of Europe's least den
 pubDate: 2024-04-15T06:59:00.000Z
 categories: ['climate-environment']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests.jpg
+thumbnail: ../../assets/articles/in-the-shadow-of-europes-trees-looking-at-the-uks-struggling-forests.jpg
 ---
 
 In the mosaic of Europe's landscapes, the United Kingdom stands out as one of the least densely forested countries. With a mere 13% tree coverage, it pales compared to the lush greenery adorning 38% of the European Union's territory and the global average of 31%. The numbers paint a stark picture: the UK harbours nearly a third less tree coverage than the continental norm.

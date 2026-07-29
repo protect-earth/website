@@ -4,10 +4,10 @@ description: 'Protect Earth partnered with boutique hotel group Exclusive Collec
 pubDate: 2024-02-12T08:05:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg
+thumbnail: ../../assets/articles/protect-earth-partners-with-a-boutique-hotel-chain-creating-more-green.jpg
 ---
 
-Protect Earth has partnered with [Exclusive Collection](https://www.exclusive.co.uk/), a boutique hotel group, to enhance guests' experience by creating a greener stay. [Seeing trees](https://www.protect.earth/articles/3-30-300-rule-transforming-urban-landscapes-for-greener-future-fm7r2) can boost mental health, and the cleaner air offers tremendous benefits, including increased well-being.
+Protect Earth has partnered with [Exclusive Collection](https://www.exclusive.co.uk/), a boutique hotel group, to enhance guests' experience by creating a greener stay. Seeing trees can boost mental health, and the cleaner air offers tremendous benefits, including increased well-being.
 
 This partnership involved a multi-site planting project across three Exclusive Collection properties: Lainston House, Pennyhill Park, and South Lodge. Protect Earth is thrilled to have managed this initiative, planting 3,985 saplings to contribute to greener, healthier landscapes.
 

@@ -4,7 +4,7 @@ description: "Trees in the UK have long been marginalised. Habitat destruction f
 pubDate: 2024-02-26T07:29:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-decline-of-black-poplar-trees-in-the-uk.jpg
+thumbnail: ../../assets/articles/the-decline-of-black-poplar-trees-in-the-uk.jpg
 ---
 
 Trees in the UK have long been marginalised. Habitat destruction, making space for agriculture or living or using wood for energy and building has [ravished the UK's woodlands](/articles/the-disappearance-of-biodiversity-in-the-uk). Now that our woodlands are hanging on by a thread, [diseases are eliminating](/articles/ash-dieback-what-it-is-and-consequences-to-the-uks-woodlands) what we realise we like and need more of a little too late.

@@ -5,6 +5,7 @@ import Layout from '../../layouts/Layout.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { render } from 'astro:content';
 import { Image } from 'astro:assets';
+import { siteConfig } from '../../config';
 
 export async function getStaticPaths() {
 	const events = await getCollection('events');
@@ -17,9 +18,10 @@ export async function getStaticPaths() {
 const { event } = Astro.props as { event: CollectionEntry<'events'> };
 
 const {
-	data: { address, description, endDate, eventbriteLink, images, map, startDate, title, thumbnail },
+	data: { address, description, endDate, eventbriteLink, images, startDate, title, thumbnail },
 } = event;
 const customCta = (event.data as { customCta?: string }).customCta;
+const EVENT_TIMEZONE = siteConfig.timezone;
 const startDateValue = startDate as Date | undefined;
 const endDateValue = endDate as Date | undefined;
 const isSingleDayEvent =
@@ -48,6 +50,7 @@ const { Content } = await render(event);
 											day: 'numeric',
 											month: 'long',
 											year: 'numeric',
+											timeZone: EVENT_TIMEZONE,
 										})}
 									</time>
 								</dd>
@@ -63,6 +66,7 @@ const { Content } = await render(event);
 													day: 'numeric',
 													month: 'long',
 													year: 'numeric',
+													timeZone: EVENT_TIMEZONE,
 												})}
 											</time>
 										</dd>
@@ -77,6 +81,7 @@ const { Content } = await render(event);
 													day: 'numeric',
 													month: 'long',
 													year: 'numeric',
+													timeZone: EVENT_TIMEZONE,
 												})}
 											</time>
 										</dd>
@@ -93,6 +98,7 @@ const { Content } = await render(event);
 									{startDateValue.toLocaleTimeString('en-GB', {
 										hour: '2-digit',
 										minute: '2-digit',
+										timeZone: EVENT_TIMEZONE,
 									})}
 								</time>
 							)
@@ -104,6 +110,7 @@ const { Content } = await render(event);
 									{endDateValue.toLocaleTimeString('en-GB', {
 										hour: '2-digit',
 										minute: '2-digit',
+										timeZone: EVENT_TIMEZONE,
 									})}
 								</time>
 							)
@@ -112,15 +119,9 @@ const { Content } = await render(event);
 					{
 						address && (
 							<>
-								<dt>Address</dt>
+								<dt>Where</dt>
 								<dd>
 									{address}
-									{map && (
-										<>
-											<br />
-											<a href={map}>(Map)</a>
-										</>
-									)}
 									{address && address !== 'Online event' && (
 										<>
 											{' '}

@@ -4,7 +4,7 @@ description: "At Protect Earth, we tend to focus our energy on what's growing *a
 pubDate: 2025-07-21T06:02:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/what-lies-beneath-a-citizen-science-peek-into-high-woods-soil-life.jpg
+thumbnail: ../../assets/articles/what-lies-beneath-a-citizen-science-peek-into-high-woods-soil-life.jpg
 ---
 
 At Protect Earth, we tend to focus our energy on what's growing _above_ ground—native trees, bursting buds, and woodlands full of potential. But at this year's High Wood Summer Fair, we had an impromptu encounter that reminded us just how much action (or lack thereof) might be happening _beneath_ our boots. When a visiting wildlife trust representative (and self-confessed soil fanatic) casually announced he had all the gear in his car to do some soil sampling, we thought: why not? What followed was a fascinating, slightly underwhelming, and entirely valuable bit of citizen science.

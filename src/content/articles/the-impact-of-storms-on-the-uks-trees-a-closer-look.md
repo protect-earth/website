@@ -4,7 +4,7 @@ description: 'After the December storms that battered the UK, walking through fa
 pubDate: 2025-01-20T09:01:00.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/the-impact-of-storms-on-the-uks-trees-a-closer-look.jpg
+thumbnail: ../../assets/articles/the-impact-of-storms-on-the-uks-trees-a-closer-look.jpg
 ---
 
 After the December storms that battered the UK, I walked through some favourite trails near my home in West Wales. These trails and paths meander in, near, and through valleys that are dense with woodlands, and where the aftermath of the storms was stark—fallen trees littered the landscape, even in sheltered areas.

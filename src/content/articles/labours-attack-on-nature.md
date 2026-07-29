@@ -4,7 +4,7 @@ description: 'At the beginning Labour seemed to fulfill that promise, bringing e
 pubDate: 2025-12-23T13:23:27.000Z
 categories: ['conservation-biodiversity']
 author: 'Elena Tornberg-Lennox'
-thumbnail: ../../articles/labours-attack-on-nature.jpg
+thumbnail: ../../assets/articles/labours-attack-on-nature.jpg
 ---
 
 I was on the phone to a certain veteran nature campaigner a few months before the election. We were talking about being nervous around the lack of public commitment from Labour to protect nature, however he wasn’t too worried. “Blair’s government was the same - didn’t say much during the run-up to the election, then when they got into power, they sat down and listened to us”. I ended the conversation with hope, and held onto that hope as Labour won.&nbsp;

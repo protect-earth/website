@@ -3,6 +3,7 @@ import { siteConfig } from '../config';
 import type { ImageMetadata } from 'astro';
 import { getImage } from 'astro:assets';
 import OpenGraphImage from '../assets/opengraph-image.png';
+import { OG_IMAGE_WIDTH, OG_IMAGE_HEIGHT } from '../lib/og-image';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 
 const { name, tagline } = siteConfig;
@@ -11,6 +12,7 @@ interface Props {
 	title: string;
 	description?: string;
 	image?: ImageMetadata;
+	ogImagePath?: string;
 	type?: 'website' | 'article';
 	author?: string;
 	pubDate?: Date;
@@ -20,24 +22,26 @@ const {
 	title,
 	description = tagline,
 	image = OpenGraphImage,
+	ogImagePath,
 	type = 'website',
 	author,
 	pubDate,
 } = Astro.props as Props;
 
-// OpenGraph recommended dimensions
-const OG_IMAGE_WIDTH = 1200;
-const OG_IMAGE_HEIGHT = 630;
-
-const optimizedImage = await getImage({
-	src: image,
-	width: OG_IMAGE_WIDTH,
-	height: OG_IMAGE_HEIGHT,
-	fit: 'cover',
-	format: 'webp',
-	quality: 85,
-});
-const imageUrl = new URL(optimizedImage.src, Astro.url).toString();
+let imageUrl: string;
+if (ogImagePath) {
+	imageUrl = new URL(ogImagePath, Astro.site).toString();
+} else {
+	const optimizedImage = await getImage({
+		src: image,
+		width: OG_IMAGE_WIDTH,
+		height: OG_IMAGE_HEIGHT,
+		fit: 'cover',
+		format: 'webp',
+		quality: 85,
+	});
+	imageUrl = new URL(optimizedImage.src, Astro.url).toString();
+}
 
 // Optimize title and description for SEO
 const ogTitle = title.length < 50 ? `${title} | ${name}` : title;

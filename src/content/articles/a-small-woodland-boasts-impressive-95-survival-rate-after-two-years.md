@@ -4,7 +4,7 @@ description: 'In Yorkshire and the Humber, a transformative project took root in
 pubDate: 2024-02-23T17:03:00.000Z
 categories: ['updates-progress']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-small-woodland-boasts-impressive-95-survival-rate-after-two-years.jpg
+thumbnail: ../../assets/articles/a-small-woodland-boasts-impressive-95-survival-rate-after-two-years.jpg
 ---
 
 In the heart of Yorkshire and the Humber, a transformative project took root in 2021, as Protect Earth joined forces with a dedicated landholder to bring to life a vision of sustainable growth.

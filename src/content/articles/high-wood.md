@@ -4,7 +4,7 @@ description: 'Luck and donor generosity brought High Wood into our ownership. Pu
 pubDate: 2022-04-29T10:57:07.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/high-wood.jpg
+thumbnail: ../../assets/articles/high-wood.jpg
 ---
 
 Thanks to the extremely generous donations of all sizes, Protect Earth is now the proud owner of a historic 64-acre ancient woodland known as High Wood, in Liskeard, Cornwall. High Wood has been woodland consistently since before 1600, and despite being used for commercial timber production for decades, it still retains an impressive amount of biodiversity and wildlife.

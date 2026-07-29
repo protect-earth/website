@@ -4,7 +4,7 @@ description: 'We work with land small holders to support them turning their smal
 pubDate: 2023-04-04T10:30:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earths-approach-to-planting-small-holdings.jpg
+thumbnail: ../../assets/articles/protect-earths-approach-to-planting-small-holdings.jpg
 ---
 
 Protect Earth has a very simple mission - it isn’t complex. Our mission is to plant a lot of trees.

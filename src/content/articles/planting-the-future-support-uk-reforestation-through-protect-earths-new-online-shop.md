@@ -4,7 +4,7 @@ description: "Protect Earth's new online shop offers a simple way to make a dire
 pubDate: 2024-09-23T11:50:49.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/planting-the-future-support-uk-reforestation-through-protect-earths-new-online-shop.jpeg
+thumbnail: ../../assets/articles/planting-the-future-support-uk-reforestation-through-protect-earths-new-online-shop.jpeg
 ---
 
 At a time when the climate crisis and biodiversity loss are demanding urgent action, Protect Earth is stepping up with an exciting new way for you to make a direct difference—[our online shop](https://shop.protect.earth/). Whether you're passionate about supporting greener spaces, improving local ecosystems, or simply looking for a meaningful gift, there's now a simple way to get involved.

@@ -4,7 +4,7 @@ description: 'A big part of our success is seeing local communities embrace our 
 pubDate: 2023-07-24T06:30:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earths-high-wood-open-day.jpg
+thumbnail: ../../assets/articles/protect-earths-high-wood-open-day.jpg
 ---
 
 2023 has been an exciting year, with change exploding all around our ancient woodland based in Liskeard.

@@ -1,6 +1,10 @@
 ---
 import { Image } from 'astro:assets';
 const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
+
+if (imgSrc && !imgAlt) {
+	throw new Error('ContentHero requires imgAlt when imgSrc is provided.');
+}
 ---
 
 <header
@@ -14,7 +18,7 @@ const { imgAlt, imgSrc, title, variant = '', backgroundColor } = Astro.props;
 	</div>
 
 	<div class="background-canvas">
-		{imgSrc && <Image src={imgSrc} loading="eager" alt={title} />}
+		{imgSrc && <Image src={imgSrc} loading="eager" alt={imgAlt} />}
 	</div>
 </header>
 

@@ -4,7 +4,7 @@ description: 'A look at the different kinds of tubes to protect young saplings'
 pubDate: 2021-05-20T10:18:53.000Z
 categories: ['policy-funding']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protecting-saplings.png
+thumbnail: ../../assets/articles/protecting-saplings.png
 ---
 
 When you look at a field full of plastic tubes, it can be easy to see that as a disgusting man-made mess. Trees have been doing just fine on their own for hundreds of millions of years, so why go to such lengths to protect them? Shouldn’t we just plant the saplings then leave them to it?

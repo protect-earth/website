@@ -4,7 +4,7 @@ description: 'Wildflower meadows develop into incredibly diverse ecosystems that
 pubDate: 2023-07-10T06:34:00.000Z
 categories: ['wildlife-habitats']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-difficulties-and-benefits-of-wildflower-meadow-creation.jpg
+thumbnail: ../../assets/articles/the-difficulties-and-benefits-of-wildflower-meadow-creation.jpg
 ---
 
 _Steve Wiltshire, Protect Earth's Ecologist, contributed this piece._

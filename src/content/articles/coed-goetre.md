@@ -4,7 +4,7 @@ description: 'Wedi caffael 70 erw o dir ym Mhowys, Cymru, yn cynnwys 20 erw o go
 pubDate: 2023-02-24T12:31:05.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/goytre-wood.jpg
+thumbnail: ../../assets/articles/goytre-wood.jpg
 ---
 
 Mae’n bleser gennym gyhoeddu ein bod ni wedi caffael ar 70 erw o dir ym Mhowys, Cymru! Mae’r tir wedi’n cyrraedd trwy haelioni ein rhoddwyr a’n cefnogwyr, a chaiff ei ddefnyddio er mwyn cyfrannu at amcanion ein helusen, sef amddiffyn a hybu ein hamgylchedd naturiol.

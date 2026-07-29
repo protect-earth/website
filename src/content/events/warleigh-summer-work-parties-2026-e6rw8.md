@@ -2,7 +2,7 @@
 title: Warleigh Nature Reserve, Bath Volunteer Days Every Saturday
 description: Drop-in volunteer work parties every Saturday
 pubDate: 2026-04-02T10:00:00.000Z
-startDate: 2026-04-04T10:00:00.000Z
+startDate: 2026-07-04T10:00:00.000Z
 endDate: 2026-10-31T16:00:00.000Z
 address: Warleigh Nature Reserve, Warleigh Lane, Bathford
 map: https://maps.google.com/?q=Warleigh%20Lane%20Bathford,%20%20England%20United%20Kingdom

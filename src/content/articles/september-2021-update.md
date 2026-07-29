@@ -4,7 +4,7 @@ description: "While hunting for land to buy, we've been busy planning 100,000 tr
 pubDate: 2021-09-14T12:35:53.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/september-2021-update.jpg
+thumbnail: ../../assets/articles/september-2021-update.jpg
 ---
 
 Most tree planting happens between November and March in the UK, but that doesn’t mean we’ve not been busy the last few months. We’re still hunting for the right piece of land to buy. In the meantime we’ve been hard at work talking to landowners all over the country, with the goal of planting 100,000 trees through the 2021/22 planting season. It’s a whole lot of phone calls, site visits, contracts and grant applications. So far we’ve got about 60,000 trees on the books at some stage, and we’re hoping we’re about to get all of those nailed down, and find the next 40,000 to hit our targets.

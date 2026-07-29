@@ -13,5 +13,7 @@ images:
   - >-
     ../../assets/sites/saddleworth/c9f465b8a8acd2da1a5127071572e467a99a8fe9df4ce20178b153c84deb4890.jpg
 siteId: 0199be63-af5d-70df-91ea-3b7f497db2e8
+notionIds:
+  - 233d27e2-d6f9-4eb4-8698-639d87418be1
+  - 7e5e3286-9101-45a3-b066-65eb800e38f5
 ---
-

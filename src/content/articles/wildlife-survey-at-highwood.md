@@ -4,7 +4,7 @@ description: 'Ecologist Steve Wiltshire reports on summer wildlife at High Wood,
 pubDate: 2022-07-06T14:28:19.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/wildlife-survey-at-highwood.jpg
+thumbnail: ../../assets/articles/wildlife-survey-at-highwood.jpg
 ---
 
 #### Protect Earth ecologist and conservationist Steve Wiltshire reports on Summer wildlife at High Wood, our community woodland in South-East Cornwall.

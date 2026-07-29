@@ -16,5 +16,23 @@
     "checksum": "ddd21b6b369ba58f7d796a1a38e27b30e899709525bd6ebf1b87f01e9eba1dd5",
     "sourceChecksum": null,
     "fileName": "image5.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/806dcfbc-5b6c-4050-9aca-2f5d3edf44a3/IMG_6014.jpeg": {
+    "localName": "3a8e4291fb319a225f6d808ea5885c835a66a4642c1440265d156aa6d43f51bb.jpg",
+    "checksum": "3a8e4291fb319a225f6d808ea5885c835a66a4642c1440265d156aa6d43f51bb",
+    "sourceChecksum": null,
+    "fileName": "IMG_6014.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/f485f4df-bb50-474f-81db-7a772caf14b1/image6.jpeg": {
+    "localName": "d1d11bdb996766a079030a3d2a18dd566aa98893a6f4055a446983ffb3a356a8.jpg",
+    "checksum": "d1d11bdb996766a079030a3d2a18dd566aa98893a6f4055a446983ffb3a356a8",
+    "sourceChecksum": null,
+    "fileName": "image6.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/ccc03070-0232-4582-b4f5-0cec9cc2a54d/image9.jpeg": {
+    "localName": "624dc24d7c16ddbf6254dffa93c37801594bae210e71a479546d68215066c068.jpg",
+    "checksum": "624dc24d7c16ddbf6254dffa93c37801594bae210e71a479546d68215066c068",
+    "sourceChecksum": null,
+    "fileName": "image9.jpeg"
   }
 }

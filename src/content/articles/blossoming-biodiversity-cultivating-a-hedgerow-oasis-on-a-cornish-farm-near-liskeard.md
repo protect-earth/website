@@ -4,7 +4,7 @@ description: 'After hearing about our habitat restoration project at High Wood, 
 pubDate: 2023-12-20T21:54:56.000Z
 categories: ['sustainable-farming']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard.jpg
+thumbnail: ../../assets/articles/blossoming-biodiversity-cultivating-a-hedgerow-oasis-on-a-cornish-farm-near-liskeard.jpg
 ---
 
 You must have heard about the ancient woodland, [High Wood](/articles/high-wood-liskeard-woodland-restoration-update-winter-2023), that Protect Earth is restoring near Liskeard, Cornwall. Well, our neighbours in that area certainly have and were amenable to the idea of us planting hedges on their farm, which is close to High Wood.

@@ -4,7 +4,7 @@ description: 'Every habitat in the UK is at risk of being destroyed by invasive 
 pubDate: 2025-12-11T17:46:21.000Z
 categories: ['invasive-species']
 author: 'phil@protect.earth'
-thumbnail: ../../articles/protecting-river-roding-from-japanese-knotweed.jpg
+thumbnail: ../../assets/articles/protecting-river-roding-from-japanese-knotweed.jpg
 ---
 
 Every habitat in the UK is at risk of being destroyed by invasive species. Woodlands, wetlands, grasslands, lakes, ponds, rivers, everything you can imagine is having a rough time thanks to various imports from centuries past that have become uncontrollable, especially when left unchecked. One that many homeowners will be familiar with is Japanese Knotweed.

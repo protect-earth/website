@@ -4,7 +4,7 @@ description: 'Protect Earth’s goal is to do more for the planet. We’ve put b
 pubDate: 2023-09-19T06:29:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg
+thumbnail: ../../assets/articles/season-in-review-reflecting-on-protect-earths-2022-2023-tree-planting-achievements.jpg
 ---
 
 As we look forward to a new planting season starting soon, it's time to reflect on the 2022/2023 planting season and share what was achieved.

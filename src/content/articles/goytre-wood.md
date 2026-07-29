@@ -4,7 +4,7 @@ description: "We've acquired 70 acres in Powys, Wales through donor generosity! 
 pubDate: 2023-02-20T14:14:41.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/goytre-wood.jpg
+thumbnail: ../../assets/articles/goytre-wood.jpg
 ---
 
 We are thrilled to announce that we have acquired 70 acres of land in Powys, Wales! This land has been attained through the generosity of our donors and backers, and will now be used to contribute to our charity’s aims of protecting and promoting our natural environment.

@@ -4,7 +4,7 @@ description: 'Cherry Laurel is an all year long green shrub that grows easily ev
 pubDate: 2023-05-30T06:30:00.000Z
 categories: ['invasive-species']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why.jpg
+thumbnail: ../../assets/articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why.jpg
 ---
 
 Many consider Cherry Laurel one of the most versatile hedging species. It's very popular. It boasts large, glossy green foliage all year round. It is one of the most popular choices for dense evergreen hedging and makes an effective privacy screen. The plant's density minimises the effects of noise and wind and provides year-round interest for gardens.

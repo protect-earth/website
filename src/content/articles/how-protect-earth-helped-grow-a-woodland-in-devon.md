@@ -4,7 +4,7 @@ description: 'The Tukes, landowners near Honiton, Devon, had a plan, permission,
 pubDate: 2024-12-23T19:07:00.000Z
 categories: ['climate-environment']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/how-protect-earth-helped-grow-a-woodland-in-devon.jpg
+thumbnail: ../../assets/articles/how-protect-earth-helped-grow-a-woodland-in-devon.jpg
 ---
 
 The Tukes, landowners near Honiton, Devon, had a plan, permission, and funding to expand an established woodland, adding 2,050 more saplings. But they needed help with that final step, getting the saplings planted.

@@ -4,7 +4,7 @@ description: 'Many are divided on natural habitat restoration methods: natural r
 pubDate: 2025-03-03T08:04:00.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg
+thumbnail: ../../assets/articles/blending-natural-regeneration-and-tree-planting-a-woodland-success-story.jpeg
 ---
 
 Many in the environmental community and outside of it are divided on natural habitat restoration methods. On one hand, there are proponents for natural regeneration - leaving a space to itself and allowing nature to find a way. The converse is the interventionist approach of planning what species should be planted, their densities, and creating an artificial woodlands.

@@ -4,7 +4,7 @@ description: 'One in six species is currently at risk of vanishing from Wales, w
 pubDate: 2025-01-21T09:22:00.000Z
 categories: ['woodland-creation']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/wales-wildlife-report-identifies-30-years-of-decline.png
+thumbnail: ../../assets/articles/wales-wildlife-report-identifies-30-years-of-decline.png
 ---
 
 One in six species is currently at risk of vanishing from Wales, which has seen a 20% decrease on average in its wildlife over the last 30 years.

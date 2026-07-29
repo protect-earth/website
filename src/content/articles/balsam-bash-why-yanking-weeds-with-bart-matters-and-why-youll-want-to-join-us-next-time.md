@@ -4,7 +4,7 @@ description: 'Join Bristol Avon River Trust for a day-long effort restoring rive
 pubDate: 2025-06-07T19:36:07.000Z
 categories: ['invasive-species']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/balsam-bash-why-yanking-weeds-with-bart-matters-and-why-youll-want-to-join-us-next-time.jpg
+thumbnail: ../../assets/articles/balsam-bash-why-yanking-weeds-with-bart-matters-and-why-youll-want-to-join-us-next-time.jpg
 ---
 
 On Sunday, 6th July, a merry band of weed-wranglers will descend upon the River Frome, sleeves rolled, boots muddy, and eyes on one plant in particular: the invasive _Himalayan balsam_. Organised by the good people at [Bristol Avon River Trust](https://bristolavonriverstrust.org/) (BART), this day-long effort is all about restoring the riverbanks by removing this notorious invader—one armful at a time.

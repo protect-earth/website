@@ -4,7 +4,7 @@ description: 'Steve the Ecologist recently undertook a few visitations to Goytre
 pubDate: 2023-08-14T12:23:36.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/goytre-wood-update-summer-2023.jpg
+thumbnail: ../../assets/articles/goytre-wood-update-summer-2023.jpg
 ---
 
 _This piece was written and contributed by our very own _[_Steve Wiltshire_](/articles/introducing-steve-wiltshire)_ (fondly known as Steve the Ecologist)_

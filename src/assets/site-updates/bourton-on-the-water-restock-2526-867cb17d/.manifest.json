@@ -28,11 +28,5 @@
     "checksum": "7764b0be58720ae9db9292620409575894078d1656f7d89bbaa46511a9f4eec6",
     "sourceChecksum": null,
     "fileName": "Zenergi volunteers.jpg"
-  },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/ff6cd549-ce56-4c62-95c9-860733a24088/Zenergi.jpg": {
-    "localName": "cf081503b073e80835574230f14da94ce13aabcf0e7c1a2e36fcd0eb4a4304ff.jpg",
-    "checksum": "cf081503b073e80835574230f14da94ce13aabcf0e7c1a2e36fcd0eb4a4304ff",
-    "sourceChecksum": null,
-    "fileName": "Zenergi.jpg"
   }
 }

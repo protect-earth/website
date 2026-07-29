@@ -4,7 +4,7 @@ description: 'Two years ago, Protect Earth bought 70 acres of overgrazed hillsid
 pubDate: 2024-12-16T22:47:00.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg
+thumbnail: ../../assets/articles/protect-earths-landmark-project-creating-a-woodland-where-none-existed.jpg
 ---
 
 Two years ago, Protect Earth bought 70 acres of overgrazed hillside on Goytre Hill, near Knighton in Mid-Wales.

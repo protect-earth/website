@@ -22,6 +22,15 @@
 			text-align: center;
 		}
 
+		.hero-image-attribution {
+			margin-block-start: var(--space-xs);
+			padding: 0.35rem 0.65rem;
+			font-size: var(--font-xs);
+			color: var(--body-text-light);
+			background: rgb(0 0 0 / 35%);
+			border-radius: 999px;
+		}
+
 		a {
 			color: currentcolor;
 		}
@@ -67,6 +76,11 @@
 			margin-block-start: var(--space-2xs);
 			font-size: var(--font-xs);
 			color: var(--body-text-soft);
+		}
+
+		.image-attribution {
+			display: block;
+			margin-block-start: var(--space-3xs);
 		}
 
 		blockquote p {

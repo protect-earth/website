@@ -17,3 +17,6 @@ photos:
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/dfbdcab8da9863e3a88fe08a57331b5d1fdae9d5142ad4c6de12c8824dabd215.jpg"
 ---
 
+Angus visited Eastcourt Farm on a rainy day in September to carry out a scheduled survey, checking up on the health of our saplings and deciding the maintenance needs of the site. Possibly due to the hot weather over the summer, only 51% of our trees thrived, and 77% of the shrubs. We found long grass outgrowing the saplings in some places, which would also hinder growth.
+
+As we care about the success of our projects and guarantee healthy trees that can provide the habitat needed for the area, we have scheduled a restock for the 25/26 season. We will be returning to the site to plant replacement saplings and maintain the area, ensuring all the trees have the best possible environment to grow.

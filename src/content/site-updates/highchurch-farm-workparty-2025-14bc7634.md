@@ -14,6 +14,6 @@ photos:
   - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/4937a3d0ded45ed3414008eb148130da7dd25563473a2bb59139b56d39d0d276.jpg"
 ---
 
-A dedicated team of 15 volunteers came together for a summer work session. Despite 30-degree heat and extremely dry, cracked ground, the group made steady progress with weed management, strimming around young trees, replacing lost saplings, and adding mulch and guards. The rain arrived late in the afternoon, bringing the day to a close after a productive few hours of maintenance.
+A dedicated team of 15 volunteers came together for a summer work session. Despite the heat and extremely dry, cracked ground, the group made steady progress with weed management, strimming around young trees, replacing lost saplings, and adding mulch and guards. The rain arrived late in the afternoon, bringing the day to a close after a productive few hours of maintenance.
 
 The landowner reports that the site is doing well overall, with an estimated 75% tree survival rate. Poplars, oaks, hawthorn, and downy birch are all thriving, despite the challenging clay soil and intense weather conditions. The team plans to return later in the year to continue planting and maintenance work to support the young woodland’s resilience.

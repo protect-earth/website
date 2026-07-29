@@ -9,6 +9,7 @@ import matter from 'gray-matter';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const isVerbose = process.argv.includes('--verbose');
 
 // Site configuration - keep in sync with src/config.ts
 const ignoredSites = ['Burnsall', 'Donkeywell Farm', 'Newcastle Emlyn', 'Wraxall'];
@@ -239,7 +240,9 @@ async function localizeSiteImages(site, slug, imagesDir, tempDir) {
 			previousContentPath &&
 			(!previousEntry?.sourceChecksum || remoteChecksum === previousEntry.sourceChecksum)
 		) {
-			console.log(`   ♻️  Reusing existing localized image ${previousLocalName}`);
+			if (isVerbose) {
+				console.log(`   ♻️  Reusing existing localized image ${previousLocalName}`);
+			}
 			localImages.push(previousContentPath);
 			nextManifest[sourceKey] = {
 				localName: previousLocalName,
@@ -389,6 +392,7 @@ async function syncSites() {
 
 			// Write the file
 			const newContent = matter.stringify(content, frontmatter);
+
 			fs.writeFileSync(filePath, newContent, 'utf8');
 
 			if (fileExists) {

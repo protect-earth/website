@@ -20,7 +20,7 @@ We covered approximately a quarter to a third of the field with the volunteers w
 
 In future, it could be beneficial to return and continue the work, perhaps alongside future planting sessions. That said, the landowner was very pleased with the progress made.
 
-Overall, the day went well and we made solid progress. It was a shame the volunteers were not able to arrive earlier, as we could likely have achieved more. However, their contribution was greatly appreciated.
+Overall, the day went well and we made solid progress. The volunteers were great as always and the Vegan Runners, regular supporters of Protect Earth, had even been for a Parkrun first. Their contribution was greatly appreciated.
 
 In terms of tree survival, the survival rate was 75%.
 

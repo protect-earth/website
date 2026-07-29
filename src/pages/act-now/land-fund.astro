@@ -2,13 +2,14 @@
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroLandFund } from '../../assets/hero-images';
 ---
 
 <Layout title="Buy more land for restoration">
 	<!-- Hero Section -->
 	<ContentHero
 		title="Buy more land for restoration"
-		imgSrc="/hero-land-fund.jpg"
+		imgSrc={heroLandFund}
 		imgAlt="Green rolling hills with patches of trees and stone fences"
 	/>
 

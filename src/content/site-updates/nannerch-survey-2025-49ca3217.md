@@ -11,7 +11,6 @@ photos:
   - "../../assets/site-updates/nannerch-survey-2025-49ca3217/e7ca9201b121cd145ad2d6fa2be00a640a07ee343854976ddcde95c752bd552f.jpg"
   - "../../assets/site-updates/nannerch-survey-2025-49ca3217/04a0c07e1bedf0a879bc9256b6d9e89c8fae7816e0f600481c013d3490ad5b45.jpg"
   - "../../assets/site-updates/nannerch-survey-2025-49ca3217/3b2f9282eb84ed63cc0767107c2764a34516b08fc69d1e7efaf870b567995346.jpg"
-  - "../../assets/site-updates/nannerch-survey-2025-49ca3217/6782ca87bbf0631176eae5ddda8a438e8415afae7b0906dc9be90d92390fa9e8.jpg"
   - "../../assets/site-updates/nannerch-survey-2025-49ca3217/e9f559f96bc4bcee2d81039f083a6f6689c25cdcb7d438676e638a7d9ddd4823.jpg"
 ---
 
@@ -23,4 +22,4 @@ The north west areas were planted on the first day of our volunteer planting, an
 
 Other areas had a series of problems to contend with. The eastern field has dropped to 58% survival, which was not helped by the more exposed nature of the site. Lots of wind and direct sun could have contributed to things, but the planting work itself was certainly not up to our high standards. Various issues of all sorts, from antisocial behaviour towards neighbours, long delays, discarded bags of trees, littering, it was a literal and metaphorical mess that we have spent months fixing the best we can. This experiment with outsourcing planting (and attempting to put money into the local economy) made me question the approach. We will be reviewing our approach to large-scale planting when it’s beyond the scope of local volunteers, perhaps to focus on hiring local individuals and managing the team ourselves, so we can ensure the trees and the community are all thriving.
 
-Next steps here will be to return after Christmas and plant up the areas that are the worst hit by bad planting and adverse weather conditions.
+Next steps here will be to return and plant up the areas that are the worst hit by bad planting and adverse weather conditions.

@@ -4,7 +4,7 @@ description: 'Beavers, absent from UK since the 1500s, are returning. These keys
 pubDate: 2025-04-22T17:41:21.000Z
 categories: ['wildlife-habitats']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/bringing-back-the-beavers-a-natural-solution-to-a-man-made-crisis.jpg
+thumbnail: ../../assets/articles/bringing-back-the-beavers-a-natural-solution-to-a-man-made-crisis.jpg
 ---
 
 Beavers, the creatures not seen in the UK and the British Isles since the early 1500s, are returning to these fair isles. They are popping up because passionate people all over the UK are reintroducing this keystone species. The irony is that the return of these creatures, which we hunted into extinction hundreds of years ago, may help save lives and livelihoods today.

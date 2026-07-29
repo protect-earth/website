@@ -1,6 +1,7 @@
 ---
 tags:
   - ancient woodland restoration
+siteId: 019ab72d-40a0-728d-a560-52c1f67d6bf6
 notionIds:
   - 1c7e7dc6-657c-8032-8d7b-e2dc291c23ba
 images:
@@ -14,6 +15,5 @@ images:
     ../../assets/sites/dolberthog-wood/fb58ead4057cbe80c33a7542a527e33e359ed7bf4283c6b3c460798cf6ec97c0.jpg
   - >-
     ../../assets/sites/dolberthog-wood/3b4318788abb23eaed56882e53982682fe760b6100804ac0e6b5333855536365.jpg
-siteId: 019ab72d-40a0-728d-a560-52c1f67d6bf6
+flagShowArea: true
 ---
-

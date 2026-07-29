@@ -4,7 +4,7 @@ description: 'Protect Earth is a UK-based environmental charity focused on incre
 pubDate: 2025-01-08T01:22:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg
+thumbnail: ../../assets/articles/what-does-protect-earth-plant-species-tailored-to-each-habitat.jpg
 ---
 
 Protect Earth is a UK-based environmental charity focused on increasing biodiversity in the British Isles. And doing it the right way.

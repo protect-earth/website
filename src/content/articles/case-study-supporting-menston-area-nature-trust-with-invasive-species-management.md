@@ -4,7 +4,7 @@ description: 'Protect Earth partners with Menston Area Nature Trust to manage in
 pubDate: 2025-04-14T07:00:00.000Z
 categories: ['invasive-species']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/case-study-supporting-menston-area-nature-trust-with-invasive-species-management.jpeg
+thumbnail: ../../assets/articles/case-study-supporting-menston-area-nature-trust-with-invasive-species-management.jpeg
 ---
 
 Protect Earth is committed to reversing biodiversity loss across the UK by restoring natural habitats. While we actively manage our lands, we also collaborate with other organisations who share our ambitions. One such partnership was with the Menston Area Nature Trust (MANT), where we provided expertise and resources for invasive species management.

@@ -4,7 +4,7 @@ description: 'The climate crisis is upon us. We’re told daily of this fact eve
 pubDate: 2023-04-17T06:26:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/the-uk-governments-downsized-forest-goals.png
+thumbnail: ../../assets/articles/the-uk-governments-downsized-forest-goals.png
 ---
 
 At the start of 2023, the government in the UK did the opposite of what most people do when starting a new year - the government gave up. Where most people pledge to be better - they're going to work harder, exercise more, be friendlier, eat better, save money, and generally be the best they can be, the UK government kicked off 2023 with a general shrug of their shoulders and an, 'oh well, that's too hard.'

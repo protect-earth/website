@@ -4,7 +4,7 @@ description: 'Discovering the beauty of Community Land Trusts—nonprofit organi
 pubDate: 2024-07-15T15:04:08.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/preserving-biodiversity-through-community-land-trusts-a-case-study-from-shropshire.jpg
+thumbnail: ../../assets/articles/preserving-biodiversity-through-community-land-trusts-a-case-study-from-shropshire.jpg
 ---
 
 Discovering the beauty of Community Land Trusts unveils a world of local empowerment and environmental stewardship. These nonprofit organisations, rooted in community values, ensure lasting neighbourhood benefits through sustainable land use and shared ownership.

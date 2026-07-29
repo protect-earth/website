@@ -13,3 +13,10 @@ photos:
   - "../../assets/site-updates/stawley-bullock-hill-survey-2025-cbfb8e16/5cb3dda0e57599f63aae091d6b557872986ae4249f0e2b986c4dc847656be7be.jpg"
 ---
 
+The landowner carried out the survival rate survey, giving some very positive feedback: “Our survey of the trees showed the survival percentage was 94%, and given the hot, dry conditions we have had, we were very happy with this, particularly as a high number of the trees were not just surviving but thriving…There were also a very large number of self-seeded regeneration trees – several hundred. Mainly but not exclusively oaks. We protected about 30 or 40 of those…”
+
+During a recent visit, Duncan from the team reported that the site is looking excellent. Thanks to the thorough, ongoing maintenance by the landowner and our ecologist, Steve, over the past two years, the Bullock Farm planting is looking "immaculate".
+
+While on site, Duncan carried out routine maintenance to straighten a few leaning trees and noted a high overall tree survival rate of 94%. Given recent hot, dry conditions, the vast majority of the trees are not just surviving but actively thriving. The team observed a small, localised patch of roughly ten trees that did not take, alongside a few random losses, which is entirely normal for this stage of growth.
+
+The visit highlighted some minor powdery mildew on a portion of the oaks, which will continue to be monitored as part of the site’s ongoing care.

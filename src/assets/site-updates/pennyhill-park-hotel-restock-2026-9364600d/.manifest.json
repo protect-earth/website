@@ -1,0 +1,38 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/5585b6be-e953-4c3d-a559-186f4df728b1/image00007.jpeg": {
+    "localName": "0a332ddb2a3bfd807ec6cfb1db0803f0b397aa75f39be71d261a1418c38e9163.jpg",
+    "checksum": "0a332ddb2a3bfd807ec6cfb1db0803f0b397aa75f39be71d261a1418c38e9163",
+    "sourceChecksum": null,
+    "fileName": "image00007.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d7706412-3786-4f00-96f3-b02e7cb85e8d/image00010.jpeg": {
+    "localName": "b55deb88c25581f7b0eae966ab93ad200b11e4df83330631f99426728c49ba89.jpg",
+    "checksum": "b55deb88c25581f7b0eae966ab93ad200b11e4df83330631f99426728c49ba89",
+    "sourceChecksum": null,
+    "fileName": "image00010.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/cead999d-f7b4-4e03-9b52-cf24f32c8252/image00026.jpeg": {
+    "localName": "35f357aa013ed26465a0d78f6682112be4360bd2d0fb3e9af6c3d68b8dc73f68.jpg",
+    "checksum": "35f357aa013ed26465a0d78f6682112be4360bd2d0fb3e9af6c3d68b8dc73f68",
+    "sourceChecksum": null,
+    "fileName": "image00026.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/a8476f4d-3deb-4dc0-8bb6-a674e6114146/image00015.jpeg": {
+    "localName": "4ba678aab02a84eaafbec629597db2ce8c27ca6aa4741807f5c33a2e56efc95a.jpg",
+    "checksum": "4ba678aab02a84eaafbec629597db2ce8c27ca6aa4741807f5c33a2e56efc95a",
+    "sourceChecksum": null,
+    "fileName": "image00015.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/2f667bf7-3d61-4c39-8c69-47130f0fed4c/image00038.jpeg": {
+    "localName": "8440c6c7bf6e1b726226fb5c04f93df2a6beab626c10787c7fd6f01a37ce21d8.jpg",
+    "checksum": "8440c6c7bf6e1b726226fb5c04f93df2a6beab626c10787c7fd6f01a37ce21d8",
+    "sourceChecksum": null,
+    "fileName": "image00038.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/846fa1a6-9f1f-48e4-9ee0-8bc6aed604e1/IMG_6898.jpeg": {
+    "localName": "c2dfe31279e3c9c4fc9a3b92ab6a26ff1f64d596bcf27795f4f3f9e71be7ae31.jpg",
+    "checksum": "c2dfe31279e3c9c4fc9a3b92ab6a26ff1f64d596bcf27795f4f3f9e71be7ae31",
+    "sourceChecksum": null,
+    "fileName": "IMG_6898.jpeg"
+  }
+}

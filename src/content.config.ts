@@ -19,6 +19,13 @@ const articles = defineCollection({
 			pubDate: z.date(),
 			author: z.string(),
 			thumbnail: image().optional(),
+			thumbnailAttribution: z
+				.object({
+					text: z.string(),
+					url: z.string().url().optional(),
+					license: z.string().optional(),
+				})
+				.optional(),
 			categories: z
 				.array(
 					z.enum([
@@ -48,7 +55,6 @@ const events = defineCollection({
 			startDate: z.date(),
 			endDate: z.date(),
 			address: z.string(),
-			map: z.string(),
 			thumbnail: image().optional(),
 			images: z.array(image()).optional(),
 			eventbriteLink: z.string().optional(),
@@ -95,6 +101,7 @@ const siteMeta = defineCollection({
 			tags: z.array(z.string()),
 			notionIds: z.array(z.string()).optional(),
 			images: z.array(image()).optional(),
+			flagShowArea: z.boolean().optional(),
 		}),
 });
 

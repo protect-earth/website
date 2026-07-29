@@ -4,7 +4,7 @@ description: 'The Climate Crisis is causing all sorts of problems, with those pr
 pubDate: 2024-09-04T13:59:46.000Z
 categories: ['climate-environment']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/capitalism-vs-climate-a-review-of-brett-christophers-the-price-is-wrong-why-capitalism-wont-save-the-planet.jpg
+thumbnail: ../../assets/articles/capitalism-vs-climate-a-review-of-brett-christophers-the-price-is-wrong-why-capitalism-wont-save-the-planet.jpg
 ---
 
 The Climate Crisis is causing all sorts of problems with those problems expected to intensify as the heat on planet earth similarly intensifies.

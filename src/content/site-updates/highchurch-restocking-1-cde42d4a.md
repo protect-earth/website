@@ -8,12 +8,9 @@ treesRestocked: 2200
 photos:
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/e02234da42b752304ba090b500cabc3a8d538c305bbf31ca0caf0bf6f2f9205b.jpg"
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/1fce32e9a62852720ef9560636b0fd733d233b0c32b2168e62005aa2cd90b7e0.jpg"
-  - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/cfde0fa357446a4ac18a14426fd7053c6f774897ed05a2871dc0333747f284a0.jpg"
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/70cdf7ef90a64696c4ff1bc6671e7ecae598aea0a888493946813816bfc783d8.jpg"
-  - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/0a034231b2257389edc2075b7518c308a42d9116c10708d2d8c5e599851bac56.jpg"
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/1db143cc5d2314cbae00161310c9ccd8d44625f589d913e04b56133a9371f330.jpg"
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/793b459aaf45f314079eb82a1e8445f9c19808942eb08873e8406d1f0ac8af57.jpg"
-  - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/b5bfd4d8a4bc392a9db8051a966f037b68896757f808ebedc45b47fef374992a.jpg"
   - "../../assets/site-updates/highchurch-restocking-1-cde42d4a/9ad38573e8578dbec9b4228ae0f152dbfac33eea9623d161a0e35c3babb47819.jpg"
 ---
 

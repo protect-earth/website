@@ -4,7 +4,7 @@ description: 'We unveil our plans for this coming season - what is to be done! W
 pubDate: 2023-11-27T23:03:18.000Z
 categories: ['invasive-species']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal.jpg
+thumbnail: ../../assets/articles/protect-earth-in-202324-planting-restoring-and-invasive-species-removal.jpg
 ---
 
 It has started! For the first time this new planting season, we put spade to soil to put new roots in the ground! And it felt good!

@@ -15,4 +15,4 @@ photos:
   - "../../assets/site-updates/newtown-survey-2025-876003e4/d9e649523a21e170f6158865bc3f88441e5682acc929e4350a9b931a943df816.jpg"
 ---
 
-This site has a range of habitats, including wet woodland along a stream and thick hedges with lots of berry-bearing species like Hawthorn. We have increased the tree diversity to provide further nectar, berries and nuts - including Hazel, Rowan and Holly - great sources of food for a wide range of species. Both Green and Great-spotted Woodpecker were seen during planting, along with Raven and Red Kite overhead.
+The landowner very kindly took photos and carried out the survey on our behalf. Overall. the trees were doing quite well, with an estimated 80% survival rate. Some stakes and guards need attention.

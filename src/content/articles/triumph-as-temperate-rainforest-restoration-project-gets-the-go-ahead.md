@@ -4,7 +4,7 @@ description: 'Protect Earth have managed to gain permission to plant native-only
 pubDate: 2023-04-12T14:58:20.000Z
 categories: ['conservation-biodiversity']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg
+thumbnail: ../../assets/articles/triumph-as-temperate-rainforest-restoration-project-gets-the-go-ahead.jpg
 ---
 
 Protect Earth has landed a veto on decades-long commercial clear-felling at High Wood, Liskeard.

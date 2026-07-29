@@ -4,7 +4,7 @@ description: 'Protect Earth helps landowners across the UK by offering expert ad
 pubDate: 2025-12-15T09:00:00.000Z
 categories: ['woodland-creation']
 author: 'kathy@protect.earth'
-thumbnail: ../../articles/pucklechurch-wood-a-new-woodland-in-south-gloucestershire.jpg
+thumbnail: ../../assets/articles/pucklechurch-wood-a-new-woodland-in-south-gloucestershire.jpg
 ---
 
 Protect Earth love to help landowners across the UK, especially smaller farmers, schools and charities. We can be involved from the very beginning, helping landowners to decide what they want to create on their land, offering expert advice on what could be planted where, and why. We can help them to apply for grants or find alternative funding. Then we find volunteers, plant the trees and then check on them annually, often with more volunteers to make sure the trees are making good progress.

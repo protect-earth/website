@@ -3,7 +3,7 @@ title: 'Introduction to Coppicing: Benefits for Biodiversity and Woodland Restor
 description: 'Learn what coppicing is, why it matters for biodiversity, and how traditional woodland management at Warleigh Nature Reserve helps restore habitats, support wildlife, and create sustainable local materials.'
 pubDate: 2026-05-07T12:57:00.000Z
 author: 'Elena Tornberg-Lennox'
-thumbnail: ../../articles/intro-to-coppicing.jpg
+thumbnail: ../../assets/articles/intro-to-coppicing.jpg
 categories:
   - woodland-management
   - conservation-biodiversity

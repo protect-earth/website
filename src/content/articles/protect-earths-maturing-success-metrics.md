@@ -4,7 +4,7 @@ description: 'When Protect Earth was founded in 2020, each tree we planted was c
 pubDate: 2024-01-22T07:41:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/protect-earths-maturing-success-metrics.jpg
+thumbnail: ../../assets/articles/protect-earths-maturing-success-metrics.jpg
 ---
 
 When Protect Earth was founded in 2020, each tree we planted was considered a success and was one more tree to mitigate changing natural conditions in the UK. Even from those early days when planting a tree equated to success, we quickly moved to deeper metrics, such as where a tree came from and where they were going. This evolution saw us think of success as planting the right locally sourced tree and the best option for the planting conditions.

@@ -4,7 +4,7 @@ description: "With the new planting season just around the corner, there's much 
 pubDate: 2024-09-17T20:39:35.000Z
 categories: ['woodland-creation']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg
+thumbnail: ../../assets/articles/growing-together-protect-earths-mission-to-restore-uk-habitats-in-202425.jpg
 ---
 
 With the new planting season just around the corner, there's much to be hopeful about as we roll out plans to restore habitats, strengthen biodiversity, and engage local communities. Let's look at what lies ahead for 2024/25.

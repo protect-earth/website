@@ -4,7 +4,7 @@ description: 'All projects have at least 8 species, some have 16. Overall Protec
 pubDate: 2022-10-28T11:00:00.000Z
 categories: ['climate-environment']
 author: 'Phil Sturgeon'
-thumbnail: ../../articles/which-species-of-trees-have-we-planted.jpg
+thumbnail: ../../assets/articles/which-species-of-trees-have-we-planted.jpg
 ---
 
 As a young charity we have been growing fast, planting 4,000 trees in our first planting season, then 35,000 trees in the second season. Planting season runs [October to March](/articles/why-protect-earth-plant-trees-in-winter), and we were looking forward to some calm time to focus on writing about what had been done. Nope! We had to protect against wildfire at [High Wood](/sites/high-wood) by clearing forestry waste that people were setting fires in… then there were [thousands of saplings to water](https://www.protect.earth/blog/climate-crisis-heatwaves-vs-tree-planting), and now we’re out planting again. Ahhh!

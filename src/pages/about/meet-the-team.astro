@@ -4,6 +4,7 @@ import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { getCollection } from 'astro:content';
 import TeamMember from '../../components/TeamMember.astro';
+import { heroTeam } from '../../assets/hero-images';
 
 const [memberCollection] = await getCollection('members');
 const members = memberCollection.data ?? [];
@@ -12,8 +13,8 @@ const members = memberCollection.data ?? [];
 <Layout title="Meet the Team">
 	<!-- Hero Section with Background Image -->
 	<ContentHero
-		imgSrc="/hero-team.jpg"
-		imgAlt="Dense forest with sunlight filtering through trees"
+		imgSrc={heroTeam}
+		imgAlt="The whole team got together to visit Eden Projects in Cornwall, UK, with the biodomes in the background."
 		title="Meet The Team"
 	/>
 

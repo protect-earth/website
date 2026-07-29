@@ -1,0 +1,102 @@
+---
+import type { CategorySlug } from '../helpers';
+
+type Props = {
+	categories?: CategorySlug[];
+};
+
+const { categories = [] } = Astro.props as Props;
+
+const ARTICLE_CTA_BY_TAG: Partial<
+	Record<
+		CategorySlug,
+		{
+			href: string;
+			label: string;
+			text: string;
+		}
+	>
+> = {
+	'woodland-creation': {
+		href: 'https://shop.protect.earth/products/tree',
+		label: 'Plant a tree',
+		text: 'Fund the creation of woodlands which have no other funding sources.',
+	},
+	'woodland-management': {
+		href: 'https://shop.protect.earth/products/ancient-woodland-restoration',
+		label: 'Support ancient woodland restoration',
+		text: 'Returning mismanaged ancient woodlands to thriving unique ecosystems.',
+	},
+	'conservation-biodiversity': {
+		href: 'https://shop.protect.earth/products/wetland-regeneration',
+		label: 'Support wetland regeneration',
+		text: 'Help restore wetlands that support biodiversity, flood resilience, and cleaner water.',
+	},
+	'community-volunteering': {
+		href: '/events',
+		label: 'Find upcoming events',
+		text: 'Join volunteer days, courses, and local events to get involved in person.',
+	},
+};
+
+const ctaPriority: CategorySlug[] = [
+	'woodland-creation',
+	'woodland-management',
+	'conservation-biodiversity',
+	'community-volunteering',
+];
+
+const matchedCtaTag = ctaPriority.find((tag) => categories.includes(tag));
+const articleCta = matchedCtaTag ? ARTICLE_CTA_BY_TAG[matchedCtaTag] : null;
+const isExternalCtaLink = articleCta ? /^https?:\/\//.test(articleCta.href) : false;
+---
+
+{
+	articleCta && (
+		<section class="wrap article-cta-wrap" aria-label="Article call to action">
+			<h2>Take action</h2>
+			<div class="article-cta-card stack">
+				<p>{articleCta.text}</p>
+				<a
+					href={articleCta.href}
+					class="button"
+					target={isExternalCtaLink ? '_blank' : undefined}
+					rel={isExternalCtaLink ? 'noreferrer noopener' : undefined}
+				>
+					{articleCta.label}
+				</a>
+			</div>
+		</section>
+	)
+}
+
+<style>
+	.article-cta-wrap h2 {
+		font-size: var(--font-2xl);
+		text-align: center;
+		margin-block-end: var(--space-xl);
+	}
+
+	.article-cta-wrap {
+		padding-block-end: var(--space-xl);
+	}
+
+	.article-cta-card {
+		padding: var(--space-l);
+		border-radius: var(--radius-l);
+		background: var(--white);
+		max-width: 44rem;
+		margin: auto;
+	}
+
+	.article-cta-card p {
+		margin: 0 0 1rem 0;
+		font-size: var(--font-s);
+	}
+
+	.article-cta-card .button {
+		display: inline-block;
+		justify-self: start;
+		margin-top: var(--space-3xs);
+	}
+</style>

@@ -4,7 +4,7 @@ description: 'Protect Earth welcomed the community to Goytre Wood for a free one
 pubDate: 2025-03-24T21:27:19.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/how-to-lay-a-hedge-protect-earths-free-community-course-at-goytre-wood.jpg
+thumbnail: ../../assets/articles/how-to-lay-a-hedge-protect-earths-free-community-course-at-goytre-wood.jpg
 ---
 
 This past weekend, Protect Earth welcomed the community to [Goytre Wood](/articles/goytre-wood-3x9ef) for a free one-day hedge-laying course. If you've ever wondered how to lay a hedge, a course like this is the perfect opportunity to learn and practice new skills. Led by local green man John, participants gained practical knowledge in this traditional countryside skill. [Hedge laying](/articles/hedgerows-unveiled-natures-multifaceted-allies-in-the-uk-landscape-b97el) not only restores boundaries but also supports biodiversity, provides shelter for wildlife, and strengthens natural landscapes.

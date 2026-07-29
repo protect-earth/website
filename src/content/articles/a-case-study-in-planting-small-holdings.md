@@ -4,7 +4,7 @@ description: 'This is a case study about Peter - a smallholder in rural west Wal
 pubDate: 2023-09-04T06:28:00.000Z
 categories: ['conservation-biodiversity']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/a-case-study-in-planting-small-holdings.jpg
+thumbnail: ../../assets/articles/a-case-study-in-planting-small-holdings.jpg
 ---
 
 My friend, Pete, told me one evening he'd like to turn his seven acres into a more natural habitat but wasn't sure how to go about it. "Don't worry", I told him, "Leave it with me, and I'll connect you with Protect Earth".

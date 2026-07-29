@@ -4,7 +4,7 @@ description: 'Habitat restoration on Protect Earth’s High Wood continues. Stev
 pubDate: 2023-12-13T14:05:18.000Z
 categories: ['policy-funding']
 author: 'Eoghan McHugh'
-thumbnail: ../../articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg
+thumbnail: ../../assets/articles/high-wood-liskeard-woodland-restoration-update-winter-2023.jpg
 ---
 
 _Over 2023, Steve the Ecologist has been progressing High Wood's restoration. With this year’s activities completed, he gives us a summary of what was undertaken, why, and how the woodlands is already responding to the changes._

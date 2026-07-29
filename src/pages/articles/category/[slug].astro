@@ -8,6 +8,7 @@ import TakeAction from '../../../components/TakeAction.astro';
 import { siteConfig } from '../../../config';
 import { getCategoryName } from '../../../helpers';
 import type { CategorySlug } from '../../../helpers';
+import { heroArticles } from '../../../assets/hero-images';
 
 export const getStaticPaths = (async () => {
 	const articles = await getCollection('articles');
@@ -42,7 +43,7 @@ const articleCount = articles.length;
 <Layout title={`${categoryName} Articles`} breadcrumb={categoryName}>
 	<!-- Hero Section -->
 	<ContentHero
-		imgSrc="/hero-articles.jpg"
+		imgSrc={heroArticles}
 		imgAlt="People planting trees in an open field."
 		title={categoryName}
 	>

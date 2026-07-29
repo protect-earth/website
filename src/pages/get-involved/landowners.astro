@@ -3,15 +3,12 @@ import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import ContentBlock from '../../components/ContentBlock.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import { heroLandowners } from '../../assets/hero-images';
 ---
 
 <Layout title="Landowners">
 	<!-- Hero Section -->
-	<ContentHero
-		imgAlt="Group of people on a hillside."
-		imgSrc="/hero-landowners.jpg"
-		title="Landowners"
-	>
+	<ContentHero imgAlt="Group of people on a hillside." imgSrc={heroLandowners} title="Landowners">
 		<p>
 			Take your land from idle to ideal with help from Protect Earth. We'll work with you to enhance
 			the ecosystem health of your land.
