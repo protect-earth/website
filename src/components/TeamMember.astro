@@ -26,6 +26,10 @@ const { name, role, image, imageAlt, bio } = Astro.props;
 		display: grid;
 		grid-template-columns: 350px 1fr;
 		gap: var(--space-2xl);
+		@media screen and (max-width: 844px) {
+			grid-template-columns: 1fr;
+			gap: var(--space-m);
+		}
 	}
 
 	h2 {
@@ -45,7 +49,7 @@ const { name, role, image, imageAlt, bio } = Astro.props;
 
 	img {
 		aspect-ratio: 1/1;
-		max-size: 24rem;
+		max-inline-size: 24rem;
 		overflow: hidden;
 		object-fit: cover;
 	}
