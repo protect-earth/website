@@ -1,0 +1,38 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/0dee3a65-5cbd-4af1-9cec-bef961ae678a/image2.jpeg": {
+    "localName": "65b61cf05613faaacdf4c10d4280b9098349db2dc4fe1f6f25c4372cd447646a.jpg",
+    "checksum": "65b61cf05613faaacdf4c10d4280b9098349db2dc4fe1f6f25c4372cd447646a",
+    "sourceChecksum": null,
+    "fileName": "image2.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/6613e948-6e07-4b30-9cf7-f05b9489de2f/image6.jpeg": {
+    "localName": "8623474cf0bedf55013d0177599982c5fee9b134fb3d7c17314066a4fad75e66.jpg",
+    "checksum": "8623474cf0bedf55013d0177599982c5fee9b134fb3d7c17314066a4fad75e66",
+    "sourceChecksum": null,
+    "fileName": "image6.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/21f7064a-c0fe-4062-91a5-9695252e1b7f/image7.jpeg": {
+    "localName": "a59ecf87b036f09134982e0a8a344202d6f1f7713286fb3efe5ab3ed5cb3fc23.jpg",
+    "checksum": "a59ecf87b036f09134982e0a8a344202d6f1f7713286fb3efe5ab3ed5cb3fc23",
+    "sourceChecksum": null,
+    "fileName": "image7.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/69050847-0939-4fb9-bcf0-e34561f3a824/image8.jpeg": {
+    "localName": "4cbf170bad0a6c817fb45baec65151c7e820eb9905c1d9625b7a41c297b795fe.jpg",
+    "checksum": "4cbf170bad0a6c817fb45baec65151c7e820eb9905c1d9625b7a41c297b795fe",
+    "sourceChecksum": null,
+    "fileName": "image8.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d0ae8e1e-205c-48bc-931c-2ba06b1624a6/image0.jpeg": {
+    "localName": "d1d5be3b428d23953dda9e950249255a3d4b8ed493d9804eec5ed9ea11852b55.jpg",
+    "checksum": "d1d5be3b428d23953dda9e950249255a3d4b8ed493d9804eec5ed9ea11852b55",
+    "sourceChecksum": null,
+    "fileName": "image0.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/9fb83565-197c-4d43-8df2-7383654ff7a0/image4.jpeg": {
+    "localName": "46f443863a08434e1c0187a67985a3b202e9cae169c6dd42d0d0b261724e3512.jpg",
+    "checksum": "46f443863a08434e1c0187a67985a3b202e9cae169c6dd42d0d0b261724e3512",
+    "sourceChecksum": null,
+    "fileName": "image4.jpeg"
+  }
+}

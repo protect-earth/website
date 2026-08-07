@@ -13,6 +13,6 @@ photos:
   - "../../assets/site-updates/haydon-bridge-restock-2026-f0e7974c/228085005d63c43df2c6878abc04f4529162b7784ac3a9305c777c7f3fb0843a.jpg"
 ---
 
-On our restock visit in March we planted 200 trees with help from a corporate group if 12 volunteers from Rheal Superfoods and Josh from Ecologi. Together with our lead Andy, and the landowners and their daughter, they tidied up stakes and removed grass from the tubes around half the existing trees, as well as planting the new saplings. A huge thank you to everyone who came out, and to the landowners for hosting.
+During our restock visit in March we planted 200 trees with help from a corporate group of 12 volunteers from Rheal Superfoods and Josh from Ecologi. Together with our lead Andy, the landowners and their daughter, they tidied up stakes and removed grass from the tubes around half the existing trees, as well as planting the new saplings. A huge thank you to everyone who came out, and to the landowners for hosting.
 
 The landowners are happy to let the western edge grow by itself, as that area is sparsely planted at the moment, a nice little experiment to see what nature will do. We’ll keep an eye on it, and check how it is doing when we return for our scheduled survey.

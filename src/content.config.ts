@@ -96,9 +96,9 @@ const siteMeta = defineCollection({
 	loader: glob({ base: './src/content/siteMeta', pattern: '**/*.md' }),
 	schema: ({ image }) =>
 		z.object({
+			siteId: z.string().optional(),
 			fundingPartners: z.array(z.string()).optional(),
 			tags: z.array(z.string()),
-			siteId: z.string().optional(),
 			notionIds: z.array(z.string()).optional(),
 			images: z.array(image()).optional(),
 			flagShowArea: z.boolean().optional(),

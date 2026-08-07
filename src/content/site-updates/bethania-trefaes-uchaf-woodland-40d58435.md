@@ -13,9 +13,6 @@ photos:
   - "../../assets/site-updates/bethania-trefaes-uchaf-woodland-40d58435/f690574fd67368bec73ae6659f0d70f76b35225743ba17d99ed655d1b0dbce9e.jpg"
 ---
 
-We planted 0.33 hectares on this site to create woodland areas, one main block to the south of the site and a smaller block in the north near the farm buildings, as well as a 100m hedgerow.
+After completing the 100m hedgerow on this farm, we went on to plant 550 trees over 0.33 hectares to create woodland areas, one main block to the south of the site and a smaller block in the north near the farm buildings. Fourteen species were selected for the woodland: nine tree species and five shrub species. In time this will give the woodland a natural structure with taller tree species forming a canopy with a secondary understorey of shrub layer beneath which will produce better habitat for more wildlife.
 
-Fourteen species were selected for the woodland: nine tree species and five shrub
-species. In time this will give the woodland a natural structure with taller tree species forming a canopy with a secondary understorey or shrub layer beneath which will produce better habitat for more wildlife.
-
-There were fewer volunteers on Sunday but everyone worked hard. As the sun began to drop towards the horizon we were finally finished.
+Phil was on hand to keep everyone refreshed with tea, coffee and biscuits, taking a well earned rest from planting trees himself. There were fewer volunteers on the following day but everyone worked hard. As the sun began to drop towards the horizon we were finally finished.

@@ -13,7 +13,7 @@ photos:
 
 Protect Earth was contacted by another landowner nearby and asked to help with their wilding plans. We were more than happy to assist, and so back to Ceredigion we went!
 
-Brynwichell Farm lies on the edge of the Cors Caranod Site of Special Scientific Interest. The landowner wanted to plant trees on many areas of the farm primarily to do something proactive to contribute to tackling the climate crisis. A
+Brynwichell Farm lies on the edge of the Cors Caranod Site of Special Scientific Interest. The landowner wanted to plant trees on many areas of the farm, primarily to do something proactive to contribute to tackling the climate crisis.
 
 With the aid of more willing volunteers Protect Earth helped the landowner plant native trees in scattered blocks that will extend existing areas of woodland and belts of trees. Then along the road we went to plan a further 150 trees on  the neighbour’s land!
 

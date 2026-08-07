@@ -4,6 +4,11 @@ import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import Layout from '../../layouts/Layout.astro';
 import { heroPeopleFamilies } from '../../assets/hero-images';
+import peopleFamiliesIntro from '../../assets/pages/get-involved/people-families-intro.jpg';
+import peopleFamiliesPlanting from '../../assets/pages/get-involved/people-families-planting.jpg';
+import peopleFamiliesMaintenance from '../../assets/pages/get-involved/people-families-maintenance.jpg';
+import peopleFamiliesFundraising from '../../assets/pages/get-involved/people-families-fundraising.jpg';
+import peopleFamiliesLand from '../../assets/pages/get-involved/people-families-land.jpg';
 ---
 
 <Layout title="People & Families">
@@ -22,7 +27,7 @@ import { heroPeopleFamilies } from '../../assets/hero-images';
 	<section class="page-sections wrap">
 		<!-- Introduction Section -->
 		<ContentBlock
-			imgSrc="/people-families-intro.jpg"
+			imgSrc={peopleFamiliesIntro}
 			imgAlt="People planting small trees on a hillside with protective covers"
 			title="Get Involved"
 			isReversed
@@ -41,7 +46,7 @@ import { heroPeopleFamilies } from '../../assets/hero-images';
 
 		<!-- Volunteering - Planting -->
 		<ContentBlock
-			imgSrc="/people-families-planting.jpg"
+			imgSrc={peopleFamiliesPlanting}
 			imgAlt="Group of people planting trees in a field with mountains in the background"
 			linkHref="/events"
 			linkText="Browse Events →"
@@ -60,7 +65,7 @@ import { heroPeopleFamilies } from '../../assets/hero-images';
 
 		<!-- Volunteering - Maintenance -->
 		<ContentBlock
-			imgSrc="/people-families-maintenance.jpg"
+			imgSrc={peopleFamiliesMaintenance}
 			imgAlt="A group of people planting trees in a grassy field surrounded by trees."
 			linkHref="/events"
 			linkText="Browse Events →"
@@ -81,7 +86,7 @@ import { heroPeopleFamilies } from '../../assets/hero-images';
 		<!-- Donations & Fundraising -->
 		<ContentBlock
 			imgAlt="Group of people planting trees in a grassy field."
-			imgSrc="/people-families-fundraising.jpg"
+			imgSrc={peopleFamiliesFundraising}
 			title="Donations & Fundraising"
 			linkHref="/contact"
 			linkText="Contact Us →"
@@ -99,7 +104,7 @@ import { heroPeopleFamilies } from '../../assets/hero-images';
 		<!-- Buy More Land for Planting -->
 		<ContentBlock
 			imgAlt="Rolling green hills with scattered trees and stone walls in a rural landscape"
-			imgSrc="/people-families-land.jpg"
+			imgSrc={peopleFamiliesLand}
 			linkHref="/people-and-families/well-help-you-buy-land"
 			linkText="See More →"
 			title="Buy More Land for Planting"

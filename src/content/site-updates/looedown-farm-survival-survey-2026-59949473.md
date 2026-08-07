@@ -12,6 +12,6 @@ photos:
   - "../../assets/site-updates/looedown-farm-survival-survey-2026-59949473/ff484f011f3813f0ac67c9f282f7cccda6c333724f5231e7c29e23b37f043f37.jpg"
 ---
 
-The July 2026 survival survey for Looedown was very positive, with a survival rate near 100%.
+The July 2026 survival survey for our neighbour’s hedgerow was very positive, with a survival rate near 100%.
 
 The hedges are coming into full bloom, and everything is thriving (with photos kindly provided by the landowner). They’ve asked if our ecologist can pop back out sometime to check out the progress and keep up the great momentum.

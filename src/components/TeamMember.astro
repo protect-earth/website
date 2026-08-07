@@ -1,13 +1,34 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { Image } from 'astro:assets';
+import teamAndy from '../assets/team/team-andy.jpg';
+import teamAngus from '../assets/team/team-angus.jpg';
+import teamAnia from '../assets/team/team-ania.jpg';
+import teamBecca from '../assets/team/team-becca.jpg';
+import teamJulian from '../assets/team/team-julian.jpg';
+import teamKathy from '../assets/team/team-kathy.jpg';
+import teamPhil from '../assets/team/team-phil.jpg';
+import teamSteve from '../assets/team/team-steve.jpg';
 type Props = CollectionEntry<'members'>['data'][0];
 
 const { name, role, image, imageAlt, bio } = Astro.props;
+
+const teamImages = {
+	'/team-andy.jpg': teamAndy,
+	'/team-angus.jpg': teamAngus,
+	'/team-ania.jpg': teamAnia,
+	'/team-becca.jpg': teamBecca,
+	'/team-julian.jpg': teamJulian,
+	'/team-kathy.jpg': teamKathy,
+	'/team-phil.jpg': teamPhil,
+	'/team-steve.jpg': teamSteve,
+} as const;
+
+const imageSrc = teamImages[image as keyof typeof teamImages] ?? image;
 ---
 
 <article class="team-member">
-	<Image src={image} alt={imageAlt} inferSize class="squircle" />
+	<Image src={imageSrc} alt={imageAlt} inferSize class="squircle" />
 
 	<div class="content">
 		<header>
@@ -26,6 +47,10 @@ const { name, role, image, imageAlt, bio } = Astro.props;
 		display: grid;
 		grid-template-columns: 350px 1fr;
 		gap: var(--space-2xl);
+		@media screen and (max-width: 844px) {
+			grid-template-columns: 1fr;
+			gap: var(--space-m);
+		}
 	}
 
 	h2 {
@@ -45,7 +70,7 @@ const { name, role, image, imageAlt, bio } = Astro.props;
 
 	img {
 		aspect-ratio: 1/1;
-		max-size: 24rem;
+		max-inline-size: 24rem;
 		overflow: hidden;
 		object-fit: cover;
 	}

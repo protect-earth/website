@@ -17,4 +17,4 @@ photos:
   - "../../assets/site-updates/thorncombe-street-survival-survey-2025-ec72d30f/3cca37fd3529aed74f6eb5412403f8d0aae47e76a00e526a168fda2457ab6805.jpg"
 ---
 
-The main wood has a 70% survival rate, and the linear patch of wood on the hilltop is also doing well. We will go back and have a woodland maintenance day and plant a few additional trees to keep the overall survival rate to a maximum.
+Angus visited in August to carry out a survival survey. He found that across the site the three planted areas are doing well considering the dry weather. This was partly thanks to the landowners who have maintained all three sites very well. The least successful area was the woodland area with a survival rate of 70%.  As the survival rate is below our guaranteed 80% we will return next planting season to plant more trees and carry out some maintenance of our own.

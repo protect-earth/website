@@ -1,0 +1,228 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+
+const description = 'View your Protect Earth certificate to learn more about your impact.';
+const certificateApiUrl = 'https://api.protect.earth/certificates';
+
+const siteMetaEntries = await getCollection('siteMeta');
+const sitePathByUuid = Object.fromEntries(
+	siteMetaEntries
+		.filter((entry) => typeof entry.data.siteId === 'string' && entry.data.siteId.trim())
+		.map((entry) => [entry.data.siteId!.toLowerCase(), `/sites/${entry.id}`]),
+);
+---
+
+<Layout title="Certificate" className="page-certificate" description={description}>
+	<section class="certificate wrap stack">
+		<div class="certificate__intro stack">
+			<h1>Your certificate</h1>
+			<p data-preload-hint>
+				Use the full link from your email, or add <strong>?id=your-certificate-id</strong> to this page
+				URL to load your certificate image.
+			</p>
+		</div>
+
+		<div class="certificate__card squircle stack">
+			<p class="certificate__status" data-status>Looking for your certificate...</p>
+
+			<img class="certificate__image" data-image alt="Your Protect Earth certificate" hidden />
+
+			<p class="certificate__site-link" data-site-link hidden>
+				Want to see how things are progressing? Visit the <a data-site-link-anchor>site page</a
+				><span data-site-location></span>.
+			</p>
+
+			<noscript>
+				<p>This page needs JavaScript enabled so it can read the certificate ID from the URL.</p>
+			</noscript>
+		</div>
+	</section>
+</Layout>
+
+<script define:vars={{ certificateApiUrl, sitePathByUuid }}>
+	const statusEl = document.querySelector('[data-status]');
+	const imageEl = document.querySelector('[data-image]');
+	const preloadHintEl = document.querySelector('[data-preload-hint]');
+	const siteLinkEl = document.querySelector('[data-site-link]');
+	const siteLinkAnchorEl = document.querySelector('[data-site-link-anchor]');
+	const siteLocationEl = document.querySelector('[data-site-location]');
+
+	const setStatus = (message) => {
+		if (statusEl) {
+			statusEl.textContent = message;
+		}
+	};
+
+	if (!(statusEl instanceof HTMLElement) || !(imageEl instanceof HTMLImageElement)) {
+		throw new Error('Certificate page is missing required elements.');
+	}
+
+	const hideSiteLink = () => {
+		if (siteLinkEl instanceof HTMLElement) {
+			siteLinkEl.hidden = true;
+		}
+
+		if (siteLinkAnchorEl instanceof HTMLAnchorElement) {
+			siteLinkAnchorEl.removeAttribute('href');
+			siteLinkAnchorEl.textContent = 'site page';
+		}
+
+		if (siteLocationEl instanceof HTMLElement) {
+			siteLocationEl.textContent = '';
+		}
+	};
+
+	const showSiteLink = () => {
+		if (siteLinkEl instanceof HTMLElement) {
+			siteLinkEl.hidden = false;
+		}
+	};
+
+	const extractSiteUuid = (value) => {
+		if (typeof value !== 'string' || !value.trim()) {
+			return null;
+		}
+
+		try {
+			const siteUrl = new URL(value);
+			const segments = siteUrl.pathname.split('/').filter(Boolean);
+			const lastSegment = segments.at(-1) ?? '';
+			return uuidPattern.test(lastSegment) ? lastSegment.toLowerCase() : null;
+		} catch {
+			return null;
+		}
+	};
+
+	const fetchCertificateData = async (id) => {
+		const response = await fetch(`${certificateApiUrl}/${encodeURIComponent(id)}`, {
+			headers: { Accept: 'application/json' },
+		});
+
+		if (!response.ok) {
+			throw new Error(`Certificate fetch failed with status ${response.status}`);
+		}
+
+		return await response.json();
+	};
+
+	const configureSiteLink = (certificateData) => {
+		const siteUuid = extractSiteUuid(certificateData?.links?.site);
+		if (!siteUuid || !(siteLinkAnchorEl instanceof HTMLAnchorElement)) {
+			hideSiteLink();
+			return;
+		}
+
+		const localSitePath = sitePathByUuid?.[siteUuid];
+		if (!localSitePath) {
+			hideSiteLink();
+			return;
+		}
+
+		siteLinkAnchorEl.href = localSitePath;
+
+		const siteName = certificateData?.site?.name;
+		siteLinkAnchorEl.textContent =
+			typeof siteName === 'string' && siteName.trim()
+				? `${siteName.trim()} site page`
+				: 'site page';
+
+		if (siteLocationEl instanceof HTMLElement) {
+			const where = certificateData?.site?.where;
+			siteLocationEl.textContent =
+				typeof where === 'string' && where.trim()
+					? ` to see what we're doing in ${where.trim()}`
+					: '';
+		}
+
+		showSiteLink();
+	};
+
+	const certificateId = new URL(window.location.href).searchParams.get('id')?.trim() ?? '';
+	const uuidPattern = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+	if (!certificateId) {
+		hideSiteLink();
+		setStatus('Add your certificate ID to the URL, for example /certificate?id=your-uuid.');
+	} else if (!uuidPattern.test(certificateId)) {
+		hideSiteLink();
+		setStatus('That certificate ID does not look valid. Please check the link and try again.');
+	} else {
+		const imageUrl = `${certificateApiUrl}/${encodeURIComponent(certificateId)}/image`;
+		const certificateDataPromise = fetchCertificateData(certificateId).catch(() => null);
+
+		imageEl.addEventListener(
+			'load',
+			async () => {
+				if (preloadHintEl instanceof HTMLElement) {
+					preloadHintEl.hidden = true;
+				}
+				imageEl.hidden = false;
+
+				const certificateData = await certificateDataPromise;
+				configureSiteLink(certificateData);
+				setStatus('');
+			},
+			{ once: true },
+		);
+
+		imageEl.addEventListener(
+			'error',
+			() => {
+				imageEl.hidden = true;
+				hideSiteLink();
+				setStatus(
+					'We could not find a certificate for that ID. Please check the link and try again.',
+				);
+			},
+			{ once: true },
+		);
+
+		imageEl.src = imageUrl;
+	}
+</script>
+
+<style>
+	.certificate {
+		padding-block: var(--space-2xl);
+		max-width: 70rem;
+	}
+
+	.certificate__intro {
+		max-width: 42rem;
+	}
+
+	.certificate__card {
+		background: var(--white);
+		padding: var(--space-l);
+		box-shadow: 0 24px 80px rgb(0 0 0 / 0.08);
+	}
+
+	.certificate__status {
+		margin: 0;
+		font-weight: 600;
+	}
+
+	.certificate__image {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 1.25rem;
+		background: var(--neutral-100, #f4f2eb);
+	}
+
+	.certificate__site-link {
+		margin: 0;
+		padding-top: var(--space-s);
+	}
+
+	@media (max-width: 48rem) {
+		.certificate {
+			padding-block: var(--space-xl);
+		}
+
+		.certificate__card {
+			padding: var(--space-m);
+		}
+	}
+</style>

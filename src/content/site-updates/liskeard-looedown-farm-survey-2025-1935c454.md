@@ -11,4 +11,4 @@ photos:
   - "../../assets/site-updates/liskeard-looedown-farm-survey-2025-1935c454/740d2baf392f4f4eb147b2f5a5c5ca71ab16e155272af467e27a085d968cd1b2.jpg"
 ---
 
-We called in to see how this hedgerow was doing, the day after our Summer Fair at High Wood as we were just next door. Eighteen months on, our survival survey recorded an excellent 97% survival rate across the corridor, with strong, healthy growth throughout.
+We called in to see how this hedgerow was doing, the day after our Summer Fair at High Wood as we were just next door. Eighteen months on, our survival survey recorded an excellent 97% survival rate across the corridor, with strong, healthy growth throughout. Our neighbours are very pleased.

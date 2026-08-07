@@ -27,6 +27,5 @@ images:
   - >-
     ../../assets/sites/manaccan/33b990f22738670ca67ae20b1d1ec7eb20f70fd983f7d62c134395fab13b4135.jpg
 siteId: 9b3bc343-83cd-4825-84c9-3e3dbf28b59b
-flagShowArea: true
 ---
 

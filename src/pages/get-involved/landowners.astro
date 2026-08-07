@@ -4,6 +4,8 @@ import ContentHero from '../../components/ContentHero.astro';
 import ContentBlock from '../../components/ContentBlock.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { heroLandowners } from '../../assets/hero-images';
+import landownersRewilding from '../../assets/pages/get-involved/landowners-rewilding.jpg';
+import landownersAgroforestry from '../../assets/pages/get-involved/landowners-agroforestry.jpg';
 ---
 
 <Layout title="Landowners">
@@ -22,7 +24,7 @@ import { heroLandowners } from '../../assets/hero-images';
 	<section class="page-sections wrap">
 		<!-- Reforesting or Rewilding Section -->
 		<ContentBlock
-			imgSrc="/landowners-rewilding.jpg"
+			imgSrc={landownersRewilding}
 			imgAlt="Open grassy field with scattered patches."
 			title="Reforesting or Rewilding Your Land"
 		>
@@ -38,7 +40,7 @@ import { heroLandowners } from '../../assets/hero-images';
 		<!-- Agroforestry Section -->
 		<ContentBlock
 			imgAlt="Muddy field with newly installed fencing."
-			imgSrc="/landowners-agroforestry.jpg"
+			imgSrc={landownersAgroforestry}
 			title="Agroforestry"
 			isReversed
 		>
@@ -53,7 +55,7 @@ import { heroLandowners } from '../../assets/hero-images';
 
 		<!-- Lease or Donate Land Section -->
 		<ContentBlock
-			imgSrc="/landowners-rewilding.jpg"
+			imgSrc={landownersRewilding}
 			imgAlt="Open grassy field with scattered patches."
 			title="Lease or Donate Land"
 		>

@@ -5,6 +5,9 @@ import ContentHero from '../../components/ContentHero.astro';
 import ContentBlock from '../../components/ContentBlock.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { heroBusinesses } from '../../assets/hero-images';
+import businessesVolunteering from '../../assets/pages/get-involved/businesses-volunteering.jpg';
+import businessesSponsor1 from '../../assets/pages/get-involved/businesses-sponsor1.jpg';
+import businessesSponsor2 from '../../assets/pages/get-involved/businesses-sponsor2.jpg';
 ---
 
 <Layout title="Businesses">
@@ -25,7 +28,7 @@ import { heroBusinesses } from '../../assets/hero-images';
 	<section class="page-sections wrap">
 		<!-- Corporate Volunteering Section -->
 		<ContentBlock
-			imgSrc="/businesses-volunteering.jpg"
+			imgSrc={businessesVolunteering}
 			imgAlt="People planting young trees in a grassy field"
 			linkHref="https://protectearthcio.notion.site/2c1e7dc6657c80d3b21ff727acd31056"
 			linkTarget="_blank"
@@ -51,7 +54,7 @@ import { heroBusinesses } from '../../assets/hero-images';
 
 		<!-- Sponsor Reforestation Section -->
 		<ContentBlock
-			imgSrc="/businesses-sponsor1.jpg"
+			imgSrc={businessesSponsor1}
 			imgAlt="People planting trees on a grassy hillside"
 			linkHref="/contact"
 			linkText="Contact Us →"
@@ -72,7 +75,7 @@ import { heroBusinesses } from '../../assets/hero-images';
 
 		<!-- Planting Your Land Section -->
 		<ContentBlock
-			imgSrc="/businesses-sponsor2.jpg"
+			imgSrc={businessesSponsor2}
 			imgAlt="Group of people planting trees in a field"
 			linkHref="/contact"
 			linkText="Contact Us →"
