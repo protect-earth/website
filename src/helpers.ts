@@ -8,6 +8,20 @@ export const toKebabCase = (str: string): string =>
 		.replace(/--+/g, '-')
 		.trim();
 
+// Site work stats
+const ACRE_IN_SQUARE_METERS = 4_046.86;
+
+export function formatWorkUnits(units: number, label: string): { value: string; unit: string } {
+	return label === 'square meters'
+		? {
+				value: (units / ACRE_IN_SQUARE_METERS).toLocaleString('en-GB', {
+					maximumFractionDigits: 1,
+				}),
+				unit: 'acres',
+			}
+		: { value: units.toLocaleString(), unit: label };
+}
+
 // Article categories
 export type CategorySlug = keyof typeof siteConfig.categories;
 
@@ -19,17 +33,20 @@ export function getCategoryName(slug: CategorySlug): string {
 const SITES_API_URL = 'https://api.protect.earth/sites';
 const SITES_FETCH_TIMEOUT_MS = 10_000;
 
+let sitesPromise: Promise<SiteApiRecord[]> | undefined;
+
 type SiteApiRecord = {
+	id: string;
 	name: string;
 	[id: string]: unknown;
 };
 
-export async function fetchProtectEarthSitesSafely(): Promise<SiteApiRecord[]> {
+async function fetchResource(url: string): Promise<SiteApiRecord> {
 	const controller = new AbortController();
 	const timeout = setTimeout(() => controller.abort(), SITES_FETCH_TIMEOUT_MS);
 
 	try {
-		const response = await fetch(SITES_API_URL, {
+		const response = await fetch(url, {
 			signal: controller.signal,
 			headers: { accept: 'application/json' },
 		});
@@ -38,7 +55,15 @@ export async function fetchProtectEarthSitesSafely(): Promise<SiteApiRecord[]> {
 			throw new Error(`Unexpected status ${response.status}`);
 		}
 
-		const payload = await response.json();
+		return (await response.json()) as SiteApiRecord;
+	} finally {
+		clearTimeout(timeout);
+	}
+}
+
+async function loadSites(): Promise<SiteApiRecord[]> {
+	try {
+		const payload = await fetchResource(SITES_API_URL);
 		if (!Array.isArray(payload)) {
 			throw new Error('Unexpected payload shape');
 		}
@@ -46,13 +71,16 @@ export async function fetchProtectEarthSitesSafely(): Promise<SiteApiRecord[]> {
 		return payload as SiteApiRecord[];
 	} catch (error) {
 		console.warn(
-			'[sites] Failed to fetch Protect Earth sites API during build. Falling back to local content.',
+			'[sites] Failed to fetch sites during build. Falling back to local content.',
 			error,
 		);
 		return [];
-	} finally {
-		clearTimeout(timeout);
 	}
+}
+
+export function fetchSites(): Promise<SiteApiRecord[]> {
+	sitesPromise ??= loadSites();
+	return sitesPromise;
 }
 
 export const isSameDay = (start: any, end: any): boolean => {

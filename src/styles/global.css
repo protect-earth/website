@@ -53,7 +53,6 @@ h2:has(svg) {
 }
 
 .prose {
-	max-inline-size: var(--measure);
 	font-size: var(--font-s);
 	line-height: 1.6;
 }

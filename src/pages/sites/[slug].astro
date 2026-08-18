@@ -4,9 +4,10 @@ import { Image } from 'astro:assets';
 import { marked } from 'marked';
 import ContentHero from '../../components/ContentHero.astro';
 import ImageGallery from '../../components/ImageGallery.astro';
+import SiteDetails from '../../components/SiteDetails.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { siteConfig } from '../../config';
-import { fetchProtectEarthSitesSafely, toKebabCase } from '../../helpers';
+import { fetchSites, toKebabCase } from '../../helpers';
 import Layout from '../../layouts/Layout.astro';
 import MapPin from '../../assets/icons/map-pin.svg';
 import Tree from '../../assets/icons/tree-deciduous.svg';
@@ -17,7 +18,7 @@ import Chart from '../../assets/icons/chart-fft.svg';
 export const prerender = true;
 
 export async function getStaticPaths() {
-	const allApiSites = await fetchProtectEarthSitesSafely();
+	const allApiSites = await fetchSites();
 
 	// Filter out ignored sites
 	const apiSites = allApiSites.filter((site: any) => !siteConfig.ignoredSites.includes(site.name));
@@ -32,10 +33,10 @@ export async function getStaticPaths() {
 	});
 
 	return siteCollection.map((site) => {
-		const apiData = apiDataMap.get(site.id);
+		const collectionApiData = apiDataMap.get(site.id);
 		return {
 			params: { slug: site.id },
-			props: { site, apiData },
+			props: { site, apiData: collectionApiData },
 		};
 	});
 }
@@ -78,7 +79,6 @@ const mapboxToken = import.meta.env.PUBLIC_MAPBOX_TOKEN;
 // Use API data for main info, fallback to collection data
 const siteName = apiData?.name || site.id;
 const siteLocation = apiData?.location || '';
-const treeCount = apiData?.allocatedUnits || 0;
 const coordinates = apiData?.coordinates;
 const siteId = site.data.siteId;
 const flagShowArea = site.data.flagShowArea;
@@ -89,6 +89,7 @@ const fundingPartners = site.data.fundingPartners || [];
 const siteDescription = apiData?.description;
 const descriptionHtml = siteDescription ? await marked.parse(siteDescription) : '';
 const species = apiData?.species || [];
+const fundingSiteId = apiData?.id;
 
 let siteMapGeoJson: any = null;
 if (flagShowArea && siteId) {
@@ -151,24 +152,16 @@ const fundingPartnerInfos = fundingPartners
 <Layout title={siteName} description={siteLocation} image={heroImage || undefined} type="website">
 	<!-- Hero Section -->
 	<ContentHero imgAlt={`Landscape view of ${siteName}`} imgSrc={heroImage} title={siteName}>
-		<div>
-			{
-				siteLocation && (
-					<p>
-						<MapPin height={24} width={24} /> {siteLocation}
-					</p>
-				)
-			}
-			{
-				treeCount > 0 && (
-					<p>
-						<Tree height={24} width={24} /> {treeCount.toLocaleString()} trees planted
-					</p>
-				)
-			}
-		</div>
+		{
+			siteLocation && (
+				<p>
+					<MapPin height={24} width={24} /> {siteLocation}
+				</p>
+			)
+		}
 	</ContentHero>
 
+	<!-- Description -->
 	<section class="page-sections wrap">
 		{
 			fundingPartnerInfos.length > 0 ? (
@@ -201,28 +194,40 @@ const fundingPartnerInfos = fundingPartners
 				</div>
 			)
 		}
+	</section>
 
-		<!-- Image Gallery -->
+	<!-- Image Gallery -->
+	<section class="page-sections wrap">
 		<ImageGallery images={images} siteName={siteName} />
+	</section>
 
-		<!-- Species Section -->
+	<!-- Site Details: work stats + funding, fetched once to avoid duplicate site requests -->
+	<section class="page-sections wrap">
 		{
-			species.length > 0 && (
-				<section class="trees">
-					<h2>
-						<Tree height={36} width={36} /> Species Planted
-					</h2>
-					<ul class="grid">
-						{species.map((sp: any) => (
-							<li>
-								<span>{sp.name}</span>
-							</li>
-						))}
-					</ul>
-				</section>
+			fundingSiteId && (
+				<SiteDetails server:defer siteId={fundingSiteId}>
+					<section slot="fallback" class="funding-skeleton" aria-busy="true">
+						<header>
+							<h2>Help fund our work</h2>
+							<p>Fund the work still needed to complete this critical work.</p>
+						</header>
+
+						<ul>
+							{Array.from({ length: 2 }, () => (
+								<li aria-hidden="true">
+									<span />
+									<span />
+									<span />
+								</li>
+							))}
+						</ul>
+					</section>
+				</SiteDetails>
 			)
 		}
+	</section>
 
+	<section class="page-sections wrap">
 		<!-- Site Updates Section -->
 		{
 			siteUpdates.length > 0 && (
@@ -230,7 +235,7 @@ const fundingPartnerInfos = fundingPartners
 					<header>
 						<h2>
 							<PenField height={36} width={36} />
-							Site Updates
+							Updates
 						</h2>
 					</header>
 
@@ -298,6 +303,23 @@ const fundingPartnerInfos = fundingPartners
 			)
 		}
 
+		<!-- Species Section -->
+		{
+			species.length > 0 && (
+				<section class="trees">
+					<h2>
+						<Tree height={36} width={36} /> Species Planted
+					</h2>
+					<ul class="grid">
+						{species.map((sp: any) => (
+							<li>
+								<span>{sp.name}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+			)
+		}
 		<!-- Map Section -->
 		{
 			hasMapData && (
@@ -316,7 +338,7 @@ const fundingPartnerInfos = fundingPartners
 
 <style>
 	h2 {
-		font-size: var(--font-2xl);
+		font-size: var(--font-xl);
 		margin-block-end: var(--space-s);
 	}
 
@@ -329,12 +351,23 @@ const fundingPartnerInfos = fundingPartners
 		max-inline-size: 300px;
 	}
 
+	/* This page stacks several .page-sections blocks; collapse the repeated padding between them */
+	.page-sections + .page-sections {
+		padding-block-start: 0;
+	}
+
 	.intro {
-		display: flex;
-		flex-wrap: wrap;
+		display: grid;
+		grid-template-columns: 1fr auto;
+		align-items: start;
 		gap: var(--space-2xl);
 	}
 
+	@media screen and (max-width: 700px) {
+		.intro {
+			grid-template-columns: 1fr;
+		}
+	}
 	.updates-articles {
 		display: flex;
 		flex-flow: column;
@@ -387,6 +420,63 @@ const fundingPartnerInfos = fundingPartners
 		object-fit: cover;
 		max-inline-size: 100%;
 		block-size: 100%;
+	}
+
+	.funding-skeleton {
+		background: var(--white);
+		padding: var(--space-l);
+		border-radius: var(--radius-m);
+		box-shadow: var(--shadow-lite);
+	}
+
+	.funding-skeleton header {
+		max-inline-size: var(--measure);
+		margin-block-end: var(--space-m);
+	}
+
+	.funding-skeleton ul {
+		display: grid;
+		gap: var(--space-m);
+	}
+
+	.funding-skeleton li {
+		display: grid;
+		gap: var(--space-2xs);
+		grid-template-columns: 1fr auto;
+		min-block-size: 6rem;
+	}
+
+	.funding-skeleton span {
+		background: var(--grey-light);
+		border-radius: var(--radius-xs);
+		animation: funding-placeholder 1.5s ease-in-out infinite;
+	}
+
+	.funding-skeleton span:first-child {
+		inline-size: 45%;
+		block-size: 1.5rem;
+	}
+
+	.funding-skeleton span:nth-child(2) {
+		grid-column: 1 / -1;
+		block-size: var(--space-s);
+	}
+
+	.funding-skeleton span:last-child {
+		inline-size: 60%;
+		block-size: 1.25rem;
+	}
+
+	@media screen and (max-width: 600px) {
+		.funding-skeleton {
+			padding: var(--space-m);
+		}
+	}
+
+	@keyframes funding-placeholder {
+		50% {
+			opacity: 0.5;
+		}
 	}
 </style>
 

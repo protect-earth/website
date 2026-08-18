@@ -6,10 +6,10 @@ startDate: 2026-10-03T09:00:00.000Z
 endDate: 2026-10-03T15:00:00.000Z
 address: 'Llanllwchaiarn, SY16 3BH'
 eventbriteLink: 'https://www.eventbrite.co.uk/e/hedge-laying-course-near-newtown-powys-tickets-1998414151523'
-thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/274a88a7a4b3.jpg
+thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg
 images:
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/274a88a7a4b3.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6a76c4555f38.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6f9cf0a36b87.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/5ae313dd678a.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/20cc99924e9d.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/c3d52be2c143.jpg

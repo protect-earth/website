@@ -7,6 +7,7 @@
 
 .page-sections > .prose {
 	align-self: center;
+	max-inline-size: var(--measure);
 }
 
 .page-sections > header:has(h2, h3) {

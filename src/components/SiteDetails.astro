@@ -1,0 +1,260 @@
+---
+import Chart from '../assets/icons/chart-fft.svg';
+import Tree from '../assets/icons/tree-deciduous.svg';
+import { formatWorkUnits } from '../helpers';
+
+interface Props {
+	siteId: string;
+}
+
+const { siteId } = Astro.props;
+
+const fundingProducts: Record<string, { color: string; url?: string }> = {
+	'Woodland Creation': { color: 'green', url: 'https://shop.protect.earth/products/tree' },
+	'Ancient Woodland Restoration': {
+		color: 'purple',
+		url: 'https://shop.protect.earth/products/ancient-woodland-restoration',
+	},
+	'Wetland Restoration': {
+		color: 'purple',
+		url: 'https://shop.protect.earth/products/wetland-regeneration',
+	},
+	Hedgerow: { color: 'orange', url: 'https://shop.protect.earth/products/wildlife-corridor' },
+	'Grassland Restoration': { color: 'pink' },
+	'Shade Tree': { color: 'green' },
+};
+
+// Single fetch feeds both the work stats and funding sections, avoiding duplicate requests for the same site.
+let work: any[] = [];
+let funding: any[] = [];
+
+try {
+	const response = await fetch(`https://api.protect.earth/sites/${siteId}`, {
+		headers: { accept: 'application/json' },
+	});
+	if (response.ok) {
+		const site = await response.json();
+		work = Array.isArray(site.work) ? site.work.filter((item: any) => item.units > 0) : [];
+		funding = Array.isArray(site.funding)
+			? site.funding.filter((item: any) => item.unallocatedUnits > 0)
+			: [];
+	}
+} catch (error) {
+	console.warn(`[sites] Failed to load site details for ${siteId}.`, error);
+}
+---
+
+{
+	work.length > 0 && (
+		<section class="work-stats">
+			<header>
+				<h2>
+					<Tree height={36} width={36} />
+					Work completed
+				</h2>
+			</header>
+
+			<div class="stats">
+				{work.map((item) => {
+					const { value, unit } = formatWorkUnits(item.units, item.label);
+					return (
+						<div class="stat">
+							<strong>
+								{value}{' '}{unit}
+							</strong>
+							<span> of {item.name.toLowerCase()}</span>
+						</div>
+					);
+				})}
+			</div>
+		</section>
+	)
+}
+
+{
+	funding.length > 0 && (
+		<section class="funding">
+			<header>
+				<h2>
+					<Chart height={36} width={36} />
+					Funding this work
+				</h2>
+			</header>
+
+			<ul class="funding-list">
+				{funding.map((item) => {
+					const totalUnits = item.allocatedUnits + item.unallocatedUnits;
+					const percentFunded =
+						totalUnits > 0 ? Math.round((item.allocatedUnits / totalUnits) * 100) : 0;
+					const product = fundingProducts[item.name];
+					const progressColor = product?.color || 'green';
+
+					return (
+						<li class="funding-item">
+							<div class="heading">
+								<h3>{item.name}</h3>
+								<span>{percentFunded}% funded</span>
+							</div>
+							<progress
+								class={`progress progress-${progressColor}`}
+								value={item.allocatedUnits}
+								max={totalUnits}
+							>
+								{item.allocatedUnits.toLocaleString()} of {totalUnits.toLocaleString()} {item.label}
+								sponsored
+							</progress>
+							<div class="detail">
+								<p>
+									{item.allocatedUnits.toLocaleString()} of {totalUnits.toLocaleString()}{' '}
+									{item.label} sponsored.
+									{product?.url ? (
+										<a href={product.url}>Sponsor more</a>
+									) : (
+										<span class="coming-soon">Coming soon</span>
+									)}
+								</p>
+							</div>
+						</li>
+					);
+				})}
+			</ul>
+
+			<p class="funding-note">
+				Sponsors receive a certificate showing what has been done where, but for now it is not possible to guarantee it will be at this site.
+				{/* Specific site-based sponsoring will come in https://github.com/protect-earth/website/issues/100 */}
+			</p>
+		</section>
+	)
+}
+
+<style>
+	.work-stats h2 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.work-stats header {
+		max-inline-size: var(--measure);
+	}
+
+	.stats {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: flex-start;
+		align-items: flex-start;
+		gap: var(--space-l);
+		padding-block: var(--space-s);
+	}
+
+	.stat {
+		display: flex;
+		flex-flow: column;
+		align-items: center;
+		gap: var(--space-3xs);
+		text-align: center;
+	}
+
+	.stat strong {
+		font-size: var(--font-l);
+		color: var(--green-mid);
+	}
+
+	.stat span {
+		font-size: var(--font-xs);
+		color: var(--grey-mid);
+	}
+
+	.funding h2 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-s);
+	}
+
+	.funding header {
+		max-inline-size: var(--measure);
+		margin-block-end: var(--space-m);
+	}
+
+	.funding-list {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-xl);
+	}
+
+	.funding-item {
+		background: var(--white);
+		padding: var(--space-m);
+		border-radius: var(--radius-m);
+		box-shadow: var(--shadow-lite);
+		display: grid;
+		gap: var(--space-2xs);
+	}
+
+	.heading {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: var(--space-s);
+	}
+
+	.heading h3,
+	.detail p {
+		margin: 0;
+	}
+
+	.heading span {
+		font-size: var(--font-xs);
+		white-space: nowrap;
+	}
+
+	.coming-soon {
+		color: var(--grey-mid);
+		font-size: var(--font-xs);
+	}
+
+	.funding progress {
+		inline-size: 100%;
+		block-size: var(--space-m);
+		border: 0;
+		border-radius: 999px;
+		overflow: hidden;
+		background: var(--grey-light);
+	}
+
+	.funding progress::-webkit-progress-bar {
+		border-radius: inherit;
+		background: var(--grey-light);
+	}
+
+	.funding progress::-webkit-progress-value {
+		border-radius: inherit;
+		background: var(--progress-color);
+	}
+
+	.funding progress::-moz-progress-bar {
+		border-radius: inherit;
+		background: var(--progress-color);
+	}
+
+	.progress-green {
+		--progress-color: var(--green-mid);
+	}
+
+	.progress-orange {
+		--progress-color: var(--orange-mid);
+	}
+
+	.progress-pink {
+		--progress-color: var(--pink-dark);
+	}
+
+	.progress-purple {
+		--progress-color: var(--purple);
+	}
+
+	.funding-note {
+		font-size: var(--font-2xs);
+		color: var(--grey-mid);
+		margin-block-start: var(--space-s);
+	}
+
+</style>
