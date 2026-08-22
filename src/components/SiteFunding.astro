@@ -1,0 +1,195 @@
+---
+import Chart from '../assets/icons/chart-fft.svg';
+
+type Props = {
+	siteId?: string;
+	siteName: string;
+};
+
+const { siteId, siteName } = Astro.props as Props;
+
+const fundingApiUrl = 'https://api.protect.earth/sites';
+
+// "Work types" map onto "product types" in our Shopify shop. "Grassland Restoration" and "Shade Tree" are not on Shopify yet, so those don't (yet) include a sponsor link
+const shopProductByWorkType: Record<string, string> = {
+	'Ancient Woodland Restoration': 'https://shop.protect.earth/products/ancient-woodland-restoration',
+	'Hedgerow': 'https://shop.protect.earth/products/wildlife-corridor',
+	'Wetland Restoration': 'https://shop.protect.earth/products/wetland-regeneration',
+	'Woodland Creation': 'https://shop.protect.earth/products/tree',
+};
+---
+
+{
+	siteId && (
+		<section class="funding" data-funding hidden>
+			<h2>
+				<Chart height={36} width={36} /> Funding this site
+			</h2>
+
+			<ul class="funding-list" data-funding-list />
+
+			<p class="funding-note">
+				Sponsorships fund our work across all of our sites, including this one.
+				{/* Specific site-based sponsoring will come in https://github.com/protect-earth/website/issues/100 */}
+			</p>
+
+			<template data-funding-row>
+				<li class="funding-item">
+					<h3 data-name />
+					<div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+						<span class="bar-fill" data-fill />
+					</div>
+					<p class="figures" data-figures />
+					<a class="button" data-cta target="_blank" rel="noreferrer noopener" />
+					<p class="funded" data-funded>
+						Fully funded
+					</p>
+				</li>
+			</template>
+		</section>
+	)
+}
+
+<script define:vars={{ siteId, siteName, fundingApiUrl, shopProductByWorkType }}>
+	const sectionEl = document.querySelector('[data-funding]');
+	const listEl = document.querySelector('[data-funding-list]');
+	const rowTemplate = document.querySelector('[data-funding-row]');
+
+	const SQUARE_METERS_PER_HECTARE = 10000;
+
+	const formatUnits = (units, label) => `${units.toLocaleString('en-GB')} ${label}`;
+
+	const hectares = (units, label) =>
+		label === 'square meters' && units >= SQUARE_METERS_PER_HECTARE
+			? ` (${(units / SQUARE_METERS_PER_HECTARE).toFixed(1)} ha)`
+			: '';
+
+	const buildRow = ({ name, label, allocatedUnits, unallocatedUnits }) => {
+		const total = allocatedUnits + unallocatedUnits;
+		if (total <= 0) {
+			return null;
+		}
+
+		const percent = (allocatedUnits / total) * 100;
+		const row = rowTemplate.content.cloneNode(true);
+		const barEl = row.querySelector('.bar');
+		const ctaEl = row.querySelector('[data-cta]');
+		const fundedEl = row.querySelector('[data-funded]');
+		const productUrl = shopProductByWorkType[name];
+
+		row.querySelector('[data-name]').textContent = name;
+		row.querySelector('[data-figures]').textContent =
+			`${allocatedUnits.toLocaleString('en-GB')} of ${formatUnits(total, label)} funded${hectares(total, label)}`;
+
+		barEl.setAttribute('aria-valuenow', percent.toFixed(1));
+		barEl.setAttribute('aria-label', `${name} funding progress`);
+		row.querySelector('[data-fill]').style.inlineSize = `${percent}%`;
+
+		if (unallocatedUnits === 0) {
+			ctaEl.remove();
+		} else {
+			fundedEl.remove();
+
+			if (productUrl) {
+				ctaEl.href = productUrl;
+				ctaEl.textContent = `Sponsor ${name.toLowerCase()}`;
+			} else {
+				ctaEl.remove();
+			}
+		}
+
+		return row;
+	};
+
+	const renderFunding = async () => {
+		const response = await fetch(`${fundingApiUrl}/${encodeURIComponent(siteId)}`, {
+			headers: { Accept: 'application/json' },
+		});
+
+		if (!response.ok) {
+			throw new Error(`Site funding fetch failed with status ${response.status}`);
+		}
+
+		const { funding } = await response.json();
+		if (!Array.isArray(funding)) {
+			return;
+		}
+
+		const rows = funding.map(buildRow).filter(Boolean);
+		if (rows.length === 0) {
+			return;
+		}
+
+		rows.forEach((row) => listEl.append(row));
+		sectionEl.hidden = false;
+	};
+
+	if (sectionEl) {
+		renderFunding().catch((error) => {
+			console.warn(`Could not load funding status for ${siteName}:`, error.message);
+		});
+	}
+</script>
+
+<style>
+	h2 {
+		font-size: var(--font-2xl);
+		margin-block-end: var(--space-s);
+	}
+
+	h3 {
+		font-size: var(--font-m);
+		margin-block-end: var(--space-2xs);
+	}
+
+	.funding-list {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-m);
+	}
+
+	.funding-item {
+		background: var(--white);
+		padding: var(--space-m);
+		border-radius: var(--radius-m);
+		box-shadow: var(--shadow-lite);
+	}
+
+	.bar {
+		background: var(--grey-light);
+		border-radius: var(--radius-l);
+		block-size: var(--space-2xs);
+		overflow: hidden;
+	}
+
+	.bar-fill {
+		background: var(--green-mid);
+		border-radius: inherit;
+		display: block;
+		block-size: 100%;
+		min-inline-size: 2px;
+	}
+
+	.figures {
+		font-size: var(--font-xs);
+		color: var(--grey);
+		margin-block-start: var(--space-2xs);
+	}
+
+	.funded {
+		font-size: var(--font-xs);
+		color: var(--green-mid);
+		font-weight: 700;
+		margin-block-start: var(--space-xs);
+	}
+
+	.button {
+		margin-block-start: var(--space-xs);
+	}
+
+	.funding-note {
+		font-size: var(--font-2xs);
+		color: var(--grey-mid);
+		margin-block-start: var(--space-s);
+	}
+</style>

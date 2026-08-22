@@ -4,6 +4,7 @@ import { Image } from 'astro:assets';
 import { marked } from 'marked';
 import ContentHero from '../../components/ContentHero.astro';
 import ImageGallery from '../../components/ImageGallery.astro';
+import SiteFunding from '../../components/SiteFunding.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import { siteConfig } from '../../config';
 import { fetchProtectEarthSitesSafely, toKebabCase } from '../../helpers';
@@ -204,6 +205,9 @@ const fundingPartnerInfos = fundingPartners
 
 		<!-- Image Gallery -->
 		<ImageGallery images={images} siteName={siteName} />
+
+		<!-- Funding Status -->
+		<SiteFunding siteId={siteId} siteName={siteName} />
 
 		<!-- Species Section -->
 		{
