@@ -108,9 +108,9 @@ try {
 									{item.allocatedUnits.toLocaleString()} of {totalUnits.toLocaleString()}{' '}
 									{item.label} sponsored.
 									{product?.url ? (
-										<a href={product.url}>Sponsor more</a>
+										<a class="sponsor-link" href={product.url}><span>Sponsor more</span></a>
 									) : (
-										<span class="coming-soon">Coming soon</span>
+										<span class="coming-soon">Sponsorship coming soon!</span>
 									)}
 								</p>
 							</div>
@@ -199,6 +199,40 @@ try {
 	.heading h3,
 	.detail p {
 		margin: 0;
+	}
+
+	.sponsor-link {
+		display: inline-flex;
+		align-items: center;
+		gap: var(--space-3xs);
+		margin-block-start: var(--space-2xs);
+		font-weight: 900;
+		color: var(--link);
+		text-decoration: none;
+	}
+
+	.sponsor-link span {
+		text-decoration: underline;
+		text-decoration-thickness: 2px;
+		text-underline-offset: 0.2em;
+	}
+
+	.sponsor-link::after {
+		content: '→';
+		display: inline-block;
+		font-size: var(--font-m);
+		line-height: 0.8;
+		transition: transform var(--transition);
+	}
+
+	.sponsor-link:hover,
+	.sponsor-link:focus-visible {
+		color: var(--link-hover);
+	}
+
+	.sponsor-link:hover::after,
+	.sponsor-link:focus-visible::after {
+		transform: translateX(var(--space-3xs));
 	}
 
 	.heading span {
