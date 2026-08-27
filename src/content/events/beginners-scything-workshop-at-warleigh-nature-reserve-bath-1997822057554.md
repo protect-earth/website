@@ -4,7 +4,11 @@ description: A beginner's course to learn how to scythe and care for your equipm
 pubDate: 2026-09-05T09:00:00.000Z
 startDate: 2026-09-05T09:00:00.000Z
 endDate: 2026-09-05T12:00:00.000Z
+onlineEvent: false
 address: 'Bath, BA1 8EE'
+coordinates:
+  - -2.3866048
+  - 51.3845283
 eventbriteLink: 'https://www.eventbrite.co.uk/e/beginners-scything-workshop-at-warleigh-nature-reserve-bath-tickets-1997822057554'
 thumbnail: ../../assets/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554/0c83965ab425.jpg
 images:

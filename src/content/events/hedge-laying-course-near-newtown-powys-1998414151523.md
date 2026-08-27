@@ -4,7 +4,11 @@ description: 'FREE hedge laying course led by an experienced hedge layer for any
 pubDate: 2026-10-03T09:00:00.000Z
 startDate: 2026-10-03T09:00:00.000Z
 endDate: 2026-10-03T15:00:00.000Z
+onlineEvent: false
 address: 'Llanllwchaiarn, SY16 3BH'
+coordinates:
+  - -3.291535
+  - 52.524461
 eventbriteLink: 'https://www.eventbrite.co.uk/e/hedge-laying-course-near-newtown-powys-tickets-1998414151523'
 thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg
 images:

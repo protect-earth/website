@@ -4,7 +4,11 @@ description: 'We are offering free courses for all working in farming, led by an
 pubDate: 2026-10-24T09:00:00.000Z
 startDate: 2026-10-24T09:00:00.000Z
 endDate: 2026-10-24T15:00:00.000Z
+onlineEvent: false
 address: 'Newtown, SY16 3BH'
+coordinates:
+  - -3.2917945
+  - 52.5239188
 eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-near-newtown-powys-tickets-1998416716194'
 thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/6a76c4555f38.jpg
 images:

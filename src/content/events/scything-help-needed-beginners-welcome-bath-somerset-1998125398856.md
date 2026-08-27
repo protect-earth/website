@@ -4,11 +4,15 @@ description: 'Volunteers needed to help us cut grass at Warleigh Nature Reserve.
 pubDate: 2026-08-29T10:00:00.000Z
 startDate: 2026-08-29T10:00:00.000Z
 endDate: 2026-08-29T14:00:00.000Z
+onlineEvent: false
 address: 'Bath, BA1 8EE'
+coordinates:
+  - -2.3866048
+  - 51.3845283
 eventbriteLink: 'https://www.eventbrite.co.uk/e/scything-help-needed-beginners-welcome-bath-somerset-tickets-1998125398856'
-thumbnail: ../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/5f5177470ffa.jpg
+thumbnail: ../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/deb262178c23.jpg
 images:
-  - ../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/5f5177470ffa.jpg
+  - ../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/deb262178c23.jpg
   - ../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/462d57189b86.jpg
 ---
 Introduction

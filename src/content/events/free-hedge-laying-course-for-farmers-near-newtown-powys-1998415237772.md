@@ -4,13 +4,17 @@ description: We are offering  a free hedge laying course run by an experienced t
 pubDate: 2026-10-10T09:00:00.000Z
 startDate: 2026-10-10T09:00:00.000Z
 endDate: 2026-10-10T15:00:00.000Z
+onlineEvent: false
 address: 'Newtown, SY16 3BH'
+coordinates:
+  - -3.2917945
+  - 52.5239188
 eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farmers-near-newtown-powys-tickets-1998415237772'
 thumbnail: ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/db6dc91cca99.jpg
 images:
   - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/db6dc91cca99.jpg
   - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/b8a342d19b93.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/1783eb003dce.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/c3d52be2c143.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 
