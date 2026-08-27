@@ -19,5 +19,5 @@ images:
   - >-
     ../../assets/sites/romford/9c37ca4fe983c03a693577de0f2730067ff459a9c3e5ab6c9fcdd79bdd31ee10.jpg
 siteId: 01983256-3ca4-720b-a7d8-210468e2b83d
+flagShowArea: true
 ---
-
