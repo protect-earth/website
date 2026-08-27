@@ -8,7 +8,6 @@ treesPlanted: 1874
 photos:
   - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/e0cf99c96b293ff87e8d96b574f237cddd1ef2339ea3a7e5fa281973600021b7.jpg"
   - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/8b7f533ca35cb14593c7869089ea68a3c7ae2ed44dc5ad07d348bc2a25dcfad9.jpg"
-  - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/882a2212833c893a81e2e68081bcbb971bcee4ff4bc4c784933b0794ebb01928.jpg"
   - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/9914a1385b4482fdc1f36ecbe64be7bd402105608a12c1a57245579ceac775cd.jpg"
   - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/804c2db50f093c2d2110164b67e314487f495bc74ddb7ea2ceff8c8e96c1bcd1.jpg"
   - "../../assets/site-updates/mauchline-initial-planting-1214c8cc/18925d521623b14b434f04417fecd262720525a3a4d9cc97357b05a516e1c5e0.jpg"

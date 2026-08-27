@@ -19,8 +19,8 @@ photos:
   - "../../assets/site-updates/hawling-windrush-survey-2026-fcfda793/a50b8339d5591c5b8fe70ef6f0467d3c5aab05eea8236ce8de450aaa64338d6c.jpg"
 ---
 
-Where the tee planting area was safely protected by fencing the saplings were performing quite well, despite the drought and long grass. Our spring maintenance day will have helped and we will be going back to complete that task in early September. Most of the surviving trees were well out of their guards. There was also some evidence of regeneration, especially blackthorn which is growing well on this chalky soil.
+Where the tree planting area was safely protected by fencing the saplings were performing quite well, despite the drought and long grass. Our spring maintenance day will have helped and we will be going back to complete that task in early September. Most of the surviving trees were well out of their guards. There was also some evidence of regeneration, especially blackthorn which is growing well on this chalky soil.
 
-Unfortunately, sheep were allowed into the unfenced part of the site and they knocked over guards and grazed on a majority of the saplings.  Despite this, the hardiest trees survived sheep, drought and heat stress and we found  an impressive number of trees clinging to life by regenerating from their roots. This area is now also fenced off so we plan to return to restock this winter. We will be monitoring it’s progress closely, and likely returning to carry out more maintenance next summer.
+Unfortunately, sheep were allowed into the unfenced part of the site and they knocked over guards and grazed on a majority of the saplings. Despite this, the hardiest trees survived sheep, drought and heat stress and we found  an impressive number of trees clinging to life by regenerating from their roots. This area is now also fenced off so we plan to return to restock this winter. We will be monitoring it’s progress closely, and likely returning to carry out more maintenance next summer.
 
 It was also good to see thriving wildflowers next to the trees which were teeming with butterflies and bees.

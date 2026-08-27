@@ -18,8 +18,6 @@ photos:
   - "../../assets/site-updates/tiverton-hemyock-survey-2026-73a6d400/5913334214fc9b011914ceb3dab4b6b1e7354623dcbac7b9f5e1dfce903a849e.jpg"
 ---
 
-When our surveyor visited this site it was very rewarding to see how well it is doing with most trees well out of their guards. The sheltered nature of the site may well have helped. Fortunes varied with a 95% success rate in one part of the site but only 84% in the other. However, an overall  survival rate of 90% is still good and well above our guaranteed 80% minimum survival rate.
+When our surveyor Angus visited the site, it was very rewarding to see how well the planting is establishing, with most trees now growing well out of their guards. The sheltered nature of the site is likely helping and oak, hazel, birch, and rowan are doing particularly well here. Survival rates varied slightly across the area, from 95% in one section to 84% in another, giving an overall success rate of 90%. This is well above our 80% minimun survival rate goal.
 
-There is some evidence of deer visiting the site, although this does not appear to be a serious problem.
-
-The surrounding vegetation is mainly grass with some thistle, dock and nettle, and is slightly competing with the trees. This site would benefit from a little general maintenance, but the landowners are confident that they can do it themselves. They have done very well so far, so we are happy to leave it to them for the time being.
+The surrounding vegetation consists mainly of grass alongside some thistle, dock, and nettle, which is competing slightly with the young trees. While the site would benefit from some light maintenance, the landowners have done a great job so far and are confident managing this themselves, so we are happy to leave it in their hands for now. There is also minor evidence of deer on-site, though it does not currently appear to be an issue.

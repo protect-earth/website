@@ -4,7 +4,7 @@ notionId: "380e7dc6-657c-8050-a110-c015e3759bb0"
 type: "Survival Survey"
 date: "2026-06-15T00:00:00.000Z"
 siteNotionId: "0c67e574-f93c-4d01-aadc-666b483916ee"
-survivalRate: 0.7759999999999999
+survivalRate: 0.78
 photos:
   - "../../assets/site-updates/manaccan-roskruge-survey-2026-e3759bb0/dc845e57946d5fc8e7efcba1c77f142021e9def513f8a3a77a6c3b444f7a05c2.jpg"
   - "../../assets/site-updates/manaccan-roskruge-survey-2026-e3759bb0/f127d7c9c2cd4e70611b27d081ad6dde96435461525c7692b32464d8d0341e1f.jpg"

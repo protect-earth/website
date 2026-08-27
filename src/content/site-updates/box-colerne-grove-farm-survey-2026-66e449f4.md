@@ -16,4 +16,6 @@ photos:
 
 We were pleased to see some of the trees poking out of their guards, although some showed signs of heat stress. Although the ground is dry, many of the young saplings are sheltered by more mature trees which will have helped them to survive. The Woodland Trust donated 50 trees here, bringing the survival rate up to 73%.
 
-The site has been well maintained with guards and stakes straightened or replaced as necessary. Weeding inside the guards has also helped as grass and weeds can rot inside the guards, damaging the bark and causing the tree to die. The guards showed some signs of deer damage, but deer do not appear to be a major problem here.
+The site has been well maintained, with guards and stakes straightened or replaced where necessary. Thorough weeding inside the guards has also made a difference, preventing trapped grass and weeds from rotting against the bark. Although we noted minor deer damage on some shelters, deer pressure does not appear to be a major concern.
+
+Looking ahead, this planting will act as a vital wildlife corridor, connecting an established woodland and adjacent hedgerows directly to the larger Box Woods. While it will take time to fully mature, the route is already showing early signs of wildlife activity, evidenced by animal droppings, the shelter of uncut grass, and natural tree and shrub regeneration taking hold along the lower edge of the site.

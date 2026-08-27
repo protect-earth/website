@@ -7,33 +7,8 @@ siteNotionId: "bc400cb9-58d0-4ef8-8d78-04a38a6a28c0"
 treesPlanted: 500
 photos:
   - "../../assets/site-updates/pantpurlais-planting-2-602aafed/6db6a7a851cd8ab9fec44a81f829eb9bd5055bf656455110b134f42e70e0293f.jpg"
-  - "../../assets/site-updates/pantpurlais-planting-2-602aafed/1eb6f72ae0fefabbc79a704860a27c5dbc929b06d86623a278d85ae297a78c23.jpg"
 ---
 
-We headed back to plant Field 1b this time (1a last time), which is adding another 500 trees.
+Armed with more experience and a group of willing volunteers we returned once more to create a new native woodland in a different field.
 
-Species Breakdown:
-
-Silver Birch - 100
-
-Downy Birch - 100
-
-Sessile Oak - 45
-
-Small Leaved Lime - 50
-
-Wild Cherry - 50
-
-Common Alder - 20
-
-Hazel - 50
-
-Crab Apple - 15
-
-Wild Damson - 15
-
-Holly - 15
-
-Bird Cherry - 20
-
-Elder - 20
+We planted 717 saplings in higher density blocks of between 1100 and 1600/ha using mixed locally native species with alder, aspen and willow in the wetter areas with the remaining few dotted throughout the rest of the planting. The remaining species were planted anywhere on freely draining brown earth soils. Tree spacing was variable, but within the range of 1100-1600/ha (2.50-3.0m).  We avoided planting under the existing tree canopy and within the drip line of larger crowned trees. Native shrubs were planted throughout but mostly concentrated towards the edges of planting areas to provide the best chance of consistent flowering and fruit production.

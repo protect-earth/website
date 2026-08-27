@@ -16,7 +16,7 @@ photos:
   - "../../assets/site-updates/woodlea-mulch-matting-rhodo-check-2023-82322c7a/ebf3159b43527a382c57a361e3b08eeac22fc3119f4d5e3fac0895036b57045d.jpg"
 ---
 
-On our third visit to the site, we brought along some mulch mats to deal with the fast growing grass. We do this occasionally because sometimes the grass will have gotten super long and will actually be competing with the tree for the nutrients in the soil. The mulch mats smother the grass and weeds and actually keep in the moisture too, greatly increasing the tree’s survival chances during the hot, dry summers we seem to be getting more and more frequently.
+On our third visit to the site, we brought along some mulch mats to deal with the fast growing grass. We do this occasionally because sometimes the grass will have grown very long and will actually be competing with the tree for the nutrients in the soil. The mulch mats smother the grass and weeds and actually keep in the moisture too, greatly increasing the tree’s survival chances during the hot, dry summers we seem to be getting more and more frequently.
 
 We invited local volunteers to come and help Phil and the landowner as there were around 450 to do. Summer events are normally more pleasant, and this was an ideal day as it was warm but overcast so we didn’t get too hot. As usual, this friendly landowner provided drinks and biscuits, and everyone took a break to enjoy a picnic around 1pm.
 

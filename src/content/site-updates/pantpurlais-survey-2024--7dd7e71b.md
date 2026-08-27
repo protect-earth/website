@@ -4,7 +4,7 @@ notionId: "233e7dc6-657c-8083-9e22-eeeb7dd7e71b"
 type: "Survival Survey"
 date: "2024-07-01T00:00:00.000Z"
 siteNotionId: "bc400cb9-58d0-4ef8-8d78-04a38a6a28c0"
-survivalRate: 0.895
+survivalRate: 0.9
 photos:
   - "../../assets/site-updates/pantpurlais-survey-2024--7dd7e71b/98ef184acfc379855b3ac0e54c3984d25a6a115a9841a9f56459068aad5502c3.jpg"
   - "../../assets/site-updates/pantpurlais-survey-2024--7dd7e71b/0dd7717fda6cecc58c78a09d250f638ce338eead76f1ab554e2e08edb33a78b7.jpg"

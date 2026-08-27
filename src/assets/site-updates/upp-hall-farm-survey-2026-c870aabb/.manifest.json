@@ -1,0 +1,38 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/cb912b9a-c6b2-4a51-a7b9-95a416fa90da/cropped_unnamed-2.jpg": {
+    "localName": "ea8729c91601dff3964fedd084fc68a2a8951a3521044da7f6e2e2fc4ec08cb2.jpg",
+    "checksum": "ea8729c91601dff3964fedd084fc68a2a8951a3521044da7f6e2e2fc4ec08cb2",
+    "sourceChecksum": null,
+    "fileName": "cropped unnamed-2.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/a12fd4c7-0ef6-45b4-ac6c-ad37a874685e/unnamed-3.jpg": {
+    "localName": "1075b864200e7452ee594c55e26dacfbd4c18be39c485c6ea1e75af9b9926f2a.jpg",
+    "checksum": "1075b864200e7452ee594c55e26dacfbd4c18be39c485c6ea1e75af9b9926f2a",
+    "sourceChecksum": null,
+    "fileName": "unnamed-3.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/383f34a5-ca3b-454f-b58e-e38cf16809e9/unnamed-4.jpg": {
+    "localName": "9015f1301d9e2e68a4990d80fc5099ad212381e2a2f3fc19f0261695eeb20a03.jpg",
+    "checksum": "9015f1301d9e2e68a4990d80fc5099ad212381e2a2f3fc19f0261695eeb20a03",
+    "sourceChecksum": null,
+    "fileName": "unnamed-4.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/6267ac08-c043-4a50-a174-2782f9bc3f10/cropped_unnamed.jpg": {
+    "localName": "0ba4422a2ca470c8a5beff6f02309618f06c0cd2c58fdfcc496263a4be11952e.jpg",
+    "checksum": "0ba4422a2ca470c8a5beff6f02309618f06c0cd2c58fdfcc496263a4be11952e",
+    "sourceChecksum": null,
+    "fileName": "cropped unnamed.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/51efaf5b-ed06-43c2-a3f8-9366fd29edaa/cropped_unnamed-1.jpg": {
+    "localName": "2eb56efd3adab7fd08894efa38d369413fa9b0ffe2c59e8abf4e89682a48fd0c.jpg",
+    "checksum": "2eb56efd3adab7fd08894efa38d369413fa9b0ffe2c59e8abf4e89682a48fd0c",
+    "sourceChecksum": null,
+    "fileName": "cropped unnamed-1.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/0953e574-89e4-4913-b831-1ee9dee00729/cropped_oak_with_acorns_IMG_7475.jpeg": {
+    "localName": "e5927a674c2257c70031753a59b9e76ffb72c3effa3a9f8fd42875d53e1ae8af.jpg",
+    "checksum": "e5927a674c2257c70031753a59b9e76ffb72c3effa3a9f8fd42875d53e1ae8af",
+    "sourceChecksum": null,
+    "fileName": "cropped oak with acorns IMG_7475.jpeg"
+  }
+}

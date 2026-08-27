@@ -11,6 +11,6 @@ photos:
   - "../../assets/site-updates/upp-hall-farm-planting-2022-4044c35a/f26446f7f6245ef3480dd87135b886a6bf0fdcf55cb6e2238d0f141f568b9320.jpg"
 ---
 
-In October 2022 we visited Upp Hall Farm and planted 600 trees. These were cell-grown trees as we needed to get the season off to an early start. The trees were scattered randomly over two areas of the farm, with shrubs mainly around the perimeter. We left some open clearings and ensured we did not encroach on the public footpath which crosses the site.
+In October 2022 we visited Upp Hall Farm and planted 600 trees. These were cell-grown trees as we needed to get the season off to an early start. We chose to randomly plant the trees in a rough ratio of 85:15, trees to shrubs respectively. This will mean that as they grow, each tree will have plenty of room to stretch their branches as wide as they care to.  We left some open clearings and ensured we did not encroach on the public footpath which crosses the site.
 
-We were lucky to get the use of some heavy equipment for moving trees which saves us so much time, and we had great autumn weather for the planting days. All trees were supported with stakes and guards, and the planting was done over a  two days with the help of our volunteers, including a corporate group from Google.
+We were lucky to get the use of some transportation for moving trees which saves us so much time, and we had great autumn weather for the planting days. All trees were supported with stakes and guards, and the planting was carried out over two days with the help of our volunteers, including a corporate group from Google.
