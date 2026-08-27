@@ -1,4 +1,6 @@
 ---
+fundingPartners:
+  - 9trees
 tags:
   - woodland creation
 images:

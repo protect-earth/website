@@ -60,7 +60,7 @@ try {
 					return (
 						<div class="stat">
 							<strong>
-								{value}{' '}{unit}
+								{value} {unit}
 							</strong>
 							<span> of {item.name.toLowerCase()}</span>
 						</div>
@@ -108,7 +108,9 @@ try {
 									{item.allocatedUnits.toLocaleString()} of {totalUnits.toLocaleString()}{' '}
 									{item.label} sponsored.
 									{product?.url ? (
-										<a class="sponsor-link" href={product.url}><span>Sponsor more</span></a>
+										<a class="sponsor-link" href={product.url}>
+											<span>Sponsor more</span>
+										</a>
 									) : (
 										<span class="coming-soon">Sponsorship coming soon!</span>
 									)}
@@ -120,7 +122,8 @@ try {
 			</ul>
 
 			<p class="funding-note">
-				Sponsors receive a certificate showing what has been done where, but for now it is not possible to guarantee it will be at this site.
+				Sponsors receive a certificate showing what has been done where, but for now it is not
+				possible to guarantee it will be at this site.
 				{/* Specific site-based sponsoring will come in https://github.com/protect-earth/website/issues/100 */}
 			</p>
 		</section>
@@ -290,5 +293,4 @@ try {
 		color: var(--grey-mid);
 		margin-block-start: var(--space-s);
 	}
-
 </style>
