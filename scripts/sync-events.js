@@ -132,16 +132,15 @@ function normalizeAddress(address = {}) {
 	return locality || postcode;
 }
 
-function buildMapUrl(address, latitude, longitude) {
-	if (latitude && longitude) {
-		return `https://maps.google.com/?q=${encodeURIComponent(`${latitude},${longitude}`)}`;
+function buildGeoJsonCoordinates(latitude, longitude) {
+	const lat = Number(latitude);
+	const lon = Number(longitude);
+
+	if (!Number.isFinite(lat) || !Number.isFinite(lon)) {
+		return null;
 	}
 
-	if (!address) {
-		return '';
-	}
-
-	return `https://maps.google.com/?q=${encodeURIComponent(address)}`;
+	return [lon, lat];
 }
 
 function htmlDescriptionToMarkdown(html, summary) {
@@ -570,10 +569,9 @@ async function syncEvents() {
 
 		const venue = event.venue || (await fetchVenue(event.venue_id));
 		const address = event.online_event ? 'Online event' : normalizeAddress(venue?.address);
-		const map = event.online_event
-			? ''
-			: buildMapUrl(address, venue?.address?.latitude, venue?.address?.longitude);
-
+		const coordinates = event.online_event
+			? null
+			: buildGeoJsonCoordinates(venue?.address?.latitude, venue?.address?.longitude);
 		const startDate = asDate(event.start?.utc, new Date());
 		const endDate = asDate(event.end?.utc, startDate);
 		const pubDate = toIsoDate(event.created?.utc || event.start?.utc, startDate);
@@ -605,14 +603,15 @@ async function syncEvents() {
 			pubDate: new Date(pubDate),
 			startDate,
 			endDate,
+			onlineEvent: Boolean(event.online_event),
 			address: address || 'TBC',
+			coordinates: coordinates || null,
 			eventbriteLink: event.url || '',
 		};
 
 		if (typeof existingFrontmatter.customCta === 'string' && existingFrontmatter.customCta.trim()) {
 			frontmatter.customCta = existingFrontmatter.customCta.trim();
 		}
-
 		if (thumbnail) {
 			frontmatter.thumbnail = thumbnail;
 		}
