@@ -19,5 +19,6 @@ images:
   - >-
     ../../assets/sites/nannerch/e7ecf95920f7a3f9eb530e60770782c5d93b496bb5f414f1a749fe6cd58163d0.jpg
 siteId: 9f4b3273-01dc-4afd-b289-bdec8ace72ba
+flagShowArea: true
 ---
 
