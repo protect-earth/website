@@ -11,6 +11,8 @@ images:
   - >-
     ../../assets/sites/south-molton/7dd9e8a274d0fc96c56ff8231b76e7e11334675220f79f88134e4de29e8e4201.jpg
   - >-
+    ../../assets/sites/south-molton/fa797c3c3134e0361de9593ce56d6002068904669b6018498351f2b99a9b6b0a.jpg
+  - >-
     ../../assets/sites/south-molton/1c60898f8feb2c1bcdb4925fb04f9c9b80dcc8456280d47a5bc38e80f15e3db5.jpg
   - >-
     ../../assets/sites/south-molton/470b3736c981667c2934ae792b065c86230049b903d6e6f898d82b385934ca51.jpg

@@ -12,3 +12,4 @@ photos:
   - "../../assets/site-updates/stainswick-farm-photos-2025-77ed346a/7b1df0c7824a79bced102366fdef47426c65a0d2f9ccacf2440f341b47d6a1fa.jpg"
 ---
 
+FWAG sent us some photos of the the shelterbelt but did not carry out a full survey. It was clear, despite some competition from long grass and nettles, that the trees are flourishing with many well out of their guards. The silver birch, which are quick growers anyway, are doing exceptionally well.

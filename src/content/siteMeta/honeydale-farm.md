@@ -6,17 +6,11 @@ notionIds:
 siteId: 96b67cc9-4877-47a9-98c6-7bd27d204250
 images:
   - >-
-    ../../assets/sites/honeydale-farm/61d8fb5f54b8d731d8c70d62e21fcf4716ac4a4cd86c9236790e6c0bdc222532.jpg
-  - >-
-    ../../assets/sites/honeydale-farm/7aa02718926ca6583e55bb171de7420dbb4869f80047091bec1d5dd89fc1c77b.jpg
-  - >-
     ../../assets/sites/honeydale-farm/b23c4f6ebfd782daad4814a39bb46b6240d7d7de4ca1a07483ddd30164681868.jpg
   - >-
     ../../assets/sites/honeydale-farm/d952b96582fb48f9793b03e857f2af1ab535fc14617aed30adda25ef4f1e4e53.jpg
   - >-
     ../../assets/sites/honeydale-farm/e6c961f9e20ef846504a90e77ee4fe021fabacf60dadee129af8622fe3c53bd1.jpg
-  - >-
-    ../../assets/sites/honeydale-farm/d5911e0dfba1bea015649a5045041c384fc8b744f1b46f06c254ca899ce567f8.jpg
   - >-
     ../../assets/sites/honeydale-farm/034087a5d89daa12e38144bafccbd0cc8be04af45b819ec73bb6723160a1406a.jpg
   - >-

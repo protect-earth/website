@@ -21,6 +21,8 @@ We ordered trees, stakes and guards from a very local nursery and they agreed  t
 
 One corporate group, Youngs, came on the Friday and the rest of the volunteers came mainly from nearby towns, although one came all the way from Bristol, camped in the field and helped on all three days. That’s dedication! We had such a good turn out of volunteers on both Friday and Saturday (around 30 each day including one teenager working for his D of E Award) that the Sunday volunteers were not needed!
 
+Trees were planted as bare rooted 40-60cm whips and were protected with 1.2m tree tubes and stakes in clusters of the same species, randomly spaced. Shrubs protected with 75cm shrub guards and stakes. Random gaps were left to provide open areas in the woodland.
+
 Because this site is not connected to anyone’s home, a neighbour was kind enough to provide lunch and hot drinks for everyone. The members of WCS invited all the volunteers out for dinner at a local pub at their expense. Not everyone was able to accept, but those that did had a wonderful time.
 
 We asked the volunteers for some feedback about their day and this is their response: “Everything went well, clear instructions, great briefing from Duncan at start of activities, good supply of tools, poles, trees, supports. Steve and Andy friendly for regular refill of missing materials. Lovely lunch and facilities provided by nearby house owner.” Everyone we asked said they would love to volunteer again.

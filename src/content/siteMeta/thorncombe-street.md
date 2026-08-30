@@ -10,6 +10,8 @@ images:
   - >-
     ../../assets/sites/thorncombe-street/47bbc6fa082e33ccfec275f4b1b5840f7dd5deed0499ce58456af5c37f346c8d.jpg
   - >-
+    ../../assets/sites/thorncombe-street/ba860eed26e7e43f067bfedbc342585455e9266b7552d58c2818f669e1f1dd19.jpg
+  - >-
     ../../assets/sites/thorncombe-street/df7ec1959f59e843b84e3905a8b57dd2978adeea9e48fda1e6f222a6ec9e2827.jpg
   - >-
     ../../assets/sites/thorncombe-street/996ee437001d262208f1540dc06b08040dfe79185cafd747404b9753b7274aab.jpg

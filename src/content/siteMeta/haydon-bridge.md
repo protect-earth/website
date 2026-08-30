@@ -9,6 +9,8 @@ images:
   - >-
     ../../assets/sites/haydon-bridge/509bcb40f1679fc35a1c6b9935fdacb0bcc83b5faa7cc97b25f4c0e54e1c09f4.jpg
   - >-
+    ../../assets/sites/haydon-bridge/0335bf6bf8e088abfa6af260ee39789ca8090e6d0ba96facaad2cd36497c81c0.jpg
+  - >-
     ../../assets/sites/haydon-bridge/1d58144a17dda1b71eb6bafb680c462914ca10bb70e730384bae7de27e59a071.jpg
   - >-
     ../../assets/sites/haydon-bridge/e7b8d6db1ab2ab3da63a368b8d02fbf816f82b31f5f039a906dc50c629e5dcd8.jpg

@@ -19,6 +19,6 @@ photos:
 
 In February 2025 we made a return visit to the South Molton site to put in some hedgerow. Hedgerows will be very useful to keep horses and sheep in place when they are bigger, as well as providing shade for them. We planted hedge species typically found in this part of Devon, which now connect up areas of existing woodland which we enhanced with more oak, rowan and hornbeam. All the species planted will provide food and nesting habitat for a wide range of wildlife found in this wooded valley on the edge of Exmoor.
 
-For this project we were joined by a group of corporate volunteers from CVS Vets. Rather than all coming at once, around twelve of the staff came on each day, some with their children, as someone had to be available if any local animals became ill.  In total, we planted 2,375 trees, creating much needed habitat on the site.
+For this project we were joined by a group of corporate volunteers from CVS Vets. Rather than all coming at once as someone had to be available if any local animals became ill, around twelve of the staff came on each day, some with their children. In total, we planted 2,375 saplings, creating much needed habitat on the site.
 
 It was an exceptionally chilly weekend, but despite the cold, all the volunteers enjoyed their day and especially appreciated the hot coffee and outdoor cooking! The landowner was very happy with the work and the overall experience of working with our team.

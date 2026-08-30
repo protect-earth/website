@@ -4,7 +4,7 @@ notionId: "254e7dc6-657c-8082-8aab-cc7c678b3c2a"
 type: "Survival Survey"
 date: "2025-08-19T00:00:00.000Z"
 siteNotionId: "05168f36-0b8a-4642-8b7a-e384c9992b41"
-survivalRate: 0.63
+survivalRate: 0.84
 photos:
   - "../../assets/site-updates/st-donats-castle-survey-2025-678b3c2a/92fcf16aae8be9d85bc625b05f4c1081b226260c9aaf57d900672c5d7ff8b1b8.jpg"
   - "../../assets/site-updates/st-donats-castle-survey-2025-678b3c2a/8b3475d456968bd5598c9e5f5b1e587446683334676977429852d2e1fa2ffdcd.jpg"
@@ -17,6 +17,8 @@ photos:
   - "../../assets/site-updates/st-donats-castle-survey-2025-678b3c2a/b217804b19efc6f522c3fcf4fa7865690522966b6c28b92b9ed71e5b8990bdee.jpg"
 ---
 
-We sampled 50 trees in the first planting zone, and the survival rate is 84%.  Anything that looked in serious distress was classified as dead, so the survival figure could be higher.  The dead saplings appeared to be ones that never established, i.e. no signs of growth.
+We were pleased to find that the trees were doing quite well when we visited for our survey, with a survival rate of 84%. Most trees were growing well above their guards. The dead saplings appeared to be ones that never established as these had no signs of growth.
 
-The area is very dry as it is well-drained soil and we have had so little rain, but many species are doing well, particularly Oak, Dog Rose, Scots Pine, Cherry and Hawthorn.  Rowan is presenting with fewer green leaves.  - Landowner Quote: ‘Since the March inspection in 2024, there have been 25% losses… We had 12 days of rain in each of June and July, and have had rain on 4 days in August so far, albeit not large volumes.
+The area is very dry as it is well-drained soil and we have had so little rain, but many species are doing well, particularly oak, dog rose, Scots pine, cherry and hawthorn.  Rowan is presenting with fewer green leaves than would normally be expected.
+
+It was good to see butterflies including the speckled wood butterfly near the trees.

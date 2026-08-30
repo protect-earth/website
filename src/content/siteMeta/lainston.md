@@ -7,8 +7,6 @@ notionIds:
   - c991d89c-6df6-4e4c-951f-29db110df47e
 images:
   - >-
-    ../../assets/sites/lainston/a358f6f5458b562982e26f7f004f17142ad03d80bb29cec4dc15cd35e4879b3d.jpg
-  - >-
     ../../assets/sites/lainston/fbde0e878847032655a0d4d7abce7e48e441de969864ad3483b4184a1adbd08f.jpg
   - >-
     ../../assets/sites/lainston/6eeef3970e81dc4b5f1a5e772751c36af95e036ec3e28f2a327a35e18b6fa863.jpg

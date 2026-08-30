@@ -12,7 +12,7 @@ photos:
   - "../../assets/site-updates/watford-community-initial-planting-99eb7a89/4aec2fa8bc122f914ff1e778cd1c4578e6ec52eaa91c1e3a5c71ad87a31852b2.jpg"
 ---
 
-This is the first planting of four near Watford which will be is one of our larger projects, with 3600 trees planned over the next two years. In November, we decided to begin by planting 400 trees at The Grove Hotel.
+This is the first planting of four near Watford which will be one of our larger projects, with 3600 trees planned over the next two years. In November, we decided to begin by planting 400 trees at The Grove Hotel.
 
 There was some initial panic as the Lord Lieutenant of Watford, Robert Voss CBE, was attending with members of the press to record the event, and the trees still hadn’t arrived! This rarely happens as we arrange delivery well in advance to allow for hitches, but of course it would happen for an important occasion like this one. The crisis was averted when the trees arrived at the last moment.
 

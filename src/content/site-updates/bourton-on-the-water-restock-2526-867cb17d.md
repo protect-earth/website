@@ -15,6 +15,6 @@ photos:
 
 When the team visited in March 2026 we teamed up with seven corporate volunteers from Sozo Design, a company from Cheltenham who had volunteered with us before, to restock with 150 new trees across the site. We recycled the stakes and guards from trees that had to be replaced, and everyone showed great teamwork throughout.
 
-Work included planting new trees, adding stakes and guards, and removing grass from the previously planted trees, with all the volunteers being refreshed on tree-planting techniques and health and safety rules. A big thank you to everyone who came, and to Peter for the very much appreciated tea and biscuits!
+Work included planting new trees, adding stakes and guards, and removing grass from the previously planted trees, with all the volunteers being refreshed on tree-planting techniques and health and safety rules. A big thank you to everyone who came, and to our friendly landowner for the very much appreciated tea and biscuits!
 
 When we return for our next survey, we’ll check how these new saplings are getting on, as well as looking at how the site is progressing as a whole.

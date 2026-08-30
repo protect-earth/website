@@ -15,7 +15,7 @@ We had 700 trees to plant to create a small woodland on our first visit to this 
 
 The first day dawn clear and bright and 9 very motivated local volunteers turned up to help. The first thing we discovered was that the ground was very stony and we had to pick our planting sites with care!
 
-There were 700 plants in total comprising 550 trees and 150 shrubs, making a 80% / 20% tree to shrub ratio. The plan was to plant trees in clusters of 8 to 10. and then plant shrubs around the periphery of the trees in species clusters of 3 to 4. Trees were planted with a 2.5 metre spacing but avoided rows and lines and uniformity were possible.  Some  small areas of open space were left amongst the planting.
+The saplings were a mix of 550 trees and 150 shrubs, making a 80% / 20% tree to shrub ratio. The plan was to plant trees in clusters of 8 to 10. and then plant shrubs around the periphery of the trees in species clusters of 3 to 4. Trees were planted with a 2.5 metre spacing but avoided rows and lines and uniformity were possible.  Some  small areas of open space were left amongst the planting.
 
 The landowners kept us fortified with hot drinks and sausage and bacon baps and everyone worked with a will, planting around 550 of the saplings on the first day!
 

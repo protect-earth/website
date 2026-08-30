@@ -14,7 +14,7 @@ photos:
 
 In March 2024 the team took a small group of volunteers to South Barrow to plant 300 trees. Volunteers were a mix of friends, family, some local volunteers  and a group of Vegan Runners who came after finishing a Parkrun! One family had missed out volunteering with us the previous week at Stawley, near Wellington, as we had finished a day early so they were thrilled when we invited them to come and help here instead. The landowner filmed some of the day using a drone.
 
-This site is very wet and it is hoped that the trees will help with that. All the saplings were protected with guards and stakes to give them the best possible chance of survival.
+This site is very wet and it is hoped that the trees will help with that. Trees were planted as bare rooted 40-60cm whips and were protected with 1.2m tree tubes and stakes in clusters of the same species, randomly spaced. Shrubs protected with 75cm shrub guards and stakes. Random gaps were left to provide open areas in the woodland.
 
 The volunteers were very enthusiastic about the project. Feedback after the event:
 

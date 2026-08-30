@@ -1,7 +1,7 @@
 ---
 title: "Highchurch Farm Workparty 2025"
 notionId: "238e7dc6-657c-8089-ba66-ed6514bc7634"
-type: "Maintenance"
+type: "Survival Survey"
 date: "2025-07-14T00:00:00.000Z"
 siteNotionId: "87927819-fff7-4f8f-88cd-6f7525aa434a"
 survivalRate: 0.75
