@@ -11,5 +11,7 @@ images:
     ../../assets/sites/watford-community/f2f7a65d6e8d39199c672ecbb269ae08f98c538ed3cf620a3f6af63111766390.jpg
   - >-
     ../../assets/sites/watford-community/82cd031df638353f316b42c4821f01dd06030595127468d9a42266989fe26e4a.jpg
+  - >-
+    ../../assets/sites/watford-community/b8498b6820580fc3b40572d76bfc4a005f75faa8429e063ddd1bd9bfdcf8e539.jpg
 ---
 

@@ -12,3 +12,5 @@ photos:
 ---
 
 While we were in South Molton planting the new hedgerow, our wonderful local volunteers also planted 125 trees, spread out at random with big spaces between them. As they grow, they should rewild naturally.
+
+The weather had been perfect, we all had a lot of fun, and many of the volunteers asked us to let them know when we were next in the area as they were very keen to volunteer with us again.

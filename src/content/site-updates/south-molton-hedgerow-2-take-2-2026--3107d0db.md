@@ -13,4 +13,4 @@ photos:
 
 We returned to South Molton to finish planting the hedgerow, wondering how many volunteers would turn up this time. We needn’t have worried. We put out an urgent appeal on local Facebook pages and the local people rallied round, including a local nature group and the amazing team from North Devon Recycling Centres run by SUEZ.
 
-We managed to get the work finished and also had time to plant 125 trees to create the planned small woodland.
+The volunteers were very keen to show their support and assured us that the people of South Molton was very eco-friendly despite the earlier poor turnout. They worked so well we were able to complete the hedgerow in good time.

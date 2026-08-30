@@ -11,4 +11,8 @@ photos:
   - "../../assets/site-updates/box-and-colerne-wadswick-farm-planting-2022-a5fa8554/7c06ade91fe85d519fcbd2274cc0ad330b48ccfc543a00faee41f1413eceefaf.jpg"
 ---
 
-This farm lies just outside the AONB (Area of Outstanding Natural Beauty) near Box. Their 20-year-old woodland had been badly affected by the devastating ash die-back in the last few years.  In partnership with the Cotswold Wardens and their volunteers we planted a more varied mix of 500 broadleaved native trees to replace the ash trees lost.  All trees were planted with stakes and guards to give them the best possible chance of thriving over the next few years. The maintenance will be carried out by local volunteers from the Cotswold Wardens.
+Rather than simply planting more ash trees, we restocked the woodland with a more varied biodiverse approach. In partnership with the Cotswold Wardens and their volunteers we planted 500 mixed broadleaved native trees to replace the ash trees lost.  All trees were planted with stakes and guards to give them the best possible chance of survival.
+
+By planting local, native species that are a little more resilient, we hope to have bolstered this ecosystem a little, and that in another 20 years time this woodland will be absolutely thriving.
+
+ The maintenance will be carried out by local volunteers from the Cotswold Wardens.

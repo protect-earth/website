@@ -19,12 +19,11 @@ We targeted trees that were either dead or leaning, as well as a few along the e
 One of the more unexpected jobs involved removing two old fence lines, both a traditional sheep fence and a rusted barbed-wire line. Clearing these is important for future access and safety, preventing hazards for people and wildlife.
 
 As we worked, we ensured that biodiversity benefitted from our activity:
-• Logs were stacked to dry and stored at 4–6ft lengths for easy handling.
-• A small number of high-quality long logs were left for potential milling, locking in carbon and providing opportunities for local timber use rather than burning or leaving to rot.
-• Two brash piles were created intentionally as overwintering habitat for insects and small mammals.
-• One small fire was used in the field and safely extinguished.
-• Impact on hazel regeneration was avoided wherever possible, and a bent hawthorn was left in place to regrow naturally.
 
+- Logs were stacked to dry and stored at 4–6ft lengths for easy handling.
+- A small number of high-quality long logs were left for potential milling, locking in carbon and providing opportunities for local timber use rather than burning or leaving to rot.
+- Two brash piles were created intentionally as overwintering habitat for insects and small mammals.
+- Impact on hazel regeneration was avoided wherever possible, and a bent hawthorn was left in place to regrow naturally.
 In total, we removed approximately 5 cubic metres (m³) of timber, most of which is now neatly stacked and ready for future use. The site may look a little untidy at first glance, but it has been left in a safe and manageable condition, and everything has been done with biodiversity and long-term woodland recovery in mind.
 
-Overall, it was a productive visit and the winch only came out once. We look forward to returning, sharing more images soon, and continuing the slow transformation of this conifer block back into a thriving broadleaf woodland ecosystem.
+Overall, it was a productive visit and the winch only came out once. We look forward to returning, and continuing the slow transformation of this conifer block back into a thriving broadleaf woodland ecosystem.

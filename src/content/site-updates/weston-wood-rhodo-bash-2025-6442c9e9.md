@@ -11,8 +11,4 @@ photos:
   - "../../assets/site-updates/weston-wood-rhodo-bash-2025-6442c9e9/aa0f6f61e16215ae19213e06aa36ddd1c3e601c33a7d8998036e8e40bb424c2b.jpg"
 ---
 
-Weston Wood, which is managed by Menston Area Nature Trust has a problem with invasive rhododendrons so they asked us for help. Despite looking pretty, rhododendrons can cause immense harm to a woodland, crowding out native plants, changing the acidity of the soil and damaging trees. They offer very little for wildlife, so biodiversity is lost.
-
-The rhododendron problem had rather overwhelmed the Trust, and they needed some advice and practical help to get rid of them. After an initial visit Phil and Steve returned with their chainsaws to take out the largest ones.
-
-They spent two days removing as much as they could with the help of some Trust members using bowsaws and loppers, working well away from where we were chain sawing. We plan to return to remove the rest of the plants with an army of volunteers next Winter.
+This lovely woodland was full of rhododendron so after an initial visit Phil and Steve returned with their chainsaws to take out the largest ones. They spent two days removing as much as they could with the help of some Trust members using bowsaws and loppers, working well away from where we were chain sawing so that everyone remained safe. We plan to return to remove the rest of the plants with an army of volunteers next winter.

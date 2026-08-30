@@ -1,5 +1,5 @@
 ---
-title: "St Donats Castle Planting"
+title: "St Donat’s Castle Planting"
 notionId: "2f1e7dc6-657c-804a-9cc9-e3a4cd65d0a4"
 type: "Tree Planting"
 date: "2024-02-03T00:00:00.000Z"
@@ -13,7 +13,7 @@ photos:
   - "../../assets/site-updates/st-donats-castle-planting-cd65d0a4/8b9d7c549400b93a7ccc7922ab77c3c92409d6c3e7190689f231e41e0bf9b49f.jpg"
 ---
 
-The Miyawaki Method was used here, which involves planting the saplings at a higher density than standard practice. With the hopes that they either compete and/or help one another to grow faster, denser and stronger. This was chosen due to the small size of the planting, only 300 square metres. It is somewhat of an experimental approach in the UK, but has been tested by Protect Earth previously in the southeast with very encouraging results.
+The Miyawaki Method was used here, which involves planting the saplings at a higher density than standard practice. With the hopes that they either compete and/or help one another to grow faster, denser and stronger. This was chosen due to the small size of the planting, only 300 square metres. It is somewhat of an experimental approach in the UK, but has been tested by Protect Earth previously in the south-east with very encouraging results.
 
 The planting included a resilient native mix chosen to establish well and provide long-term habitat for local wildlife.
 

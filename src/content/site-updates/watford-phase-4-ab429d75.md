@@ -11,6 +11,6 @@ photos:
   - "../../assets/site-updates/watford-phase-4-ab429d75/d0a83dcee4f28dbdc296572dfaf45879c0230f0911fd4fff91d4aa00fa864021.jpg"
 ---
 
-The following week  we returned to plant 1,200 more native broadleaved trees, continuing the woodland we had begun earlier. Again we had plenty of volunteers to achieve this, and by now some of them were familiar faces. The hotel has achieved its goal for the second year running, and are now confident of being able to continue without our help.
+We returned to plant 1,200 more native broadleaved trees, continuing the woodland we had begun the week before. Again we had plenty of volunteers to achieve this, and by now some of them were familiar faces. The hotel has achieved its goal for the second year running, and are now confident of being able to continue without our help.
 
 We are invested now, so we were please to see that they teamed up with Watford and West Herts Chamber of Commerce again to help the hotel’s garden team plant 2000 trees in March 2024, 2025 and 2026. Great job everyone.

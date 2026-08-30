@@ -11,6 +11,8 @@ images:
   - >-
     ../../assets/sites/bubbenhall/dc737ca770528d140a2ba364c016826cf1017eab29952bb910f53dcede88ae2b.jpg
   - >-
+    ../../assets/sites/bubbenhall/9f3f38f6a666a464dc9504ea7716acab511319fda04880f0b02614616a85b15c.jpg
+  - >-
     ../../assets/sites/bubbenhall/6ee40dff26b75cb24b57b3ee84ae6bf4acdcd2899625b466862550ad2093789b.jpg
   - >-
     ../../assets/sites/bubbenhall/14d23d744e07e718ac5bea930d63ce637ee521235925dd7b490e618489b41534.jpg

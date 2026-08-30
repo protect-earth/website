@@ -11,6 +11,8 @@ images:
   - >-
     ../../assets/sites/stawley/9443197166590ae56cd80569436537735f03773c996a22d031d8d12c291ba9d9.jpg
   - >-
+    ../../assets/sites/stawley/2868e0552c7d5b3934d4af7d731b5ff0470052da4efe23c45de77219e6f5ab8a.jpg
+  - >-
     ../../assets/sites/stawley/6d4209de897cfeb26fa6832f7383542a7c01193b021f6b069b88589b4e91479a.jpg
   - >-
     ../../assets/sites/stawley/57010cce74c6cf354df61fd61d852e3c15a5e4f793d08d80f372609d42a2dd24.jpg

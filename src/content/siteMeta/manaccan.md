@@ -9,7 +9,11 @@ images:
   - >-
     ../../assets/sites/manaccan/5e0b1e526f5382d4478356380a7109ab422bd3e638614417a12f18d3dea54d6e.jpg
   - >-
+    ../../assets/sites/manaccan/5079719dffa885d9b5856386d9f5ab54c38d489e637cb836803c44e53c55d701.jpg
+  - >-
     ../../assets/sites/manaccan/c13bf5af782a698dcd0e25d17af77f227f253471a624fb09bf51eec68524133f.jpg
+  - >-
+    ../../assets/sites/manaccan/e6ec33b5eb622d061e8ac1e3299c758443e96243dce0c8e00582c3a56a4484a3.jpg
   - >-
     ../../assets/sites/manaccan/11c3a0a4826d9e074ba931ebd1c94cceeb56f2e8757d54073326a4db7f009d14.jpg
   - >-

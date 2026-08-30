@@ -19,5 +19,6 @@ images:
   - >-
     ../../assets/sites/south-lodge/8135437f14845fca29989cc9fa3a339aa0494c9e43228ccfbd5bb0a53994a70a.jpg
 siteId: 98028f24-20fd-40ba-bac6-3f12524c7a16
+flagShowArea: true
 ---
 

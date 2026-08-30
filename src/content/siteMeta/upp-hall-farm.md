@@ -13,8 +13,6 @@ images:
   - >-
     ../../assets/sites/upp-hall-farm/c9d1829c453bf7f94f50d793cd4965bf530c526ef2c338af8a1eb80144534050.jpg
   - >-
-    ../../assets/sites/upp-hall-farm/acc04474692abf9da1f6342a4ba4f04e86d078193dcc286cfdb5146299b1231b.jpg
-  - >-
     ../../assets/sites/upp-hall-farm/ea8729c91601dff3964fedd084fc68a2a8951a3521044da7f6e2e2fc4ec08cb2.jpg
   - >-
     ../../assets/sites/upp-hall-farm/e989e9498b316ed739f6705b7579c81af2715eedf12a3b0369ebaae05f10cec7.jpg

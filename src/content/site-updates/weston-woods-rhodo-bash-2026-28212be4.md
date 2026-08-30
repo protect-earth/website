@@ -11,14 +11,14 @@ photos:
   - "../../assets/site-updates/weston-woods-rhodo-bash-2026-28212be4/f4cf5c4ef5c1f101205257fa0a51d38a9a6f24b1b8bc0d90f3538ab5e9c5ca42.jpg"
 ---
 
-Phil returned to Weston Woods, this time to remove the smaller rhododendons which could be removed without the use of chainsaws. The Menston Area Nature Trust had their own volunteers but we were able to find some more to make the job easier.
+Our team returned to Weston Woods, this time to remove the smaller rhododendons which could be removed without the use of chainsaws. The Menston Area Nature Trust had their own volunteers but we were able to find some more to make the job easier.
 
-After a demonstration of what to do and a health and safety talk (always vital when sharp tools are involved), the volunteers made a start, first cutting back outer branches before cutting through the actual trunk of each rhododendron. Phil always enjoys a ‘rhodo bash’ and his enthusiasm is infectious. By midday on the second day the rhododendrons were all cleared. The Trust were keen to introduce more water into the woodland so Phil showed them how to make leaky dams which were messy but fun to build and will help water flow on the site.
+After a demonstration of what to do and a health and safety talk (always vital when sharp tools are involved), the volunteers made a start, first cutting back outer branches before cutting through the actual trunk of each rhododendron. Phil always enjoys a ‘rhodo bash’ and his enthusiasm is infectious. By midday on the second day the rhododendrons were all cleared. The Trust were keen to introduce more water into the woodland so Phil showed them how to make leaky dams, which were messy but fun to build, and will help water flow on the site.
 
 Everyone was enthusiastic and helpful, and the organisers appreciated learning from us about woodland management.  One of their volunteers said “Thanks for supporting the Weston project, it was really nice to do something practical to help and have someone experienced and skilled to direct us.”
 
 Francesca, the Chair of the Trust sent us an email after the event.
 
-“Just a quick note to thank you for all your hard work on our behalf - since we have owned the woods it has been amazing to have your expertise and energy helping us remove the Rhododendron. Your support is really appreciated.Thank you for helping us channel our inner Beavers and build some dams - I had a great time and was delighted we managed to alter the stream's flow so effectively.”
+“Just a quick note to thank you for all your hard work on our behalf - since we have owned the woods it has been amazing to have your expertise and energy helping us remove the rhododendron. Your support is really appreciated. Thank you for helping us channel our inner beavers and build some dams - I had a great time and was delighted we managed to alter the stream's flow so effectively.”
 
 Many of the volunteers said that they would like to volunteer again, so hopefully we will see some familiar faces when we return to the site in future.

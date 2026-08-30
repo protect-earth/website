@@ -11,3 +11,4 @@ photos:
   - "../../assets/site-updates/weston-farm-photos-2025-cfed9c87/251f3edab0f1ac1eaf8e63b55c3a80029045bab0ec021257527561024b744279.jpg"
 ---
 
+FWAG took some photos of the shelterbelt we planted but did not carry out a full survey. It was good to see how well the trees are growing, with most well out of their guards and looking strong and healthy. There is some long grass, teasels, etc. growing around the saplings but this does not appear to be a problem at the moment.

@@ -15,7 +15,8 @@ photos:
   - "../../assets/site-updates/st-mary-st-john-primary-school-photos-2025-8ef9714e/34bd6bd6ff99ec0def77502de3778b622f83da78f64dd14a1485c6cf932794cc.jpg"
 ---
 
-The school’s headteacher tells us: “The children have really enjoyed seeing the trees grow, even just a little. It’s been a gentle but powerful reminder of the passage of time and how small actions can lead to lasting change.
-The planting was a positive and memorable experience for everyone involved. It brought the school community together and left a lasting impression on the children. We’re really grateful to have been part of something so meaningful.”
+The school’s headteacher tells us: “The children have really enjoyed seeing the trees grow, even just a little. It’s been a gentle but powerful reminder of the passage of time and how small actions can lead to lasting change. The planting was a positive and memorable experience for everyone involved. It brought the school community together and left a lasting impression on the children. We’re really grateful to have been part of something so meaningful.”
 
-Angus, the site inspector, visited the site in August 2025. Unfortunately, there was only a 35% survival rate of the trees. By the looks of it, all of the trees that were planted did grow buds but died before they grew leaves.
+Unfortunately, when we went to carry out our survival survey we were very disappointed to discover a survival rate of only 35%.  The ground was extremely dry and it would appear that all of the trees did grow buds but many died before they grew leaves.
+
+Obviously, we need to give some thought on how to proceed here.

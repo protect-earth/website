@@ -10,6 +10,6 @@ photos:
   - "../../assets/site-updates/watford-phase-3-4dba7bec/ba125cac998f0a23c0165fb79b091dea8a197571b0a09644edc3899a89cd03eb.jpg"
 ---
 
-The Grove Hotel try to be environmentally friendly, and so they had made a pledge to plant 2000 trees a year until 2028.  On a cold Friday in March, Phil and Steve were back in Watford to provide support for the planting of the first 1000 of the 2023 trees, as a continuation of our original project.  This time the aim was to start creating a 1.6 acre woodland.
+The Grove Hotel are continuing their pledge to plant 2000 trees a year until 2028.  On a cold Friday in March, our team were back in Watford to provide support for the planting of the first 1000 of the trees for 2023, as a continuation of our original project.  This time the aim was to start creating a 1.6 acre woodland.
 
 As always, the local people were very supportive and turned up with enthusiasm to help.

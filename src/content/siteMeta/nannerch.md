@@ -7,6 +7,8 @@ notionIds:
   - 434153c2-4272-48f7-9826-077adbf87b0f
 images:
   - >-
+    ../../assets/sites/nannerch/a06b357cc61276a6adecd238caa8cf5582277ec6a00460435ddf6d043b06b662.jpg
+  - >-
     ../../assets/sites/nannerch/c251a097d65a97f93e1cc175848446c91bf4c589d2e6b5f8bfaf3abb98b5e511.jpg
   - >-
     ../../assets/sites/nannerch/ffbdca7b0a67258da2dc512b177bd2f9b63aecdb07a0726df2449a34761ec829.jpg
@@ -19,5 +21,6 @@ images:
   - >-
     ../../assets/sites/nannerch/e7ecf95920f7a3f9eb530e60770782c5d93b496bb5f414f1a749fe6cd58163d0.jpg
 siteId: 9f4b3273-01dc-4afd-b289-bdec8ace72ba
+flagShowArea: true
 ---
 
