@@ -15,13 +15,16 @@ tags:
   - hedgerow
 images:
   - >-
+    ../../assets/sites/box-colerne/41e88874154a78471903e382138bee8aef7e936ffc627cb941cf5e3f76834e0d.jpg
+  - >-
+    ../../assets/sites/box-colerne/78898bec35b2eba96d0ea8a5f9d0f3824e0bcf994a1e5d09f8de523f57c1ee62.jpg
+  - >-
+    ../../assets/sites/box-colerne/a628f18a44cfac348564e0041e92c3150a41fc27cf940b13a25a72985ec51aea.jpg
+  - >-
     ../../assets/sites/box-colerne/21df0caeb3fbca787cf9c2726cf7b6bf0fd9cce885ebd0bd2039a4bad1d13a99.jpg
   - >-
     ../../assets/sites/box-colerne/2a1177a88e56009d4d43ee05dcfc4e13297dfe025d0f654f2f17849339de58b4.jpg
   - >-
     ../../assets/sites/box-colerne/bd6cfd0ce7809cf51aa3c3fc702ac1846df90c6a3e712c11350fb07aa264cd07.jpg
-  - >-
-    ../../assets/sites/box-colerne/9c0846eefef03dafb2333c188a12c786a418a3917db4632b4febfb25e66594fa.jpg
-  - >-
-    ../../assets/sites/box-colerne/bc316858b47772264ab505570d5571649743ae9f686687c37f27e161330e846d.jpg
 ---
+

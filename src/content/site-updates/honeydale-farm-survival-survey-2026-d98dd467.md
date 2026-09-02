@@ -8,6 +8,7 @@ survivalRate: 0.7068000000000001
 photos:
   - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/9587cc2288a73c08f91cf3f2cee0b0b9f1765bc85e33ac284862d5318565577a.jpg"
   - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/f2ba302948681e45eb55814a57f871d8b88c9b5f294bbb0043ebaaba462c4cc5.jpg"
+  - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/977d512ac6bb9162d82316c5fe83966956eae86546ebe3aaee131764e1eeb623.jpg"
   - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/435b0d5aa22560244b3dcdccfe2b7c8301e38e1fc393ab778d6f069788b5f90d.jpg"
   - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/2a3a182bc6f4d1f5f09e5a65958938f9d88db405206dba339664eedd90531025.jpg"
   - "../../assets/site-updates/honeydale-farm-survival-survey-2026-d98dd467/4ee2672514ba92ce739fa9195b8385aea94120e9e64f24548f5719b7c4e967c0.jpg"

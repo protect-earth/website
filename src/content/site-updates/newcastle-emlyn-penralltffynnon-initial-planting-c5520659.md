@@ -11,7 +11,7 @@ photos:
   - "../../assets/site-updates/newcastle-emlyn-penralltffynnon-initial-planting-c5520659/b2a4c0ed164878a4e8c12226f30f2e5c3b7631466f1d5965d5fdb7bea6a8ab35.jpg"
 ---
 
-We went to this beautiful part of West Wales on a bright and sunny January day to plant 450 saplings. Although a relatively small planting for us, it remains important for biodiversity as the trees we plant here will link up with trees already existing here.
+We went to this beautiful part of West Wales on a bright and sunny January day to plant 450 saplings. Although a relatively small planting for us, it remains important for biodiversity as the trees we plant here will link up with trees already existing nearby.
 
 We chose a mix of native trees with a Welsh seed provenance to ensure they had the best chance of survival and we protected them with stakes and guards.
 

@@ -1,24 +1,4 @@
 {
-  "1998125398856": {
-    "slug": "scything-help-needed-beginners-welcome-bath-somerset-1998125398856",
-    "markdown": "src/content/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856.md",
-    "thumbnail": "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/deb262178c23.jpg",
-    "mediaIds": [],
-    "galleryImages": [
-      "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/deb262178c23.jpg",
-      "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125398856/462d57189b86.jpg"
-    ]
-  },
-  "1998125399859": {
-    "slug": "scything-help-needed-beginners-welcome-bath-somerset-1998125399859",
-    "markdown": "src/content/events/scything-help-needed-beginners-welcome-bath-somerset-1998125399859.md",
-    "thumbnail": "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125399859/deb262178c23.jpg",
-    "mediaIds": [],
-    "galleryImages": [
-      "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125399859/deb262178c23.jpg",
-      "../../assets/events/scything-help-needed-beginners-welcome-bath-somerset-1998125399859/462d57189b86.jpg"
-    ]
-  },
   "1997822057554": {
     "slug": "beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554",
     "markdown": "src/content/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554.md",
@@ -29,6 +9,18 @@
       "../../assets/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554/2603d8384a7c.jpg"
     ]
   },
+  "1999263556115": {
+    "slug": "volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115",
+    "markdown": "src/content/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115.md",
+    "thumbnail": "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/59d4fe75e0c6.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/59d4fe75e0c6.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/087620f6f48b.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/fa73dc6789f2.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/6ce2d607d3ff.jpg"
+    ]
+  },
   "1998414151523": {
     "slug": "hedge-laying-course-near-newtown-powys-1998414151523",
     "markdown": "src/content/events/hedge-laying-course-near-newtown-powys-1998414151523.md",
@@ -36,7 +28,7 @@
     "mediaIds": [],
     "galleryImages": [
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg",
-      "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6f9cf0a36b87.jpg",
+      "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6a76c4555f38.jpg",
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/5ae313dd678a.jpg",
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/20cc99924e9d.jpg",
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/c3d52be2c143.jpg"
@@ -49,8 +41,31 @@
     "mediaIds": [],
     "galleryImages": [
       "../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/db6dc91cca99.jpg",
-      "../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/b8a342d19b93.jpg",
+      "../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/49a7c71632c4.jpg",
       "../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/c3d52be2c143.jpg"
+    ]
+  },
+  "1999279951153": {
+    "slug": "enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153",
+    "markdown": "src/content/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153.md",
+    "thumbnail": "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg",
+      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/3a5d9b1f6627.jpg",
+      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/f72b08155b10.jpg",
+      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/377c1ccb390c.jpg"
+    ]
+  },
+  "1999264751691": {
+    "slug": "volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691",
+    "markdown": "src/content/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691.md",
+    "thumbnail": "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/fa73dc6789f2.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/fa73dc6789f2.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/6077a9e3a7a0.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/59d4fe75e0c6.jpg"
     ]
   },
   "1998416716194": {
@@ -61,7 +76,7 @@
     "galleryImages": [
       "../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/6a76c4555f38.jpg",
       "../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/79df29834a4c.jpg",
-      "../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/cdd93c449ff3.jpg",
+      "../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/274a88a7a4b3.jpg",
       "../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/c3d52be2c143.jpg"
     ]
   }

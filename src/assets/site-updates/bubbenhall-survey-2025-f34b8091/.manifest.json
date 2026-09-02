@@ -17,12 +17,6 @@
     "sourceChecksum": null,
     "fileName": "PXL_20250827_110144614.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/49504526-b025-4e61-b2ca-cc61e0be377a/PXL_20250827_110611436.jpg": {
-    "localName": "5bb1b7aa64e13f8f30b50572c8aeaa680c5fd831282f547d4dc89cc1ddf250a4.jpg",
-    "checksum": "5bb1b7aa64e13f8f30b50572c8aeaa680c5fd831282f547d4dc89cc1ddf250a4",
-    "sourceChecksum": null,
-    "fileName": "PXL_20250827_110611436.jpg"
-  },
   "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/7249e980-e3c7-410a-b4e1-a7e18527bf39/PXL_20250827_110807768.jpg": {
     "localName": "0d587e2d268ba5aef024ff49f7a782acc646220a427e6802970306e51916e9a1.jpg",
     "checksum": "0d587e2d268ba5aef024ff49f7a782acc646220a427e6802970306e51916e9a1",
@@ -34,5 +28,11 @@
     "checksum": "699b250e41dec4eeed1701f610903f5b86d84a3eb7a3b856b4ab412c7113646b",
     "sourceChecksum": null,
     "fileName": "PXL_20250827_110809364.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/b883c8ae-e832-4001-830e-bcbbd261f040/cropped_PXL_20250827_110611436.jpg": {
+    "localName": "b192c6f89e7f554abed586b132f9ef15cdd649651144ea5d1031288e95eecf68.jpg",
+    "checksum": "b192c6f89e7f554abed586b132f9ef15cdd649651144ea5d1031288e95eecf68",
+    "sourceChecksum": null,
+    "fileName": "cropped PXL_20250827_110611436.jpg"
   }
 }

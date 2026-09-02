@@ -13,7 +13,7 @@ eventbriteLink: 'https://www.eventbrite.co.uk/e/hedge-laying-course-near-newtown
 thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg
 images:
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/cdd93c449ff3.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6f9cf0a36b87.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/6a76c4555f38.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/5ae313dd678a.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/20cc99924e9d.jpg
   - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/c3d52be2c143.jpg
