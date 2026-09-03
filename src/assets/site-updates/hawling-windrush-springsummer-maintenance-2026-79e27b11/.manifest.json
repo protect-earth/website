@@ -1,0 +1,50 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/2ad2a41c-69b2-41ad-9897-4a4fd2b152cb/02.09.26_Hawling_5.jpg": {
+    "localName": "594ede70409dcc2d71d36306e7709ba8fa896393a80ff32b15c1d60b7b4a4f52.jpg",
+    "checksum": "594ede70409dcc2d71d36306e7709ba8fa896393a80ff32b15c1d60b7b4a4f52",
+    "sourceChecksum": null,
+    "fileName": "02.09.26 Hawling 5.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/b7672e91-b0c6-450f-98cd-0a4c295ec0ee/02.09.26_Hawling_1.jpg": {
+    "localName": "451060cc1b020b5b6c7b5284fabd804173ab6336324c49bba2bb1008717a201c.jpg",
+    "checksum": "451060cc1b020b5b6c7b5284fabd804173ab6336324c49bba2bb1008717a201c",
+    "sourceChecksum": null,
+    "fileName": "02.09.26 Hawling 1.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/8f2a1451-5483-4056-9d99-4fe474ad3742/cropped_02.09.26_Hawling_8.jpg": {
+    "localName": "1f1f816ab0a8e80d33d37c31783b9d7a5ee631c4cff01c70abd776237c22e522.jpg",
+    "checksum": "1f1f816ab0a8e80d33d37c31783b9d7a5ee631c4cff01c70abd776237c22e522",
+    "sourceChecksum": null,
+    "fileName": "cropped 02.09.26 Hawling 8.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/4fe6b167-c707-4c57-97e3-72556af0fe1a/cropped_02.09.26_Hawling_3.jpg": {
+    "localName": "81ce4dfd474af2119532efcd043870ebf505f0554fbfab7aea5b6988ab3f9850.jpg",
+    "checksum": "81ce4dfd474af2119532efcd043870ebf505f0554fbfab7aea5b6988ab3f9850",
+    "sourceChecksum": null,
+    "fileName": "cropped 02.09.26 Hawling 3.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/4a60110e-16d4-4fb5-927c-84f01ab1396a/cropped_02.09.26_Hawling_7.jpg": {
+    "localName": "0cd2829f80be8b52b5d602a632a7e29a2c754ebc149cedad2885878b304957b2.jpg",
+    "checksum": "0cd2829f80be8b52b5d602a632a7e29a2c754ebc149cedad2885878b304957b2",
+    "sourceChecksum": null,
+    "fileName": "cropped 02.09.26 Hawling 7.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/24814d9c-54a5-4a73-be04-4a4f8b80130e/IMG_0500.jpg": {
+    "localName": "06626ae101aaa7f26723743b821f701b2e8646d3adc7b014f2baa29917fe6ee0.jpg",
+    "checksum": "06626ae101aaa7f26723743b821f701b2e8646d3adc7b014f2baa29917fe6ee0",
+    "sourceChecksum": null,
+    "fileName": "IMG_0500.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/e86aabf2-5601-4fbe-ad90-ad18015673ce/IMG_0502.jpg": {
+    "localName": "a96e00552fbf92a3374967bb75a956381867fa0a00e55bcaa0a6cf7e7b88290b.jpg",
+    "checksum": "a96e00552fbf92a3374967bb75a956381867fa0a00e55bcaa0a6cf7e7b88290b",
+    "sourceChecksum": null,
+    "fileName": "IMG_0502.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/c8e28472-7851-40bd-9344-b8f60258fc61/cropped_02.09.26_Hawling_6.jpg": {
+    "localName": "25e5c657d21d253bf647112d3d0b12ce1f3aae0f875e6a0f4fc2db9d8553e2f4.jpg",
+    "checksum": "25e5c657d21d253bf647112d3d0b12ce1f3aae0f875e6a0f4fc2db9d8553e2f4",
+    "sourceChecksum": null,
+    "fileName": "cropped 02.09.26 Hawling 6.jpg"
+  }
+}
