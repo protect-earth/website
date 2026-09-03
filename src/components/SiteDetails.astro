@@ -59,9 +59,7 @@ try {
 					const { value, unit } = formatWorkUnits(item.units, item.label);
 					return (
 						<div class="stat">
-							<strong>
-								{value} {unit}
-							</strong>
+							<strong>{`${value} ${unit}`}</strong>
 							<span> of {item.name.toLowerCase()}</span>
 						</div>
 					);
