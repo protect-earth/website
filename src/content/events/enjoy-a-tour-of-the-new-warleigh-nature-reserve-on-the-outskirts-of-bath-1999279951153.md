@@ -13,7 +13,7 @@ eventbriteLink: 'https://www.eventbrite.co.uk/e/enjoy-a-tour-of-the-new-warleigh
 thumbnail: ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg
 images:
   - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg
-  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/3a5d9b1f6627.jpg
+  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/994bb71dccfc.jpg
   - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/f72b08155b10.jpg
   - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/377c1ccb390c.jpg
 ---

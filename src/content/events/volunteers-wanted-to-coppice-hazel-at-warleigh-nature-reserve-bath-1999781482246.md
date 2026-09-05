@@ -1,26 +1,26 @@
 ---
-title: 'Volunteers needed to help us coppice hazel at Warleigh Nature Reserve, Bath'
-description: Experts and beginners equally welcome to help us manage this woodland to improve biodiversity. We promise an enjoyable and rewarding time.
-pubDate: 2026-10-11T09:00:00.000Z
-startDate: 2026-10-11T09:00:00.000Z
-endDate: 2026-10-11T15:00:00.000Z
+title: 'Volunteers wanted to coppice hazel at Warleigh Nature Reserve, Bath'
+description: All skill levels welcome. We can teach beginners this traditional craft as we work to increase biodiversity in our hazel woodland.
+pubDate: 2026-10-08T09:00:00.000Z
+startDate: 2026-10-08T09:00:00.000Z
+endDate: 2026-10-08T15:00:00.000Z
 onlineEvent: false
 address: 'Bath, BA1 8EE'
 coordinates:
-  - -2.3002778
-  - 51.3827952
-eventbriteLink: 'https://www.eventbrite.co.uk/e/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-tickets-1999264751691'
-thumbnail: ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/4f9d7099bbec.jpg
+  - -2.3866048
+  - 51.3845283
+eventbriteLink: 'https://www.eventbrite.co.uk/e/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-tickets-1999781482246'
+thumbnail: ../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/e123c144247f.jpg
 images:
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/4f9d7099bbec.jpg
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/e123c144247f.jpg
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/59d4fe75e0c6.jpg
+  - ../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/e123c144247f.jpg
+  - ../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/4f9d7099bbec.jpg
+  - ../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/59d4fe75e0c6.jpg
 ---
 Intro
 
 Come and have a fun day/half day with Protect Earth!
 
-Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling.
+Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, manage woodlands, create wildflower meadows, and help with tree maintenance for saplings that are struggling.
 
 What is happening?
 

@@ -1,14 +1,4 @@
 {
-  "1997822057554": {
-    "slug": "beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554",
-    "markdown": "src/content/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554.md",
-    "thumbnail": "../../assets/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554/0c83965ab425.jpg",
-    "mediaIds": [],
-    "galleryImages": [
-      "../../assets/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554/0c83965ab425.jpg",
-      "../../assets/events/beginners-scything-workshop-at-warleigh-nature-reserve-bath-1997822057554/2603d8384a7c.jpg"
-    ]
-  },
   "1999263556115": {
     "slug": "volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115",
     "markdown": "src/content/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115.md",
@@ -19,6 +9,18 @@
       "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/087620f6f48b.jpg",
       "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/fa73dc6789f2.jpg",
       "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/6ce2d607d3ff.jpg"
+    ]
+  },
+  "1999779543447": {
+    "slug": "volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447",
+    "markdown": "src/content/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447.md",
+    "thumbnail": "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447/02918d3a269d.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447/02918d3a269d.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447/fa73dc6789f2.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447/59d4fe75e0c6.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999779543447/b60508fcd9c8.jpg"
     ]
   },
   "1998414151523": {
@@ -32,6 +34,17 @@
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/5ae313dd678a.jpg",
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/20cc99924e9d.jpg",
       "../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/c3d52be2c143.jpg"
+    ]
+  },
+  "1999781482246": {
+    "slug": "volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246",
+    "markdown": "src/content/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246.md",
+    "thumbnail": "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/e123c144247f.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/e123c144247f.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/4f9d7099bbec.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999781482246/59d4fe75e0c6.jpg"
     ]
   },
   "1998415237772": {
@@ -52,7 +65,7 @@
     "mediaIds": [],
     "galleryImages": [
       "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg",
-      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/3a5d9b1f6627.jpg",
+      "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/994bb71dccfc.jpg",
       "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/f72b08155b10.jpg",
       "../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/377c1ccb390c.jpg"
     ]
@@ -60,12 +73,23 @@
   "1999264751691": {
     "slug": "volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691",
     "markdown": "src/content/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691.md",
-    "thumbnail": "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/fa73dc6789f2.jpg",
+    "thumbnail": "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/4f9d7099bbec.jpg",
     "mediaIds": [],
     "galleryImages": [
-      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/fa73dc6789f2.jpg",
-      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/6077a9e3a7a0.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/4f9d7099bbec.jpg",
+      "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/e123c144247f.jpg",
       "../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999264751691/59d4fe75e0c6.jpg"
+    ]
+  },
+  "1999782906506": {
+    "slug": "volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506",
+    "markdown": "src/content/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506.md",
+    "thumbnail": "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506/fa73dc6789f2.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506/fa73dc6789f2.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506/8eed0dbf11ef.jpg",
+      "../../assets/events/volunteers-wanted-to-coppice-hazel-at-warleigh-nature-reserve-bath-1999782906506/e123c144247f.jpg"
     ]
   },
   "1998416716194": {
