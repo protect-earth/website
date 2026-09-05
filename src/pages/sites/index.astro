@@ -7,6 +7,7 @@ import { fetchSites, toKebabCase } from '../../helpers';
 import ContentHero from '../../components/ContentHero.astro';
 import TakeAction from '../../components/TakeAction.astro';
 import MapPin from '../../assets/icons/map-pin.svg';
+import Magnify from '../../assets/icons/magnifying-glass.svg';
 import NoImage from '../../assets/icons/image.svg';
 import siteHero from '../../assets/pages/sites/hero.jpg';
 
@@ -75,35 +76,57 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 		</div>
 		<!-- Sites Grid -->
 		<div class="sites">
-			<!-- Filter Tags -->
-			{
-				allTags.length > 0 && (
-					<div class="filters">
-						<strong>Filter by type:</strong>
-						<nav>
-							<button type="button" class="button-filter" data-tag="all" aria-pressed="true">
-								All Sites
-							</button>
-							{allTags.map((tag) => (
-								<button class="button-filter" data-tag={tag}>
-									{tag}
+			<!-- Filters -->
+			<div class="filters">
+				{
+					allTags.length > 0 && (
+						<div class="filter-group">
+							<strong>Filter by type:</strong>
+							<nav>
+								<button type="button" class="button-filter" data-tag="all" aria-pressed="true">
+									All Sites
 								</button>
-							))}
-						</nav>
-						<p class="results">
-							Showing{' '}
-							<span id="site-count">
-								{sites.length} {`site${sites.length !== 1 ? 's' : ''}`}
-							</span>
-						</p>
+								{allTags.map((tag) => (
+									<button class="button-filter" data-tag={tag}>
+										{tag}
+									</button>
+								))}
+							</nav>
+						</div>
+					)
+				}
+
+				<div class="filter-group">
+					<label class="visually-hidden" for="site-search"> Search by name </label>
+					<div class="search-field">
+						<span class="search-icon">
+							<Magnify height={16} width={16} color={'var(--placeholder)'} />
+						</span>
+						<input
+							type="search"
+							id="site-search"
+							placeholder="Search by name…"
+							autocomplete="off"
+						/>
 					</div>
-				)
-			}
+				</div>
+
+				<p class="results" aria-live="polite">
+					Showing{' '}
+					<span id="site-count">
+						{`${sites.length} site${sites.length !== 1 ? 's' : ''}`}
+					</span>
+				</p>
+			</div>
 
 			<div id="sites-grid" class="sites-grid">
 				{
 					sites.map((site: any) => (
-						<article class="card site-card" data-tags={JSON.stringify(site.tags)}>
+						<article
+							class="card site-card"
+							data-name={site.name}
+							data-tags={JSON.stringify(site.tags)}
+						>
 							<a href={`/sites/${site.slug}`}>
 								<figure>
 									{site.localThumbnail ? (
@@ -187,6 +210,34 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 		display: flex;
 		flex-wrap: wrap;
 		gap: var(--space-3xs);
+	}
+
+	.filter-group {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-2xs);
+	}
+
+	.filter-group label {
+		font-weight: bold;
+	}
+
+	.search-field {
+		position: relative;
+		max-width: 24rem;
+	}
+
+	.search-icon {
+		position: absolute;
+		inset-block-start: 50%;
+		inset-inline-start: var(--space-2xs);
+		transform: translateY(-50%);
+		display: flex;
+		pointer-events: none;
+	}
+
+	.search-field input {
+		padding-inline-start: calc(var(--space-2xs) * 2 + 16px);
 	}
 
 	.sites-grid {
@@ -290,13 +341,54 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 	});
 </script>
 <script>
-	// Tag filtering functionality
+	// Tag and name filtering functionality
 	document.addEventListener('DOMContentLoaded', () => {
 		const filterButtons = document.querySelectorAll('.button-filter');
-		const siteCards = document.querySelectorAll('.site-card');
 		const siteCountEl = document.getElementById('site-count');
+		const searchInput = document.getElementById('site-search') as HTMLInputElement | null;
+
+		// Ignore formatting when matching
+		function normalise(value: string) {
+			return value
+				.normalize('NFD')
+				.replace(/[\u0300-\u036f]/g, '')
+				.toLowerCase();
+		}
+
+		function toWords(value: string) {
+			return normalise(value)
+				.split(/[^a-z0-9]+/)
+				.filter(Boolean);
+		}
+
+		function rank(compact: string, words: string[], query: string) {
+			if (compact.startsWith(query)) return { tier: 0, offset: 0 };
+
+			const wordIndex = words.findIndex((word) => word.startsWith(query));
+			if (wordIndex > -1) return { tier: 1, offset: wordIndex };
+
+			const offset = compact.indexOf(query);
+			if (offset > -1) return { tier: 2, offset };
+
+			return null;
+		}
+
+		const sitesGrid = document.getElementById('sites-grid');
+
+		const siteCards = [...document.querySelectorAll('.site-card')].map((card, order) => {
+			const words = toWords((card as HTMLElement).dataset.name || '');
+
+			return {
+				el: card,
+				order,
+				words,
+				compact: words.join(''),
+				tags: JSON.parse((card as HTMLElement).dataset.tags || '[]') as string[],
+			};
+		});
 
 		let activeTag = 'all';
+		let query = '';
 
 		filterButtons.forEach((button) => {
 			button.addEventListener('click', () => {
@@ -316,22 +408,33 @@ const mapSites = sites.map(({ localThumbnail, remoteThumbnail, ...rest }: any) =
 			});
 		});
 
+		searchInput?.addEventListener('input', () => {
+			query = toWords(searchInput.value).join('');
+			filterSites();
+		});
+
 		function filterSites() {
-			let visibleCount = 0;
+			const matches: { el: Element; tier: number; offset: number; order: number }[] = [];
 
-			siteCards.forEach((card) => {
-				const tags = JSON.parse((card as HTMLElement).dataset.tags || '[]');
+			siteCards.forEach(({ el, order, words, compact, tags }) => {
+				const matchesTag = activeTag === 'all' || tags.includes(activeTag);
+				const ranked = matchesTag ? rank(compact, words, query) : null;
 
-				if (activeTag === 'all' || tags.includes(activeTag)) {
-					card.removeAttribute('hidden');
-					visibleCount++;
+				if (ranked) {
+					matches.push({ el, order, ...ranked });
+					el.removeAttribute('hidden');
 				} else {
-					card.setAttribute('hidden', 'true');
+					el.setAttribute('hidden', 'true');
 				}
 			});
 
+			// Closest matches first, falling back to alphabetical order
+			matches.sort((a, b) => a.tier - b.tier || a.offset - b.offset || a.order - b.order);
+			sitesGrid?.append(...matches.map((match) => match.el));
+
 			if (siteCountEl) {
-				siteCountEl.textContent = `${visibleCount} site${visibleCount === 1 ? '' : 's'}`;
+				const count = matches.length;
+				siteCountEl.textContent = `${count} site${count === 1 ? '' : 's'}`;
 			}
 		}
 	});
