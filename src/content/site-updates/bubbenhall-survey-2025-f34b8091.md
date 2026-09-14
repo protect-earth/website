@@ -14,4 +14,4 @@ photos:
   - "../../assets/site-updates/bubbenhall-survey-2025-f34b8091/b192c6f89e7f554abed586b132f9ef15cdd649651144ea5d1031288e95eecf68.jpg"
 ---
 
-Our site inspector visited Bubbenhall in August 2025. He counted five sample areas of trees, finding a 70% survival rate. The landowner told him “The trees that were replanted in 2023 seem to be doing ok, only half the hedgerow is thriving though, we had an influx of rabbits and as the hedgerow had not all got tree guards I think some of them succumbed to rabbit attack!”.He also mentioned seeing daytime birds of prey and owls at night in the area, a positive sign indeed for ecological value in the vicinity.
+Our site inspector visited Bubbenhall in August 2025. He counted five sample areas of trees, finding a 70% survival rate. The landowner told him “The trees that were replanted in 2023 seem to be doing ok, only half the hedgerow is thriving though, we had an influx of rabbits and as the hedgerow had not all got tree guards I think some of them succumbed to rabbit attack!” He also mentioned seeing daytime birds of prey and owls at night in the area, a positive sign indeed for ecological value in the vicinity.

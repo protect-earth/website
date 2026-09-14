@@ -1,14 +1,1 @@
-{
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/15e20931-c6c3-438f-aeb1-362edd596c16/IMG_1952.jpg": {
-    "localName": "08e6b5475dbe2d0c53b60e55fa3b18700056aafc53419b0e0b4531364fd02f25.jpg",
-    "checksum": "08e6b5475dbe2d0c53b60e55fa3b18700056aafc53419b0e0b4531364fd02f25",
-    "sourceChecksum": null,
-    "fileName": "IMG_1952.jpg"
-  },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/84e0adf5-36b6-48ca-a447-f6fb9fa86ec6/IMG_1957.jpg": {
-    "localName": "4937a3d0ded45ed3414008eb148130da7dd25563473a2bb59139b56d39d0d276.jpg",
-    "checksum": "4937a3d0ded45ed3414008eb148130da7dd25563473a2bb59139b56d39d0d276",
-    "sourceChecksum": null,
-    "fileName": "IMG_1957.jpg"
-  }
-}
+{}

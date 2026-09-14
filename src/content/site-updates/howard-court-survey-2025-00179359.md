@@ -16,8 +16,8 @@ photos:
   - "../../assets/site-updates/howard-court-survey-2025-00179359/5b1410f1644a624ee16bc7e43581cf2a0cfd2581c2e01d273312e371cd60aecf.jpg"
   - "../../assets/site-updates/howard-court-survey-2025-00179359/d4fae80d0906f4d24466a8ee96e7aa47dc7320713b202514c98a0833a736c2e7.jpg"
   - "../../assets/site-updates/howard-court-survey-2025-00179359/6a5a812db6b4c9200a95126cb4616a311593f68b4c63229fc4298d2d5bca15e6.jpg"
-  - "../../assets/site-updates/howard-court-survey-2025-00179359/c24a1b8c2d4dfedbebf9f5b0cfea78b78f9c53208cfd92b2c1af2bafeffe648e.jpg"
   - "../../assets/site-updates/howard-court-survey-2025-00179359/13ea685f76f41fb1f6df9976def211da4bf9a3f592f384d4d222b25c2ef3e22c.jpg"
+  - "../../assets/site-updates/howard-court-survey-2025-00179359/dfae14b573456a09747a23ea6adb05df3968516e7bc4efed8ab82dcaaaf94528.jpg"
 ---
 
 A survival survey carried out in August 2025 at Howard Court recorded strong establishment overall, with a survival rate of 78%. This is a little below our target of 80% over 5 years but we have had some extreme weather since these saplings were planted, especially the summer of 2022 which was exceptionally hot and dry.

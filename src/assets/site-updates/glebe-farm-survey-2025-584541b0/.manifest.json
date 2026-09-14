@@ -1,8 +1,14 @@
 {
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/17f4b114-eccb-496d-abe1-443a3f97c7f5/PXL_20250827_130418246.jpg": {
-    "localName": "6af5522e2693b30c628d00683d4d83a92aa3e5160032fa4da92244124dfdce9f.jpg",
-    "checksum": "6af5522e2693b30c628d00683d4d83a92aa3e5160032fa4da92244124dfdce9f",
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/b12e425b-4bff-4d33-aa26-a7ee9466c5d9/cropped_PXL_20250827_130416561.jpg": {
+    "localName": "bbb8be03ff0fa161d96b6f25db9e420e993788c46cf2218ce9429c55453ae871.jpg",
+    "checksum": "bbb8be03ff0fa161d96b6f25db9e420e993788c46cf2218ce9429c55453ae871",
     "sourceChecksum": null,
-    "fileName": "PXL_20250827_130418246.jpg"
+    "fileName": "cropped PXL_20250827_130416561.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/40db50de-870f-47a6-b822-8f041f6cc452/cropped_PXL_20250827_130418246.jpg": {
+    "localName": "048cb5b0f146ec9dd97fb04ff0ebbb6f7119d91202036d53c23844433ae5cb78.jpg",
+    "checksum": "048cb5b0f146ec9dd97fb04ff0ebbb6f7119d91202036d53c23844433ae5cb78",
+    "sourceChecksum": null,
+    "fileName": "cropped PXL_20250827_130418246.jpg"
   }
 }

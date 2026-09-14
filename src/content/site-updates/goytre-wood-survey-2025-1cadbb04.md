@@ -14,7 +14,7 @@ photos:
   - "../../assets/site-updates/goytre-wood-survey-2025-1cadbb04/54df94d2d0cf4653ba8e092e10799ff346ee3ca028b2d76e46f6c9fdaa728ffc.jpg"
   - "../../assets/site-updates/goytre-wood-survey-2025-1cadbb04/559433f3092267ea42f2db60fd75cd7e6984a43920c78db3c5206fc9915a7d1d.jpg"
   - "../../assets/site-updates/goytre-wood-survey-2025-1cadbb04/331c0060c0e4417c04ea80ccde1242656787d00fb6a96dba1dd152466bbb5c1e.jpg"
-  - "../../assets/site-updates/goytre-wood-survey-2025-1cadbb04/92317dec62d1b255b4dc18722175cda69ad270faa341c24583877c9aa288db8f.jpg"
+  - "../../assets/site-updates/goytre-wood-survey-2025-1cadbb04/fe3e92fb4beb612b8bf76336f40c4185e53aa79e8e9ff85fdd040dc7a73efdfa.jpg"
 ---
 
 This was the largest site we’ve ever had to go and count, and after the weather scared off most of the volunteers, we were lucky to have a trusty team of deputies, scaling Goytre Hill to see how the 12,000 trees were doing.

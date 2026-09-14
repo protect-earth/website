@@ -5,22 +5,28 @@
     "sourceChecksum": null,
     "fileName": "trees bubenhall.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/322287a2-f602-46a4-b28f-bd199f0c3df8/alice_tree_planting.jpg": {
-    "localName": "a746494f0cbbf2ad002e7b98ca61f8fa14bd7e55c979e85915e7951630449d11.jpg",
-    "checksum": "a746494f0cbbf2ad002e7b98ca61f8fa14bd7e55c979e85915e7951630449d11",
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/3b83a81c-e19a-4167-b22b-7b1521977efe/cropped_tree_team_bubbenhall.jpg": {
+    "localName": "76fc112c5d77b9ce96a3bee801c5b3da082d8b02be3170a34314e34531e4c483.jpg",
+    "checksum": "76fc112c5d77b9ce96a3bee801c5b3da082d8b02be3170a34314e34531e4c483",
     "sourceChecksum": null,
-    "fileName": "alice tree planting.jpg"
+    "fileName": "cropped tree team bubbenhall.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/6ffbf517-321f-4723-9aae-820d05df124a/tree_team_bubbenhall.jpg": {
-    "localName": "ae5d3388f21f97e55c49e5bab7584d38c2459a526731e4c3c4fd52702b792daa.jpg",
-    "checksum": "ae5d3388f21f97e55c49e5bab7584d38c2459a526731e4c3c4fd52702b792daa",
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/d68c90d8-21d3-471e-8e58-d381ff177d3f/cropped_alice_tree_planting.jpg": {
+    "localName": "2e860aa6f7a63afa629e4fc7f2956701b55a37724589139d8f724690bbc08dc6.jpg",
+    "checksum": "2e860aa6f7a63afa629e4fc7f2956701b55a37724589139d8f724690bbc08dc6",
     "sourceChecksum": null,
-    "fileName": "tree team bubbenhall.jpg"
+    "fileName": "cropped alice tree planting.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/dc541db7-b800-4206-88f2-f6a795082ccf/tree_planting_bubbenhall.jpg": {
-    "localName": "a38b03330187563baf6ccb17defb65108b015990c109b93de8639ecf4348f1dd.jpg",
-    "checksum": "a38b03330187563baf6ccb17defb65108b015990c109b93de8639ecf4348f1dd",
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/5ae717f3-cab1-440b-baf1-e923096f97b2/cropped_tree_planting_bubbenhall.jpg": {
+    "localName": "1369422bb0010b7b2b3cb84fd6240a25246d48295e0bfce0727fbeec4ebf1e4c.jpg",
+    "checksum": "1369422bb0010b7b2b3cb84fd6240a25246d48295e0bfce0727fbeec4ebf1e4c",
     "sourceChecksum": null,
-    "fileName": "tree planting bubbenhall.jpg"
+    "fileName": "cropped tree planting bubbenhall.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/8afdc6bc-6339-4b87-95f9-67d2c9fe07cf/IMG_9965.jpg": {
+    "localName": "14a1298fa2373cb69aca4ecdb823032b829e7001fba013d929dddeebdcd52121.jpg",
+    "checksum": "14a1298fa2373cb69aca4ecdb823032b829e7001fba013d929dddeebdcd52121",
+    "sourceChecksum": null,
+    "fileName": "IMG_9965.jpg"
   }
 }

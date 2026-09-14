@@ -5,12 +5,6 @@
     "sourceChecksum": null,
     "fileName": "PE250223-PrintRes-8782.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/052e55c4-f3e2-4682-bc79-53827c86ed0b/PE250223-PrintRes-8879.jpg": {
-    "localName": "27a70e53ce3bcc597b2bc440bc26487fed7125838f2229b88b17d839d8bc5bc1.jpg",
-    "checksum": "27a70e53ce3bcc597b2bc440bc26487fed7125838f2229b88b17d839d8bc5bc1",
-    "sourceChecksum": null,
-    "fileName": "PE250223-PrintRes-8879.jpg"
-  },
   "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/cf4abbe5-028e-41b9-9a94-b37f110f4080/PE250223-PrintRes-8902.jpg": {
     "localName": "4088fe44dea256d64a0067b5bd7b9693b1f9398d283f0d1b29cbab4dc97b03da.jpg",
     "checksum": "4088fe44dea256d64a0067b5bd7b9693b1f9398d283f0d1b29cbab4dc97b03da",
@@ -29,12 +23,6 @@
     "sourceChecksum": null,
     "fileName": "IMG_4441.jpg"
   },
-  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/0d2269f9-bc25-4353-8c81-41d09d0b3340/PE250223-PrintRes-8996.jpg": {
-    "localName": "593a3381b78f1fa65fc35ba1791fecc5bb2bab8dec322fded21d8aa42d1be59c.jpg",
-    "checksum": "593a3381b78f1fa65fc35ba1791fecc5bb2bab8dec322fded21d8aa42d1be59c",
-    "sourceChecksum": null,
-    "fileName": "PE250223-PrintRes-8996.jpg"
-  },
   "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/79e74d26-0786-4317-9c7f-b7ddd5c8f33a/PE250223-PrintRes-9211.jpg": {
     "localName": "d82df3958a03981a46b69f94d623042fe6659001536c038d8a37d8393de4d604.jpg",
     "checksum": "d82df3958a03981a46b69f94d623042fe6659001536c038d8a37d8393de4d604",
@@ -46,5 +34,41 @@
     "checksum": "8054c25988239424bf3400f72ac28dfa22b64034f2260735b1bf5d4bb67e3e0a",
     "sourceChecksum": null,
     "fileName": "PE250223-PrintRes-9149.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/1fb48919-91e1-4568-952c-3ef7454b8c43/cropped_PE250223-PrintRes-8834.jpg": {
+    "localName": "388a4127e18b28cfb19ffab966c068329684f39d1f24c879aa90dd87171217d9.jpg",
+    "checksum": "388a4127e18b28cfb19ffab966c068329684f39d1f24c879aa90dd87171217d9",
+    "sourceChecksum": null,
+    "fileName": "cropped PE250223-PrintRes-8834.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/8fcdec1e-cd44-4e4f-9a19-44985b183268/cropped_PE250223-PrintRes-8879.jpg": {
+    "localName": "b6583c46d9ed08b33715a5b988391a12eeefe868c5ac23d64418ff2d8c4601ef.jpg",
+    "checksum": "b6583c46d9ed08b33715a5b988391a12eeefe868c5ac23d64418ff2d8c4601ef",
+    "sourceChecksum": null,
+    "fileName": "cropped PE250223-PrintRes-8879.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/2645173a-1698-4b81-98aa-c061b6997b54/PE250223-PrintRes-9018.jpg": {
+    "localName": "cfaf0661b0d2165729dd8775aaaa6b918a4d29d5b355c566f7c9317d7b526307.jpg",
+    "checksum": "cfaf0661b0d2165729dd8775aaaa6b918a4d29d5b355c566f7c9317d7b526307",
+    "sourceChecksum": null,
+    "fileName": "PE250223-PrintRes-9018.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/07421c01-32c9-4fd2-bddf-71931b97dbd9/PE250223-PrintRes-9092.jpg": {
+    "localName": "cebc9f413750acf92c6870aac3c69bddf2bdb8196a08176c3dfcd840941cc3a9.jpg",
+    "checksum": "cebc9f413750acf92c6870aac3c69bddf2bdb8196a08176c3dfcd840941cc3a9",
+    "sourceChecksum": null,
+    "fileName": "PE250223-PrintRes-9092.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/f07aa71a-a152-4701-b01c-09f16417d9c0/PE250223-PrintRes-9155.jpg": {
+    "localName": "de3fd759054858d000732ac9d2f88a916e04c8078a203d70db838e8f0dbc61b2.jpg",
+    "checksum": "de3fd759054858d000732ac9d2f88a916e04c8078a203d70db838e8f0dbc61b2",
+    "sourceChecksum": null,
+    "fileName": "PE250223-PrintRes-9155.jpg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/43be3c65-3d75-4034-a92e-3ca8e3cfc2f8/PE250223-PrintRes-8974.jpg": {
+    "localName": "c17d1d7e6ea53108bcc82f29413dbfedbc5a3237a4578b4662b92a4f11138a4f.jpg",
+    "checksum": "c17d1d7e6ea53108bcc82f29413dbfedbc5a3237a4578b4662b92a4f11138a4f",
+    "sourceChecksum": null,
+    "fileName": "PE250223-PrintRes-8974.jpg"
   }
 }

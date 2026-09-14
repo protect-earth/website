@@ -1,0 +1,44 @@
+{
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/81c14be0-6a7e-4ebb-9c88-5349ef9fd624/image1.jpeg": {
+    "localName": "f8e0b44ce6b42e275db2c02d2213ac03ce4f5a6e505c9a9f4bee36d2b88e1cdc.jpg",
+    "checksum": "f8e0b44ce6b42e275db2c02d2213ac03ce4f5a6e505c9a9f4bee36d2b88e1cdc",
+    "sourceChecksum": null,
+    "fileName": "image1.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/367091c1-e476-4bc0-9555-5986df1b0007/image3.jpeg": {
+    "localName": "f098bdc523921ce5df73e144b8adc8af8ceef34be4cd921d53e4759687af387a.jpg",
+    "checksum": "f098bdc523921ce5df73e144b8adc8af8ceef34be4cd921d53e4759687af387a",
+    "sourceChecksum": null,
+    "fileName": "image3.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/a346474f-0e17-4fcb-afcd-6b03cd15e1d9/image5.jpeg": {
+    "localName": "1b380588949478e20c95f6b3ff582230ab07c5944b1d878517e3cec0c759f47a.jpg",
+    "checksum": "1b380588949478e20c95f6b3ff582230ab07c5944b1d878517e3cec0c759f47a",
+    "sourceChecksum": null,
+    "fileName": "image5.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/6b9732c1-fe2b-4968-8d6b-51a5675a5948/image7.jpeg": {
+    "localName": "f83cbf20f0ecc1ca016601bc85579345d43e7bcda69ac4e5de4e905b72a7de5b.jpg",
+    "checksum": "f83cbf20f0ecc1ca016601bc85579345d43e7bcda69ac4e5de4e905b72a7de5b",
+    "sourceChecksum": null,
+    "fileName": "image7.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/80964baa-664e-4253-b6d8-0382a6172e01/image9.jpeg": {
+    "localName": "a456ec30ea095ffdfbce7ca1a32f33b59b3fd4da8a8da77b005cf15aecf26111.jpg",
+    "checksum": "a456ec30ea095ffdfbce7ca1a32f33b59b3fd4da8a8da77b005cf15aecf26111",
+    "sourceChecksum": null,
+    "fileName": "image9.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/2d692eb9-8875-4b5d-90e9-55cf57d0b86c/image10.jpeg": {
+    "localName": "d3c1273fafe2fd90b2588e18076b35af32ee0e6fc644c16f01c92f5c4df2e8e9.jpg",
+    "checksum": "d3c1273fafe2fd90b2588e18076b35af32ee0e6fc644c16f01c92f5c4df2e8e9",
+    "sourceChecksum": null,
+    "fileName": "image10.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/643db192-b4b6-4611-bccf-174d06e684d5/image11.jpeg": {
+    "localName": "e797d01eb8eef9c74e5174894e276cb11d027460dd5f387fc13010058ea6dec4.jpg",
+    "checksum": "e797d01eb8eef9c74e5174894e276cb11d027460dd5f387fc13010058ea6dec4",
+    "sourceChecksum": null,
+    "fileName": "image11.jpeg"
+  }
+}

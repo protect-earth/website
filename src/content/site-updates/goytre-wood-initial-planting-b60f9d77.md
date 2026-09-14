@@ -12,6 +12,8 @@ photos:
   - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/f2c4051d1ef7fd82293ac263e58155f11b8356c4a96cb6b0da474dd412718241.jpg"
   - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/897d3a3a56fb1b3dde3508de1bd6da1b17b974c01d5c4916f915e7a22d42cfba.jpg"
   - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/1fae475e90130bc5d11e75f1e6036f241a73d61e7a2e76ffc07feda0db24d550.jpg"
+  - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/7f3680fbf8564687a0c39fe1cbc85267b2ce73cfee64b8f207022f65d3591987.jpg"
+  - "../../assets/site-updates/goytre-wood-initial-planting-b60f9d77/e26108602dce5a31224102578071b6176ad10511532bd0ab6094945c11f2e1d1.jpg"
 ---
 
 Planting here was such a big job we had to call in the cavalry: a professional team of local tree planters helping out our local community volunteers. The week began on Wednesday, 4th December with some press from The Times coming to see how it all works, and learn the multiple benefits of woodland creation such as flood protection. On Thursday the 5th, with all the supplies delivered, our team from Protect Earth got to work, moving tons of wooden stakes and countless bags of saplings from the neighbouring farm to the planting site.

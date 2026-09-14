@@ -10,6 +10,8 @@ images:
   - >-
     ../../assets/sites/bethania/e570de5662412d91ada198bfead2344a32b6585dcbd408373f6a426097c71746.jpg
   - >-
+    ../../assets/sites/bethania/173d1444a0771aa4ebe57bd131e2022bd7f7ec2e42eb92bec9b72d6acf4e0079.jpg
+  - >-
     ../../assets/sites/bethania/f41bed4571660e662f397784af8a136a3dbd681f97940ddd9cd7d1e56e13b82d.jpg
   - >-
     ../../assets/sites/bethania/8de66aca2216401c26bedecae09a4b0452a6a57d0c182e486ba67663a92b151f.jpg

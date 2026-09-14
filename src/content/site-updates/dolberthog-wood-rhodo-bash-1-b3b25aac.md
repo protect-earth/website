@@ -7,9 +7,13 @@ siteNotionId: "1c7e7dc6-657c-8032-8d7b-e2dc291c23ba"
 photos:
   - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/cde3d1a6c1b900b9cbd139de00a3902771e772ea06f7bdcebe934b84a16c2ac6.jpg"
   - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/18e46d6bfa1e78d5e2b1596468c3a190edca44e3fc7b0bd3d2310dc4f7ac56e5.jpg"
-  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/914f24e107aa1109b38357fc9239a32415913652677aaa1d4133cc1e01e3df1c.jpg"
-  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/723a5b593e0463f0fbac2c0b8d36da5b2c71f2c27d019a98b8dbd15054113b87.jpg"
-  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/4611cc37c25c3815cabe6eb2aefbfab7fc97c7b63fddcff76ccfe6bc19507b69.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/7adfee7de9ea49b187644e0e4aa324dd2a74e721668b3c64d1b617003c3dc8ce.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/3ab0ede3c07b624df2eb450a812ef905b20b8cd31905e78bf35e9634c32eaff3.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/5a8cadb99e4d774c5517c09c4d8f3bb7dce26f3d6d7715bb71cf0cd02475a078.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/6cc4409d8abb6ce1d93bc6bb82b70d4a2b181921d1b4d5438c0674e23d173cf9.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/0d0d7e2f23675abdc5afab13d65e3771a822928a4778b9cb57c60cc8d91b4f78.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/fc10d0f1973b6fd8e01f3f0656345a9da03ec32b10eca0602c9fec4adc6dc070.jpg"
+  - "../../assets/site-updates/dolberthog-wood-rhodo-bash-1-b3b25aac/d04826340e13efa2af1b6343f25649bc5c0670d9c514e8ec07ccce0587d91aaa.jpg"
 ---
 
 Arriving at  Dolberthog Wood our team was impressed to see how much work had been done to restore this ancient woodland already. This 40-acre family-owned woodland is surrounded by grazing and commercial forestry. These landowners have a teacher’s salary and a lot of commitment to doing the right thing by nature.

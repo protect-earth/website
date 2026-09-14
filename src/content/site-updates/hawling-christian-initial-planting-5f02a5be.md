@@ -11,7 +11,6 @@ photos:
   - "../../assets/site-updates/hawling-christian-initial-planting-5f02a5be/10b41882f1bd5b49a437988cd3eeceeaf907570e62ddd6200b384ba436f436b8.jpg"
   - "../../assets/site-updates/hawling-christian-initial-planting-5f02a5be/054eb5c33e7f67f7f0772ae7a831839aeada7ae93c1cc421d9e1fd747fa49d5a.jpg"
   - "../../assets/site-updates/hawling-christian-initial-planting-5f02a5be/d0ac269f93e678b2e70f03053b495204df384dc912738e52bb49228da718a2e9.jpg"
-  - "../../assets/site-updates/hawling-christian-initial-planting-5f02a5be/771c9b00d7bb9dc893e833261763c36ebfbbc4bd3666212f71b09645816ce2d7.jpg"
 ---
 
 This farmer was very keen to plant trees on an unused field, but we had to be careful because there was an an archaeological site, and some underground electric cables running across the field. Once we were satisfied that we knew exactly where everything was we were able to mark out where the trees had to go.

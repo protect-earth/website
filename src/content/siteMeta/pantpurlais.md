@@ -10,6 +10,8 @@ images:
   - >-
     ../../assets/sites/pantpurlais/c1924cf76740445942bae769d10fae06a938b10cf0b166eb89639b38d6efc7ce.jpg
   - >-
+    ../../assets/sites/pantpurlais/d39ba3a1d144d80d460ff1b03a5b2c3dd4568c0766460aa1241afee93ea673ab.jpg
+  - >-
     ../../assets/sites/pantpurlais/0025e5c7979d87d7435ec2a9cc79d36902a42b4a9f629d19e8d5574ad1b411eb.jpg
   - >-
     ../../assets/sites/pantpurlais/0dd7717fda6cecc58c78a09d250f638ce338eead76f1ab554e2e08edb33a78b7.jpg

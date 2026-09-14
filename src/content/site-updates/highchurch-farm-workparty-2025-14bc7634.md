@@ -1,13 +1,10 @@
 ---
 title: "Highchurch Farm Workparty 2025"
 notionId: "238e7dc6-657c-8089-ba66-ed6514bc7634"
-type: "Survival Survey"
+type: "Maintenance"
 date: "2025-07-14T00:00:00.000Z"
 siteNotionId: "87927819-fff7-4f8f-88cd-6f7525aa434a"
 survivalRate: 0.75
-photos:
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/08e6b5475dbe2d0c53b60e55fa3b18700056aafc53419b0e0b4531364fd02f25.jpg"
-  - "../../assets/site-updates/highchurch-farm-workparty-2025-14bc7634/4937a3d0ded45ed3414008eb148130da7dd25563473a2bb59139b56d39d0d276.jpg"
 ---
 
 A dedicated team of 15 volunteers came together for a summer work session. Despite the heat and extremely dry, cracked ground, the group made steady progress with weed management, strimming around young trees, replacing lost saplings, and adding mulch and guards. The rain arrived late in the afternoon, bringing the day to a close after a productive few hours of maintenance.

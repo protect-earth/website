@@ -10,6 +10,8 @@ images:
   - >-
     ../../assets/sites/bourton-on-the-water/08f39de666dc30cb3ae3179f17f6b291d3e8b48ed9e82401a7255acfa7f3cb67.jpg
   - >-
+    ../../assets/sites/bourton-on-the-water/a073af7118fac71ddc08f1b1df0b28a73664d2c003611ff8cc6c4afa4308d3c5.jpg
+  - >-
     ../../assets/sites/bourton-on-the-water/d81aa989567c1ba81895eeba8f6b9462f448b2988130c5fb202d7d7d831af28e.jpg
   - >-
     ../../assets/sites/bourton-on-the-water/b40fe765318324aafb54c44569b1ba558036802a46069e18cba5a92eb7641c26.jpg

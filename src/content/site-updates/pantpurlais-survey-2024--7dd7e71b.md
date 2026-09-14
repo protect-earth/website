@@ -2,7 +2,7 @@
 title: "Pantpurlais Survey 2024 "
 notionId: "233e7dc6-657c-8083-9e22-eeeb7dd7e71b"
 type: "Survival Survey"
-date: "2024-07-01T00:00:00.000Z"
+date: "2024-10-22T00:00:00.000Z"
 siteNotionId: "bc400cb9-58d0-4ef8-8d78-04a38a6a28c0"
 survivalRate: 0.9
 photos:
@@ -14,8 +14,10 @@ photos:
   - "../../assets/site-updates/pantpurlais-survey-2024--7dd7e71b/85b1515a83cbe2159135daffa4c09ba972636ac3a7d42c67e44f1e9cbc88de06.jpg"
 ---
 
-The trees in field A (planted 2021) have a 99% survival rate, which is shockingly good. One theory is that these trees (which came from Thorne Trees) and were slightly older than usual. Many of the early pollinators (e.g: crab apple), are 4 years old now and up to 7ft already.
+We carried out our survey here later in the season than normal, but the trees were still looking well. The trees planted in 2021 have a 99% survival rate, which is shockingly good and better than we could have hoped for. One theory is that these trees (which came from Thorne Trees) were slightly older than usual.
 
-The trees in field B (planted 2022) have a 80% survival rate. This is mainly because we planted a load of silver birch, which were whips at best and got consumed by grass. The small leaved limes, which spent their first night in Wales, in a bath in the local hotel are doing well!
+The trees planted in 2022 have an 80% survival rate. Here we planted smaller bare root whips, including a lot of silver birch and some of these have been consumed by the grass. The small leaved limes, which spent their first night in Wales, in a bath in the local hotel, are doing well!
 
-The meadow was a big disappointment, we had some flowers the first year, and then nothing the second year. It should be noted that other people experienced the same. Grass has won. The plan is to retry with yellow rattle plugs, to see if we can break up the grass and let other wildflowers come through.
+Overall, the site survival rate was 90% which is still very good.
+
+It was too late in the season to check the wildflower meadow, but the landowner said it had not done particularly well this year.

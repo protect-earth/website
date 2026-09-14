@@ -6,15 +6,16 @@ date: "2025-09-19T00:00:00.000Z"
 siteNotionId: "4f94d3d6-970a-4fdc-bf8c-82da3bbf6a0f"
 survivalRate: 0.67
 photos:
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/fba3dc8a8ad84d8ffc8a401fe20ea66d74efa3db354ce3eafbf12ead85bf563d.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/69f5f75f7ca37477bdfee98d58c1205b7e634611aa4e1f49a90557952b3ec171.jpg"
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/44bd35a6605ab4de296ea314e225e3b45772e933227b0d9e533c3669a699e7f7.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/af3a374f7f57bb86898186f7bee56ba51bc22b4e2fa263e54cefdf1499993ac3.jpg"
   - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/28ce0161efc4cfb0dfd07cb1f23d2ee6c5f206ebc6aa1542199334740b9257b2.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/606f999dc75b564371477240ab6eb8410b8ddd9d492eedae2563178199907d0f.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/1e41ce32c73081c4046c17bbf42f2493b8320845686d62a36f9521c7050fcbc9.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/36d92b82a2d52f71e7e4b8bb289041399b01efb6226e4f7196f960b7c4c8f71b.jpg"
-  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/dfbdcab8da9863e3a88fe08a57331b5d1fdae9d5142ad4c6de12c8824dabd215.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/cd8c9d7c272f4a2a044709db5e2d584d07678e902b3826f966e530b99f40cd78.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/3ab813813d0d086e84fea3d0dfc418b25a99442aabef2fc0b6c893a0960a0636.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/1f4ebac3dfe9ec05f745ddceebb046ddba7707238d9c74fa1ab8d872c7958025.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/335ce3bb275a09fc55cf34991993e6cc1eab0f8d9f43e63ced3ae7f7129dc229.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/28f7c3e4c5090c27ba56b6d2b4ab7284edccd105c8f65e102637240640214e89.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/141d31a9dceaf376418af973646113f4fd1927f4aef4d730515f115739178706.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/e19a7acd6c8de1e759c347e432b00c157e39bb95a8952113d7ff1fb10db5c580.jpg"
+  - "../../assets/site-updates/eastcourt-farm-survey-2025-6786d14a/5f49354b5b72ee00271c4cc1da355fcb0f334252918ddf533f080089fca6ca7f.jpg"
 ---
 
 We visited Eastcourt Farm on a rainy day in September to carry out a scheduled survey, checking up on the health of our saplings and deciding the maintenance needs of the site. Possibly due to the hot weather over the summer, only 51% of our trees survived, and 77% of the shrubs. We found long grass outgrowing the saplings in some places, which would also hinder growth.

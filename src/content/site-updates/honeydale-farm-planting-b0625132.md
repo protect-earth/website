@@ -11,4 +11,4 @@ photos:
 
 In partnership with FWAG South West and The Tree Shop, Protect Earth planted  three shelterbelts at Honeydale Farm with the intention of helping to teach farmers about more sustainable practices when it comes to the re-wildification of unfarmed, unfarmable land. We hope that by teaching those who want to learn, Protect Earth will be able to encourage rewilding efforts on a more substantial level.
 
-In total we planted a wide variety of 1064 trees and shrubs. Species planted: Crab Apple, Bird Cherry, Rowan, Field Maple, Downy Birch, Aspen, Alder, Hornbeam, Black Poplar, Scots Pine, Hawthorn, Guilder Rose, Hazel, Grey Alder, Grey Willow, Privet, Alder Buckthorn, Wild Cherry, Goat Willow, Crack Willow and Osier Willow. These will do a great job of feeding and sheltering local wildlife and will boost biodiversity in the area.
+In total we planted a wide variety of 1064 trees and shrubs. These will do a great job of feeding and sheltering local wildlife and will boost biodiversity in the area.

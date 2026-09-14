@@ -12,6 +12,6 @@ photos:
   - "../../assets/site-updates/hawling-christian-survey-2025-e608b5aa/dbd07bcd3f588e43c59591c9afbd6bac869b528a2553f0aa84b8b0171c965364.jpg"
 ---
 
-We went to survey this farm, one of two so far in the area, in August. We were pleased to discover that the trees were doing reasonably well with a survival rate of 86%.
+We went to survey this farm, one of two so far in the area, in August. We were pleased to discover that the trees were doing well with a survival rate of 86% ,despite being surrounded by long grass. The grey willow was not doing particularly well, so if we need to restock in the future it would be best to avoid planting more. or them. Other species were well out of their guards and looked very healthy.
 
 There were chiffchaffs still singing around the area of new planting when we visited, and red kites were noticed soaring overhead. Maybe these trees will provide nesting habitat for them in years to come. The landowner said he had noticed an increase in butterflies and other insects around the blackthorn and hawthorn during the summer.

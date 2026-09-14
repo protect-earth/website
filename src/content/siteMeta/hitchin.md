@@ -8,6 +8,8 @@ notionIds:
   - 7d73488c-ca94-4b78-90fc-4459fda4cca9
 images:
   - >-
+    ../../assets/sites/hitchin/a15efe8bf2a99a181a1e81190842928a501e78032c401bc5b30521ccf86d1d6d.jpg
+  - >-
     ../../assets/sites/hitchin/9b35c93be367bc94927c6f0613d00fc8d28d1e4ff007ba257d12d1ced250de0b.jpg
   - >-
     ../../assets/sites/hitchin/7041f899e4f57c4fc92590f90318c7657cbb073fbaa9b85e0716ad5e39d3c6a5.jpg
@@ -20,7 +22,7 @@ images:
   - >-
     ../../assets/sites/hitchin/e82b3e1f71afa7abfb342f99c72f4261b6f06eb3b938efdce9f77033d0b08576.jpg
   - >-
-    ../../assets/sites/hitchin/a15efe8bf2a99a181a1e81190842928a501e78032c401bc5b30521ccf86d1d6d.jpg
+    ../../assets/sites/hitchin/88b90f50f83847b6f83cad6b9f2896440617c10877bae248192f097d261bc615.jpg
 siteId: 019836a0-422f-7182-8117-74211918446f
 ---
 
