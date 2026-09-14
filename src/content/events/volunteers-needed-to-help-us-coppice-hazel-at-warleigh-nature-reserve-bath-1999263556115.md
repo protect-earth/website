@@ -10,12 +10,12 @@ coordinates:
   - -2.3002778
   - 51.3827952
 eventbriteLink: 'https://www.eventbrite.co.uk/e/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-tickets-1999263556115'
-thumbnail: ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/59d4fe75e0c6.jpg
+thumbnail: ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/468ca00d2462.jpg
 images:
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/59d4fe75e0c6.jpg
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/087620f6f48b.jpg
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/fa73dc6789f2.jpg
-  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/6ce2d607d3ff.jpg
+  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/468ca00d2462.jpg
+  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/1ab9013e6554.jpg
+  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/e8e669577a0e.jpg
+  - ../../assets/events/volunteers-needed-to-help-us-coppice-hazel-at-warleigh-nature-reserve-bath-1999263556115/e8e928a88dfc.jpg
 ---
 Intro
 

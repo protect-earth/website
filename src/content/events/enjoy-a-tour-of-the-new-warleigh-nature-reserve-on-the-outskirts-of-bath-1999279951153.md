@@ -10,12 +10,12 @@ coordinates:
   - -2.3002778
   - 51.3827952
 eventbriteLink: 'https://www.eventbrite.co.uk/e/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-tickets-1999279951153'
-thumbnail: ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg
+thumbnail: ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/c7264f7d975c.jpg
 images:
-  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/82e5970a8458.jpg
-  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/994bb71dccfc.jpg
-  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/f72b08155b10.jpg
-  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/377c1ccb390c.jpg
+  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/c7264f7d975c.jpg
+  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/b64d3d1931b2.jpg
+  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/f4e8d4d59130.jpg
+  - ../../assets/events/enjoy-a-tour-of-the-new-warleigh-nature-reserve-on-the-outskirts-of-bath-1999279951153/ead51d6ed730.jpg
 ---
 Our ecologist will take you on a walking tour of Protect Earth's exciting now project on the outskirts of Bath. Find out how we hope to reduce flooding further along the river by develping our wetlands and maybe even entice some beavers to help. Learn about our management of the woodland and rare calcareous grassland using traditonal methods such as scything and coppicing. Hopefully see some of the flora and fauna which live here.
 
