@@ -10,12 +10,12 @@ coordinates:
   - -3.2917945
   - 52.5239188
 eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-near-newtown-powys-tickets-1998416716194'
-thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/772b7e29424b.jpg
+thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/071839804df5.jpg
 images:
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/772b7e29424b.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/52bcf4bb1739.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/ea2bb72e9e9e.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/d757dfddb520.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/071839804df5.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/e3719ff04522.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/65206988f549.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/96e559783e54.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 

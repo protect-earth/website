@@ -10,11 +10,11 @@ coordinates:
   - -3.2917945
   - 52.5239188
 eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farmers-near-newtown-powys-tickets-1998415237772'
-thumbnail: ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/233f6fe6e503.jpg
+thumbnail: ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/776cede40216.jpg
 images:
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/233f6fe6e503.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/378573bea337.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/d757dfddb520.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/776cede40216.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/0e87b6972ffb.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/96e559783e54.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 

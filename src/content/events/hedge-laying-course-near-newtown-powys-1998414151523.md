@@ -10,13 +10,13 @@ coordinates:
   - -3.291535
   - 52.524461
 eventbriteLink: 'https://www.eventbrite.co.uk/e/hedge-laying-course-near-newtown-powys-tickets-1998414151523'
-thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/ea2bb72e9e9e.jpg
+thumbnail: ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/0968deb15c66.jpg
 images:
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/ea2bb72e9e9e.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/772b7e29424b.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/4afab5581941.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/4f5413d59b45.jpg
-  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/d757dfddb520.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/0968deb15c66.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/b0a51b1f0985.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/aca1c37c4449.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/5b7b392d560d.jpg
+  - ../../assets/events/hedge-laying-course-near-newtown-powys-1998414151523/96e559783e54.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 

@@ -4,7 +4,7 @@ notionId: "3bae7dc6-657c-807d-9978-fcb222bd1aac"
 type: "Survival Survey"
 date: "2026-07-28T00:00:00.000Z"
 siteNotionId: "3f251583-a12f-4fe0-9aa9-31d9b20f9a00"
-survivalRate: 0.49
+survivalRate: 0.59
 photos:
   - "../../assets/site-updates/hutton-rudby-survey-2026-22bd1aac/d8ee90eb57d3d026b051ae600edad6a5a06511b36acce833384d272498024c20.jpg"
   - "../../assets/site-updates/hutton-rudby-survey-2026-22bd1aac/dc1fb703418f57dd279d9861ef18ace787cb523454536a382ab3526ff320d867.jpg"

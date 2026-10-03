@@ -17,6 +17,7 @@ photos:
   - "../../assets/site-updates/box-and-colerne-grove-farm-survey-2025-5914f020/6dee1df1b86504673cb6b874cf71475588a077d72fbcfa91dadfdd7707e6a7d5.jpg"
   - "../../assets/site-updates/box-and-colerne-grove-farm-survey-2025-5914f020/d4c5ba0fbdf52e17c9cd204d6da0b3b8557c41f1db900536726ad28bfd8e78e3.jpg"
   - "../../assets/site-updates/box-and-colerne-grove-farm-survey-2025-5914f020/4cd3d2d58871ff7e548c93764ba4c0ec8e21f09ccd4134fa749d026eccf92da1.jpg"
+  - "../../assets/site-updates/box-and-colerne-grove-farm-survey-2025-5914f020/d38af124cff4401ff40be69884782c492d8600842146f6f3c6842bb5ea8f68fa.jpg"
 ---
 
 Our surveyor visited Grove Farm to carry out this survey on a very wet day in September, just before a yellow weather warning came into force, so he wasn’t able to appreciate the beautiful views from this site.

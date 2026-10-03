@@ -10,5 +10,41 @@
     "checksum": "b3b2febe680c05e950aaf2a8ce5da402b3c926125bbc3cfbe254704ac70d7481",
     "sourceChecksum": null,
     "fileName": "cropped 2a robust sapling.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/a4e8260d-b2c3-414d-87fd-60073d41edf2/image0.jpeg": {
+    "localName": "1a45c4ffef7b8aaea0913fa3cc86c65c1cc4b2eb8dbc08b8c5e76cdcbeea1993.jpg",
+    "checksum": "1a45c4ffef7b8aaea0913fa3cc86c65c1cc4b2eb8dbc08b8c5e76cdcbeea1993",
+    "sourceChecksum": null,
+    "fileName": "image0.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/62cf3dfd-3a4f-46b1-80fe-689b9a730351/image3.jpeg": {
+    "localName": "94770373b06a6996343a6a290ec93178229f3ab9ac7a2162de625bccfe8703c4.jpg",
+    "checksum": "94770373b06a6996343a6a290ec93178229f3ab9ac7a2162de625bccfe8703c4",
+    "sourceChecksum": null,
+    "fileName": "image3.jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/9226207e-bc4f-45bd-b9a3-d28e05f55c10/image3_%281%29.jpeg": {
+    "localName": "3a84062126498c8749ce2f75b648cce3a543d1932f908cbdd1f34f3afb3261d2.jpg",
+    "checksum": "3a84062126498c8749ce2f75b648cce3a543d1932f908cbdd1f34f3afb3261d2",
+    "sourceChecksum": null,
+    "fileName": "image3 (1).jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/51682967-e149-4944-a0aa-69615fc1d2e0/image1_%281%29.jpeg": {
+    "localName": "69c2a6ed6081588f30822b2aadce7e25b253fbf4b3d5330df942eea17142e5e6.jpg",
+    "checksum": "69c2a6ed6081588f30822b2aadce7e25b253fbf4b3d5330df942eea17142e5e6",
+    "sourceChecksum": null,
+    "fileName": "image1 (1).jpeg"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/989189b7-4421-4674-aada-466789d7afb3/1.png": {
+    "localName": "dc3672d3e780a6b48be8b10df4e3e2e605385acf9bbed77ff05f2a09c89dc9fa.jpg",
+    "checksum": "dc3672d3e780a6b48be8b10df4e3e2e605385acf9bbed77ff05f2a09c89dc9fa",
+    "sourceChecksum": null,
+    "fileName": "1.png"
+  },
+  "notion:https://prod-files-secure.s3.us-west-2.amazonaws.com/23f4fbcc-f25d-41ea-9319-244037d95b1d/80f1500c-68b9-4a46-abf5-a531250b8ceb/2.png": {
+    "localName": "2e581b50fc52323be6f397a721de00941c65b745171dbe38b2f9f0c3eff9877c.jpg",
+    "checksum": "2e581b50fc52323be6f397a721de00941c65b745171dbe38b2f9f0c3eff9877c",
+    "sourceChecksum": null,
+    "fileName": "2.png"
   }
 }
