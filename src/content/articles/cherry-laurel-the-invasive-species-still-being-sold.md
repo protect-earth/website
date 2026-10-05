@@ -1,6 +1,6 @@
 ---
 title: 'Cherry Laurel: The Invasive Species Still Being Sold'
-description: 'Cherry Laurel releases cyanide, acidifies our soil and watercourses, and shades out everything beneath it - yet it’s still sold as a hedging plant. Here’s why it should be on the restricted list, and how removal can become a resource.'
+description: 'Cherry Laurel releases cyanide, acidifies our soil and watercourses - yet it’s still sold as a hedging plant. Here’s why it should be on the restricted list.'
 pubDate: 2026-10-05T09:00:00.000Z
 categories: ['invasive-species', 'policy-funding']
 author: 'Phil Sturgeon'
