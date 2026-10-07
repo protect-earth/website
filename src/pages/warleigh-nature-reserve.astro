@@ -1,15 +1,21 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import ContentHero from '../components/ContentHero.astro';
 import ContentBlock from '../components/ContentBlock.astro';
 import RestorEmbed from '../components/RestorEmbed.astro';
 import SiteSignup from '../components/SiteSignup.astro';
 import TakeAction from '../components/TakeAction.astro';
+import { siteConfig } from '../config';
 import warleighHero from '../assets/pages/warleigh-nature-reserve/hero.jpg';
 import warleighOne from '../assets/pages/warleigh-nature-reserve/warleigh-1.jpg';
-import warleighTwo from '../assets/pages/warleigh-nature-reserve/warleigh-2.jpg';
 import warleighThree from '../assets/pages/warleigh-nature-reserve/warleigh-3.jpg';
 import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg';
+
+const upcomingWarleighEvents = (await getCollection('events'))
+	.filter((event) => event.data.address === 'Bath, BA1 8EE' && event.data.startDate >= new Date())
+	.sort((a, b) => a.data.startDate.valueOf() - b.data.startDate.valueOf())
+	.slice(0, 3);
 ---
 
 <Layout
@@ -91,21 +97,40 @@ import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg
 		</ContentBlock>
 
 		<ContentBlock
-			imgSrc={warleighTwo}
-			imgAlt="Volunteer activity and access path at Warleigh Nature Reserve"
+			imgSrc={upcomingWarleighEvents[0]?.data.thumbnail}
+			imgAlt={upcomingWarleighEvents[0]?.data.title ?? 'Upcoming event at Warleigh Nature Reserve'}
 			title="Volunteer days at Warleigh"
+			variant="cover"
 			isReversed
 		>
-			<p>
-				Warleigh runs regular volunteer work parties through spring and summer. We typically meet
-				from 10:00 and finish around 16:00.
-			</p>
-			<p>See upcoming sessions and details on the events page.</p>
-			<div class="cta">
-				<a class="button" href="/events/warleigh-summer-work-parties-2026-e6rw8">
-					View Warleigh volunteer days
-				</a>
-			</div>
+			{
+				upcomingWarleighEvents.length > 0 ? (
+					<>
+						<p>Come and make a difference by joining one of our volunteering events.</p>
+						<ul class="warleigh-events">
+							{upcomingWarleighEvents.map((event) => (
+								<li>
+									<a href={`/events/${event.id}`}>{event.data.title}</a>
+									<time datetime={event.data.startDate.toISOString()}>
+										{event.data.startDate.toLocaleDateString('en-GB', {
+											day: 'numeric',
+											month: 'short',
+											year: 'numeric',
+											timeZone: siteConfig.timezone,
+										})}
+									</time>
+								</li>
+							))}
+						</ul>
+					</>
+				) : (
+					<p>
+						Currently we don't have dates planned for the next event, but we will have more to be
+						done very soon. Please subscribe for updates below and we'll notify you as soon as we
+						need your help.
+					</p>
+				)
+			}
 		</ContentBlock>
 
 		<section class="warleigh-location stack">
@@ -126,6 +151,21 @@ import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg
 	</section>
 
 	<style>
+		.warleigh-events {
+			display: grid;
+			gap: var(--space-s);
+			padding-inline-start: 1.25rem;
+		}
+
+		.warleigh-events li {
+			padding-inline-start: var(--space-xs);
+		}
+
+		.warleigh-events time {
+			margin-inline-start: var(--space-s);
+			white-space: nowrap;
+		}
+
 		.warleigh-location {
 			padding-block: var(--space-xl);
 		}
@@ -134,17 +174,6 @@ import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg
 			font-size: var(--font-2xl);
 			text-align: center;
 			margin: 0;
-		}
-
-		.video-embed {
-			overflow: hidden;
-			aspect-ratio: 16 / 9;
-		}
-
-		.video-embed iframe {
-			inline-size: 100%;
-			block-size: 100%;
-			border: 0;
 		}
 	</style>
 </Layout>

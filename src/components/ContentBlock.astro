@@ -71,6 +71,13 @@ const { imgAlt, imgSrc, isReversed, linkHref, linkTarget, linkText, title, varia
 		object-fit: cover;
 	}
 
+	.content-block[data-variant='cover'] figure {
+		align-self: flex-start;
+		aspect-ratio: 3 / 2;
+		max-block-size: 20rem;
+		overflow: hidden;
+	}
+
 	.content-block[data-direction='reversed'] {
 		flex-flow: row-reverse;
 		@media screen and (max-width: 844px) {
