@@ -3,12 +3,12 @@ title: 'Surveying Wildlife at Highwood'
 description: 'Ecologist Steve Wiltshire reports on summer wildlife at High Wood, recording 30 species of breeding birds including Red Kite, Hobby, and Silver-washed Fritillary.'
 pubDate: 2022-07-06T14:28:19.000Z
 categories: ['conservation-biodiversity']
-author: 'Phil Sturgeon'
+author: 'Steve Wiltshire'
 thumbnail: ../../assets/articles/wildlife-survey-at-highwood.jpg
 ---
 
-#### Protect Earth ecologist and conservationist Steve Wiltshire reports on Summer wildlife at High Wood, our community woodland in South-East Cornwall.
-
+**Protect Earth ecologist and conservationist Steve Wiltshire reports on Summer wildlife at High Wood, our community woodland in South-East Cornwall.
+**
 “Bird surveys at Highwood recorded 30 species of breeding bird overall this Spring. There were good numbers of common woodland birds like Song Thrush, Goldcrest, Wren, Treecreeper and Nuthatch. Later surveys produced summer visitors including Blackcap, Willow Warbler and lots of Chiffchaffs. The latter’s distinctive two note song, along with explosive trills from Wrens, are the soundtrack of High Wood in springtime. Ravens were recorded passing through, along with other exciting visitors such as Red Kite and, perhaps best of all, a Hobby. These small falcons are summer visitors to Southern Britain and, amazingly, have come all the way from Botswana or Zambia.
 
 Trackside flowers like Valerian and St. John’s Wort, hummed with insects during the hot days of mid-summer. Meadow Brown and Speckled Wood, the most common butterfly species, were occasionally joined by the spectacular Silver-washed Fritillary. Golden-ringed dragonflies – about the size of a pencil – patrolled the woodland edge, as Beautiful Demoiselles fluttered elegantly below. On one early morning wander I encountered a huge Toad the size of a tennis ball and even a Grass Snake.

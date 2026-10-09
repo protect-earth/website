@@ -7,7 +7,7 @@ author: 'Phil Sturgeon'
 thumbnail: ../../assets/articles/introducing-steve-wiltshire.jpg
 ---
 
-_Joey from marketing agency TMD interviews Steve about his life in conservation. They discuss the skills required to be a conservationist, the impact of climate change on the work of Protect Earth, as well as the wildlife you might find at a Protect Earth site. _
+_An interview with Steve about his life in conservation. They discuss the skills required to be a conservationist, the impact of climate change on the work of Protect Earth, as well as the wildlife you might find at a Protect Earth site. _
 
 ![](/articles/squarespace/steve-wiltshire-afb81ea456.jpg)
 

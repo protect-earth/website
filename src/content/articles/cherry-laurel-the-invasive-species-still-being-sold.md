@@ -1,9 +1,10 @@
 ---
 title: 'Cherry Laurel: The Invasive Species Still Being Sold'
-description: 'Cherry Laurel releases cyanide, acidifies our soil and watercourses - yet it’s still sold as a hedging plant. Here’s why it should be on the restricted list.'
+description: "Cherry Laurel releases cyanide, acidifies our soil and watercourses - yet it’s still sold as a hedging plant. Here's why it should be on the restricted list."
 pubDate: 2026-10-05T09:00:00.000Z
 categories: ['invasive-species', 'policy-funding']
-author: 'Phil Sturgeon'
+author: 'Elena Tornberg-Lennox'
+thumbnail: ../../assets/articles/cherry-laurel-the-invasive-species-still-being-sold/hero.jpg
 ---
 
 Our countryside is struggling. Successive heatwaves, droughts, floods, fires and storms. Heating and cooling throwing off aeons-old natural rhythms. Fragmented and failing habitats, ecosystems out of balance, pollution, disturbance and intentional harm. Into this comes a further threat - invasive species. As native species struggle to adapt to a world changing at an ever-faster pace, invasive species that are more resilient, more adaptable, and with a host of tactics to outcompete other species, can reach into the cracks that humans have created, and fill them.
@@ -15,6 +16,8 @@ Sometimes these species arrive by accident, such as Dutch Elm Disease. It reache
 Cherry Laurel was first planted in the UK in the early 17th century, brought over from Balkan southeast Europe, and western Asia. It was mainly planted for hedging and game cover - yet another plant like rhododendron that we have Victorian hunting enthusiasts to thank for. It was first recorded growing wild in Britain in 1886, and has only grown stronger in the past 140 years.
 
 Cherry Laurel forms dense stands, shading out competition, and produces a lot of fruit, which is then widely distributed by birds. It also spreads by layering from an existing stand, slowly spreading outwards, creating more and more thickets. This double approach to spreading ensures quick and successful colonisation of new areas.
+
+![A woodland in Newbury completely overrun with cherry laurel and some rhododendron, another invasive that should not be sold in garden centers.](./cherry-laurel-the-invasive-species-still-being-sold/laurel-vs-rhododendron.png)
 
 Data from 2010 shows that it was present in [1,882 of 10km squares](https://www.nonnativespecies.org/non-native-species/information-portal/view/2853) across the country, and it has likely spread much further by now, especially since beside spreading of its abundant fruit, it also expands by layering, expanding existing patches. Unfortunately, despite the damage that’s been done and the economic cost of trying to stop its spread, Cherry Laurel is still easily available and commonly used as a [hedging plant](https://greatglamorganway.co.uk/en_gb/invasive_species/cherry-laurel/), as it grows quickly and thickly. Many people still cultivate it in their garden as an ornamental, with glossy dark green leaves and sprays of white flowers.
 
@@ -34,7 +37,9 @@ Removal can also be a positive. As it is designated as a shrub, not a tree, ther
 
 Protect Earth has already tackled a lot of Cherry Laurel at its sites, requiring a lot of time, energy and resources from the team and volunteers that have stepped up. At [Thorncombe Street](https://protect.earth/sites/thorncombe-street/), we were brought on board to help plant several shelterbelts, as well as the beginnings of a brand new ancient forest. But first, all the Cherry Laurel had to be taken out. The dedicated landowners spent many sweaty hours and days clearing the land, so it was ready to plant local trees, and bring diversity back to Thorncombe Street.
 
-We are also looking at a trial in Newbury to turn the Cherry Laurel and Rhododendron onsite into biochar. Using biochar on the site would speed up regeneration of the conifer soils, locking carbon in and bringing fresh life to the site.
+![Some mature laurel bush in the background, and a regrowing stump from previous clearance efforts, because it won't die without being sprayed or dug out and burned.](./cherry-laurel-the-invasive-species-still-being-sold/returns.png)
+
+We are also beginning a trial in Newbury to turn the Cherry Laurel and Rhododendron onsite into biochar. Using biochar on the site would speed up regeneration of the conifer soils, locking carbon in and bringing fresh life to the site.
 
 ## Support us
 

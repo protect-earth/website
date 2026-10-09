@@ -17,8 +17,8 @@ export default defineConfig({
 			'/articles/restoring-ancient-woodlands',
 		'/articles/misconception-planting-in-straight-lines-is-lazy-or-bad':
 			'/articles/misconceptions-about-tree-planting',
-		'/events/high-wood-summer-fair-14th-june-2026':
-			'/events/high-wood-summer-fair-liskeard-cornwall-1986120946215.md',
+		'/articles/cherry-laurel-may-not-be-the-best-choice-for-your-garden-and-heres-why':
+			'/articles/cherry-laurel-the-invasive-species-still-being-sold',
 		'/bath': '/warleigh-nature-reserve',
 		'/blog/[slug]': '/articles/[slug]',
 		'/projects/[slug]': '/sites/[slug]',
