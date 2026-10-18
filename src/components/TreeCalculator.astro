@@ -26,9 +26,7 @@ const sliderIndex = Math.max(0, treeSteps.indexOf(defaultTrees));
 		<div class="calculator__card squircle">
 			<header class="calculator__header">
 				<h2>Work out your impact</h2>
-				<p>
-					Native trees, planted and looked after on sites across the UK.
-				</p>
+				<p>Native trees, planted and looked after on sites across the UK.</p>
 			</header>
 
 			<div class="calculator__controls">
@@ -91,11 +89,14 @@ const sliderIndex = Math.max(0, treeSteps.indexOf(defaultTrees));
 			</div>
 
 			<p class="calculator__rounded" data-rounded hidden={!quote.roundedUpFrom}>
-				Rounded up to <strong data-rounded-to>{formatCount(quote.trees)}</strong> trees (the bundle price makes it cheaper than <span data-rounded-from>{formatCount(quote.roundedUpFrom ?? 0)}</span>).
+				Rounded up to <strong data-rounded-to>{formatCount(quote.trees)}</strong> trees (the bundle price
+				makes it cheaper than <span data-rounded-from>{formatCount(quote.roundedUpFrom ?? 0)}</span
+				>).
 			</p>
 
 			<p class="calculator__timing">
-				Planted <strong>{season.label}</strong>, then surveyed, maintained, and re-stocked where needed.
+				Planted <strong>{season.label}</strong>, then surveyed, maintained, and re-stocked where
+				needed.
 			</p>
 
 			<details class="calculator__basket">
@@ -112,9 +113,7 @@ const sliderIndex = Math.max(0, treeSteps.indexOf(defaultTrees));
 						))
 					}
 				</ul>
-				<p>
-					The discount comes from our bundle pricing.
-				</p>
+				<p>The discount comes from our bundle pricing.</p>
 			</details>
 
 			<div class="calculator__actions">
@@ -127,11 +126,13 @@ const sliderIndex = Math.max(0, treeSteps.indexOf(defaultTrees));
 			</div>
 
 			<p class="calculator__invoice" data-invoice hidden={!quote.needsInvoice}>
-				If you would rather pay against an invoice and / or plant at a named site, ask us for a quote and we will set that up.
+				If you would rather pay against an invoice and / or plant at a named site, ask us for a
+				quote and we will set that up.
 			</p>
 
 			<small class="calculator__smallprint">
-				We are a registered charity (no. {charityNumber}). You are funding planting and aftercare. We do not sell carbon credits.
+				We are a registered charity (no. {charityNumber}). You are funding planting and aftercare.
+				We do not sell carbon credits.
 			</small>
 
 			<noscript>
