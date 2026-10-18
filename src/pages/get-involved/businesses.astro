@@ -1,9 +1,9 @@
 ---
-import { Image } from 'astro:assets';
 import Layout from '../../layouts/Layout.astro';
 import ContentHero from '../../components/ContentHero.astro';
 import ContentBlock from '../../components/ContentBlock.astro';
 import TakeAction from '../../components/TakeAction.astro';
+import BrandLogos from '../../components/BrandLogos.astro';
 import { heroBusinesses } from '../../assets/hero-images';
 import businessesVolunteering from '../../assets/pages/get-involved/businesses-volunteering.jpg';
 import businessesSponsor1 from '../../assets/pages/get-involved/businesses-sponsor1.jpg';
@@ -94,120 +94,8 @@ import businessesSponsor2 from '../../assets/pages/get-involved/businesses-spons
 		</ContentBlock>
 
 		<!-- Brand Logos Section -->
-		<section class="brands">
-			<h2>Some brands who have benefited from supporting us</h2>
-
-			<div class="grid">
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-absolute-vodka.png"
-					alt="Absolut Vodka"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-acer.png"
-					alt="Acer"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-capsule-cover.png"
-					alt="Capsule Cover"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-uk-cpi.png"
-					alt="UK CPI"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-environment-agency.png"
-					alt="Environment Agency"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-google.png"
-					alt="Google"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-mulberry.png"
-					alt="Mulberry"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-the-land-app.png"
-					alt="The Land App"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-ovo-energy.png"
-					alt="Ovo Energy"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-reuseabox.png"
-					alt="Reuseabox"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-rheal-superfoods.png"
-					alt="Rheal Superfoods"
-					class="squircle"
-				/>
-
-				<Image
-					width={667}
-					height={375}
-					src="/logos/corporate-volunteers/brand-zenergi.png"
-					alt="Zenergi"
-					class="squircle"
-				/>
-			</div>
-		</section>
+		<BrandLogos />
 	</section>
 
 	<TakeAction />
 </Layout>
-
-<style>
-	.grid {
-		grid-template-columns: var(--grid-fit-12rem);
-	}
-
-	.brands h2 {
-		font-size: var(--font-l);
-		text-align: center;
-		margin-block-end: var(--space-m);
-	}
-</style>
