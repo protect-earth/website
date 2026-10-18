@@ -171,8 +171,7 @@ const desc =
 
 		if (!form || !messageContainer || !submitButton) return;
 
-		// The corporate tree planting calculator links here with the topic and the
-		// number of trees it quoted, so the enquiry arrives with that context.
+		// The corporate tree planting calculator links here with the topic and the number of trees it quoted, so the enquiry contains that context
 		const params = new URL(window.location.href).searchParams;
 		const topic = params.get('topic');
 		const trees = Number(params.get('trees'));
