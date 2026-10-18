@@ -67,8 +67,14 @@ const desc =
 						<option value="planting">Planting</option>
 						<option value="financing">Financing</option>
 						<option value="land">Land</option>
+						<option value="corporate">Corporate partnership</option>
 						<option value="other">Other</option>
 					</select>
+				</fieldset>
+
+				<fieldset>
+					<label for="company">Company or organisation</label>
+					<input type="text" id="company" name="company" />
 				</fieldset>
 
 				<fieldset>
@@ -164,6 +170,22 @@ const desc =
 		const submitButton = form?.querySelector('button[type="submit"]') as HTMLButtonElement | null;
 
 		if (!form || !messageContainer || !submitButton) return;
+
+		// The corporate tree planting calculator links here with the topic and the
+		// number of trees it quoted, so the enquiry arrives with that context.
+		const params = new URL(window.location.href).searchParams;
+		const topic = params.get('topic');
+		const trees = Number(params.get('trees'));
+
+		const topicField = form.querySelector('#topic') as HTMLSelectElement | null;
+		if (topicField && topic && Array.from(topicField.options).some((o) => o.value === topic)) {
+			topicField.value = topic;
+		}
+
+		const messageField = form.querySelector('#message') as HTMLTextAreaElement | null;
+		if (messageField && !messageField.value && Number.isFinite(trees) && trees > 0) {
+			messageField.value = `Please send us a written quote for sponsoring ${trees.toLocaleString('en-GB')} trees.`;
+		}
 
 		form.addEventListener('submit', async (e) => {
 			e.preventDefault();
