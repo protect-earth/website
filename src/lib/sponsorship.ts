@@ -18,17 +18,12 @@ export type Quote = {
 	lines: QuoteLine[];
 	cartUrl: string;
 	needsInvoice: boolean;
-	/** Set when we rounded up to a bundle because it came out cheaper. */
 	roundedUpFrom?: number;
 };
 
-/**
- * Trees per acre, worked out from our own published totals so the acreage on the
- * calculator always agrees with the achievement figures shown alongside it.
- */
 export const treesPerAcre = Math.round(achievements.treesPlanted / achievements.acresRestored);
 
-/** Largest tier first, so filling a basket greedily picks up the volume pricing. */
+// largest tier first, so that volume pricing can be applied
 const tiers = [...sponsorship.tiers].sort((a, b) => b.trees - a.trees);
 
 export const treeSteps = sponsorship.steps;
@@ -42,10 +37,6 @@ export function clampTrees(value: number): number {
 	return Math.min(maxTrees, Math.max(minTrees, Math.round(value)));
 }
 
-/**
- * Fill a basket from the biggest bundle down. The discount curve already set up
- * on the shop then applies on its own, so this needs no corporate-only products.
- */
 function fillBasket(trees: number): { lines: QuoteLine[]; total: number } {
 	const lines: QuoteLine[] = [];
 	let remaining = trees;
@@ -72,9 +63,6 @@ function fillBasket(trees: number): { lines: QuoteLine[]; total: number } {
 export function quoteFor(requested: number): Quote {
 	const asked = clampTrees(requested);
 
-	// Filling greedily can leave an awkward tail: 99 trees in small bundles costs
-	// more than the 100 bundle does. Nobody should pay more for fewer trees, so
-	// also price each bundle size rounded up and take whichever is cheapest.
 	let trees = asked;
 	let basket = fillBasket(asked);
 
@@ -97,23 +85,16 @@ export function quoteFor(requested: number): Quote {
 		perTree: basket.total / trees,
 		acres: trees / treesPerAcre,
 		lines: basket.lines,
-		// storefront=true lands them on the shop's own cart so they can review and
-		// amend. Without it Shopify sends cart links straight out to checkout.
 		cartUrl: `${sponsorship.shopUrl}/cart/${items}?storefront=true`,
 		needsInvoice: trees >= sponsorship.invoiceThreshold,
 		roundedUpFrom: trees === asked ? undefined : asked,
 	};
 }
 
-/** Where the "get a written quote" button goes, carrying the figure across. */
 export function quoteEnquiryUrl(trees: number): string {
 	return `/contact?topic=corporate&trees=${clampTrees(trees)}`;
 }
 
-/**
- * Planting runs November to March, so anything funded now goes in during the
- * season that is either under way or next up.
- */
 export function plantingSeason(now = new Date()): { label: string; maintainedTo: number } {
 	const startYear = now.getMonth() >= 3 ? now.getFullYear() : now.getFullYear() - 1;
 
