@@ -1,0 +1,163 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ContentHero from '../../../components/ContentHero.astro';
+import ContentBlock from '../../../components/ContentBlock.astro';
+import TreeCalculator from '../../../components/TreeCalculator.astro';
+import Achievements from '../../../components/Achievements.astro';
+import BrandLogos from '../../../components/BrandLogos.astro';
+import { siteConfig } from '../../../config';
+import { heroBusinesses } from '../../../assets/hero-images';
+import businessesSponsor1 from '../../../assets/pages/get-involved/businesses-sponsor1.jpg';
+import businessesSponsor2 from '../../../assets/pages/get-involved/businesses-sponsor2.jpg';
+import businessesVolunteering from '../../../assets/pages/get-involved/businesses-volunteering.jpg';
+
+const description =
+	'Corporate tree planting with Protect Earth. Fund native woodland on sites across the UK, see exactly where it went, and bring your team out to plant it.';
+
+const { achievements } = siteConfig;
+---
+
+<Layout
+	title="Corporate Tree Planting"
+	breadcrumb="Corporate Tree Planting"
+	description={description}
+>
+	<ContentHero
+		imgAlt="People planting young trees together on a grassy hillside"
+		imgSrc={heroBusinesses}
+		title="Corporate Tree Planting"
+	>
+		<p>
+			Fund native woodland your team can visit. Every tree goes on a mapped site, and gets looked after as needed for years to come.
+		</p>
+		<div class="hero-actions">
+			<a class="button" href="#calculator">Work out your impact ↓</a>
+			<a class="button-ghost" href="/contact?topic=corporate">Talk to us →</a>
+		</div>
+	</ContentHero>
+
+	<TreeCalculator />
+
+	<section class="page-sections wrap">
+		<ContentBlock
+			imgSrc={businessesSponsor1}
+			imgAlt="People planting trees on a grassy hillside"
+			title="What your sponsorship buys"
+		>
+			<p>
+				Your sponsorship covers:
+			</p>
+			<ul>
+				<li>The sapling itself; native species, matched to the site by our ecologists.</li>
+				<li>Protection from deer and rabbits, and mulch to hold back competing plants and grasses.</li>
+				<li>Planting, by our teams and our volunteers.</li>
+				<li>Years of aftercare; watering in a drought, clearing growth, repairing guards.</li>
+				<li>Re-stocking. When a tree fails, we plant another one in its place.</li>
+				<li>Survival surveys; we track and report on the success of each planting.</li>
+			</ul>
+			<p>
+				We are a charity, not a carbon broker. There is no offset certificate here and no claim made
+				on your behalf — just woodland that exists because you paid for it.
+			</p>
+		</ContentBlock>
+
+		<ContentBlock
+			imgSrc={businessesSponsor2}
+			imgAlt="Young trees established in a field with protective guards"
+			linkHref="/sites"
+			linkText="Browse our sites →"
+			title="See exactly where your trees went"
+			isReversed
+		>
+			<p>
+				Every site we work on has its own page: where it is, what went in the ground, who owns the land, and what has happened since. Those pages keep updating for as long as we manage the site; planting, maintenance visits, ecology surveys, setbacks and all.
+			</p>
+			<p>
+				Your sponsorship comes with a certificate showing your trees, their species and location, linking through to the living page for that site.
+			</p>
+			<p>
+				We publish our survival rate too. It currently sits at <strong
+					>{achievements.survivalRate}%</strong
+				> across everything we have planted.
+			</p>
+		</ContentBlock>
+
+		<ContentBlock
+			imgSrc={businessesVolunteering}
+			imgAlt="A group of colleagues planting young trees in a field"
+			linkHref="/get-involved/businesses"
+			linkText="Corporate volunteering →"
+			title="Bring your team out to plant"
+		>
+			<p>
+				Sponsorship and team days work well together. Come out for a planting day and your
+				colleagues get to put the trees in the ground themselves, guided by our experts — we have had companies plant 2,000+ trees in a single day.
+			</p>
+			<p>
+				If you want to know what a planting day actually looks like, we have <a
+					href="/articles/corporate-volunteering-how-it-works-what-to-expect-and-how-others-have-enjoyed"
+					>written up how these days run</a
+				>.
+			</p>
+		</ContentBlock>
+	</section>
+
+	<Achievements />
+
+	<section class="page-sections wrap">
+		<BrandLogos title="Organisations who already plant with us" />
+	</section>
+
+	<section class="partnership">
+		<div class="wrap">
+			<div class="partnership__inner">
+				<h2>Planting at scale?</h2>
+				<p>
+					Looking for something more? We can plant at a named site, spread planting across several seasons, invoice against a purchase order, or build something multi-year that your team get to visit over and over.
+				</p>
+				<p>
+					Tell us roughly what you have in mind and we will come back with a written proposal and a price.
+				</p>
+				<a class="button" href="/contact?topic=corporate">Start a conversation →</a>
+			</div>
+		</div>
+	</section>
+</Layout>
+
+<style>
+	.hero-actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-s);
+		justify-content: center;
+		margin-block-start: var(--space-m);
+	}
+
+	.partnership {
+		background: var(--take-action-background);
+		color: var(--body-text-light);
+		padding-block: var(--space-xl);
+		clip-path: var(--wavy-line-top-bottom);
+	}
+
+	.partnership__inner {
+		max-inline-size: var(--measure);
+		margin-inline: auto;
+		display: flex;
+		flex-flow: column;
+		align-items: flex-start;
+		gap: var(--space-s);
+	}
+
+	.partnership h2 {
+		font-size: var(--font-2xl);
+	}
+
+	.partnership p {
+		font-size: var(--font-s);
+	}
+
+	.partnership .button {
+		margin-block-start: var(--space-2xs);
+	}
+</style>
