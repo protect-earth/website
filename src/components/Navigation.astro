@@ -3,7 +3,7 @@ import Menu from '../assets/icons/menu.svg';
 const { pathname } = Astro.url;
 const paths = pathname.split('/').filter(Boolean);
 
-const [topLevel, secondLevel] = paths;
+const [topLevel, secondLevel, thirdLevel] = paths;
 ---
 
 <nav class="site-nav">
@@ -24,9 +24,17 @@ const [topLevel, secondLevel] = paths;
 				<li>
 					<a
 						href="/get-involved/businesses"
-						aria-current={secondLevel === 'businesses' ? 'page' : undefined}
+						aria-current={secondLevel === 'businesses' && !thirdLevel ? 'page' : undefined}
 					>
 						Businesses
+					</a>
+				</li>
+				<li>
+					<a
+						href="/get-involved/businesses/corporate-tree-planting"
+						aria-current={thirdLevel === 'corporate-tree-planting' ? 'page' : undefined}
+					>
+						Corporate Tree Planting
 					</a>
 				</li>
 				<li>

@@ -1,0 +1,504 @@
+---
+import { siteConfig } from '../config';
+import {
+	defaultTrees,
+	formatAcres,
+	formatCount,
+	formatPerTree,
+	formatTotal,
+	maxTrees,
+	minTrees,
+	plantingSeason,
+	presets,
+	quoteEnquiryUrl,
+	quoteFor,
+	treeSteps,
+} from '../lib/sponsorship';
+
+const quote = quoteFor(defaultTrees);
+const season = plantingSeason();
+const { charityNumber } = siteConfig;
+const sliderIndex = Math.max(0, treeSteps.indexOf(defaultTrees));
+---
+
+<section class="calculator" id="calculator">
+	<div class="wrap">
+		<div class="calculator__card squircle">
+			<header class="calculator__header">
+				<h2>Work out your impact</h2>
+				<p>Native trees, planted and looked after on sites across the UK.</p>
+			</header>
+
+			<div class="calculator__controls">
+				<div class="calculator__presets" role="group" aria-label="Common sponsorship sizes">
+					{
+						presets.map((count) => (
+							<button
+								type="button"
+								class="preset"
+								data-preset={count}
+								aria-pressed={count === defaultTrees}
+							>
+								{formatCount(count)}
+							</button>
+						))
+					}
+				</div>
+
+				<div class="calculator__entry">
+					<div class="calculator__number">
+						<label for="tree-count">Number of trees</label>
+						<input
+							id="tree-count"
+							type="number"
+							inputmode="numeric"
+							min={minTrees}
+							max={maxTrees}
+							step="1"
+							value={defaultTrees}
+							data-count
+						/>
+					</div>
+
+					<input
+						class="calculator__slider"
+						type="range"
+						aria-label="Number of trees"
+						min="0"
+						max={treeSteps.length - 1}
+						step="1"
+						value={sliderIndex}
+						data-slider
+					/>
+				</div>
+			</div>
+
+			<div class="calculator__figures" aria-live="polite">
+				<p class="figure figure--headline">
+					<strong data-total>{formatTotal(quote.total)}</strong>
+					<span class="figure__label">total</span>
+				</p>
+				<p class="figure">
+					<strong data-per-tree>{formatPerTree(quote.perTree)}</strong>
+					<span class="figure__label">per tree</span>
+				</p>
+				<p class="figure">
+					<strong>≈<span data-acres>{formatAcres(quote.acres)}</span></strong>
+					<span class="figure__label">acres of new woodland</span>
+				</p>
+			</div>
+
+			<p class="calculator__rounded" data-rounded hidden={!quote.roundedUpFrom}>
+				Rounded up to <strong data-rounded-to>{formatCount(quote.trees)}</strong> trees (the bundle price
+				makes it cheaper than <span data-rounded-from>{formatCount(quote.roundedUpFrom ?? 0)}</span
+				>).
+			</p>
+
+			<p class="calculator__timing">
+				Planted <strong>{season.label}</strong>, then surveyed, maintained, and re-stocked where
+				needed.
+			</p>
+
+			<details class="calculator__basket">
+				<summary>Your basket</summary>
+				<ul data-basket>
+					{
+						quote.lines.map((line) => (
+							<li>
+								<span>
+									{line.quantity} × {line.title}
+								</span>
+								<span>{formatTotal(line.subtotal)}</span>
+							</li>
+						))
+					}
+				</ul>
+				<p>The discount comes from our bundle pricing.</p>
+			</details>
+
+			<div class="calculator__actions">
+				<a class="button" href={quote.cartUrl} data-cart
+					>Sponsor {formatCount(quote.trees)} trees →</a
+				>
+				<a class="button-ghost" href={quoteEnquiryUrl(quote.trees)} data-quote>
+					Get a written quote →
+				</a>
+			</div>
+
+			<p class="calculator__invoice" data-invoice hidden={!quote.needsInvoice}>
+				If you would rather pay against an invoice and / or plant at a named site, ask us for a
+				quote and we will set that up.
+			</p>
+
+			<small class="calculator__smallprint">
+				We are a registered charity (no. {charityNumber}). You are funding planting and aftercare.
+				We do not sell carbon credits.
+			</small>
+
+			<noscript>
+				<p class="calculator__noscript">
+					This calculator needs JavaScript to change the figures. The amounts above are for {
+						formatCount(defaultTrees)
+					} trees and the buttons work as they are, or <a href="/contact?topic=corporate"
+						>ask us for a quote</a
+					> for any other number.
+				</p>
+			</noscript>
+		</div>
+	</div>
+</section>
+
+<script>
+	import {
+		formatAcres,
+		formatCount,
+		formatPerTree,
+		formatTotal,
+		minTrees,
+		quoteEnquiryUrl,
+		quoteFor,
+		treeSteps,
+	} from '../lib/sponsorship';
+
+	const card = document.querySelector('.calculator__card');
+	if (card) {
+		const countInput = card.querySelector('[data-count]') as HTMLInputElement | null;
+		const slider = card.querySelector('[data-slider]') as HTMLInputElement | null;
+		const totalEl = card.querySelector('[data-total]');
+		const perTreeEl = card.querySelector('[data-per-tree]');
+		const acresEl = card.querySelector('[data-acres]');
+		const basketEl = card.querySelector('[data-basket]');
+		const cartEl = card.querySelector('[data-cart]') as HTMLAnchorElement | null;
+		const quoteEl = card.querySelector('[data-quote]') as HTMLAnchorElement | null;
+		const invoiceEl = card.querySelector('[data-invoice]') as HTMLElement | null;
+		const roundedEl = card.querySelector('[data-rounded]') as HTMLElement | null;
+		const roundedToEl = card.querySelector('[data-rounded-to]');
+		const roundedFromEl = card.querySelector('[data-rounded-from]');
+		const presetButtons = Array.from(card.querySelectorAll('[data-preset]')) as HTMLButtonElement[];
+
+		const nearestIndex = (trees: number) =>
+			treeSteps.reduce(
+				(best, step, index) =>
+					Math.abs(step - trees) < Math.abs(treeSteps[best] - trees) ? index : best,
+				0,
+			);
+
+		const render = (requested: number, syncCount = true) => {
+			const quote = quoteFor(requested);
+
+			if (totalEl) totalEl.textContent = formatTotal(quote.total);
+			if (perTreeEl) perTreeEl.textContent = formatPerTree(quote.perTree);
+			if (acresEl) acresEl.textContent = formatAcres(quote.acres);
+			if (cartEl) {
+				cartEl.href = quote.cartUrl;
+				cartEl.textContent = `Sponsor ${formatCount(quote.trees)} trees →`;
+			}
+			if (quoteEl) quoteEl.href = quoteEnquiryUrl(quote.trees);
+			if (invoiceEl) invoiceEl.hidden = !quote.needsInvoice;
+
+			if (roundedEl) roundedEl.hidden = !quote.roundedUpFrom;
+			if (quote.roundedUpFrom) {
+				if (roundedToEl) roundedToEl.textContent = formatCount(quote.trees);
+				if (roundedFromEl) roundedFromEl.textContent = formatCount(quote.roundedUpFrom);
+			}
+
+			if (basketEl) {
+				basketEl.replaceChildren(
+					...quote.lines.map((line) => {
+						const item = document.createElement('li');
+						const label = document.createElement('span');
+						label.textContent = `${line.quantity} × ${line.title}`;
+						const subtotal = document.createElement('span');
+						subtotal.textContent = formatTotal(line.subtotal);
+						item.append(label, subtotal);
+						return item;
+					}),
+				);
+			}
+
+			for (const button of presetButtons) {
+				const preset = Number(button.dataset.preset);
+				button.setAttribute('aria-pressed', String(preset === quote.trees));
+			}
+
+			if (syncCount && countInput) countInput.value = String(quote.trees);
+			if (slider) slider.value = String(nearestIndex(quote.trees));
+		};
+
+		slider?.addEventListener('input', () => {
+			render(treeSteps[Number(slider.value)]);
+		});
+
+		countInput?.addEventListener('input', () => {
+			const typed = Number(countInput.value);
+			if (Number.isFinite(typed) && typed >= minTrees) render(typed, false);
+		});
+
+		countInput?.addEventListener('change', () => {
+			render(Number(countInput.value));
+		});
+
+		for (const button of presetButtons) {
+			button.addEventListener('click', () => {
+				render(Number(button.dataset.preset));
+			});
+		}
+	}
+</script>
+
+<style>
+	.calculator {
+		background: var(--purple-dark);
+		color: var(--body-text-light);
+		padding-block: var(--space-xl);
+		clip-path: var(--wavy-line-bottom);
+		margin-block-start: -20px;
+	}
+
+	.calculator__card {
+		background: var(--white);
+		color: var(--body-text);
+		padding: var(--space-l);
+		max-inline-size: 60rem;
+		margin-inline: auto;
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-m);
+
+		@media screen and (max-width: 540px) {
+			padding: var(--space-m);
+		}
+	}
+
+	.calculator__header h2 {
+		font-size: var(--font-xl);
+		margin-block-end: var(--space-2xs);
+	}
+
+	.calculator__header p {
+		font-size: var(--font-s);
+		max-inline-size: var(--measure);
+	}
+
+	.calculator__controls {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-s);
+	}
+
+	.calculator__presets {
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-2xs);
+	}
+
+	.preset {
+		border-radius: var(--radius-l);
+		border: 2px solid var(--border-color);
+		padding: var(--space-3xs) var(--space-s);
+		font-size: var(--font-xs);
+		background: var(--white);
+		cursor: pointer;
+		transition: all var(--transition);
+	}
+
+	.preset:hover {
+		border-color: var(--border-focus);
+	}
+
+	.preset[aria-pressed='true'] {
+		background: var(--green-mid);
+		border-color: var(--green-mid);
+		color: var(--body-text-light);
+	}
+
+	.calculator__entry {
+		display: flex;
+		align-items: flex-end;
+		flex-wrap: wrap;
+		gap: var(--space-m);
+	}
+
+	.calculator__number {
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-3xs);
+		inline-size: 9rem;
+	}
+
+	.calculator__number label {
+		font-size: var(--font-xs);
+		font-weight: 700;
+	}
+
+	.calculator__slider {
+		appearance: none;
+		-webkit-appearance: none;
+		background: transparent;
+		cursor: grab;
+		flex: 1 1 12rem;
+		max-inline-size: 20rem;
+		height: 1.5rem;
+		margin: 0;
+	}
+
+	.calculator__slider:active {
+		cursor: grabbing;
+	}
+
+	.calculator__slider:focus-visible {
+		outline: 2px solid var(--border-focus);
+		outline-offset: 4px;
+		border-radius: 500px;
+	}
+
+	.calculator__slider::-webkit-slider-runnable-track {
+		height: 4px;
+		border-radius: 500px;
+		background: var(--grey-light);
+	}
+
+	.calculator__slider::-moz-range-track {
+		height: 4px;
+		border-radius: 500px;
+		background: var(--grey-light);
+	}
+
+	.calculator__slider::-webkit-slider-thumb {
+		-webkit-appearance: none;
+		appearance: none;
+		width: 1.125rem;
+		height: 1.125rem;
+		border-radius: 50%;
+		background: var(--white);
+		border: 3px solid var(--green-mid);
+		box-shadow: var(--shadow-small);
+		margin-top: calc((4px - 1.125rem) / 2);
+		transition: transform var(--transition);
+	}
+
+	.calculator__slider::-moz-range-thumb {
+		width: 1.125rem;
+		height: 1.125rem;
+		border-radius: 50%;
+		background: var(--white);
+		border: 3px solid var(--green-mid);
+		box-shadow: var(--shadow-small);
+		transition: transform var(--transition);
+	}
+
+	.calculator__slider:hover::-webkit-slider-thumb,
+	.calculator__slider:focus-visible::-webkit-slider-thumb {
+		transform: scale(1.15);
+	}
+
+	.calculator__slider:hover::-moz-range-thumb,
+	.calculator__slider:focus-visible::-moz-range-thumb {
+		transform: scale(1.15);
+	}
+
+	.calculator__figures {
+		display: grid;
+		grid-template-columns: repeat(3, max-content);
+		grid-template-rows: auto auto;
+		column-gap: var(--space-l);
+		padding-block: var(--space-s);
+		border-block: 1px solid var(--border-color);
+	}
+
+	.figure {
+		display: grid;
+		grid-template-rows: subgrid;
+		grid-row: span 2;
+	}
+
+	.figure strong {
+		align-self: baseline;
+		font-size: var(--font-l);
+		line-height: 1.1;
+	}
+
+	.figure--headline strong {
+		font-size: var(--font-2xl);
+		color: var(--green-dark);
+	}
+
+	.figure__label {
+		font-size: var(--font-2xs);
+		color: var(--grey);
+	}
+
+	@media screen and (max-width: 540px) {
+		.calculator__figures {
+			grid-template-columns: 1fr;
+			row-gap: var(--space-s);
+		}
+
+		.figure {
+			display: block;
+			grid-row: auto;
+		}
+	}
+
+	.calculator__timing {
+		font-size: var(--font-s);
+	}
+
+	.calculator__basket {
+		font-size: var(--font-xs);
+	}
+
+	.calculator__basket summary {
+		cursor: pointer;
+		font-weight: 700;
+	}
+
+	.calculator__basket ul {
+		list-style: none;
+		padding: 0;
+		margin-block: var(--space-2xs);
+		display: flex;
+		flex-flow: column;
+		gap: var(--space-3xs);
+	}
+
+	.calculator__basket :global(li) {
+		display: flex;
+		justify-content: space-between;
+		gap: var(--space-s);
+		padding-block-end: var(--space-3xs);
+		border-block-end: 1px dashed var(--border-color);
+	}
+
+	.calculator__basket p {
+		color: var(--grey);
+	}
+
+	.calculator__actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--space-s);
+	}
+
+	.calculator__actions .button-ghost {
+		border-color: var(--border-color);
+	}
+
+	.calculator__invoice,
+	.calculator__rounded {
+		font-size: var(--font-xs);
+		background: var(--offwhite);
+		border-radius: var(--radius-m);
+		padding: var(--space-2xs) var(--space-xs);
+	}
+
+	.calculator__invoice[hidden],
+	.calculator__rounded[hidden] {
+		display: none;
+	}
+
+	.calculator__smallprint,
+	.calculator__noscript {
+		color: var(--grey);
+	}
+</style>

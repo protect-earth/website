@@ -24,6 +24,28 @@ export const siteConfig = {
 		volunteerHours: 14236,
 	},
 
+	// Corporate sponsorship pricing, used by the calculator
+	//
+	// Tiers point at products currently live on shop.protect.earth and must stay up-to-date with them
+	// Variant IDs and prices come from shop.protect.earth/products.json
+	// The calculator fills a basket from the biggest tier down, so the volume pricing already set up on the shop gets applied
+	sponsorship: {
+		shopUrl: 'https://shop.protect.earth',
+		tiers: [
+			{ trees: 100, price: 460, variantId: 45583700623661, title: 'Plant 100 Trees in the UK' },
+			{ trees: 25, price: 120, variantId: 45583702130989, title: 'Plant 25 Trees in the UK' },
+			{ trees: 5, price: 25, variantId: 45583702393133, title: 'Plant 5 Trees in the UK' },
+			{ trees: 1, price: 5, variantId: 45583702491437, title: 'Plant a Tree' },
+		],
+		steps: [25, 50, 100, 250, 500, 1000, 2500, 5000, 10000],
+		presets: [100, 500, 1000, 5000],
+		min: 25,
+		max: 50000,
+		defaultTrees: 1000,
+		invoiceThreshold: 5000,
+		maintenanceYears: 3,
+	},
+
 	analytics: {
 		fathomSiteId: 'OHKWVQNB',
 	},

@@ -1,0 +1,54 @@
+---
+import { Image } from 'astro:assets';
+
+type Props = {
+	title?: string;
+};
+
+const { title = 'Some brands who have benefited from supporting us' } = Astro.props;
+
+const brands = [
+	{ file: 'brand-absolute-vodka.png', alt: 'Absolut Vodka' },
+	{ file: 'brand-acer.png', alt: 'Acer' },
+	{ file: 'brand-capsule-cover.png', alt: 'Capsule Cover' },
+	{ file: 'brand-uk-cpi.png', alt: 'UK CPI' },
+	{ file: 'brand-environment-agency.png', alt: 'Environment Agency' },
+	{ file: 'brand-google.png', alt: 'Google' },
+	{ file: 'brand-mulberry.png', alt: 'Mulberry' },
+	{ file: 'brand-the-land-app.png', alt: 'The Land App' },
+	{ file: 'brand-ovo-energy.png', alt: 'Ovo Energy' },
+	{ file: 'brand-reuseabox.png', alt: 'Reuseabox' },
+	{ file: 'brand-rheal-superfoods.png', alt: 'Rheal Superfoods' },
+	{ file: 'brand-zenergi.png', alt: 'Zenergi' },
+];
+---
+
+<section class="brands">
+	<h2>{title}</h2>
+
+	<div class="grid">
+		{
+			brands.map((brand) => (
+				<Image
+					width={667}
+					height={375}
+					src={`/logos/corporate-volunteers/${brand.file}`}
+					alt={brand.alt}
+					class="squircle"
+				/>
+			))
+		}
+	</div>
+</section>
+
+<style>
+	.grid {
+		grid-template-columns: var(--grid-fit-12rem);
+	}
+
+	.brands h2 {
+		font-size: var(--font-l);
+		text-align: center;
+		margin-block-end: var(--space-m);
+	}
+</style>
