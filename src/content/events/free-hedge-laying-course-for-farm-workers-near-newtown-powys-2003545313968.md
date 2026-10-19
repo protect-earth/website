@@ -1,24 +1,25 @@
 ---
-title: 'FREE hedge laying course for farmers near Newtown, Powys'
-description: We are offering  a free hedge laying course run by an experienced trainer for anyone working in farming. Others welcome -cost £50 per person
-pubDate: 2026-10-10T09:00:00.000Z
-startDate: 2026-10-10T09:00:00.000Z
-endDate: 2026-10-10T15:00:00.000Z
+title: 'Free Hedge Laying Course for Farm Workers near Newtown, Powys'
+description: 'We are offering free courses for all working in farming.  Hobbyists, gardeners etc. very welcome for a donation of £50.,  Students £25'
+pubDate: 2026-10-31T10:00:00.000Z
+startDate: 2026-10-31T10:00:00.000Z
+endDate: 2026-10-31T16:00:00.000Z
 onlineEvent: false
 address: 'Newtown, SY16 3BH'
 coordinates:
   - -3.2917945
   - 52.5239188
-eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farmers-near-newtown-powys-tickets-1998415237772'
-thumbnail: ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/776cede40216.jpg
+eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-near-newtown-powys-tickets-2003545313968'
+thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/071839804df5.jpg
 images:
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/776cede40216.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/0e87b6972ffb.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farmers-near-newtown-powys-1998415237772/96e559783e54.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/071839804df5.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/f905794c98e3.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/7e9a76311cd0.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/96e559783e54.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 
-We want to support farmers so we are running a FREE one-day hedge laying course for farmers. Gardeners, hobbyists, and anyone else interested are also welcome at the cost of £50 for the day. Learn how to restore your hedgerow in a sustainable way from an experienced trainer, and have fun at the same time. We’ll lay the hedge “Conservation Style” which doesn’t use stakes or binders and also makes use of the brash to minimise waste. You will be shown how to make stakes in case you need them in high wind areas.
+We want to support farmers so we are running a FREE one-day hedge laying course for farmers. Gardeners, hobbyists, and anyone else interested are also welcome at the cost of £50 (Students £25) for the day. Learn how to restore your hedgerow in a sustainable way from an experienced trainer, and have fun at the same time. We’ll lay the hedge “Conservation Style” which doesn’t use stakes or binders and also makes use of the brash to minimise waste. You will be shown how to make stakes in case you need them in high wind areas.
 
 There are so many advantages in a properly laid hedge:
 
@@ -42,7 +43,7 @@ Will there be parking?
 
 -   There is parking nearby.
 -   A bus runs to the village
--   A cycle route passes by the village
+-   A national cycleway runs through the village
 
 Whenever possible we encourage you to car share, use public transportation, or even cycle, to keep emissions down and avoid stressing parking space.
 

@@ -13,9 +13,9 @@ eventbriteLink: 'https://www.eventbrite.co.uk/e/volunteers-needed-at-greenham-w-
 thumbnail: ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/cb203bc70cb3.jpg
 images:
   - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/cb203bc70cb3.jpg
-  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/d9b5f7bd4ede.jpg
-  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/a1e0a1c10029.jpg
-  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/069e46026c47.jpg
+  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/f32ac268986f.jpg
+  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/4b87983a76ad.jpg
+  - ../../assets/events/volunteers-needed-at-greenham-w-berks-to-remove-invasive-rhododendrons-2002836831879/0d3597ee4015.jpg
 ---
 Intro
 
