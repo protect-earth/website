@@ -8,17 +8,25 @@ type Props = {
 const { title = 'Some brands who have benefited from supporting us' } = Astro.props;
 
 const brands = [
-	{ file: 'brand-absolute-vodka.png', alt: 'Absolut Vodka' },
+	{ file: 'brand-everoze.png', alt: 'Everoze' },
+	{ file: 'brand-ovo-energy.png', alt: 'Ovo Energy' },
 	{ file: 'brand-acer.png', alt: 'Acer' },
-	{ file: 'brand-capsule-cover.png', alt: 'Capsule Cover' },
-	{ file: 'brand-uk-cpi.png', alt: 'UK CPI' },
+	{ file: 'brand-aviva.png', alt: 'Aviva' },
 	{ file: 'brand-environment-agency.png', alt: 'Environment Agency' },
+	{ file: 'brand-reuseabox.png', alt: 'Reuseabox' },
+	{ file: 'brand-absolute-vodka.png', alt: 'Absolut Vodka' },
+	{ file: 'brand-uk-cpi.png', alt: 'UK CPI' },
 	{ file: 'brand-google.png', alt: 'Google' },
+	{ file: 'brand-hh-global.png', alt: 'HH Global' },
+	{ file: 'brand-hoffmann-uk.svg', alt: 'Hoffmann UK' },
+	{ file: 'brand-ivanti.png', alt: 'Ivanti' },
 	{ file: 'brand-mulberry.png', alt: 'Mulberry' },
 	{ file: 'brand-the-land-app.png', alt: 'The Land App' },
-	{ file: 'brand-ovo-energy.png', alt: 'Ovo Energy' },
-	{ file: 'brand-reuseabox.png', alt: 'Reuseabox' },
 	{ file: 'brand-rheal-superfoods.png', alt: 'Rheal Superfoods' },
+	{ file: 'brand-talking-tables.png', alt: 'Talking Tables' },
+	{ file: 'brand-capsule-cover.png', alt: 'Capsule Cover' },
+	{ file: 'brand-tml-partners.png', alt: 'TML Partners' },
+	{ file: 'brand-total-active-hub.png', alt: 'Total Active Hub' },
 	{ file: 'brand-zenergi.png', alt: 'Zenergi' },
 ];
 ---
@@ -28,15 +36,25 @@ const brands = [
 
 	<div class="grid">
 		{
-			brands.map((brand) => (
-				<Image
-					width={667}
-					height={375}
-					src={`/logos/corporate-volunteers/${brand.file}`}
-					alt={brand.alt}
-					class="squircle"
-				/>
-			))
+			brands.map((brand) =>
+				brand.file.endsWith('.svg') ? (
+					<img
+						width="667"
+						height="375"
+						src={`/logos/corporate-volunteers/${brand.file}`}
+						alt={brand.alt}
+						class="squircle brand-svg"
+					/>
+				) : (
+					<Image
+						width={667}
+						height={375}
+						src={`/logos/corporate-volunteers/${brand.file}`}
+						alt={brand.alt}
+						class="squircle"
+					/>
+				),
+			)
 		}
 	</div>
 </section>
@@ -50,5 +68,16 @@ const brands = [
 		font-size: var(--font-l);
 		text-align: center;
 		margin-block-end: var(--space-m);
+	}
+
+	.brand-svg {
+		box-sizing: border-box;
+		inline-size: 100%;
+		block-size: auto;
+		aspect-ratio: 667 / 375;
+		object-fit: contain;
+		object-position: center;
+		padding: var(--space-xs);
+		background: #fff;
 	}
 </style>

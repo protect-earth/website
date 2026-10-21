@@ -25,7 +25,7 @@ The north west strip next to the tiny sliver of ancient woodland along a stream 
 
 The east-facing slope of Goytre Tump was right in the middle of the two. Everywhere the sun and wind got to the saplings they were doing poorly. Everywhere sheltered was doing brilliantly. Overall that largest compartment was a more manageable 60% survival rate.
 
-Across the entire site, the year one survival rate is 54%, which is far below our goal of 80% survival by year five. We sre hoping that many of those saplings have simply “dead-headed” themselves and will be coming back from the roots as we regularly see across our various sites after a rough summer, but we will not rely on that hope alone.
+Across the entire site, the year one survival rate is 54%, which is far below our goal of 80% survival by year five. We are hoping that many of those saplings have simply “dead-headed” themselves and will be coming back from the roots as we regularly see across our various sites after a rough summer, but we will not rely on that hope alone.
 
 We’ll be replanting the worst hit sections adding back another 20%, planting next to the failures instead of replacing them, so those that wish to have another try can do so. Hemp mulch mats will be added on the south slope where the sun is the most intense, to keep down competition from grass, allowing more water to the soil, and to shade the soil from direct sun to help retain that moisture. All saplings will be dipped in mycorrhizal fungi root dip to help them get their roots down further, which has helped drastically boost the success of replanted saplings on other sites that faced a difficult first year.
 
