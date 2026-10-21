@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
 import ContentHero from '../components/ContentHero.astro';
 import ContentBlock from '../components/ContentBlock.astro';
@@ -11,6 +12,9 @@ import warleighHero from '../assets/pages/warleigh-nature-reserve/hero.jpg';
 import warleighOne from '../assets/pages/warleigh-nature-reserve/warleigh-1.jpg';
 import warleighThree from '../assets/pages/warleigh-nature-reserve/warleigh-3.jpg';
 import warleighFour from '../assets/pages/warleigh-nature-reserve/warleigh-4.jpg';
+import logoDefra from '../assets/pages/warleigh-nature-reserve/logo-defra.png';
+import logoCotswolds from '../assets/pages/warleigh-nature-reserve/logo-cotswolds-national-landscape.png';
+import logoFipl from '../assets/pages/warleigh-nature-reserve/logo-fipl.png';
 
 const upcomingWarleighEvents = (await getCollection('events'))
 	.filter((event) => event.data.address === 'Bath, BA1 8EE' && event.data.startDate >= new Date())
@@ -36,6 +40,7 @@ const upcomingWarleighEvents = (await getCollection('events'))
 	</ContentHero>
 
 	<section class="page-sections wrap">
+
 		<ContentBlock
 			imgSrc={warleighOne}
 			imgAlt="Volunteers and habitat at Warleigh Nature Reserve"
@@ -52,6 +57,22 @@ const upcomingWarleighEvents = (await getCollection('events'))
 				access.
 			</p>
 		</ContentBlock>
+
+		<aside class="warleigh-funding squircle">
+			<p>
+				This project has been supported by the Farming in Protected Landscapes programme, created by
+				Defra and delivered locally by the Cotswolds National Landscape Team
+			</p>
+			<div class="funder-logos">
+				<Image
+					src={logoFipl}
+					alt="Farming in Protected Landscapes programme"
+					class="funder-programme"
+				/>
+				<Image src={logoDefra} alt="Department for Environment Food & Rural Affairs" />
+				<Image src={logoCotswolds} alt="Cotswolds National Landscape" />
+			</div>
+		</aside>
 
 		<ContentBlock
 			imgSrc={warleighThree}
@@ -168,6 +189,40 @@ const upcomingWarleighEvents = (await getCollection('events'))
 
 		.warleigh-location {
 			padding-block: var(--space-xl);
+		}
+
+		.warleigh-funding {
+			display: grid;
+			justify-items: center;
+			gap: var(--space-m);
+			margin-block-start: var(--space-l);
+			padding: var(--space-m) var(--space-l);
+			background: #fff;
+			text-align: center;
+			box-shadow: 0 2px 12px rgb(0 0 0 / 0.08);
+		}
+
+		.warleigh-funding p {
+			max-inline-size: 60ch;
+			margin: 0;
+			font-size: var(--font-s);
+		}
+
+		.funder-logos {
+			display: flex;
+			flex-wrap: wrap;
+			align-items: center;
+			justify-content: center;
+			gap: var(--space-m) var(--space-xl);
+		}
+
+		.funder-logos :global(img) {
+			inline-size: auto;
+			block-size: 5rem;
+		}
+
+		.funder-logos :global(img.funder-programme) {
+			block-size: 3.5rem;
 		}
 
 		.warleigh-location h2 {
