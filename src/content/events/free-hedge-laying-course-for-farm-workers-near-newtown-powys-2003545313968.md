@@ -10,9 +10,9 @@ coordinates:
   - -3.2917945
   - 52.5239188
 eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-near-newtown-powys-tickets-2003545313968'
-thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/071839804df5.jpg
+thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/b0a51b1f0985.jpg
 images:
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/071839804df5.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/b0a51b1f0985.jpg
   - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/f905794c98e3.jpg
   - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/7e9a76311cd0.jpg
   - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-2003545313968/96e559783e54.jpg
@@ -59,8 +59,8 @@ Lovely friendly people, amazing location and John was a brilliant teacher - real
 
 Would you recommend this course to others? Yes, absolutely
 
--   Jason
+-   Neil and Emma
 
-The information given before was excellent, good directions etc. The whole day went well.
+It was a really good day. Well thought out and presented. We both learnt a lot and now have some confidence in attempting to lay our hedge.
 
 Would you recommend this course to others? I would recommend this course to others, thanks very much.

@@ -1,25 +1,25 @@
 ---
-title: 'Free Hedge Laying Course for Farm Workers near Newtown, Powys'
-description: 'We are offering free courses for all working in farming, led by an experienced tutor. Others very welcome - cost  £50 per head.'
-pubDate: 2026-10-24T09:00:00.000Z
-startDate: 2026-10-24T09:00:00.000Z
-endDate: 2026-10-24T15:00:00.000Z
+title: 'FREE Hedge laying course for Farm Workers (others welcome) Newtown, Powys'
+description: 'Hobbyists, gardeners, etc can also learn this conservation style of hedge laying for a donation of £50, students £25'
+pubDate: 2026-11-07T10:00:00.000Z
+startDate: 2026-11-07T10:00:00.000Z
+endDate: 2026-11-07T16:00:00.000Z
 onlineEvent: false
 address: 'Newtown, SY16 3BH'
 coordinates:
-  - -3.2917945
-  - 52.5239188
-eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-near-newtown-powys-tickets-1998416716194'
-thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/071839804df5.jpg
+  - -3.291535
+  - 52.524461
+eventbriteLink: 'https://www.eventbrite.co.uk/e/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-tickets-2003966518803'
+thumbnail: ../../assets/events/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-2003966518803/2dcdfd3f330b.jpg
 images:
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/071839804df5.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/e3719ff04522.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/65206988f549.jpg
-  - ../../assets/events/free-hedge-laying-course-for-farm-workers-near-newtown-powys-1998416716194/96e559783e54.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-2003966518803/2dcdfd3f330b.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-2003966518803/097cbecb15b9.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-2003966518803/c557a6b58290.jpg
+  - ../../assets/events/free-hedge-laying-course-for-farm-workers-others-welcome-newtown-powys-2003966518803/9aab7c097c91.jpg
 ---
 Protect Earth is a registered charity, helping farmers and landowners increase tree cover and biodiversity on their land. We plant trees on unused and degraded farmland, use trees to provide shade and shelter for crops and livestock, create wildflower meadows, and help with tree maintenance for saplings that are struggling. We also remove invasive species and offer courses such as this one.
 
-We want to support farmers so we are running a FREE one-day hedge laying course for farmers. Gardeners, hobbyists, and anyone else interested are also welcome at the cost of £50 for the day. Learn how to restore your hedgerow in a sustainable way from an experienced trainer, and have fun at the same time. We’ll lay the hedge “Conservation Style” which doesn’t use stakes or binders and also makes use of the brash to minimise waste. You will be shown how to make stakes in case you need them in high wind areas.
+We want to support farmers so we are running a FREE one-day hedge laying course for farmers. Gardeners, hobbyists, and anyone else interested are also welcome at the cost of £50 (Students £25) for the day. Learn how to restore your hedgerow in a sustainable way from an experienced trainer, and have fun at the same time. We’ll lay the hedge “Conservation Style” which doesn’t use stakes or binders and also makes use of the brash to minimise waste. You will be shown how to make stakes in case you need them in high wind areas.
 
 There are so many advantages in a properly laid hedge:
 
@@ -59,8 +59,8 @@ Lovely friendly people, amazing location and John was a brilliant teacher - real
 
 Would you recommend this course to others? Yes, absolutely
 
--   Jason
+-   Neil and Emma
 
-The information given before was excellent, good directions etc. The whole day went well.
+It was a really good day. Well thought out and presented. We both learnt a lot and now have some confidence in attempting to lay our hedge.
 
 Would you recommend this course to others? I would recommend this course to others, thanks very much.
