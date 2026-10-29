@@ -1,7 +1,6 @@
-<svg width="420" height="120" viewBox="0 0 420 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="310" height="96" viewBox="14 14 310 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">9Trees CIC</title>
   <desc id="desc">9Trees CIC logo with a green leaf motif and the text 9Trees CIC.</desc>
-  <rect width="420" height="120" rx="18" fill="#F3F1EB"/>
   <g transform="translate(18 18)">
     <circle cx="32" cy="42" r="28" fill="#DDEFD9"/>
     <path d="M19 53C33 39 48 29 60 18C55 38 47 48 31 58C25 61 21 58 19 53Z" fill="#1F6B4C"/>

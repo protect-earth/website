@@ -127,6 +127,11 @@ const fundingPartnerLogos = {
 		alt: 'Ecologi',
 		url: 'https://ecologi.com/',
 	},
+	pinwheel: {
+		src: '/logos/funding/pinwheel-logo.svg',
+		alt: 'Pinwheel',
+		url: 'https://www.pinwheel.earth/',
+	},
 	'woodland-trust': {
 		src: '/logos/funding/woodland-trust-logo.png',
 		alt: 'Woodland Trust',
@@ -352,8 +357,21 @@ const fundingPartnerInfos = fundingPartners
 		margin-block-end: var(--space-s);
 	}
 
+	.partnerships a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		inline-size: 300px;
+		max-inline-size: 100%;
+		aspect-ratio: 16 / 9;
+		background: #fff;
+		padding: var(--space-s);
+	}
+
 	.partnerships img {
-		max-inline-size: 300px;
+		max-inline-size: 100%;
+		max-block-size: 100%;
+		object-fit: contain;
 	}
 
 	/* This page stacks several .page-sections blocks; collapse the repeated padding between them */
