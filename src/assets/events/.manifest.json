@@ -33,5 +33,31 @@
       "../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/6cc5af0eeabe.jpg",
       "../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/8acd0e21b478.jpg"
     ]
+  },
+  "2004080426504": {
+    "slug": "tree-planting-volunteers-wanted-near-knighton-powys-2004080426504",
+    "markdown": "src/content/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504.md",
+    "thumbnail": "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/c1c4b0db64bd.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/c1c4b0db64bd.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/97985de9a965.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/6d8e1029525e.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/dca96b0ef4aa.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080426504/6aa9879e9082.jpg"
+    ]
+  },
+  "2004080427507": {
+    "slug": "tree-planting-volunteers-wanted-near-knighton-powys-2004080427507",
+    "markdown": "src/content/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507.md",
+    "thumbnail": "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/c1c4b0db64bd.jpg",
+    "mediaIds": [],
+    "galleryImages": [
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/c1c4b0db64bd.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/97985de9a965.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/6d8e1029525e.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/dca96b0ef4aa.jpg",
+      "../../assets/events/tree-planting-volunteers-wanted-near-knighton-powys-2004080427507/6aa9879e9082.jpg"
+    ]
   }
 }
