@@ -9,7 +9,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
 	site: 'https://protect.earth',
 	output: 'static',
-	adapter: netlify(),
+	adapter: netlify({ devFeatures: false }),
 
 	redirects: {
 		'/articles/deep-roots-ancient-woodlands-matter': '/articles/restoring-ancient-woodlands',

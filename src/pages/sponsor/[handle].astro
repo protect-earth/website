@@ -1,0 +1,225 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getProduct, getProducts, imageUrl } from '../../lib/shopify';
+
+export async function getStaticPaths() {
+	const products = await getProducts();
+	const full = await Promise.all(products.map((p) => getProduct(p.handle)));
+
+	return full
+		.filter((product) => product !== null)
+		.map((product) => ({ params: { handle: product.handle }, props: { product } }));
+}
+
+const { product } = Astro.props;
+const variants = product.variants.nodes;
+const image = product.featuredImage;
+---
+
+<Layout
+	title={product.title}
+	breadcrumb={product.title}
+	description={product.description.slice(0, 160)}
+>
+	<section class="page-sections wrap stack">
+		<p><a href="/sponsor">&larr; All products</a></p>
+
+		<div class="product">
+			<div>
+				{
+					image && (
+						<img
+							class="squircle"
+							src={imageUrl(image.url, 900)}
+							alt={image.altText ?? product.title}
+							width="900"
+							height="600"
+						/>
+					)
+				}
+			</div>
+
+			<div class="stack">
+				<h1>{product.title}</h1>
+				<div class="prose" set:html={product.descriptionHtml} />
+
+				<form
+					class="squircle stack"
+					data-purchase
+					data-variants={JSON.stringify(variants)}
+					data-requires-plan={String(product.requiresSellingPlan)}
+				>
+					{
+						variants.length > 1 ? (
+							<label>
+								Option
+								<select name="variant">
+									{variants.map((v) => (
+										<option value={v.id} disabled={!v.availableForSale}>
+											{v.title}
+										</option>
+									))}
+								</select>
+							</label>
+						) : (
+							<input type="hidden" name="variant" value={variants[0].id} />
+						)
+					}
+
+					<label data-plan-row hidden>
+						Frequency
+						<select name="plan"></select>
+					</label>
+
+					<p class="price" data-price aria-live="polite"></p>
+
+					<label class="check">
+						<input type="checkbox" name="gift" /> This is a gift
+					</label>
+
+					<div class="stack" data-recipient-row hidden>
+						<label>
+							Recipient name
+							<input type="text" name="recipient" autocomplete="off" />
+						</label>
+						<label>
+							Recipient email
+							<input type="email" name="recipientEmail" autocomplete="off" />
+						</label>
+					</div>
+
+					<label>
+						Quantity
+						<input type="number" name="quantity" min="1" max="999" value="1" required />
+					</label>
+
+					<button type="submit" class="button">Continue to checkout</button>
+					<p data-status role="status"></p>
+				</form>
+			</div>
+		</div>
+	</section>
+</Layout>
+
+<script>
+	import {
+		RECIPIENT_EMAIL_KEY,
+		RECIPIENT_NAME_KEY,
+		createCheckout,
+		formatMoney,
+		type Variant,
+	} from '../../lib/shopify';
+
+	const form = document.querySelector<HTMLFormElement>('[data-purchase]')!;
+	const variants: Variant[] = JSON.parse(form.dataset.variants!);
+	const requiresPlan = form.dataset.requiresPlan === 'true';
+
+	const els = form.elements as typeof form.elements & Record<string, any>;
+	const planRow = form.querySelector<HTMLElement>('[data-plan-row]')!;
+	const recipientRow = form.querySelector<HTMLElement>('[data-recipient-row]')!;
+	const price = form.querySelector<HTMLElement>('[data-price]')!;
+	const status = form.querySelector<HTMLElement>('[data-status]')!;
+
+	const selected = () => variants.find((v) => v.id === els.variant.value) ?? variants[0];
+
+	function renderVariant() {
+		const variant = selected();
+		const plans = variant.sellingPlanAllocations.nodes;
+
+		const options = plans.map((a) => {
+			const planPrice = a.priceAdjustments[0]?.price ?? variant.price;
+			return `<option value="${a.sellingPlan.id}">${a.sellingPlan.name} (${formatMoney(planPrice)})</option>`;
+		});
+		if (!requiresPlan) {
+			options.unshift(`<option value="">One-off (${formatMoney(variant.price)})</option>`);
+		}
+
+		els.plan.innerHTML = options.join('');
+		planRow.hidden = options.length < 2;
+		renderPrice();
+	}
+
+	function renderPrice() {
+		const variant = selected();
+		const plan = variant.sellingPlanAllocations.nodes.find(
+			(a) => a.sellingPlan.id === els.plan.value,
+		);
+		const unit = plan?.priceAdjustments[0]?.price ?? variant.price;
+		price.textContent = formatMoney(unit) + (plan ? ' per delivery' : '');
+	}
+
+	els.variant.addEventListener('change', renderVariant);
+	els.plan.addEventListener('change', renderPrice);
+	els.gift.addEventListener('change', () => {
+		recipientRow.hidden = !els.gift.checked;
+		els.recipient.required = els.gift.checked;
+		els.recipientEmail.required = els.gift.checked;
+	});
+
+	renderVariant();
+
+	form.addEventListener('submit', async (e) => {
+		e.preventDefault();
+		const button = form.querySelector<HTMLButtonElement>('button[type=submit]')!;
+		button.disabled = true;
+		status.textContent = 'Taking you to checkout…';
+
+		const gift = els.gift.checked;
+		const attributes = gift
+			? [
+					{ key: RECIPIENT_NAME_KEY, value: els.recipient.value.replace(/,/g, ' ').trim() },
+					{ key: RECIPIENT_EMAIL_KEY, value: els.recipientEmail.value.replace(/,/g, '').trim() },
+				]
+			: [];
+		try {
+			window.location.href = await createCheckout({
+				merchandiseId: selected().id,
+				quantity: Number(els.quantity.value) || 1,
+				...(els.plan.value ? { sellingPlanId: els.plan.value } : {}),
+				...(attributes.length ? { attributes } : {}),
+			});
+		} catch {
+			status.textContent = 'Sorry, we could not start checkout. Please try again.';
+			button.disabled = false;
+		}
+	});
+</script>
+
+<style>
+	.product {
+		display: grid;
+		gap: var(--space-l);
+		grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr));
+		align-items: start;
+	}
+
+	img {
+		width: 100%;
+		height: auto;
+	}
+
+	[hidden] {
+		display: none !important;
+	}
+
+	form {
+		margin: 0;
+		max-width: none;
+	}
+
+	label {
+		display: grid;
+		gap: var(--space-3xs);
+	}
+
+	.check {
+		display: flex;
+		align-items: center;
+		gap: var(--space-2xs);
+	}
+
+	.price {
+		font-size: var(--font-m);
+		font-weight: 600;
+	}
+</style>
