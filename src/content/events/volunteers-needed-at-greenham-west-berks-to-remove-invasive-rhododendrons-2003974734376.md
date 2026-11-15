@@ -14,7 +14,7 @@ thumbnail: ../../assets/events/volunteers-needed-at-greenham-west-berks-to-remov
 images:
   - ../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/dcb2095a1f52.jpg
   - ../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/6cc5af0eeabe.jpg
-  - ../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/8acd0e21b478.jpg
+  - ../../assets/events/volunteers-needed-at-greenham-west-berks-to-remove-invasive-rhododendrons-2003974734376/4680a1f787aa.jpg
 ---
 Intro
 
