@@ -115,3 +115,28 @@ Primary output locations:
 
 - src/content/events
 - public/events
+
+### sync-works.js
+
+Command:
+
+```bash
+pnpm sync-works
+```
+
+Required env vars:
+
+- NOTION_API_KEY
+- NOTION_NEEDS_FUNDING_VIEW_ID
+
+Purpose:
+
+- Queries the "Needs Funding" view's data source directly
+- Extracts only records visible in that view
+- Extracts project details: name, region, work type, metrics (planned, acres, length), funding, and carbon impact
+- Converts page content blocks to markdown descriptions
+- Outputs a JSON data file containing all synced works
+
+Primary output location:
+
+- src/data/works.json
