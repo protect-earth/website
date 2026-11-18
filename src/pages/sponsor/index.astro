@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ContentHero from '../../components/ContentHero.astro';
+import { heroDonate } from '../../assets/hero-images';
+import { formatMoney, getProducts, imageUrl } from '../../lib/shopify';
+
+const products = (await getProducts()).filter((p) => p.availableForSale);
+---
+
+<Layout
+	title="Sponsor trees"
+	breadcrumb="Sponsor"
+	description="Plant trees, hedgerows and wetlands with Protect Earth, as a one-off gift or a monthly subscription."
+>
+	<ContentHero
+		imgSrc={heroDonate}
+		imgAlt="Group of people planting young trees in a row in a field"
+		title="Sponsor trees"
+	>
+		<p>Plant a tree for yourself or as a gift, once or every month.</p>
+	</ContentHero>
+
+	<section class="page-sections wrap stack">
+		{products.length === 0 && <p>Nothing is available right now. Please check back soon.</p>}
+
+		<ul class="products">
+			{
+				products.map((product) => (
+					<li class="squircle">
+						<a href={`/sponsor/${product.handle}`}>
+							{product.featuredImage && (
+								<img
+									src={imageUrl(product.featuredImage.url, 600)}
+									alt={product.featuredImage.altText ?? product.title}
+									width="600"
+									height="400"
+									loading="lazy"
+								/>
+							)}
+							<h2>{product.title}</h2>
+							<p>From {formatMoney(product.priceRange.minVariantPrice)}</p>
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+</Layout>
+
+<style>
+	.products {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+		gap: var(--space-m);
+	}
+
+	li {
+		background: var(--white);
+		overflow: hidden;
+	}
+
+	a {
+		display: block;
+		height: 100%;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	img {
+		width: 100%;
+		aspect-ratio: 3 / 2;
+		object-fit: cover;
+	}
+
+	h2 {
+		font-size: var(--font-m);
+		padding: var(--space-xs) var(--space-s) 0;
+	}
+
+	p {
+		padding: var(--space-3xs) var(--space-s) var(--space-s);
+	}
+</style>
