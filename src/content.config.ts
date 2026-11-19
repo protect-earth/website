@@ -77,19 +77,20 @@ const members = defineCollection({
 
 const press = defineCollection({
 	loader: file('./src/data/press-articles.yaml'),
-	schema: z.array(
-		z.object({
-			title: z.string(),
-			source: z.string(),
-			url: z.string(),
-			image: z.string(),
-			imageAlt: z.string().default(''),
-			description: z.string(),
+	schema: ({ image }) =>
+		z.array(
+			z.object({
+				title: z.string(),
+				source: z.string(),
+				url: z.string(),
+				image: image(),
+				imageAlt: z.string().default(''),
+				description: z.string(),
 
-			// TODO Improve conversion or use full dates.
-			date: z.string().transform((value) => new Date(value)),
-		}),
-	),
+				// TODO Improve conversion or use full dates.
+				date: z.string().transform((value) => new Date(value)),
+			}),
+		),
 });
 
 const siteMeta = defineCollection({

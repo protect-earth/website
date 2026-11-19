@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { Image } from 'astro:assets';
 type Props = CollectionEntry<'press'>['data'][0];
 
 const { title, source, url, image, imageAlt, description, date } = Astro.props;
@@ -7,7 +8,7 @@ const { title, source, url, image, imageAlt, description, date } = Astro.props;
 
 <article class="press-article">
 	<figure>
-		<img class="squircle" src={image} alt={imageAlt} />
+		<Image class="squircle" src={image} alt={imageAlt} loading="lazy" />
 	</figure>
 
 	<header>
