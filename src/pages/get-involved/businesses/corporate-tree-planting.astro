@@ -3,6 +3,7 @@ import Layout from '../../../layouts/Layout.astro';
 import ContentHero from '../../../components/ContentHero.astro';
 import ContentBlock from '../../../components/ContentBlock.astro';
 import TreeCalculator from '../../../components/TreeCalculator.astro';
+import SponsorProjects from '../../../components/SponsorProjects.astro';
 import Achievements from '../../../components/Achievements.astro';
 import BrandLogos from '../../../components/BrandLogos.astro';
 import { siteConfig } from '../../../config';
@@ -33,6 +34,7 @@ const { achievements } = siteConfig;
 		</p>
 		<div class="hero-actions">
 			<a class="button" href="#calculator">Work out your impact ↓</a>
+			<a class="button-ghost" href="#sponsor-a-project">Sponsor a project ↓</a>
 			<a class="button-ghost" href="/contact?topic=corporate">Talk to us →</a>
 		</div>
 	</ContentHero>
@@ -62,6 +64,7 @@ const { achievements } = siteConfig;
 			</p>
 		</ContentBlock>
 
+
 		<ContentBlock
 			imgSrc={businessesSponsor2}
 			imgAlt="Young trees established in a field with protective guards"
@@ -71,13 +74,13 @@ const { achievements } = siteConfig;
 			isReversed
 		>
 			<p>
-				Every site we work on has its own page: where it is, what went in the ground, who owns the
-				land, and what has happened since. Those pages keep updating for as long as we manage the
-				site; planting, maintenance visits, ecology surveys, setbacks and all.
+				Every woodland we create has its own page, keeping everyone up to date on the progress. You
+				and your customers will always know how the new woodland is progressing, from planting,
+				through maintenance visits, and ecology surveys.
 			</p>
 			<p>
 				Your sponsorship comes with a certificate showing your trees, their species and location,
-				linking through to the living page for that site.
+				linking through to the living page for that site. Data can also be sourced from our API.
 			</p>
 			<p>
 				We publish our survival rate too. It currently sits at <strong
@@ -109,27 +112,14 @@ const { achievements } = siteConfig;
 
 	<Achievements />
 
+
+	<SponsorProjects />
+
 	<section class="page-sections wrap">
 		<BrandLogos title="Organisations who already plant with us" />
 	</section>
 
-	<section class="partnership">
-		<div class="wrap">
-			<div class="partnership__inner">
-				<h2>Planting at scale?</h2>
-				<p>
-					Looking for something more? We can plant at a named site, spread planting across several
-					seasons, invoice against a purchase order, or build something multi-year that your team
-					get to visit over and over.
-				</p>
-				<p>
-					Tell us roughly what you have in mind and we will come back with a written proposal and a
-					price.
-				</p>
-				<a class="button" href="/contact?topic=corporate">Start a conversation →</a>
-			</div>
-		</div>
-	</section>
+
 </Layout>
 
 <style>
@@ -141,31 +131,4 @@ const { achievements } = siteConfig;
 		margin-block-start: var(--space-m);
 	}
 
-	.partnership {
-		background: var(--take-action-background);
-		color: var(--body-text-light);
-		padding-block: var(--space-xl);
-		clip-path: var(--wavy-line-top-bottom);
-	}
-
-	.partnership__inner {
-		max-inline-size: var(--measure);
-		margin-inline: auto;
-		display: flex;
-		flex-flow: column;
-		align-items: flex-start;
-		gap: var(--space-s);
-	}
-
-	.partnership h2 {
-		font-size: var(--font-2xl);
-	}
-
-	.partnership p {
-		font-size: var(--font-s);
-	}
-
-	.partnership .button {
-		margin-block-start: var(--space-2xs);
-	}
 </style>

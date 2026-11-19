@@ -33,6 +33,8 @@ Use these docs as your starting point:
 
 ## Quick Start
 
+Astro requires Node.js 22.23.4 or newer.
+
 1. Install dependencies
 
 ```

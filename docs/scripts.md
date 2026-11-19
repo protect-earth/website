@@ -131,11 +131,14 @@ Required env vars:
 
 Purpose:
 
-- Queries the "Needs Funding" view's data source directly
-- Extracts only records visible in that view
-- Extracts project details: name, region, work type, metrics (planned, acres, length), funding, and carbon impact
-- Converts page content blocks to markdown descriptions
-- Outputs a JSON data file containing all synced works
+- Queries the saved "Needs Funding" view, including its filters and sort order
+- Exports its visible columns: name, region, work type, planned quantity, acres, hedgerow length, funding required, funding per unit, and carbon impact
+- Resolves region names from the Region rollup; the Notion connection must also have access to the related region pages
+- Adds each record's ID, generated slug, and Notion URL; does not export hidden columns or page content, except for Funding Brochure files
+- Downloads Funding Brochure PDFs to `public/works/funding-brochures` using project-based filenames, and records their local URLs in `fundingBrochures`. Removes previously synced brochures when they no longer appear in the view
+- Fails if the view exposes an unsupported column or property type, rather than silently publishing incomplete data
+- Replaces the JSON data file with the current view results, including an empty array when no records match
+- The corporate tree planting page displays these projects for sponsorship; run the sync and rebuild the site to update the listing
 
 Primary output location:
 

@@ -1,0 +1,206 @@
+---
+import worksData from '../data/works.json';
+
+type Work = {
+	id: string;
+	name: string;
+	region?: string[];
+	workType?: string[];
+	totalPlanned?: number;
+	acres?: number;
+	length?: number;
+	fundingRequired?: number;
+	fundingPerUnit?: number;
+	tco2eAfter50Years?: number;
+	fundingBrochures?: string[];
+};
+
+const works: Work[] = worksData;
+const number = new Intl.NumberFormat('en-GB', { maximumFractionDigits: 2 });
+const currency = new Intl.NumberFormat('en-GB', {
+	style: 'currency',
+	currency: 'GBP',
+	maximumFractionDigits: 2,
+});
+---
+
+<section class="projects" id="sponsor-a-project">
+	<div class="page-sections wrap">
+		<header>
+			<h2>Sponsor a project</h2>
+			<p>
+				Looking for something more? Sponsor whole projects, and get the maximum publicity from your
+				generous contribution. Whole project sponsors can of course come and plant their projects.
+			</p>
+		</header>
+
+		{
+			works.length ? (
+				<>
+					<p class="projects__scroll-hint">Scroll across to see all project details →</p>
+					<div
+						class="projects__table"
+						role="region"
+						aria-label="Projects seeking sponsorship"
+						tabindex="0"
+					>
+						<table>
+							<thead>
+								<tr>
+									<th scope="col">Project</th>
+									<th scope="col">Work needed</th>
+									<th scope="col">Project details</th>
+									<th scope="col">Funding</th>
+									<th scope="col">Sponsorship</th>
+								</tr>
+							</thead>
+							<tbody>
+								{works.map((work) => (
+									<tr>
+										<th scope="row">
+											{work.name}
+											{work.region?.length && <span>{work.region.join(', ')}</span>}
+										</th>
+										<td>{work.workType?.length ? work.workType.join(', ') : '—'}</td>
+										<td>
+											{work.totalPlanned != null && (
+												<span>Planned quantity: {number.format(work.totalPlanned)}</span>
+											)}
+											{work.acres != null && <span>{number.format(work.acres)} acres</span>}
+											{work.length != null && (
+												<span>{number.format(work.length)} metres of hedgerow</span>
+											)}
+											{work.tco2eAfter50Years != null && (
+												<span>
+													{number.format(work.tco2eAfter50Years)} tCO2e estimated after 50 years
+												</span>
+											)}
+											{work.totalPlanned == null &&
+												work.acres == null &&
+												work.length == null &&
+												work.tco2eAfter50Years == null &&
+												'—'}
+										</td>
+										<td>
+											{work.fundingRequired != null && (
+												<span>{currency.format(work.fundingRequired)} required</span>
+											)}
+											{work.fundingPerUnit != null && (
+												<span>{currency.format(work.fundingPerUnit)} per tree</span>
+											)}
+											{work.fundingRequired == null && work.fundingPerUnit == null && '—'}
+										</td>
+										<td>
+											<div class="project__actions">
+												{work.fundingBrochures?.map((brochure, index) => (
+													<a class="button project__brochure" href={brochure}>
+														Funding brochure
+														{work.fundingBrochures!.length > 1 ? ` ${index + 1}` : ''} (PDF) →
+													</a>
+												))}
+												<a
+													class="button"
+													href={`/contact?${new URLSearchParams({ topic: 'corporate', project: work.name })}`}
+												>
+													Enquire about {work.name} →
+												</a>
+											</div>
+										</td>
+									</tr>
+								))}
+							</tbody>
+						</table>
+					</div>
+				</>
+			) : (
+				<p class="projects__empty">
+					There are no projects listed for sponsorship right now.{' '}
+					<a href="/contact?topic=corporate">Contact us</a> to discuss supporting our work.
+				</p>
+			)
+		}
+	</div>
+</section>
+
+<style>
+	.projects {
+		background: var(--take-action-background);
+		color: var(--body-text-light);
+		clip-path: var(--wavy-line-top-bottom);
+	}
+
+	.projects header p {
+		font-size: var(--font-s);
+		margin-block-start: var(--space-xs);
+	}
+
+	.projects__table {
+		overflow-x: auto;
+		background: var(--card);
+		color: var(--body-text);
+		border-radius: var(--radius-l);
+	}
+
+	.projects__scroll-hint {
+		display: none;
+		font-size: var(--font-2xs);
+		margin-block-end: calc(-1 * var(--space-m));
+
+		@media screen and (max-width: 62rem) {
+			display: block;
+		}
+	}
+
+	table {
+		width: 100%;
+		min-width: 62rem;
+		border-collapse: collapse;
+		font-size: var(--font-xs);
+		text-align: left;
+	}
+
+	th,
+	td {
+		padding: var(--space-xs);
+		border-bottom: 1px solid var(--border-color);
+		vertical-align: top;
+	}
+
+	tbody tr:last-child > * {
+		border-bottom: 0;
+	}
+
+	th span,
+	td span {
+		display: block;
+		font-weight: normal;
+	}
+
+	td span + span {
+		margin-block-start: var(--space-3xs);
+	}
+
+	.project__actions {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-3xs);
+	}
+
+	.project__actions .button {
+		padding: var(--space-2xs) var(--space-xs);
+		font-size: var(--font-2xs);
+	}
+
+	.project__brochure {
+		--button-background: var(--green-mid);
+		--button-hover: var(--green-dark);
+	}
+
+	.projects__empty {
+		text-align: center;
+	}
+
+	.projects__empty a {
+		color: inherit;
+	}
+</style>
