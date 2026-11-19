@@ -10,6 +10,7 @@ export default defineConfig({
 	site: 'https://protect.earth',
 	output: 'static',
 	adapter: netlify(),
+	compressHTML: true,
 
 	redirects: {
 		'/articles/deep-roots-ancient-woodlands-matter': '/articles/restoring-ancient-woodlands',
