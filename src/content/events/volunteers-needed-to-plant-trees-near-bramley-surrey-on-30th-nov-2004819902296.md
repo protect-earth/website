@@ -15,7 +15,7 @@ images:
   - ../../assets/events/volunteers-needed-to-plant-trees-near-bramley-surrey-on-30th-nov-2004819902296/20cdcb2a034f.jpg
   - ../../assets/events/volunteers-needed-to-plant-trees-near-bramley-surrey-on-30th-nov-2004819902296/ef67336a9f73.jpg
   - ../../assets/events/volunteers-needed-to-plant-trees-near-bramley-surrey-on-30th-nov-2004819902296/bbc3fc0f5b57.jpg
-  - ../../assets/events/volunteers-needed-to-plant-trees-near-bramley-surrey-on-30th-nov-2004819902296/a7256322b3b4.jpg
+  - ../../assets/events/volunteers-needed-to-plant-trees-near-bramley-surrey-on-30th-nov-2004819902296/28e110f2a6b0.jpg
 ---
 Come and have a fun time with Protect Earth! We appreciate volunteers who are able to come for part of the day or a whole day. All are welcome for as long as you can spare . Children and young people must be accompanied by an adult.
 
