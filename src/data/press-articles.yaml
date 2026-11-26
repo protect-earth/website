@@ -1,4 +1,12 @@
 articles:
+  - title: '1,000 trees hit by dry summer in Wales need to be replanted'
+    source: 'County Times'
+    url: 'https://www.countytimes.co.uk/news/26756777.1-000-trees-hit-dry-summer-wales-need-replanted/'
+    image: '../assets/press/county-times-goytre-wood.jpg'
+    imageAlt: 'Young trees growing in protective guards on the Powys hillside'
+    description: 'The County Times reports on Protect Earth replanting 1,000 native trees near Knighton after many saplings struggled through a difficult summer.'
+    date: '2026-11-24'
+
   - title: 'Volunteers clear invasive plants from woodland'
     source: 'BBC News'
     url: 'https://www.bbc.co.uk/news/articles/cmn9r7nzdw2jo'
